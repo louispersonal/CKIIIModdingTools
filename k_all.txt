@@ -1,0 +1,40 @@
+1 = {
+	culture = tasmanian
+	religion = tazism
+	holding = x
+}
+2 = {
+	culture = tasmanian
+	religion = tazism
+	holding = x
+}
+3 = {
+	culture = tasmanian
+	religion = tazism
+	holding = x
+}
+4 = {
+	culture = tasmanian
+	religion = tazism
+	holding = x
+}
+5 = {
+	culture = tasmanian
+	religion = tazism
+	holding = x
+}
+6 = {
+	culture = tasmanian
+	religion = tazism
+	holding = x
+}
+7 = {
+	culture = tasmanian
+	religion = tazism
+	holding = x
+}
+8 = {
+	culture = tasmanian
+	religion = tazism
+	holding = x
+}

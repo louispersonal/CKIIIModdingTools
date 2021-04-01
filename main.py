@@ -364,16 +364,55 @@ def make_integer_three_spaces(num):
 
 
 # make history/provinces
+def make_province_history(end_line):
+    f = open("k_all.txt", "w")
+    with open('provinces.csv') as csv_file:
+        csv_reader = csv.reader(csv_file, delimiter=',')
+        line_count = 0
+        for row in csv_reader:
+            if line_count >= 2:
+                province_id = row[0]
+                province_culture = row[10]
+                province_religion = row[11]
+                province_holding = row[13]
+                f.write(str(province_id) + " = {\n\tculture = " + province_culture + "\n\treligion = " + province_religion
+                        + "\n\tholding = " + province_holding + "\n}\n")
+                if line_count == end_line - 1:
+                    break
+            line_count += 1
+    f.close()
+    csv_file.close()
 
 
 # make history/titles
 
 
 # make province terrain
+def make_province_terrain(end_line):
+    f = open("00_province_terrain.txt", "w")
+    f.write("# plains, forest, mountains, hills, wetlands, taiga, drylands, desert, desert_mountains, farmlands,"
+            " floodplains, oasis\n\n")
+    with open('provinces.csv') as csv_file:
+        csv_reader = csv.reader(csv_file, delimiter=',')
+        line_count = 0
+        for row in csv_reader:
+            if line_count >= 2:
+                province_id = row[0]
+                province_name = row[4]
+                province_terrain = row[9]
+                if not ("Sea" in province_name or "Lakey" in province_name or "Impassable" in province_name):
+                    f.write(str(province_id) + "=" + province_terrain + "\n")
+                if line_count == end_line - 1:
+                    break
+            line_count += 1
+    f.close()
+    csv_file.close()
 
 
 if __name__ == '__main__':
-    create_landed_titles(3106)
+    # create_landed_titles(3106)
     # need to fix landed titles creation to avoid lakes and impassables
     # create_definition(3106)
     # make_color_palette(2910, 2987)
+    # make_province_history(10)
+    make_province_terrain(2988)
