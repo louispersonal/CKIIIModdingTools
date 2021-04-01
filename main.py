@@ -410,9 +410,28 @@ def make_province_terrain(end_line):
 
 
 if __name__ == '__main__':
+    print("Welcome to the CKIII tools thing. What do you want to do?\n")
+    print("1. Landed Titles\n2. Definition\n3. Color Palette\n4. Province History\n5. Province Terrain")
+    choice = input("Input your choice: ")
+    if int(choice) == 1:
+        end_line = input("What's the last line of your csv you want to compute? ")
+        create_landed_titles(int(end_line))
+    if int(choice) == 2:
+        end_line = input("What's the last line of your csv you want to compute? ")
+        create_definition(int(end_line))
+    if int(choice) == 3:
+        start_line = input("What's the first line of your csv you want to compute? ")
+        end_line = input("What's the last line of your csv you want to compute? ")
+        make_color_palette(int(start_line), int(end_line))
+    if int(choice) == 4:
+        end_line = input("What's the last line of your csv you want to compute? ")
+        make_province_history(int(end_line))
+    if int(choice) == 5:
+        end_line = input("What's the last line of your csv you want to compute? ")
+        make_province_terrain(int(end_line))
     # create_landed_titles(3106)
     # need to fix landed titles creation to avoid lakes and impassables
     # create_definition(3106)
     # make_color_palette(2910, 2987)
     # make_province_history(10)
-    make_province_terrain(2988)
+    # make_province_terrain(2988)
