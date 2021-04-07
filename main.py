@@ -375,8 +375,11 @@ def make_province_history(end_line):
                 province_culture = row[10]
                 province_religion = row[11]
                 province_holding = row[13]
-                f.write(str(province_id) + " = {\n\tculture = " + province_culture + "\n\treligion = " + province_religion
-                        + "\n\tholding = " + province_holding + "\n}\n")
+                f.write(str(province_id) + " = {\n\tculture = " + province_culture + "\n\treligion = " +
+                        province_religion)
+                if province_holding != "x":
+                    f.write("\n\tholding = " + province_holding)
+                f.write("\n}\n")
                 if line_count == end_line - 1:
                     break
             line_count += 1

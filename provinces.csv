@@ -45,113 +45,113 @@
 43,126,129,149,Miena,Lagoons,Derwentia,Tasmania,Greater Tasmania,hills,tasmanian,tazism,2,x,164,0,173
 44,168,132,22,Tarraleah,Lagoons,Derwentia,Tasmania,Greater Tasmania,hills,tasmanian,tazism,2,x,165,0,173
 45,0,135,150,Ouse,Lagoons,Derwentia,Tasmania,Greater Tasmania,hills,tasmanian,tazism,2,x,166,0,173
-46,42,138,23,Follett,Follett,Great Coast,Melbournia,Greater Tasmania,plains,tasmanian,tazism,7,x,255,153,0
-47,84,141,151,Follett,Follett,Great Coast,Melbournia,Greater Tasmania,plains,tasmanian,tazism,7,x,255,152,0
-48,126,144,24,Normanby,Normanby,Great Coast,Melbournia,Greater Tasmania,plains,tasmanian,tazism,7,x,255,151,0
-49,168,147,152,Normanby,Normanby,Great Coast,Melbournia,Greater Tasmania,plains,tasmanian,tazism,7,x,255,150,0
-50,0,150,25,Normanby,Normanby,Great Coast,Melbournia,Greater Tasmania,plains,tasmanian,tazism,7,x,255,149,0
-51,42,153,153,Villiers,Villiers,Great Coast,Melbournia,Greater Tasmania,plains,tasmanian,tazism,7,x,255,148,0
-52,84,156,26,Villiers,Villiers,Great Coast,Melbournia,Greater Tasmania,plains,tasmanian,tazism,7,x,255,147,0
-53,126,159,154,Villiers,Villiers,Great Coast,Melbournia,Greater Tasmania,plains,tasmanian,tazism,7,x,255,146,0
-54,168,162,27,Heytesbury,Heytesbury,Great Coast,Melbournia,Greater Tasmania,plains,tasmanian,tazism,7,x,255,145,0
-55,0,165,155,Heytesbury,Heytesbury,Great Coast,Melbournia,Greater Tasmania,plains,tasmanian,tazism,7,x,255,144,0
-56,42,168,28,Polwarth,Polwarth,Apollo,Melbournia,Greater Tasmania,plains,tasmanian,tazism,7,x,255,143,0
-57,84,171,156,Polwarth,Polwarth,Apollo,Melbournia,Greater Tasmania,plains,tasmanian,tazism,7,x,255,142,0
-58,126,174,29,Polwarth,Polwarth,Apollo,Melbournia,Greater Tasmania,plains,tasmanian,tazism,7,x,255,141,0
-59,168,177,157,Grant,Grant,Melbourne,Melbournia,Greater Tasmania,plains,tasmanian,tazism,7,x,255,140,0
-60,0,180,30,Grant,Grant,Melbourne,Melbournia,Greater Tasmania,plains,tasmanian,tazism,7,x,255,139,0
-61,42,183,158,Grant,Grant,Melbourne,Melbournia,Greater Tasmania,plains,tasmanian,tazism,7,x,255,138,0
-62,84,186,31,Grant,Grant,Melbourne,Melbournia,Greater Tasmania,plains,tasmanian,tazism,7,x,255,137,0
-63,126,189,159,Grenville,Grenville,Apollo,Melbournia,Greater Tasmania,plains,tasmanian,tazism,7,x,255,136,0
-64,168,192,32,Grenville,Grenville,Apollo,Melbournia,Greater Tasmania,plains,tasmanian,tazism,7,x,255,135,0
-65,0,195,160,Grenville,Grenville,Apollo,Melbournia,Greater Tasmania,plains,tasmanian,tazism,7,x,255,134,0
-66,42,198,33,Hampden,Hampden,Apollo,Melbournia,Greater Tasmania,plains,tasmanian,tazism,7,x,255,133,0
-67,84,201,161,Hampden,Hampden,Apollo,Melbournia,Greater Tasmania,plains,tasmanian,tazism,7,x,255,132,0
-68,126,204,34,Ripon,Ripon,Grampians,Melbournia,Greater Tasmania,plains,tasmanian,tazism,7,x,255,131,0
-69,168,207,162,Ripon,Ripon,Grampians,Melbournia,Greater Tasmania,plains,tasmanian,tazism,7,x,255,130,0
-70,0,210,35,Ripon,Ripon,Grampians,Melbournia,Greater Tasmania,plains,tasmanian,tazism,7,x,255,129,0
-71,42,0,163,Dundas,Dundas,Grampians,Melbournia,Greater Tasmania,plains,tasmanian,tazism,7,x,255,128,0
-72,84,3,36,Dundas,Dundas,Grampians,Melbournia,Greater Tasmania,plains,tasmanian,tazism,7,x,255,127,0
-73,126,6,164,Dundas,Dundas,Grampians,Melbournia,Greater Tasmania,plains,tasmanian,tazism,7,x,255,126,0
-74,168,9,37,Lowan,Lowan,Grampians,Victoria,Greater Tasmania,plains,tasmanian,tazism,7,x,204,51,0
-75,0,12,165,Lowan,Lowan,Grampians,Victoria,Greater Tasmania,plains,tasmanian,tazism,7,x,204,51,1
-76,42,15,38,Lowan,Lowan,Grampians,Victoria,Greater Tasmania,plains,tasmanian,tazism,7,x,204,51,2
-77,84,18,166,Weeah,Weeah,Murray,Victoria,Greater Tasmania,plains,tasmanian,tazism,7,x,204,51,3
-78,126,21,39,Weeah,Weeah,Murray,Victoria,Greater Tasmania,plains,tasmanian,tazism,7,x,204,51,4
-79,168,24,167,Millewa,Millewa,Murray,Victoria,Greater Tasmania,plains,tasmanian,tazism,7,x,204,51,5
-80,0,27,40,Millewa,Millewa,Murray,Victoria,Greater Tasmania,plains,tasmanian,tazism,7,x,204,51,6
-81,42,30,168,Karkarooc,Karkarooc,Murray,Victoria,Greater Tasmania,plains,tasmanian,tazism,7,x,204,51,7
-82,84,33,41,Karkarooc,Karkarooc,Murray,Victoria,Greater Tasmania,plains,tasmanian,tazism,7,x,204,51,8
-83,126,36,169,Karkarooc,Karkarooc,Murray,Victoria,Greater Tasmania,plains,tasmanian,tazism,7,x,204,51,9
-84,168,39,42,Karkarooc,Karkarooc,Murray,Victoria,Greater Tasmania,plains,tasmanian,tazism,7,x,204,51,10
-85,0,42,170,Borung,Borung,Grampians,Victoria,Greater Tasmania,plains,tasmanian,tazism,7,x,204,51,11
-86,42,45,43,Borung,Borung,Grampians,Victoria,Greater Tasmania,plains,tasmanian,tazism,7,x,204,51,12
-87,84,48,171,Borung,Borung,Grampians,Victoria,Greater Tasmania,plains,tasmanian,tazism,7,x,204,51,13
-88,126,51,44,Kara Kara,Kara Kara,Goldfields,Victoria,Greater Tasmania,plains,tasmanian,tazism,7,x,204,51,14
-89,168,54,172,Kara Kara,Kara Kara,Goldfields,Victoria,Greater Tasmania,plains,tasmanian,tazism,7,x,204,51,15
-90,0,57,45,Tatchera,Tatchera,Swanlands,Victoria,Greater Tasmania,plains,tasmanian,tazism,7,x,204,51,16
-91,42,60,173,Tatchera,Tatchera,Swanlands,Victoria,Greater Tasmania,plains,tasmanian,tazism,7,x,204,51,17
-92,84,63,46,Wedderburn,Wedderburn,Goldfields,Victoria,Greater Tasmania,plains,tasmanian,tazism,7,x,204,51,18
-93,126,66,174,Wedderburn,Wedderburn,Goldfields,Victoria,Greater Tasmania,plains,tasmanian,tazism,7,x,204,51,19
-94,168,69,47,Talbot,Talbot,Goldfields,Victoria,Greater Tasmania,plains,tasmanian,tazism,7,x,204,51,20
-95,0,72,175,Talbot,Talbot,Goldfields,Victoria,Greater Tasmania,plains,tasmanian,tazism,7,x,204,51,21
-96,42,75,48,Talbot,Talbot,Goldfields,Victoria,Greater Tasmania,plains,tasmanian,tazism,7,x,204,51,22
-97,84,78,176,Bendigo,Bendigo,Goldfields,Victoria,Greater Tasmania,plains,tasmanian,tazism,7,x,204,51,23
-98,126,81,49,Bendigo,Bendigo,Goldfields,Victoria,Greater Tasmania,plains,tasmanian,tazism,7,x,204,51,24
-99,168,84,177,Bendigo,Bendigo,Goldfields,Victoria,Greater Tasmania,plains,tasmanian,tazism,7,x,204,51,25
-100,0,87,50,Gunbower,Gunbower,Swanlands,Victoria,Greater Tasmania,plains,tasmanian,tazism,7,x,204,51,26
-101,42,90,178,Gunbower,Gunbower,Swanlands,Victoria,Greater Tasmania,plains,tasmanian,tazism,7,x,204,51,27
-102,84,93,51,Rodney,Rodney,Goulburn,Victoria,Greater Tasmania,plains,tasmanian,tazism,7,x,204,51,28
-103,126,96,179,Rodney,Rodney,Goulburn,Victoria,Greater Tasmania,plains,tasmanian,tazism,7,x,204,51,29
-104,168,99,52,Rodney,Rodney,Goulburn,Victoria,Greater Tasmania,plains,tasmanian,tazism,7,x,204,51,30
-105,0,102,180,Dalhousie,Dalhousie,Melbourne,Victoria,Greater Tasmania,plains,tasmanian,tazism,7,x,204,51,31
-106,42,105,53,Dalhousie,Dalhousie,Melbourne,Victoria,Greater Tasmania,plains,tasmanian,tazism,7,x,204,51,32
-107,84,108,181,Bourke,Bourke,Melbourne,Melbournia,Greater Tasmania,plains,tasmanian,tazism,7,x,255,50,0
-108,126,111,54,Bourke,Bourke,Melbourne,Melbournia,Greater Tasmania,plains,tasmanian,tazism,7,x,255,49,0
-109,168,114,182,Bourke,Bourke,Melbourne,Melbournia,Greater Tasmania,plains,tasmanian,tazism,7,x,255,48,0
-110,0,117,55,Bourke,Bourke,Melbourne,Melbournia,Greater Tasmania,plains,tasmanian,tazism,7,x,255,47,0
-111,42,120,183,Bourke,Bourke,Melbourne,Melbournia,Greater Tasmania,plains,tasmanian,tazism,7,x,255,46,0
-112,84,123,56,Mornington,Mornington,Yarra Valley,Melbournia,Greater Tasmania,plains,tasmanian,tazism,7,x,255,45,0
-113,126,126,184,Mornington,Mornington,Yarra Valley,Melbournia,Greater Tasmania,plains,tasmanian,tazism,7,x,255,44,0
-114,168,129,57,Mornington,Mornington,Yarra Valley,Melbournia,Greater Tasmania,plains,tasmanian,tazism,7,x,255,43,0
-115,0,132,185,Evelyn,Evelyn,Yarra Valley,Melbournia,Greater Tasmania,plains,tasmanian,tazism,7,x,255,42,0
-116,42,135,58,Evelyn,Evelyn,Yarra Valley,Melbournia,Greater Tasmania,plains,tasmanian,tazism,7,x,255,41,0
-117,84,138,186,Anglesey,Anglesey,High Country,Melbournia,Greater Tasmania,plains,tasmanian,tazism,7,x,255,40,0
-118,126,141,59,Anglesey,Anglesey,High Country,Melbournia,Greater Tasmania,plains,tasmanian,tazism,7,x,255,39,0
-119,168,144,187,Anglesey,Anglesey,High Country,Melbournia,Greater Tasmania,plains,tasmanian,tazism,7,x,255,38,0
-120,0,147,60,Delatite,Delatite,High Country,Victoria,Greater Tasmania,plains,tasmanian,tazism,7,x,204,51,1
-121,42,150,188,Delatite,Delatite,High Country,Victoria,Greater Tasmania,plains,tasmanian,tazism,7,x,204,51,2
-122,84,153,61,Delatite,Delatite,High Country,Victoria,Greater Tasmania,plains,tasmanian,tazism,7,x,204,51,3
-123,126,156,189,Delatite,Delatite,High Country,Victoria,Greater Tasmania,plains,tasmanian,tazism,7,x,204,51,4
-124,168,159,62,Moira,Moira,Goulburn,Victoria,Greater Tasmania,plains,tasmanian,tazism,7,x,204,51,5
-125,0,162,190,Moira,Moira,Goulburn,Victoria,Greater Tasmania,plains,tasmanian,tazism,7,x,204,51,6
-126,42,165,63,Moira,Moira,Goulburn,Victoria,Greater Tasmania,plains,tasmanian,tazism,7,x,204,51,7
-127,84,168,191,Moira,Moira,Goulburn,Victoria,Greater Tasmania,plains,tasmanian,tazism,7,x,204,51,8
-128,126,171,64,Bogong,Bogong,Victorian Alps,Victoria,Greater Tasmania,plains,tasmanian,tazism,7,x,204,51,9
-129,168,174,192,Bogong,Bogong,Victorian Alps,Victoria,Greater Tasmania,plains,tasmanian,tazism,7,x,204,51,10
-130,0,177,65,Bogong,Bogong,Victorian Alps,Victoria,Greater Tasmania,plains,tasmanian,tazism,7,x,204,51,11
-131,42,180,193,Benambra,Benambra,Victorian Alps,Victoria,Greater Tasmania,plains,tasmanian,tazism,7,x,204,51,12
-132,84,183,66,Benambra,Benambra,Victorian Alps,Victoria,Greater Tasmania,plains,tasmanian,tazism,7,x,204,51,13
-133,126,186,194,Benambra,Benambra,Victorian Alps,Victoria,Greater Tasmania,plains,tasmanian,tazism,7,x,204,51,14
-134,168,189,67,Lakes Entrance,Lakes Entrance,Victorian Ranges,Melbournia,Greater Tasmania,plains,tasmanian,tazism,7,x,255,50,0
-135,0,192,195,Lakes Entrance,Lakes Entrance,Victorian Ranges,Melbournia,Greater Tasmania,plains,tasmanian,tazism,7,x,255,49,0
-136,42,195,68,Lakes Entrance,Lakes Entrance,Victorian Ranges,Melbournia,Greater Tasmania,plains,tasmanian,tazism,7,x,255,48,0
-137,84,198,196,Croajingolong,Croajingolong,Victorian Ranges,Melbournia,Greater Tasmania,plains,tasmanian,tazism,7,x,255,47,0
-138,126,201,69,Croajingolong,Croajingolong,Victorian Ranges,Melbournia,Greater Tasmania,plains,tasmanian,tazism,7,x,255,46,0
-139,168,204,197,Croajingolong,Croajingolong,Victorian Ranges,Melbournia,Greater Tasmania,plains,tasmanian,tazism,7,x,255,45,0
-140,0,207,70,Croajingolong,Croajingolong,Victorian Ranges,Melbournia,Greater Tasmania,plains,tasmanian,tazism,7,x,255,44,0
-141,42,210,198,Dargo,Dargo,Gippsland,Melbournia,Greater Tasmania,plains,tasmanian,tazism,7,x,255,43,0
-142,84,0,71,Dargo,Dargo,Gippsland,Melbournia,Greater Tasmania,plains,tasmanian,tazism,7,x,255,42,0
-143,126,3,199,Wonnangatta,Wonnangatta,High Country,Melbournia,Greater Tasmania,plains,tasmanian,tazism,7,x,255,41,0
-144,168,6,72,Wonnangatta,Wonnangatta,High Country,Melbournia,Greater Tasmania,plains,tasmanian,tazism,7,x,255,40,0
-145,0,9,200,Tanjil,Tanjil,Gippsland,Melbournia,Greater Tasmania,plains,tasmanian,tazism,7,x,255,39,0
-146,42,12,73,Tanjil,Tanjil,Gippsland,Melbournia,Greater Tasmania,plains,tasmanian,tazism,7,x,255,38,0
-147,84,15,201,Tanjil,Tanjil,Gippsland,Melbournia,Greater Tasmania,plains,tasmanian,tazism,7,x,255,37,0
-148,126,18,74,Buln Buln,Buln Buln,Gippsland,Melbournia,Greater Tasmania,plains,tasmanian,tazism,7,x,255,36,0
-149,168,21,202,Buln Buln,Buln Buln,Gippsland,Melbournia,Greater Tasmania,plains,tasmanian,tazism,7,x,255,35,0
-150,0,24,75,Buln Buln,Buln Buln,Gippsland,Melbournia,Greater Tasmania,plains,tasmanian,tazism,7,x,255,34,0
-151,42,27,203,Buln Buln,Buln Buln,Gippsland,Melbournia,Greater Tasmania,plains,tasmanian,tazism,7,x,255,33,0
-152,84,30,76,Buln Buln,Buln Buln,Gippsland,Melbournia,Greater Tasmania,plains,tasmanian,tazism,7,x,255,32,0
+46,42,138,23,Follett,Follett,Great Ocean,Melbournia,Greater Tasmania,plains,wimmeran,tazism,7,x,255,153,0
+47,84,141,151,Follett,Follett,Great Ocean,Melbournia,Greater Tasmania,plains,wimmeran,tazism,7,x,255,152,0
+48,126,144,24,Normanby,Normanby,Great Ocean,Melbournia,Greater Tasmania,plains,wimmeran,tazism,7,x,255,151,0
+49,168,147,152,Normanby,Normanby,Great Ocean,Melbournia,Greater Tasmania,plains,wimmeran,tazism,7,x,255,150,0
+50,0,150,25,Normanby,Normanby,Great Ocean,Melbournia,Greater Tasmania,plains,wimmeran,tazism,7,x,255,149,0
+51,42,153,153,Villiers,Villiers,Great Ocean,Melbournia,Greater Tasmania,plains,phillipian,tazism,7,x,255,148,0
+52,84,156,26,Villiers,Villiers,Great Ocean,Melbournia,Greater Tasmania,plains,phillipian,tazism,7,x,255,147,0
+53,126,159,154,Villiers,Villiers,Great Ocean,Melbournia,Greater Tasmania,plains,phillipian,tazism,7,x,255,146,0
+54,168,162,27,Heytesbury,Heytesbury,Great Ocean,Melbournia,Greater Tasmania,plains,phillipian,tazism,7,x,255,145,0
+55,0,165,155,Heytesbury,Heytesbury,Great Ocean,Melbournia,Greater Tasmania,plains,phillipian,tazism,7,x,255,144,0
+56,42,168,28,Polwarth,Polwarth,Apollo,Melbournia,Greater Tasmania,plains,phillipian,tazism,7,x,255,143,0
+57,84,171,156,Polwarth,Polwarth,Apollo,Melbournia,Greater Tasmania,plains,phillipian,tazism,7,x,255,142,0
+58,126,174,29,Polwarth,Polwarth,Apollo,Melbournia,Greater Tasmania,plains,phillipian,tazism,7,x,255,141,0
+59,168,177,157,Grant,Grant,Melbourne,Melbournia,Greater Tasmania,plains,phillipian,tazism,7,x,255,140,0
+60,0,180,30,Grant,Grant,Melbourne,Melbournia,Greater Tasmania,plains,phillipian,tazism,7,x,255,139,0
+61,42,183,158,Grant,Grant,Melbourne,Melbournia,Greater Tasmania,plains,phillipian,tazism,7,x,255,138,0
+62,84,186,31,Grant,Grant,Melbourne,Melbournia,Greater Tasmania,plains,phillipian,tazism,7,x,255,137,0
+63,126,189,159,Grenville,Grenville,Apollo,Melbournia,Greater Tasmania,plains,phillipian,tazism,7,x,255,136,0
+64,168,192,32,Grenville,Grenville,Apollo,Melbournia,Greater Tasmania,plains,phillipian,tazism,7,x,255,135,0
+65,0,195,160,Grenville,Grenville,Apollo,Melbournia,Greater Tasmania,plains,phillipian,tazism,7,x,255,134,0
+66,42,198,33,Hampden,Hampden,Apollo,Melbournia,Greater Tasmania,plains,phillipian,tazism,7,x,255,133,0
+67,84,201,161,Hampden,Hampden,Apollo,Melbournia,Greater Tasmania,plains,phillipian,tazism,7,x,255,132,0
+68,126,204,34,Ripon,Ripon,Grampians,Melbournia,Greater Tasmania,plains,wimmeran,tazism,7,x,255,131,0
+69,168,207,162,Ripon,Ripon,Grampians,Melbournia,Greater Tasmania,plains,wimmeran,tazism,7,x,255,130,0
+70,0,210,35,Ripon,Ripon,Grampians,Melbournia,Greater Tasmania,plains,wimmeran,tazism,7,x,255,129,0
+71,42,0,163,Dundas,Dundas,Grampians,Melbournia,Greater Tasmania,plains,wimmeran,tazism,7,x,255,128,0
+72,84,3,36,Dundas,Dundas,Grampians,Melbournia,Greater Tasmania,plains,wimmeran,tazism,7,x,255,127,0
+73,126,6,164,Dundas,Dundas,Grampians,Melbournia,Greater Tasmania,plains,wimmeran,tazism,7,x,255,126,0
+74,168,9,37,Lowan,Lowan,Grampians,Victoria,Greater Tasmania,plains,wimmeran,tazism,7,x,204,51,0
+75,0,12,165,Lowan,Lowan,Grampians,Victoria,Greater Tasmania,plains,wimmeran,tazism,7,x,204,51,1
+76,42,15,38,Lowan,Lowan,Grampians,Victoria,Greater Tasmania,plains,wimmeran,tazism,7,x,204,51,2
+77,84,18,166,Weeah,Weeah,Mallee,Victoria,Greater Tasmania,plains,muruwari,tazism,7,x,204,51,3
+78,126,21,39,Weeah,Weeah,Mallee,Victoria,Greater Tasmania,plains,muruwari,tazism,7,x,204,51,4
+79,168,24,167,Millewa,Millewa,Mallee,Victoria,Greater Tasmania,plains,muruwari,tazism,7,x,204,51,5
+80,0,27,40,Millewa,Millewa,Mallee,Victoria,Greater Tasmania,plains,muruwari,tazism,7,x,204,51,6
+81,42,30,168,Karkarooc,Karkarooc,Mallee,Victoria,Greater Tasmania,plains,muruwari,tazism,7,x,204,51,7
+82,84,33,41,Karkarooc,Karkarooc,Mallee,Victoria,Greater Tasmania,plains,muruwari,tazism,7,x,204,51,8
+83,126,36,169,Karkarooc,Karkarooc,Mallee,Victoria,Greater Tasmania,plains,muruwari,tazism,7,x,204,51,9
+84,168,39,42,Karkarooc,Karkarooc,Mallee,Victoria,Greater Tasmania,plains,muruwari,tazism,7,x,204,51,10
+85,0,42,170,Borung,Borung,Grampians,Victoria,Greater Tasmania,plains,wimmeran,tazism,7,x,204,51,11
+86,42,45,43,Borung,Borung,Grampians,Victoria,Greater Tasmania,plains,wimmeran,tazism,7,x,204,51,12
+87,84,48,171,Borung,Borung,Grampians,Victoria,Greater Tasmania,plains,wimmeran,tazism,7,x,204,51,13
+88,126,51,44,Kara Kara,Kara Kara,Goldfields,Victoria,Greater Tasmania,plains,wimmeran,tazism,7,x,204,51,14
+89,168,54,172,Kara Kara,Kara Kara,Goldfields,Victoria,Greater Tasmania,plains,wimmeran,tazism,7,x,204,51,15
+90,0,57,45,Tatchera,Tatchera,Loddon,Victoria,Greater Tasmania,plains,muruwari,tazism,7,x,204,51,16
+91,42,60,173,Tatchera,Tatchera,Loddon,Victoria,Greater Tasmania,plains,muruwari,tazism,7,x,204,51,17
+92,84,63,46,Wedderburn,Wedderburn,Goldfields,Victoria,Greater Tasmania,plains,wimmeran,tazism,7,x,204,51,18
+93,126,66,174,Wedderburn,Wedderburn,Goldfields,Victoria,Greater Tasmania,plains,wimmeran,tazism,7,x,204,51,19
+94,168,69,47,Talbot,Talbot,Goldfields,Victoria,Greater Tasmania,plains,wimmeran,tazism,7,x,204,51,20
+95,0,72,175,Talbot,Talbot,Goldfields,Victoria,Greater Tasmania,plains,wimmeran,tazism,7,x,204,51,21
+96,42,75,48,Talbot,Talbot,Goldfields,Victoria,Greater Tasmania,plains,wimmeran,tazism,7,x,204,51,22
+97,84,78,176,Bendigo,Bendigo,Goldfields,Victoria,Greater Tasmania,plains,wimmeran,tazism,7,x,204,51,23
+98,126,81,49,Bendigo,Bendigo,Goldfields,Victoria,Greater Tasmania,plains,wimmeran,tazism,7,x,204,51,24
+99,168,84,177,Bendigo,Bendigo,Goldfields,Victoria,Greater Tasmania,plains,wimmeran,tazism,7,x,204,51,25
+100,0,87,50,Gunbower,Gunbower,Loddon,Victoria,Greater Tasmania,plains,muruwari,tazism,7,x,204,51,26
+101,42,90,178,Gunbower,Gunbower,Loddon,Victoria,Greater Tasmania,plains,muruwari,tazism,7,x,204,51,27
+102,84,93,51,Rodney,Rodney,Goulburn,Victoria,Greater Tasmania,plains,phillipian,tazism,7,x,204,51,28
+103,126,96,179,Rodney,Rodney,Goulburn,Victoria,Greater Tasmania,plains,phillipian,tazism,7,x,204,51,29
+104,168,99,52,Rodney,Rodney,Goulburn,Victoria,Greater Tasmania,plains,phillipian,tazism,7,x,204,51,30
+105,0,102,180,Dalhousie,Dalhousie,Melbourne,Victoria,Greater Tasmania,plains,phillipian,tazism,7,x,204,51,31
+106,42,105,53,Dalhousie,Dalhousie,Melbourne,Victoria,Greater Tasmania,plains,phillipian,tazism,7,x,204,51,32
+107,84,108,181,Bourke,Bourke,Melbourne,Melbournia,Greater Tasmania,plains,phillipian,tazism,7,x,255,50,0
+108,126,111,54,Bourke,Bourke,Melbourne,Melbournia,Greater Tasmania,plains,phillipian,tazism,7,x,255,49,0
+109,168,114,182,Bourke,Bourke,Melbourne,Melbournia,Greater Tasmania,plains,phillipian,tazism,7,x,255,48,0
+110,0,117,55,Bourke,Bourke,Melbourne,Melbournia,Greater Tasmania,plains,phillipian,tazism,7,x,255,47,0
+111,42,120,183,Bourke,Bourke,Melbourne,Melbournia,Greater Tasmania,plains,phillipian,tazism,7,x,255,46,0
+112,84,123,56,Mornington,Mornington,Yarra Valley,Melbournia,Greater Tasmania,plains,phillipian,tazism,7,x,255,45,0
+113,126,126,184,Mornington,Mornington,Yarra Valley,Melbournia,Greater Tasmania,plains,phillipian,tazism,7,x,255,44,0
+114,168,129,57,Mornington,Mornington,Yarra Valley,Melbournia,Greater Tasmania,plains,phillipian,tazism,7,x,255,43,0
+115,0,132,185,Evelyn,Evelyn,Yarra Valley,Melbournia,Greater Tasmania,plains,phillipian,tazism,7,x,255,42,0
+116,42,135,58,Evelyn,Evelyn,Yarra Valley,Melbournia,Greater Tasmania,plains,phillipian,tazism,7,x,255,41,0
+117,84,138,186,Anglesey,Anglesey,High Country,Melbournia,Greater Tasmania,plains,phillipian,tazism,7,x,255,40,0
+118,126,141,59,Anglesey,Anglesey,High Country,Melbournia,Greater Tasmania,plains,phillipian,tazism,7,x,255,39,0
+119,168,144,187,Anglesey,Anglesey,High Country,Melbournia,Greater Tasmania,plains,phillipian,tazism,7,x,255,38,0
+120,0,147,60,Delatite,Delatite,High Country,Victoria,Greater Tasmania,plains,phillipian,tazism,7,x,204,51,1
+121,42,150,188,Delatite,Delatite,High Country,Victoria,Greater Tasmania,plains,phillipian,tazism,7,x,204,51,2
+122,84,153,61,Delatite,Delatite,High Country,Victoria,Greater Tasmania,plains,phillipian,tazism,7,x,204,51,3
+123,126,156,189,Delatite,Delatite,High Country,Victoria,Greater Tasmania,plains,phillipian,tazism,7,x,204,51,4
+124,168,159,62,Moira,Moira,Goulburn,Victoria,Greater Tasmania,plains,muruwari,tazism,7,x,204,51,5
+125,0,162,190,Moira,Moira,Goulburn,Victoria,Greater Tasmania,plains,muruwari,tazism,7,x,204,51,6
+126,42,165,63,Moira,Moira,Goulburn,Victoria,Greater Tasmania,plains,muruwari,tazism,7,x,204,51,7
+127,84,168,191,Moira,Moira,Goulburn,Victoria,Greater Tasmania,plains,muruwari,tazism,7,x,204,51,8
+128,126,171,64,Bogong,Bogong,Alps,Victoria,Greater Tasmania,plains,muruwari,tazism,7,x,204,51,9
+129,168,174,192,Bogong,Bogong,Alps,Victoria,Greater Tasmania,plains,muruwari,tazism,7,x,204,51,10
+130,0,177,65,Bogong,Bogong,Alps,Victoria,Greater Tasmania,plains,muruwari,tazism,7,x,204,51,11
+131,42,180,193,Benambra,Benambra,Alps,Victoria,Greater Tasmania,plains,muruwari,tazism,7,x,204,51,12
+132,84,183,66,Benambra,Benambra,Alps,Victoria,Greater Tasmania,plains,muruwari,tazism,7,x,204,51,13
+133,126,186,194,Benambra,Benambra,Alps,Victoria,Greater Tasmania,plains,muruwari,tazism,7,x,204,51,14
+134,168,189,67,Lakes Entrance,Lakes Entrance,Gippsland,Melbournia,Greater Tasmania,plains,phillipian,tazism,7,x,255,50,0
+135,0,192,195,Lakes Entrance,Lakes Entrance,Gippsland,Melbournia,Greater Tasmania,plains,phillipian,tazism,7,x,255,49,0
+136,42,195,68,Lakes Entrance,Lakes Entrance,Gippsland,Melbournia,Greater Tasmania,plains,phillipian,tazism,7,x,255,48,0
+137,84,198,196,Croajingolong,Croajingolong,Gippsland,Melbournia,Greater Tasmania,plains,illawarran,tazism,7,x,255,47,0
+138,126,201,69,Croajingolong,Croajingolong,Gippsland,Melbournia,Greater Tasmania,plains,illawarran,tazism,7,x,255,46,0
+139,168,204,197,Croajingolong,Croajingolong,Gippsland,Melbournia,Greater Tasmania,plains,illawarran,tazism,7,x,255,45,0
+140,0,207,70,Croajingolong,Croajingolong,Gippsland,Melbournia,Greater Tasmania,plains,illawarran,tazism,7,x,255,44,0
+141,42,210,198,Dargo,Dargo,Monash,Melbournia,Greater Tasmania,plains,phillipian,tazism,7,x,255,43,0
+142,84,0,71,Dargo,Dargo,Monash,Melbournia,Greater Tasmania,plains,phillipian,tazism,7,x,255,42,0
+143,126,3,199,Wonnangatta,Wonnangatta,High Country,Melbournia,Greater Tasmania,plains,phillipian,tazism,7,x,255,41,0
+144,168,6,72,Wonnangatta,Wonnangatta,High Country,Melbournia,Greater Tasmania,plains,phillipian,tazism,7,x,255,40,0
+145,0,9,200,Tanjil,Tanjil,Monash,Melbournia,Greater Tasmania,plains,phillipian,tazism,7,x,255,39,0
+146,42,12,73,Tanjil,Tanjil,Monash,Melbournia,Greater Tasmania,plains,phillipian,tazism,7,x,255,38,0
+147,84,15,201,Tanjil,Tanjil,Monash,Melbournia,Greater Tasmania,plains,phillipian,tazism,7,x,255,37,0
+148,126,18,74,Buln Buln,Buln Buln,Monash,Melbournia,Greater Tasmania,plains,phillipian,tazism,7,x,255,36,0
+149,168,21,202,Buln Buln,Buln Buln,Monash,Melbournia,Greater Tasmania,plains,phillipian,tazism,7,x,255,35,0
+150,0,24,75,Buln Buln,Buln Buln,Monash,Melbournia,Greater Tasmania,plains,phillipian,tazism,7,x,255,34,0
+151,42,27,203,Buln Buln,Buln Buln,Monash,Melbournia,Greater Tasmania,plains,phillipian,tazism,7,x,255,33,0
+152,84,30,76,Buln Buln,Buln Buln,Monash,Melbournia,Greater Tasmania,plains,phillipian,tazism,7,x,255,32,0
 153,126,33,204,Sea Melbourne,,,,,,,,,,,,
 154,168,36,77,Sea Bass,,,,,,,,,,,,
 155,0,39,205,Sea Furneaux,,,,,,,,,,,,
@@ -440,409 +440,409 @@
 438,126,36,19,Sea impassable274,,,,,,,,,,,,
 439,168,39,147,Sea impassable275,,,,,,,,,,,,
 440,0,42,20,Sea impassable276,,,,,,,,,,,,
-441,42,45,148,Auckland,Auckland,South Coast,Canberra,New South Wales,plains,tasmanian,tazism,7,x,8,97,0
-442,84,48,21,Auckland,Auckland,South Coast,Canberra,New South Wales,plains,tasmanian,tazism,7,x,8,98,0
-443,126,51,149,Auckland,Auckland,South Coast,Canberra,New South Wales,plains,tasmanian,tazism,7,x,8,99,0
-444,168,54,22,Wellesley,Wellesley,South Coast,Canberra,New South Wales,plains,tasmanian,tazism,7,x,8,100,0
-445,0,57,150,Wellesley,Wellesley,South Coast,Canberra,New South Wales,plains,tasmanian,tazism,7,x,8,101,0
-446,42,60,23,Wellesley,Wellesley,South Coast,Canberra,New South Wales,plains,tasmanian,tazism,7,x,8,102,0
-447,84,63,151,Wallace,Wallace,Snowy Mountains,Canberra,New South Wales,plains,tasmanian,tazism,7,x,8,103,0
-448,126,66,24,Wallace,Wallace,Snowy Mountains,Canberra,New South Wales,plains,tasmanian,tazism,7,x,8,104,0
-449,168,69,152,Wallace,Wallace,Snowy Mountains,Canberra,New South Wales,plains,tasmanian,tazism,7,x,8,105,0
-450,0,72,25,Beresford,Beresford,South Coast,Canberra,New South Wales,plains,tasmanian,tazism,7,x,8,106,0
-451,42,75,153,Beresford,Beresford,South Coast,Canberra,New South Wales,plains,tasmanian,tazism,7,x,8,107,0
-452,84,78,26,Dampier,Dampier,South Coast,Canberra,New South Wales,plains,tasmanian,tazism,7,x,8,108,0
-453,126,81,154,Dampier,Dampier,South Coast,Canberra,New South Wales,plains,tasmanian,tazism,7,x,8,109,0
-454,168,84,27,Dampier,Dampier,South Coast,Canberra,New South Wales,plains,tasmanian,tazism,7,x,8,110,0
-455,0,87,155,Cowley,Cowley,Capital Territory,Canberra,New South Wales,plains,tasmanian,tazism,7,x,8,111,0
-456,42,90,28,Cowley,Cowley,Capital Territory,Canberra,New South Wales,plains,tasmanian,tazism,7,x,8,112,0
-457,84,93,156,Canberra,Canberra,Capital Territory,Canberra,New South Wales,plains,tasmanian,tazism,7,x,8,113,0
-458,126,96,29,Canberra,Canberra,Capital Territory,Canberra,New South Wales,plains,tasmanian,tazism,7,x,8,114,0
-459,168,99,157,Murray,Murray,Tablelands,Nineteen Counties,New South Wales,plains,tasmanian,tazism,7,x,242,121,121
-460,0,102,30,Murray,Murray,Tablelands,Nineteen Counties,New South Wales,plains,tasmanian,tazism,7,x,242,120,121
-461,42,105,158,St Vincent,St Vincent,Sydney,Nineteen Counties,New South Wales,plains,tasmanian,tazism,7,x,242,119,121
-462,84,108,31,St Vincent,St Vincent,Sydney,Nineteen Counties,New South Wales,plains,tasmanian,tazism,7,x,242,118,121
-463,126,111,159,St Vincent,St Vincent,Sydney,Nineteen Counties,New South Wales,plains,tasmanian,tazism,7,x,242,117,121
-464,168,114,32,St Vincent,St Vincent,Sydney,Nineteen Counties,New South Wales,plains,tasmanian,tazism,7,x,242,116,121
-465,0,117,160,Argyle,Argyle,Tablelands,Nineteen Counties,New South Wales,plains,tasmanian,tazism,7,x,242,115,121
-466,42,120,33,Argyle,Argyle,Tablelands,Nineteen Counties,New South Wales,plains,tasmanian,tazism,7,x,242,114,121
-467,84,123,161,Argyle,Argyle,Tablelands,Nineteen Counties,New South Wales,plains,tasmanian,tazism,7,x,242,113,121
-468,126,126,34,Argyle,Argyle,Tablelands,Nineteen Counties,New South Wales,plains,tasmanian,tazism,7,x,242,112,121
-469,168,129,162,King,King,Tablelands,Nineteen Counties,New South Wales,plains,tasmanian,tazism,7,x,242,111,121
-470,0,132,35,King,King,Tablelands,Nineteen Counties,New South Wales,plains,tasmanian,tazism,7,x,242,110,121
-471,42,135,163,King,King,Tablelands,Nineteen Counties,New South Wales,plains,tasmanian,tazism,7,x,242,109,121
-472,84,138,36,Camden,Camden,Sydney,Nineteen Counties,New South Wales,plains,tasmanian,tazism,7,x,242,108,121
-473,126,141,164,Camden,Camden,Sydney,Nineteen Counties,New South Wales,plains,tasmanian,tazism,7,x,242,107,121
-474,168,144,37,Camden,Camden,Sydney,Nineteen Counties,New South Wales,plains,tasmanian,tazism,7,x,242,106,121
-475,0,147,165,Camden,Camden,Sydney,Nineteen Counties,New South Wales,plains,tasmanian,tazism,7,x,242,105,121
-476,42,150,38,Oberon,Oberon,Blue Mountains,Nineteen Counties,New South Wales,plains,tasmanian,tazism,7,x,242,104,121
-477,84,153,166,Oberon,Oberon,Blue Mountains,Nineteen Counties,New South Wales,plains,tasmanian,tazism,7,x,242,103,121
-478,126,156,39,Oberon,Oberon,Blue Mountains,Nineteen Counties,New South Wales,plains,tasmanian,tazism,7,x,242,102,121
-479,168,159,167,Georgiana,Georgiana,Tablelands,Nineteen Counties,New South Wales,plains,tasmanian,tazism,7,x,242,101,121
-480,0,162,40,Georgiana,Georgiana,Tablelands,Nineteen Counties,New South Wales,plains,tasmanian,tazism,7,x,242,100,121
-481,42,165,168,Bathurst,Bathurst,Tablelands,Nineteen Counties,New South Wales,plains,tasmanian,tazism,7,x,242,99,121
-482,84,168,41,Bathurst,Bathurst,Tablelands,Nineteen Counties,New South Wales,plains,tasmanian,tazism,7,x,242,98,121
-483,126,171,169,Bathurst,Bathurst,Tablelands,Nineteen Counties,New South Wales,plains,tasmanian,tazism,7,x,242,97,121
-484,168,174,42,Wellington,Wellington,Mudgee,Nineteen Counties,New South Wales,plains,tasmanian,tazism,7,x,242,96,121
-485,0,177,170,Wellington,Wellington,Mudgee,Nineteen Counties,New South Wales,plains,tasmanian,tazism,7,x,242,95,121
-486,42,180,43,Wellington,Wellington,Mudgee,Nineteen Counties,New South Wales,plains,tasmanian,tazism,7,x,242,94,121
-487,84,183,171,Roxburgh,Roxburgh,Mudgee,Nineteen Counties,New South Wales,plains,tasmanian,tazism,7,x,242,93,121
-488,126,186,44,Roxburgh,Roxburgh,Mudgee,Nineteen Counties,New South Wales,plains,tasmanian,tazism,7,x,242,92,121
-489,168,189,172,Cook,Cook,Blue Mountains,Nineteen Counties,New South Wales,plains,tasmanian,tazism,7,x,242,91,121
-490,0,192,45,Cook,Cook,Blue Mountains,Nineteen Counties,New South Wales,plains,tasmanian,tazism,7,x,242,90,121
-491,42,195,173,Cook,Cook,Blue Mountains,Nineteen Counties,New South Wales,plains,tasmanian,tazism,7,x,242,89,121
-492,84,198,46,Botany,Cumberland,Sydney,Nineteen Counties,New South Wales,plains,tasmanian,tazism,7,x,242,88,121
-493,126,201,174,Sydney,Cumberland,Sydney,Nineteen Counties,New South Wales,plains,tasmanian,tazism,7,x,242,87,121
-494,168,204,47,Macarthur,Cumberland,Sydney,Nineteen Counties,New South Wales,plains,tasmanian,tazism,7,x,242,86,121
-495,0,207,175,Penrith,Cumberland,Sydney,Nineteen Counties,New South Wales,plains,tasmanian,tazism,7,x,242,85,121
-496,42,210,48,Northumberland,Northumberland,Sydney,Nineteen Counties,New South Wales,plains,tasmanian,tazism,7,x,242,84,121
-497,84,0,176,Northumberland,Northumberland,Sydney,Nineteen Counties,New South Wales,plains,tasmanian,tazism,7,x,242,83,121
-498,126,3,49,Northumberland,Northumberland,Sydney,Nineteen Counties,New South Wales,plains,tasmanian,tazism,7,x,242,82,121
-499,168,6,177,Northumberland,Northumberland,Sydney,Nineteen Counties,New South Wales,plains,tasmanian,tazism,7,x,242,81,121
-500,0,9,50,Hunter,Hunter,Blue Mountains,Nineteen Counties,New South Wales,plains,tasmanian,tazism,7,x,242,80,121
-501,42,12,178,Hunter,Hunter,Blue Mountains,Nineteen Counties,New South Wales,plains,tasmanian,tazism,7,x,242,79,121
-502,84,15,51,Phillip,Phillip,Mudgee,Nineteen Counties,New South Wales,plains,tasmanian,tazism,7,x,242,78,121
-503,126,18,179,Phillip,Phillip,Mudgee,Nineteen Counties,New South Wales,plains,tasmanian,tazism,7,x,242,77,121
-504,168,21,52,Phillip,Phillip,Mudgee,Nineteen Counties,New South Wales,plains,tasmanian,tazism,7,x,242,76,121
-505,0,24,180,Bligh,Bligh,Mudgee,Nineteen Counties,New South Wales,plains,tasmanian,tazism,7,x,242,75,121
-506,42,27,53,Bligh,Bligh,Mudgee,Nineteen Counties,New South Wales,plains,tasmanian,tazism,7,x,242,74,121
-507,84,30,181,Scone,Scone,Hunter,Nineteen Counties,New South Wales,plains,tasmanian,tazism,7,x,242,73,121
-508,126,33,54,Scone,Scone,Hunter,Nineteen Counties,New South Wales,plains,tasmanian,tazism,7,x,242,72,121
-509,168,36,182,Scone,Scone,Hunter,Nineteen Counties,New South Wales,plains,tasmanian,tazism,7,x,242,71,121
-510,0,39,55,Muswellbrook,Muswellbrook,Hunter,Nineteen Counties,New South Wales,plains,tasmanian,tazism,7,x,242,70,121
-511,42,42,183,Muswellbrook,Muswellbrook,Hunter,Nineteen Counties,New South Wales,plains,tasmanian,tazism,7,x,242,69,121
-512,84,45,56,Muswellbrook,Muswellbrook,Hunter,Nineteen Counties,New South Wales,plains,tasmanian,tazism,7,x,242,68,121
-513,126,48,184,Gloucester,Gloucester,Hunter,Nineteen Counties,New South Wales,plains,tasmanian,tazism,7,x,242,67,121
-514,168,51,57,Gloucester,Gloucester,Hunter,Nineteen Counties,New South Wales,plains,tasmanian,tazism,7,x,242,66,121
-515,0,54,185,Gloucester,Gloucester,Hunter,Nineteen Counties,New South Wales,plains,tasmanian,tazism,7,x,242,65,121
-516,42,57,58,Gloucester,Gloucester,Hunter,Nineteen Counties,New South Wales,plains,tasmanian,tazism,7,x,242,64,121
-517,84,60,186,Gloucester,Gloucester,Hunter,Nineteen Counties,New South Wales,plains,tasmanian,tazism,7,x,242,63,121
-518,126,63,59,Macquarie,Macquarie,Portharbour,New England,New South Wales,plains,tasmanian,tazism,7,x,103,170,224
-519,168,66,187,Macquarie,Macquarie,Portharbour,New England,New South Wales,plains,tasmanian,tazism,7,x,102,170,224
-520,0,69,60,Macquarie,Macquarie,Portharbour,New England,New South Wales,plains,tasmanian,tazism,7,x,101,170,224
-521,42,72,188,Macquarie,Macquarie,Portharbour,New England,New South Wales,plains,tasmanian,tazism,7,x,100,170,224
-522,84,75,61,Hawes,Hawes,Binghi,New England,New South Wales,plains,tasmanian,tazism,7,x,99,170,224
-523,126,78,189,Hawes,Hawes,Binghi,New England,New South Wales,plains,tasmanian,tazism,7,x,98,170,224
-524,168,81,62,Hawes,Hawes,Binghi,New England,New South Wales,plains,tasmanian,tazism,7,x,97,170,224
-525,0,84,190,Dudley,Dudley,Portharbour,New England,New South Wales,plains,tasmanian,tazism,7,x,96,170,224
-526,126,21,144,Dudley,Dudley,Portharbour,New England,New South Wales,plains,tasmanian,tazism,7,x,95,170,224
-527,84,90,191,Vernon,Vernon,Binghi,New England,New South Wales,plains,tasmanian,tazism,7,x,94,170,224
-528,126,93,64,Vernon,Vernon,Binghi,New England,New South Wales,plains,tasmanian,tazism,7,x,93,170,224
-529,168,96,192,Vernon,Vernon,Binghi,New England,New South Wales,plains,tasmanian,tazism,7,x,92,170,224
-530,0,99,65,Sandon,Sandon,Binghi,New England,New South Wales,plains,tasmanian,tazism,7,x,91,170,224
-531,42,102,193,Sandon,Sandon,Binghi,New England,New South Wales,plains,tasmanian,tazism,7,x,90,170,224
-532,84,105,66,Clarke,Clarke,New England Tablelands,New England,New South Wales,plains,tasmanian,tazism,7,x,89,170,224
-533,126,108,194,Clarke,Clarke,New England Tablelands,New England,New South Wales,plains,tasmanian,tazism,7,x,88,170,224
-534,168,111,67,Clarke,Clarke,New England Tablelands,New England,New South Wales,plains,tasmanian,tazism,7,x,87,170,224
-535,0,114,195,Raleigh,Raleigh,Portharbour,New England,New South Wales,plains,tasmanian,tazism,7,x,86,170,224
-536,42,117,68,Raleigh,Raleigh,Portharbour,New England,New South Wales,plains,tasmanian,tazism,7,x,85,170,224
-537,84,120,196,Fitzroy,Fitzroy,Portharbour,New England,New South Wales,plains,tasmanian,tazism,7,x,84,170,224
-538,126,123,69,Fitzroy,Fitzroy,Portharbour,New England,New South Wales,plains,tasmanian,tazism,7,x,83,170,224
-539,168,126,197,Fitzroy,Fitzroy,Portharbour,New England,New South Wales,plains,tasmanian,tazism,7,x,82,170,224
-540,0,129,70,Fitzroy,Fitzroy,Portharbour,New England,New South Wales,plains,tasmanian,tazism,7,x,81,170,224
-541,42,132,198,Gresham,Gresham,New England Tablelands,New England,New South Wales,plains,tasmanian,tazism,7,x,80,170,224
-542,84,135,71,Gresham,Gresham,New England Tablelands,New England,New South Wales,plains,tasmanian,tazism,7,x,79,170,224
-543,126,138,199,Drake,Drake,New Highlands,New England,New South Wales,plains,tasmanian,tazism,7,x,78,170,224
-544,168,141,72,Drake,Drake,New Highlands,New England,New South Wales,plains,tasmanian,tazism,7,x,77,170,224
-545,0,144,200,Drake,Drake,New Highlands,New England,New South Wales,plains,tasmanian,tazism,7,x,76,170,224
-546,42,147,73,Clarence,Clarence,Lowlands,New England,New South Wales,plains,tasmanian,tazism,7,x,75,170,224
-547,84,150,201,Clarence,Clarence,Lowlands,New England,New South Wales,plains,tasmanian,tazism,7,x,74,170,224
-548,126,153,74,Clarence,Clarence,Lowlands,New England,New South Wales,plains,tasmanian,tazism,7,x,73,170,224
-549,168,156,202,Richmond Valley,Richmond Valley,Lowlands,New England,New South Wales,plains,tasmanian,tazism,7,x,72,170,224
-550,0,159,75,Richmond Valley,Richmond Valley,Lowlands,New England,New South Wales,plains,tasmanian,tazism,7,x,71,170,224
-551,42,162,203,Rous,Rous,Lowlands,New England,New South Wales,plains,tasmanian,tazism,7,x,70,170,224
-552,84,165,76,Rous,Rous,Lowlands,New England,New South Wales,plains,tasmanian,tazism,7,x,69,170,224
-553,126,168,204,Rous,Rous,Lowlands,New England,New South Wales,plains,tasmanian,tazism,7,x,68,170,224
-554,168,171,77,Rous,Rous,Lowlands,New England,New South Wales,plains,tasmanian,tazism,7,x,67,170,224
-555,0,174,205,Buller,Buller,New Highlands,New England,New South Wales,plains,tasmanian,tazism,7,x,66,170,224
-556,42,177,78,Buller,Buller,New Highlands,New England,New South Wales,plains,tasmanian,tazism,7,x,65,170,224
-557,84,180,206,Clive,Clive,New England Tablelands,New England,New South Wales,plains,tasmanian,tazism,7,x,64,170,224
-558,126,183,79,Clive,Clive,New England Tablelands,New England,New South Wales,plains,tasmanian,tazism,7,x,63,170,224
-559,168,186,207,Clive,Clive,New England Tablelands,New England,New South Wales,plains,tasmanian,tazism,7,x,62,170,224
-560,0,189,80,Clive,Clive,New England Tablelands,New England,New South Wales,plains,tasmanian,tazism,7,x,61,170,224
-561,42,192,208,Gough,Gough,New England Tablelands,New England,New South Wales,plains,tasmanian,tazism,7,x,60,170,224
-562,84,195,81,Gough,Gough,New England Tablelands,New England,New South Wales,plains,tasmanian,tazism,7,x,59,170,224
-563,126,198,209,Gough,Gough,New England Tablelands,New England,New South Wales,plains,tasmanian,tazism,7,x,58,170,224
-564,168,201,82,Hardinge,Hardinge,Nandewar,New England,New South Wales,plains,tasmanian,tazism,7,x,57,170,224
-565,0,204,210,Hardinge,Hardinge,Nandewar,New England,New South Wales,plains,tasmanian,tazism,7,x,56,170,224
-566,42,207,83,Darling,Darling,Nandewar,New England,New South Wales,plains,tasmanian,tazism,7,x,55,170,224
-567,84,210,211,Darling,Darling,Nandewar,New England,New South Wales,plains,tasmanian,tazism,7,x,54,170,224
-568,126,0,84,Inglis,Inglis,Tamworth,New England,New South Wales,plains,tasmanian,tazism,7,x,53,170,224
-569,168,3,212,Parry,Parry,Tamworth,New England,New South Wales,plains,tasmanian,tazism,7,x,52,170,224
-570,0,6,85,Buckland,Buckland,Tamworth,New England,New South Wales,plains,tasmanian,tazism,7,x,51,170,224
-571,42,9,213,Pottinger,Pottinger,Tamworth,New England,New South Wales,plains,tasmanian,tazism,7,x,50,170,224
-572,84,12,86,Pottinger,Pottinger,Tamworth,New England,New South Wales,plains,tasmanian,tazism,7,x,49,170,224
-573,126,15,214,Pottinger,Pottinger,Tamworth,New England,New South Wales,plains,tasmanian,tazism,7,x,48,170,224
-574,168,18,87,Nandewar,Nandewar,Nandewar,New England,New South Wales,plains,tasmanian,tazism,7,x,47,170,224
-575,0,21,215,Nandewar,Nandewar,Nandewar,New England,New South Wales,plains,tasmanian,tazism,7,x,46,170,224
-576,42,24,88,Murchison,Murchison,Nandewar,New England,New South Wales,plains,tasmanian,tazism,7,x,45,170,224
-577,84,27,216,Murchison,Murchison,Nandewar,New England,New South Wales,plains,tasmanian,tazism,7,x,44,170,224
-578,126,30,89,Murchison,Murchison,Nandewar,New England,New South Wales,plains,tasmanian,tazism,7,x,43,170,224
-579,168,33,217,Arrawatta,Arrawatta,North West Slopes,New England,New South Wales,plains,tasmanian,tazism,7,x,42,170,224
-580,0,36,90,Arrawatta,Arrawatta,North West Slopes,New England,New South Wales,plains,tasmanian,tazism,7,x,41,170,224
-581,42,39,218,Arrawatta,Arrawatta,North West Slopes,New England,New South Wales,plains,tasmanian,tazism,7,x,40,170,224
-582,84,42,91,Burnett,Burnett,North West Slopes,New England,New South Wales,plains,tasmanian,tazism,7,x,39,170,224
-583,126,45,219,Burnett,Burnett,North West Slopes,New England,New South Wales,plains,tasmanian,tazism,7,x,38,170,224
-584,168,48,92,Burnett,Burnett,North West Slopes,New England,New South Wales,plains,tasmanian,tazism,7,x,37,170,224
-585,0,51,220,Stapylton,Stapylton,North West Slopes,New England,New South Wales,plains,tasmanian,tazism,7,x,36,170,224
-586,42,54,93,Stapylton,Stapylton,North West Slopes,New England,New South Wales,plains,tasmanian,tazism,7,x,35,170,224
-587,84,57,221,Stapylton,Stapylton,North West Slopes,New England,New South Wales,plains,tasmanian,tazism,7,x,34,170,224
-588,126,60,94,Courallie,Courallie,North West Slopes,New England,New South Wales,plains,tasmanian,tazism,7,x,33,170,224
-589,168,63,222,Courallie,Courallie,North West Slopes,New England,New South Wales,plains,tasmanian,tazism,7,x,32,170,224
-590,0,66,95,Benarba,Benarba,Orana,Orana,New South Wales,plains,tasmanian,tazism,7,x,168,69,12
-591,42,69,223,Benarba,Benarba,Orana,Orana,New South Wales,plains,tasmanian,tazism,7,x,168,69,13
-592,84,72,96,Benarba,Benarba,Orana,Orana,New South Wales,plains,tasmanian,tazism,7,x,168,69,14
-593,126,75,224,Benarba,Benarba,Orana,Orana,New South Wales,plains,tasmanian,tazism,7,x,168,69,15
-594,168,78,97,Jamison,Jamison,Orana,Orana,New South Wales,plains,tasmanian,tazism,7,x,168,69,16
-595,0,81,225,Jamison,Jamison,Orana,Orana,New South Wales,plains,tasmanian,tazism,7,x,168,69,17
-596,42,84,98,Jamison,Jamison,Orana,Orana,New South Wales,plains,tasmanian,tazism,7,x,168,69,18
-597,84,87,226,Jamison,Jamison,Orana,Orana,New South Wales,plains,tasmanian,tazism,7,x,168,69,19
-598,126,90,99,Jamison,Jamison,Orana,Orana,New South Wales,plains,tasmanian,tazism,7,x,168,69,20
-599,168,93,227,White,White,Orana,Orana,New South Wales,plains,tasmanian,tazism,7,x,168,69,21
-600,0,96,0,White,White,Orana,Orana,New South Wales,plains,tasmanian,tazism,7,x,168,69,22
-601,42,99,128,White,White,Orana,Orana,New South Wales,plains,tasmanian,tazism,7,x,168,69,23
-602,84,102,1,White,White,Orana,Orana,New South Wales,plains,tasmanian,tazism,7,x,168,69,24
-603,126,105,129,Napier,Napier,Orana,Orana,New South Wales,plains,tasmanian,tazism,7,x,168,69,25
-604,168,108,2,Napier,Napier,Orana,Orana,New South Wales,plains,tasmanian,tazism,7,x,168,69,26
-605,0,111,130,Napier,Napier,Orana,Orana,New South Wales,plains,tasmanian,tazism,7,x,168,69,27
-606,42,114,3,Lincoln,Lincoln,Orana,Orana,New South Wales,plains,tasmanian,tazism,7,x,168,69,28
-607,84,117,131,Lincoln,Lincoln,Orana,Orana,New South Wales,plains,tasmanian,tazism,7,x,168,69,29
-608,126,120,4,Lincoln,Lincoln,Orana,Orana,New South Wales,plains,tasmanian,tazism,7,x,168,69,30
-609,168,123,132,Gordon,Gordon,Orana,Orana,New South Wales,plains,tasmanian,tazism,7,x,168,69,31
-610,0,126,5,Gordon,Gordon,Orana,Orana,New South Wales,plains,tasmanian,tazism,7,x,168,69,32
-611,42,129,133,Ashburnham,Ashburnham,Orana,Orana,New South Wales,plains,tasmanian,tazism,7,x,168,69,33
-612,84,132,6,Ashburnham,Ashburnham,Orana,Orana,New South Wales,plains,tasmanian,tazism,7,x,168,69,34
-613,126,135,134,Ashburnham,Ashburnham,Orana,Orana,New South Wales,plains,tasmanian,tazism,7,x,168,69,35
-614,168,138,7,Ashburnham,Ashburnham,Orana,Orana,New South Wales,plains,tasmanian,tazism,7,x,168,69,36
-615,0,141,135,Forbes,Forbes,Hilltops,Riverina,New South Wales,plains,tasmanian,tazism,7,x,49,204,188
-616,42,144,8,Forbes,Forbes,Hilltops,Riverina,New South Wales,plains,tasmanian,tazism,7,x,49,203,188
-617,84,147,136,Monteagle,Monteagle,Hilltops,Riverina,New South Wales,plains,tasmanian,tazism,7,x,49,202,188
-618,126,150,9,Monteagle,Monteagle,Hilltops,Riverina,New South Wales,plains,tasmanian,tazism,7,x,49,201,188
-619,168,153,137,Harden,Harden,Harendon,Canberra,New South Wales,plains,tasmanian,tazism,7,x,8,202,0
-620,0,156,10,Harden,Harden,Harendon,Canberra,New South Wales,plains,tasmanian,tazism,7,x,8,203,0
-621,42,159,138,Harden,Harden,Harendon,Canberra,New South Wales,plains,tasmanian,tazism,7,x,8,204,0
-622,84,162,11,Buccleuch,Buccleuch,Snowy Mountains,Canberra,New South Wales,plains,tasmanian,tazism,7,x,8,205,0
-623,126,165,139,Buccleuch,Buccleuch,Snowy Mountains,Canberra,New South Wales,plains,tasmanian,tazism,7,x,8,206,0
-624,168,168,12,Selwyn,Selwyn,Snowy Mountains,Canberra,New South Wales,plains,tasmanian,tazism,7,x,8,207,0
-625,0,171,140,Selwyn,Selwyn,Snowy Mountains,Canberra,New South Wales,plains,tasmanian,tazism,7,x,8,208,0
-626,42,174,13,Selwyn,Selwyn,Snowy Mountains,Canberra,New South Wales,plains,tasmanian,tazism,7,x,8,209,0
-627,84,177,141,Selwyn,Selwyn,Snowy Mountains,Canberra,New South Wales,plains,tasmanian,tazism,7,x,8,210,0
-628,126,180,14,Wagga Wagga,Wynyard,Snowy Mountains,Canberra,New South Wales,plains,tasmanian,tazism,7,x,8,211,0
-629,168,183,142,Wagga Wagga,Wynyard,Snowy Mountains,Canberra,New South Wales,plains,tasmanian,tazism,7,x,8,212,0
-630,0,186,15,Wagga Wagga,Wynyard,Snowy Mountains,Canberra,New South Wales,plains,tasmanian,tazism,7,x,8,213,0
-631,42,189,143,Clarendon,Clarendon,Harendon,Canberra,New South Wales,plains,tasmanian,tazism,7,x,8,214,0
-632,84,192,16,Clarendon,Clarendon,Harendon,Canberra,New South Wales,plains,tasmanian,tazism,7,x,8,215,0
-633,126,195,144,Bland,Bland,Hilltops,Riverina,New South Wales,plains,tasmanian,tazism,7,x,49,214,188
-634,168,198,17,Bland,Bland,Hilltops,Riverina,New South Wales,plains,tasmanian,tazism,7,x,49,213,188
-635,0,201,145,Bland,Bland,Hilltops,Riverina,New South Wales,plains,tasmanian,tazism,7,x,49,212,188
-636,42,204,18,Gipps,Gipps,Hilltops,Riverina,New South Wales,plains,tasmanian,tazism,7,x,49,211,188
-637,84,207,146,Gipps,Gipps,Hilltops,Riverina,New South Wales,plains,tasmanian,tazism,7,x,49,210,188
-638,126,210,19,Gipps,Gipps,Hilltops,Riverina,New South Wales,plains,tasmanian,tazism,7,x,49,209,188
-639,168,0,147,Cunningham,Cunningham,Orana,Orana,New South Wales,plains,tasmanian,tazism,7,x,168,69,189
-640,0,3,20,Cunningham,Cunningham,Orana,Orana,New South Wales,plains,tasmanian,tazism,7,x,168,69,190
-641,42,6,148,Kennedy,Kennedy,Orana,Orana,New South Wales,plains,tasmanian,tazism,7,x,168,69,191
-642,84,9,21,Kennedy,Kennedy,Orana,Orana,New South Wales,plains,tasmanian,tazism,7,x,168,69,192
-643,126,12,149,Narromine,Narromine,Orana,Orana,New South Wales,plains,tasmanian,tazism,7,x,168,69,193
-644,168,15,22,Narromine,Narromine,Orana,Orana,New South Wales,plains,tasmanian,tazism,7,x,168,69,194
-645,0,18,150,Narromine,Narromine,Orana,Orana,New South Wales,plains,tasmanian,tazism,7,x,168,69,195
-646,42,21,23,Ewenmar,Ewenmar,Orana,Orana,New South Wales,plains,tasmanian,tazism,7,x,168,69,196
-647,84,24,151,Ewenmar,Ewenmar,Orana,Orana,New South Wales,plains,tasmanian,tazism,7,x,168,69,197
-648,126,27,24,Ewenmar,Ewenmar,Orana,Orana,New South Wales,plains,tasmanian,tazism,7,x,168,69,198
-649,168,30,152,Gowen,Gowen,Orana,Orana,New South Wales,plains,tasmanian,tazism,7,x,168,69,199
-650,0,33,25,Gowen,Gowen,Orana,Orana,New South Wales,plains,tasmanian,tazism,7,x,168,69,200
-651,42,36,153,Gowen,Gowen,Orana,Orana,New South Wales,plains,tasmanian,tazism,7,x,168,69,201
-652,84,39,26,Gowen,Gowen,Orana,Orana,New South Wales,plains,tasmanian,tazism,7,x,168,69,202
-653,126,42,154,Baradine,Baradine,Orana,Orana,New South Wales,plains,tasmanian,tazism,7,x,168,69,203
-654,168,45,27,Baradine,Baradine,Orana,Orana,New South Wales,plains,tasmanian,tazism,7,x,168,69,204
-655,0,48,155,Baradine,Baradine,Orana,Orana,New South Wales,plains,tasmanian,tazism,7,x,168,69,205
-656,42,51,28,Baradine,Baradine,Orana,Orana,New South Wales,plains,tasmanian,tazism,7,x,168,69,206
-657,84,54,156,Leichardt,Leichardt,Orana,Orana,New South Wales,plains,tasmanian,tazism,7,x,168,69,207
-658,126,57,29,Leichardt,Leichardt,Orana,Orana,New South Wales,plains,tasmanian,tazism,7,x,168,69,208
-659,168,60,157,Leichardt,Leichardt,Orana,Orana,New South Wales,plains,tasmanian,tazism,7,x,168,69,209
-660,0,63,30,Denham,Denham,Orana,Orana,New South Wales,plains,tasmanian,tazism,7,x,168,69,210
-661,42,66,158,Denham,Denham,Orana,Orana,New South Wales,plains,tasmanian,tazism,7,x,168,69,211
-662,84,69,31,Denham,Denham,Orana,Orana,New South Wales,plains,tasmanian,tazism,7,x,168,69,212
-663,126,72,159,Finch,Finch,Orana,Orana,New South Wales,plains,tasmanian,tazism,7,x,168,69,213
-664,168,75,32,Finch,Finch,Orana,Orana,New South Wales,plains,tasmanian,tazism,7,x,168,69,214
-665,0,78,160,Finch,Finch,Orana,Orana,New South Wales,plains,tasmanian,tazism,7,x,168,69,215
-666,42,81,33,Finch,Finch,Orana,Orana,New South Wales,plains,tasmanian,tazism,7,x,168,69,216
-667,84,84,161,Narran,Narran,Orana,Orana,New South Wales,plains,tasmanian,tazism,7,x,168,69,217
-668,126,87,34,Narran,Narran,Orana,Orana,New South Wales,plains,tasmanian,tazism,7,x,168,69,218
-669,168,90,162,Narran,Narran,Orana,Orana,New South Wales,plains,tasmanian,tazism,7,x,168,69,219
-670,0,93,35,South Culgoa,South Culgoa,Orana,Orana,New South Wales,plains,tasmanian,tazism,7,x,168,69,220
-671,42,96,163,South Culgoa,South Culgoa,Orana,Orana,New South Wales,plains,tasmanian,tazism,7,x,168,69,221
-672,84,99,36,South Culgoa,South Culgoa,Orana,Orana,New South Wales,plains,tasmanian,tazism,7,x,168,69,222
-673,126,102,164,Gunderbooka,Gunderbooka,Orana,Orana,New South Wales,plains,tasmanian,tazism,7,x,168,69,223
-674,168,105,37,Gunderbooka,Gunderbooka,Orana,Orana,New South Wales,plains,tasmanian,tazism,7,x,168,69,224
-675,0,108,165,Irrara,Irrara,Orana,Orana,New South Wales,plains,tasmanian,tazism,7,x,168,69,225
-676,42,111,38,Irrara,Irrara,Orana,Orana,New South Wales,plains,tasmanian,tazism,7,x,168,69,226
-677,84,114,166,Irrara,Irrara,Orana,Orana,New South Wales,plains,tasmanian,tazism,7,x,168,69,227
-678,126,117,39,Irrara,Irrara,Orana,Orana,New South Wales,plains,tasmanian,tazism,7,x,168,69,228
-679,168,120,167,Barrona,Barrona,Orana,Orana,New South Wales,plains,tasmanian,tazism,7,x,168,69,229
-680,0,123,40,Barrona,Barrona,Orana,Orana,New South Wales,plains,tasmanian,tazism,7,x,168,69,230
-681,42,126,168,Thoulcanna,Thoulcanna,Orana,Orana,New South Wales,plains,tasmanian,tazism,7,x,168,69,231
-682,84,129,41,Thoulcanna,Thoulcanna,Orana,Orana,New South Wales,plains,tasmanian,tazism,7,x,168,69,232
-683,126,132,169,Ularara,Ularara,Orana,Orana,New South Wales,plains,tasmanian,tazism,7,x,168,69,233
-684,168,135,42,Ularara,Ularara,Orana,Orana,New South Wales,plains,tasmanian,tazism,7,x,168,69,234
-685,0,138,170,Delalah,Delalah,Orana,Orana,New South Wales,plains,tasmanian,tazism,7,x,168,69,235
-686,42,141,43,Tongowoko,Tongowoko,Orana,Orana,New South Wales,plains,tasmanian,tazism,7,x,168,69,236
-687,84,144,171,Tongowoko,Tongowoko,Orana,Orana,New South Wales,plains,tasmanian,tazism,7,x,168,69,237
-688,126,147,44,Yantara,Yantara,Orana,Orana,New South Wales,plains,tasmanian,tazism,7,x,168,69,238
-689,168,150,172,Yantara,Yantara,Orana,Orana,New South Wales,plains,tasmanian,tazism,7,x,168,69,239
-690,0,153,45,Yantara,Yantara,Orana,Orana,New South Wales,plains,tasmanian,tazism,7,x,168,69,240
-691,42,156,173,Poole,Poole,Orana,Orana,New South Wales,plains,tasmanian,tazism,7,x,168,69,241
-692,84,159,46,Poole,Poole,Orana,Orana,New South Wales,plains,tasmanian,tazism,7,x,168,69,242
-693,126,162,174,Evlyn,Evlyn,Orana,Orana,New South Wales,plains,tasmanian,tazism,7,x,168,69,243
-694,168,165,47,Evlyn,Evlyn,Orana,Orana,New South Wales,plains,tasmanian,tazism,7,x,168,69,244
-695,0,168,175,Evlyn,Evlyn,Orana,Orana,New South Wales,plains,tasmanian,tazism,7,x,168,69,245
-696,42,171,48,Farnell,Farnell,Orana,Orana,New South Wales,plains,tasmanian,tazism,7,x,168,69,246
-697,84,174,176,Farnell,Farnell,Orana,Orana,New South Wales,plains,tasmanian,tazism,7,x,168,69,247
-698,126,177,49,Farnell,Farnell,Orana,Orana,New South Wales,plains,tasmanian,tazism,7,x,168,69,248
-699,168,180,177,Mootwingee,Mootwingee,Orana,Orana,New South Wales,plains,tasmanian,tazism,7,x,168,69,249
-700,0,183,50,Mootwingee,Mootwingee,Orana,Orana,New South Wales,plains,tasmanian,tazism,7,x,168,69,250
-701,42,186,178,Mootwingee,Mootwingee,Orana,Orana,New South Wales,plains,tasmanian,tazism,7,x,168,69,251
-702,84,189,51,Yungnulgra,Yungnulgra,Orana,Orana,New South Wales,plains,tasmanian,tazism,7,x,168,69,252
-703,126,192,179,Yungnulgra,Yungnulgra,Orana,Orana,New South Wales,plains,tasmanian,tazism,7,x,168,69,253
-704,168,195,52,Yungnulgra,Yungnulgra,Orana,Orana,New South Wales,plains,tasmanian,tazism,7,x,168,69,254
-705,0,198,180,Fitzgerlald,Fitzgerlald,Orana,Orana,New South Wales,plains,tasmanian,tazism,7,x,168,69,255
-706,42,201,53,Fitzgerlald,Fitzgerlald,Orana,Orana,New South Wales,plains,tasmanian,tazism,7,x,168,69,256
-707,84,204,181,Killara,Killara,Orana,Orana,New South Wales,plains,tasmanian,tazism,7,x,168,69,257
-708,126,207,54,Killara,Killara,Orana,Orana,New South Wales,plains,tasmanian,tazism,7,x,168,69,258
-709,168,210,182,Killara,Killara,Orana,Orana,New South Wales,plains,tasmanian,tazism,7,x,168,69,259
-710,0,0,55,Landsborough,Landsborough,Orana,Orana,New South Wales,plains,tasmanian,tazism,7,x,168,69,260
-711,42,3,183,Landsborough,Landsborough,Orana,Orana,New South Wales,plains,tasmanian,tazism,7,x,168,69,261
-712,84,6,56,Yanda,Yanda,Orana,Orana,New South Wales,plains,tasmanian,tazism,7,x,168,69,262
-713,126,9,184,Yanda,Yanda,Orana,Orana,New South Wales,plains,tasmanian,tazism,7,x,168,69,263
-714,168,12,57,Cowper,Cowper,Orana,Orana,New South Wales,plains,tasmanian,tazism,7,x,168,69,264
-715,0,15,185,Cowper,Cowper,Orana,Orana,New South Wales,plains,tasmanian,tazism,7,x,168,69,265
-716,42,18,58,Cowper,Cowper,Orana,Orana,New South Wales,plains,tasmanian,tazism,7,x,168,69,266
-717,84,21,186,Cowper,Cowper,Orana,Orana,New South Wales,plains,tasmanian,tazism,7,x,168,69,267
-718,126,24,59,Cowper,Cowper,Orana,Orana,New South Wales,plains,tasmanian,tazism,7,x,168,69,268
-719,168,27,187,Clyde,Clyde,Orana,Orana,New South Wales,plains,tasmanian,tazism,7,x,168,69,269
-720,0,30,60,Clyde,Clyde,Orana,Orana,New South Wales,plains,tasmanian,tazism,7,x,168,69,270
-721,42,33,188,Clyde,Clyde,Orana,Orana,New South Wales,plains,tasmanian,tazism,7,x,168,69,271
-722,84,36,61,Gregory,Gregory,Orana,Orana,New South Wales,plains,tasmanian,tazism,7,x,168,69,272
-723,126,39,189,Gregory,Gregory,Orana,Orana,New South Wales,plains,tasmanian,tazism,7,x,168,69,273
-724,168,42,62,Gregory,Gregory,Orana,Orana,New South Wales,plains,tasmanian,tazism,7,x,168,69,274
-725,0,45,190,Oxley,Oxley,Orana,Orana,New South Wales,plains,tasmanian,tazism,7,x,168,69,275
-726,42,48,63,Flinders,Flinders,Orana,Orana,New South Wales,plains,tasmanian,tazism,7,x,168,69,276
-727,84,51,191,Canbelego,Canbelego,Orana,Orana,New South Wales,plains,tasmanian,tazism,7,x,168,69,277
-728,126,54,64,Canbelego,Canbelego,Orana,Orana,New South Wales,plains,tasmanian,tazism,7,x,168,69,278
-729,168,57,192,Robinson,Robinson,Orana,Orana,New South Wales,plains,tasmanian,tazism,7,x,168,69,279
-730,0,60,65,Robinson,Robinson,Orana,Orana,New South Wales,plains,tasmanian,tazism,7,x,168,69,280
-731,42,63,193,Robinson,Robinson,Orana,Orana,New South Wales,plains,tasmanian,tazism,7,x,168,69,281
-732,84,66,66,Booroondarra,Booroondarra,Orana,Orana,New South Wales,plains,tasmanian,tazism,7,x,168,69,282
-733,126,69,194,Booroondarra,Booroondarra,Orana,Orana,New South Wales,plains,tasmanian,tazism,7,x,168,69,283
-734,168,72,67,Rankin,Rankin,Orana,Orana,New South Wales,plains,tasmanian,tazism,7,x,168,69,284
-735,0,75,195,Rankin,Rankin,Orana,Orana,New South Wales,plains,tasmanian,tazism,7,x,168,69,285
-736,42,78,68,Rankin,Rankin,Orana,Orana,New South Wales,plains,tasmanian,tazism,7,x,168,69,286
-737,84,81,196,Werunda,Werunda,Orana,Orana,New South Wales,plains,tasmanian,tazism,7,x,168,69,287
-738,126,84,69,Werunda,Werunda,Orana,Orana,New South Wales,plains,tasmanian,tazism,7,x,168,69,288
-739,168,87,197,Werunda,Werunda,Orana,Orana,New South Wales,plains,tasmanian,tazism,7,x,168,69,289
-740,0,90,70,Young,Young,Orana,Orana,New South Wales,plains,tasmanian,tazism,7,x,168,69,290
-741,42,93,198,Young,Young,Orana,Orana,New South Wales,plains,tasmanian,tazism,7,x,168,69,291
-742,84,96,71,Young,Young,Orana,Orana,New South Wales,plains,tasmanian,tazism,7,x,168,69,292
-743,126,99,199,Young,Young,Orana,Orana,New South Wales,plains,tasmanian,tazism,7,x,168,69,293
-744,168,102,72,Tandora,Tandora,Orana,Orana,New South Wales,plains,tasmanian,tazism,7,x,168,69,294
-745,0,105,200,Tandora,Tandora,Orana,Orana,New South Wales,plains,tasmanian,tazism,7,x,168,69,295
-746,42,108,73,Tandora,Tandora,Orana,Orana,New South Wales,plains,tasmanian,tazism,7,x,168,69,296
-747,84,111,201,Yancowinna,Yancowinna,Orana,Orana,New South Wales,plains,tasmanian,tazism,7,x,168,69,297
-748,126,114,74,Yancowinna,Yancowinna,Orana,Orana,New South Wales,plains,tasmanian,tazism,7,x,168,69,298
-749,168,117,202,Menindee,Menindee,Orana,Orana,New South Wales,plains,tasmanian,tazism,7,x,168,69,299
-750,0,120,75,Menindee,Menindee,Orana,Orana,New South Wales,plains,tasmanian,tazism,7,x,168,69,300
-751,42,123,203,Livingstone,Livingstone,Orana,Orana,New South Wales,plains,tasmanian,tazism,7,x,168,69,301
-752,84,126,76,Livingstone,Livingstone,Orana,Orana,New South Wales,plains,tasmanian,tazism,7,x,168,69,302
-753,126,129,204,Livingstone,Livingstone,Orana,Orana,New South Wales,plains,tasmanian,tazism,7,x,168,69,303
-754,168,132,77,Livingstone,Livingstone,Orana,Orana,New South Wales,plains,tasmanian,tazism,7,x,168,69,304
-755,0,135,205,Woore,Woore,Orana,Orana,New South Wales,plains,tasmanian,tazism,7,x,168,69,305
-756,42,138,78,Woore,Woore,Orana,Orana,New South Wales,plains,tasmanian,tazism,7,x,168,69,306
-757,84,141,206,Woore,Woore,Orana,Orana,New South Wales,plains,tasmanian,tazism,7,x,168,69,307
-758,126,144,79,Mossgiel,Mossgiel,Orana,Orana,New South Wales,plains,tasmanian,tazism,7,x,168,69,308
-759,168,147,207,Mossgiel,Mossgiel,Orana,Orana,New South Wales,plains,tasmanian,tazism,7,x,168,69,309
-760,0,150,80,Mossgiel,Mossgiel,Orana,Orana,New South Wales,plains,tasmanian,tazism,7,x,168,69,310
-761,42,153,208,Mossgiel,Mossgiel,Orana,Orana,New South Wales,plains,tasmanian,tazism,7,x,168,69,311
-762,84,156,81,Blaxland,Blaxland,Orana,Orana,New South Wales,plains,tasmanian,tazism,7,x,168,69,312
-763,126,159,209,Blaxland,Blaxland,Orana,Orana,New South Wales,plains,tasmanian,tazism,7,x,168,69,313
-764,168,162,82,Blaxland,Blaxland,Orana,Orana,New South Wales,plains,tasmanian,tazism,7,x,168,69,314
-765,0,165,210,Blaxland,Blaxland,Orana,Orana,New South Wales,plains,tasmanian,tazism,7,x,168,69,315
-766,42,168,83,Mouramba,Mouramba,Orana,Orana,New South Wales,plains,tasmanian,tazism,7,x,168,69,316
-767,84,171,211,Mouramba,Mouramba,Orana,Orana,New South Wales,plains,tasmanian,tazism,7,x,168,69,317
-768,126,174,84,Mouramba,Mouramba,Orana,Orana,New South Wales,plains,tasmanian,tazism,7,x,168,69,318
-769,168,177,212,Dowling,Dowling,Orana,Riverina,New South Wales,plains,tasmanian,tazism,7,x,49,68,188
-770,0,180,85,Dowling,Dowling,Orana,Riverina,New South Wales,plains,tasmanian,tazism,7,x,49,67,188
-771,42,183,213,Nicholson,Nicholson,Orana,Riverina,New South Wales,plains,tasmanian,tazism,7,x,49,66,188
-772,84,186,86,Nicholson,Nicholson,Orana,Riverina,New South Wales,plains,tasmanian,tazism,7,x,49,65,188
-773,126,189,214,Franklin,Franklin,Orana,Riverina,New South Wales,plains,tasmanian,tazism,7,x,49,64,188
-774,168,192,87,Waljeers,Waljeers,Orana,Riverina,New South Wales,plains,tasmanian,tazism,7,x,49,63,188
-775,0,195,215,Waljeers,Waljeers,Orana,Riverina,New South Wales,plains,tasmanian,tazism,7,x,49,62,188
-776,42,198,88,Manara,Manara,Orana,Orana,New South Wales,plains,tasmanian,tazism,7,x,168,69,189
-777,84,201,216,Manara,Manara,Orana,Orana,New South Wales,plains,tasmanian,tazism,7,x,168,69,190
-778,126,204,89,Manara,Manara,Orana,Orana,New South Wales,plains,tasmanian,tazism,7,x,168,69,191
-779,168,207,217,Perry,Perry,Orana,Orana,New South Wales,plains,tasmanian,tazism,7,x,168,69,192
-780,0,210,90,Perry,Perry,Orana,Orana,New South Wales,plains,tasmanian,tazism,7,x,168,69,193
-781,42,0,218,Perry,Perry,Orana,Orana,New South Wales,plains,tasmanian,tazism,7,x,168,69,194
-782,84,3,91,Windeyer,Windeyer,Orana,Orana,New South Wales,plains,tasmanian,tazism,7,x,168,69,195
-783,126,6,219,Windeyer,Windeyer,Orana,Orana,New South Wales,plains,tasmanian,tazism,7,x,168,69,196
-784,168,9,92,Windeyer,Windeyer,Orana,Orana,New South Wales,plains,tasmanian,tazism,7,x,168,69,197
-785,0,12,220,Tarawi,Tarawi,Orana,Orana,New South Wales,plains,tasmanian,tazism,7,x,168,69,198
-786,42,15,93,Tarawi,Tarawi,Orana,Orana,New South Wales,plains,tasmanian,tazism,7,x,168,69,199
-787,84,18,221,Tarawi,Tarawi,Orana,Orana,New South Wales,plains,tasmanian,tazism,7,x,168,69,200
-788,126,21,94,Wentworth,Wentworth,Orana,Orana,New South Wales,plains,tasmanian,tazism,7,x,168,69,201
-789,168,24,222,Wentworth,Wentworth,Orana,Orana,New South Wales,plains,tasmanian,tazism,7,x,168,69,202
-790,0,27,95,Wentworth,Wentworth,Orana,Orana,New South Wales,plains,tasmanian,tazism,7,x,168,69,203
-791,42,30,223,Taila,Taila,Orana,Orana,New South Wales,plains,tasmanian,tazism,7,x,168,69,204
-792,84,33,96,Taila,Taila,Orana,Orana,New South Wales,plains,tasmanian,tazism,7,x,168,69,205
-793,126,36,224,Taila,Taila,Orana,Orana,New South Wales,plains,tasmanian,tazism,7,x,168,69,206
-794,168,39,97,Kilfera,Kilfera,Riverina,Riverina,New South Wales,plains,tasmanian,tazism,7,x,49,68,188
-795,0,42,225,Kilfera,Kilfera,Riverina,Riverina,New South Wales,plains,tasmanian,tazism,7,x,49,67,188
-796,42,45,98,Kilfera,Kilfera,Riverina,Riverina,New South Wales,plains,tasmanian,tazism,7,x,49,66,188
-797,84,48,226,Caira,Caira,Riverina,Riverina,New South Wales,plains,tasmanian,tazism,7,x,49,65,188
-798,126,51,99,Caira,Caira,Riverina,Riverina,New South Wales,plains,tasmanian,tazism,7,x,49,64,188
-799,168,54,227,Caira,Caira,Riverina,Riverina,New South Wales,plains,tasmanian,tazism,7,x,49,63,188
-800,0,57,0,Caira,Caira,Riverina,Riverina,New South Wales,plains,tasmanian,tazism,7,x,49,62,188
-801,42,60,128,Waradgery,Waradgery,Riverina,Riverina,New South Wales,plains,tasmanian,tazism,7,x,49,61,188
-802,84,63,1,Waradgery,Waradgery,Riverina,Riverina,New South Wales,plains,tasmanian,tazism,7,x,49,60,188
-803,126,66,129,Waradgery,Waradgery,Riverina,Riverina,New South Wales,plains,tasmanian,tazism,7,x,49,59,188
-804,168,69,2,Waradgery,Waradgery,Riverina,Riverina,New South Wales,plains,tasmanian,tazism,7,x,49,58,188
-805,0,72,130,Sturt,Sturt,Riverina,Riverina,New South Wales,plains,tasmanian,tazism,7,x,49,57,188
-806,42,75,3,Sturt,Sturt,Riverina,Riverina,New South Wales,plains,tasmanian,tazism,7,x,49,56,188
-807,84,78,131,Boyd,Boyd,Riverina,Riverina,New South Wales,plains,tasmanian,tazism,7,x,49,55,188
-808,126,81,4,Boyd,Boyd,Riverina,Riverina,New South Wales,plains,tasmanian,tazism,7,x,49,54,188
-809,168,84,132,Cooper,Cooper,Riverina,Riverina,New South Wales,plains,tasmanian,tazism,7,x,49,53,188
-810,0,87,5,Cooper,Cooper,Riverina,Riverina,New South Wales,plains,tasmanian,tazism,7,x,49,52,188
-811,42,90,133,Cooper,Cooper,Riverina,Riverina,New South Wales,plains,tasmanian,tazism,7,x,49,51,188
-812,84,93,6,Cooper,Cooper,Riverina,Riverina,New South Wales,plains,tasmanian,tazism,7,x,49,50,188
-813,126,96,134,The Rock,The Rock,Riverina,Riverina,New South Wales,plains,tasmanian,tazism,7,x,49,49,188
-814,168,99,7,The Rock,The Rock,Riverina,Riverina,New South Wales,plains,tasmanian,tazism,7,x,49,48,188
-815,0,102,135,The Rock,The Rock,Riverina,Riverina,New South Wales,plains,tasmanian,tazism,7,x,49,47,188
-816,42,105,8,Burke,Burke,Riverina,Riverina,New South Wales,plains,tasmanian,tazism,7,x,49,46,188
-817,84,108,136,Burke,Burke,Riverina,Riverina,New South Wales,plains,tasmanian,tazism,7,x,49,45,188
-818,126,111,9,Burke,Burke,Riverina,Riverina,New South Wales,plains,tasmanian,tazism,7,x,49,44,188
-819,168,114,137,Goulburn,Goulburn,Goulburn,Canberra,New South Wales,plains,tasmanian,tazism,7,x,8,45,0
-820,0,117,10,Goulburn,Goulburn,Goulburn,Canberra,New South Wales,plains,tasmanian,tazism,7,x,8,46,0
-821,42,120,138,Goulburn,Goulburn,Goulburn,Canberra,New South Wales,plains,tasmanian,tazism,7,x,8,47,0
-822,84,123,11,Hume,Hume,Riverina,Riverina,New South Wales,plains,tasmanian,tazism,7,x,49,46,188
-823,126,126,139,Hume,Hume,Riverina,Riverina,New South Wales,plains,tasmanian,tazism,7,x,49,45,188
-824,168,129,12,Hume,Hume,Riverina,Riverina,New South Wales,plains,tasmanian,tazism,7,x,49,44,188
-825,0,132,140,Urana,Urana,Riverina,Riverina,New South Wales,plains,tasmanian,tazism,7,x,49,43,188
-826,42,135,13,Urana,Urana,Riverina,Riverina,New South Wales,plains,tasmanian,tazism,7,x,49,42,188
-827,84,138,141,Urana,Urana,Riverina,Riverina,New South Wales,plains,tasmanian,tazism,7,x,49,41,188
-828,126,141,14,Urana,Urana,Riverina,Riverina,New South Wales,plains,tasmanian,tazism,7,x,49,40,188
-829,168,144,142,Denison,Denison,Riverina,Riverina,New South Wales,plains,tasmanian,tazism,7,x,49,39,188
-830,0,147,15,Denison,Denison,Riverina,Riverina,New South Wales,plains,tasmanian,tazism,7,x,49,38,188
-831,42,150,143,Denison,Denison,Riverina,Riverina,New South Wales,plains,tasmanian,tazism,7,x,49,37,188
-832,84,153,16,Townsend,Townsend,Riverina,Riverina,New South Wales,plains,tasmanian,tazism,7,x,49,36,188
-833,126,156,144,Townsend,Townsend,Riverina,Riverina,New South Wales,plains,tasmanian,tazism,7,x,49,35,188
-834,168,159,17,Townsend,Townsend,Riverina,Riverina,New South Wales,plains,tasmanian,tazism,7,x,49,34,188
-835,0,162,145,Townsend,Townsend,Riverina,Riverina,New South Wales,plains,tasmanian,tazism,7,x,49,33,188
-836,42,165,18,Townsend,Townsend,Riverina,Riverina,New South Wales,plains,tasmanian,tazism,7,x,49,32,188
-837,84,168,146,Cadell,Cadell,Riverina,Riverina,New South Wales,plains,tasmanian,tazism,7,x,49,31,188
-838,126,171,19,Cadell,Cadell,Riverina,Riverina,New South Wales,plains,tasmanian,tazism,7,x,49,30,188
-839,168,174,147,Cadell,Cadell,Riverina,Riverina,New South Wales,plains,tasmanian,tazism,7,x,49,29,188
-840,0,177,20,Wakool,Wakool,Riverina,Riverina,New South Wales,plains,tasmanian,tazism,7,x,49,28,188
-841,42,180,148,Wakool,Wakool,Riverina,Riverina,New South Wales,plains,tasmanian,tazism,7,x,49,27,188
-842,84,183,21,Wakool,Wakool,Riverina,Riverina,New South Wales,plains,tasmanian,tazism,7,x,49,26,188
-843,126,186,149,Wakool,Wakool,Riverina,Riverina,New South Wales,plains,tasmanian,tazism,7,x,49,25,188
+441,42,45,148,Auckland,Auckland,South Coast,Canberra,New South Wales,plains,illawarran,tazism,7,x,8,97,0
+442,84,48,21,Auckland,Auckland,South Coast,Canberra,New South Wales,plains,illawarran,tazism,7,x,8,98,0
+443,126,51,149,Auckland,Auckland,South Coast,Canberra,New South Wales,plains,illawarran,tazism,7,x,8,99,0
+444,168,54,22,Wellesley,Wellesley,South Coast,Canberra,New South Wales,plains,illawarran,tazism,7,x,8,100,0
+445,0,57,150,Wellesley,Wellesley,South Coast,Canberra,New South Wales,plains,illawarran,tazism,7,x,8,101,0
+446,42,60,23,Wellesley,Wellesley,South Coast,Canberra,New South Wales,plains,illawarran,tazism,7,x,8,102,0
+447,84,63,151,Wallace,Wallace,Snowy Mountains,Canberra,New South Wales,plains,alpine,tazism,7,x,8,103,0
+448,126,66,24,Wallace,Wallace,Snowy Mountains,Canberra,New South Wales,plains,alpine,tazism,7,x,8,104,0
+449,168,69,152,Wallace,Wallace,Snowy Mountains,Canberra,New South Wales,plains,alpine,tazism,7,x,8,105,0
+450,0,72,25,Beresford,Beresford,South Coast,Canberra,New South Wales,plains,illawarran,tazism,7,x,8,106,0
+451,42,75,153,Beresford,Beresford,South Coast,Canberra,New South Wales,plains,illawarran,tazism,7,x,8,107,0
+452,84,78,26,Dampier,Dampier,South Coast,Canberra,New South Wales,plains,illawarran,tazism,7,x,8,108,0
+453,126,81,154,Dampier,Dampier,South Coast,Canberra,New South Wales,plains,illawarran,tazism,7,x,8,109,0
+454,168,84,27,Dampier,Dampier,South Coast,Canberra,New South Wales,plains,illawarran,tazism,7,x,8,110,0
+455,0,87,155,Cowley,Cowley,Capital Territory,Canberra,New South Wales,plains,illawarran,tazism,7,x,8,111,0
+456,42,90,28,Cowley,Cowley,Capital Territory,Canberra,New South Wales,plains,illawarran,tazism,7,x,8,112,0
+457,84,93,156,Canberra,Canberra,Capital Territory,Canberra,New South Wales,plains,illawarran,tazism,7,x,8,113,0
+458,126,96,29,Canberra,Canberra,Capital Territory,Canberra,New South Wales,plains,illawarran,tazism,7,x,8,114,0
+459,168,99,157,Murray,Murray,Tablelands,Nineteen Counties,New South Wales,plains,illawarran,tazism,7,x,242,121,121
+460,0,102,30,Murray,Murray,Tablelands,Nineteen Counties,New South Wales,plains,illawarran,tazism,7,x,242,120,121
+461,42,105,158,St Vincent,St Vincent,Sydney,Nineteen Counties,New South Wales,plains,illawarran,tazism,7,x,242,119,121
+462,84,108,31,St Vincent,St Vincent,Sydney,Nineteen Counties,New South Wales,plains,illawarran,tazism,7,x,242,118,121
+463,126,111,159,St Vincent,St Vincent,Sydney,Nineteen Counties,New South Wales,plains,illawarran,tazism,7,x,242,117,121
+464,168,114,32,St Vincent,St Vincent,Sydney,Nineteen Counties,New South Wales,plains,illawarran,tazism,7,x,242,116,121
+465,0,117,160,Argyle,Argyle,Tablelands,Nineteen Counties,New South Wales,plains,illawarran,tazism,7,x,242,115,121
+466,42,120,33,Argyle,Argyle,Tablelands,Nineteen Counties,New South Wales,plains,illawarran,tazism,7,x,242,114,121
+467,84,123,161,Argyle,Argyle,Tablelands,Nineteen Counties,New South Wales,plains,illawarran,tazism,7,x,242,113,121
+468,126,126,34,Argyle,Argyle,Tablelands,Nineteen Counties,New South Wales,plains,illawarran,tazism,7,x,242,112,121
+469,168,129,162,King,King,Tablelands,Nineteen Counties,New South Wales,plains,alpine,tazism,7,x,242,111,121
+470,0,132,35,King,King,Tablelands,Nineteen Counties,New South Wales,plains,alpine,tazism,7,x,242,110,121
+471,42,135,163,King,King,Tablelands,Nineteen Counties,New South Wales,plains,alpine,tazism,7,x,242,109,121
+472,84,138,36,Camden,Camden,Sydney,Nineteen Counties,New South Wales,plains,illawarran,tazism,7,x,242,108,121
+473,126,141,164,Camden,Camden,Sydney,Nineteen Counties,New South Wales,plains,illawarran,tazism,7,x,242,107,121
+474,168,144,37,Camden,Camden,Sydney,Nineteen Counties,New South Wales,plains,illawarran,tazism,7,x,242,106,121
+475,0,147,165,Camden,Camden,Sydney,Nineteen Counties,New South Wales,plains,illawarran,tazism,7,x,242,105,121
+476,42,150,38,Oberon,Oberon,Blue Mountains,Nineteen Counties,New South Wales,plains,alpine,tazism,7,x,242,104,121
+477,84,153,166,Oberon,Oberon,Blue Mountains,Nineteen Counties,New South Wales,plains,alpine,tazism,7,x,242,103,121
+478,126,156,39,Oberon,Oberon,Blue Mountains,Nineteen Counties,New South Wales,plains,alpine,tazism,7,x,242,102,121
+479,168,159,167,Georgiana,Georgiana,Tablelands,Nineteen Counties,New South Wales,plains,alpine,tazism,7,x,242,101,121
+480,0,162,40,Georgiana,Georgiana,Tablelands,Nineteen Counties,New South Wales,plains,alpine,tazism,7,x,242,100,121
+481,42,165,168,Bathurst,Bathurst,Tablelands,Nineteen Counties,New South Wales,plains,alpine,tazism,7,x,242,99,121
+482,84,168,41,Bathurst,Bathurst,Tablelands,Nineteen Counties,New South Wales,plains,alpine,tazism,7,x,242,98,121
+483,126,171,169,Bathurst,Bathurst,Tablelands,Nineteen Counties,New South Wales,plains,alpine,tazism,7,x,242,97,121
+484,168,174,42,Wellington,Wellington,Mudgee,Nineteen Counties,New South Wales,plains,alpine,tazism,7,x,242,96,121
+485,0,177,170,Wellington,Wellington,Mudgee,Nineteen Counties,New South Wales,plains,alpine,tazism,7,x,242,95,121
+486,42,180,43,Wellington,Wellington,Mudgee,Nineteen Counties,New South Wales,plains,alpine,tazism,7,x,242,94,121
+487,84,183,171,Roxburgh,Roxburgh,Mudgee,Nineteen Counties,New South Wales,plains,alpine,tazism,7,x,242,93,121
+488,126,186,44,Roxburgh,Roxburgh,Mudgee,Nineteen Counties,New South Wales,plains,alpine,tazism,7,x,242,92,121
+489,168,189,172,Cook,Cook,Blue Mountains,Nineteen Counties,New South Wales,plains,alpine,tazism,7,x,242,91,121
+490,0,192,45,Cook,Cook,Blue Mountains,Nineteen Counties,New South Wales,plains,alpine,tazism,7,x,242,90,121
+491,42,195,173,Cook,Cook,Blue Mountains,Nineteen Counties,New South Wales,plains,alpine,tazism,7,x,242,89,121
+492,84,198,46,Botany,Cumberland,Sydney,Nineteen Counties,New South Wales,plains,illawarran,tazism,7,x,242,88,121
+493,126,201,174,Sydney,Cumberland,Sydney,Nineteen Counties,New South Wales,plains,illawarran,tazism,7,x,242,87,121
+494,168,204,47,Macarthur,Cumberland,Sydney,Nineteen Counties,New South Wales,plains,illawarran,tazism,7,x,242,86,121
+495,0,207,175,Penrith,Cumberland,Sydney,Nineteen Counties,New South Wales,plains,illawarran,tazism,7,x,242,85,121
+496,42,210,48,Northumberland,Northumberland,Sydney,Nineteen Counties,New South Wales,plains,new english,tazism,7,x,242,84,121
+497,84,0,176,Northumberland,Northumberland,Sydney,Nineteen Counties,New South Wales,plains,new english,tazism,7,x,242,83,121
+498,126,3,49,Northumberland,Northumberland,Sydney,Nineteen Counties,New South Wales,plains,new english,tazism,7,x,242,82,121
+499,168,6,177,Northumberland,Northumberland,Sydney,Nineteen Counties,New South Wales,plains,new english,tazism,7,x,242,81,121
+500,0,9,50,Hunter,Hunter,Blue Mountains,Nineteen Counties,New South Wales,plains,alpine,tazism,7,x,242,80,121
+501,42,12,178,Hunter,Hunter,Blue Mountains,Nineteen Counties,New South Wales,plains,alpine,tazism,7,x,242,79,121
+502,84,15,51,Phillip,Phillip,Mudgee,Nineteen Counties,New South Wales,plains,alpine,tazism,7,x,242,78,121
+503,126,18,179,Phillip,Phillip,Mudgee,Nineteen Counties,New South Wales,plains,alpine,tazism,7,x,242,77,121
+504,168,21,52,Phillip,Phillip,Mudgee,Nineteen Counties,New South Wales,plains,alpine,tazism,7,x,242,76,121
+505,0,24,180,Bligh,Bligh,Mudgee,Nineteen Counties,New South Wales,plains,alpine,tazism,7,x,242,75,121
+506,42,27,53,Bligh,Bligh,Mudgee,Nineteen Counties,New South Wales,plains,alpine,tazism,7,x,242,74,121
+507,84,30,181,Scone,Scone,Hunter,Nineteen Counties,New South Wales,plains,alpine,tazism,7,x,242,73,121
+508,126,33,54,Scone,Scone,Hunter,Nineteen Counties,New South Wales,plains,alpine,tazism,7,x,242,72,121
+509,168,36,182,Scone,Scone,Hunter,Nineteen Counties,New South Wales,plains,alpine,tazism,7,x,242,71,121
+510,0,39,55,Muswellbrook,Muswellbrook,Hunter,Nineteen Counties,New South Wales,plains,new english,tazism,7,x,242,70,121
+511,42,42,183,Muswellbrook,Muswellbrook,Hunter,Nineteen Counties,New South Wales,plains,new english,tazism,7,x,242,69,121
+512,84,45,56,Muswellbrook,Muswellbrook,Hunter,Nineteen Counties,New South Wales,plains,new english,tazism,7,x,242,68,121
+513,126,48,184,Gloucester,Gloucester,Hunter,Nineteen Counties,New South Wales,plains,new english,tazism,7,x,242,67,121
+514,168,51,57,Gloucester,Gloucester,Hunter,Nineteen Counties,New South Wales,plains,new english,tazism,7,x,242,66,121
+515,0,54,185,Gloucester,Gloucester,Hunter,Nineteen Counties,New South Wales,plains,new english,tazism,7,x,242,65,121
+516,42,57,58,Gloucester,Gloucester,Hunter,Nineteen Counties,New South Wales,plains,new english,tazism,7,x,242,64,121
+517,84,60,186,Gloucester,Gloucester,Hunter,Nineteen Counties,New South Wales,plains,new english,tazism,7,x,242,63,121
+518,126,63,59,Macquarie,Macquarie,Portharbour,New England,New South Wales,plains,new english,tazism,7,x,103,170,224
+519,168,66,187,Macquarie,Macquarie,Portharbour,New England,New South Wales,plains,new english,tazism,7,x,102,170,224
+520,0,69,60,Macquarie,Macquarie,Portharbour,New England,New South Wales,plains,new english,tazism,7,x,101,170,224
+521,42,72,188,Macquarie,Macquarie,Portharbour,New England,New South Wales,plains,new english,tazism,7,x,100,170,224
+522,84,75,61,Hawes,Hawes,Binghi,New England,New South Wales,plains,new english,tazism,7,x,99,170,224
+523,126,78,189,Hawes,Hawes,Binghi,New England,New South Wales,plains,new english,tazism,7,x,98,170,224
+524,168,81,62,Hawes,Hawes,Binghi,New England,New South Wales,plains,new english,tazism,7,x,97,170,224
+525,0,84,190,Dudley,Dudley,Portharbour,New England,New South Wales,plains,new english,tazism,7,x,96,170,224
+526,126,21,144,Dudley,Dudley,Portharbour,New England,New South Wales,plains,new english,tazism,7,x,95,170,224
+527,84,90,191,Vernon,Vernon,Binghi,New England,New South Wales,plains,new english,tazism,7,x,94,170,224
+528,126,93,64,Vernon,Vernon,Binghi,New England,New South Wales,plains,new english,tazism,7,x,93,170,224
+529,168,96,192,Vernon,Vernon,Binghi,New England,New South Wales,plains,new english,tazism,7,x,92,170,224
+530,0,99,65,Sandon,Sandon,Binghi,New England,New South Wales,plains,new english,tazism,7,x,91,170,224
+531,42,102,193,Sandon,Sandon,Binghi,New England,New South Wales,plains,new english,tazism,7,x,90,170,224
+532,84,105,66,Clarke,Clarke,New England Tablelands,New England,New South Wales,plains,new english,tazism,7,x,89,170,224
+533,126,108,194,Clarke,Clarke,New England Tablelands,New England,New South Wales,plains,new english,tazism,7,x,88,170,224
+534,168,111,67,Clarke,Clarke,New England Tablelands,New England,New South Wales,plains,new english,tazism,7,x,87,170,224
+535,0,114,195,Raleigh,Raleigh,Portharbour,New England,New South Wales,plains,new english,tazism,7,x,86,170,224
+536,42,117,68,Raleigh,Raleigh,Portharbour,New England,New South Wales,plains,new english,tazism,7,x,85,170,224
+537,84,120,196,Fitzroy,Fitzroy,Portharbour,New England,New South Wales,plains,new english,tazism,7,x,84,170,224
+538,126,123,69,Fitzroy,Fitzroy,Portharbour,New England,New South Wales,plains,new english,tazism,7,x,83,170,224
+539,168,126,197,Fitzroy,Fitzroy,Portharbour,New England,New South Wales,plains,new english,tazism,7,x,82,170,224
+540,0,129,70,Fitzroy,Fitzroy,Portharbour,New England,New South Wales,plains,new english,tazism,7,x,81,170,224
+541,42,132,198,Gresham,Gresham,New England Tablelands,New England,New South Wales,plains,new english,tazism,7,x,80,170,224
+542,84,135,71,Gresham,Gresham,New England Tablelands,New England,New South Wales,plains,new english,tazism,7,x,79,170,224
+543,126,138,199,Drake,Drake,New Highlands,New England,New South Wales,plains,new english,tazism,7,x,78,170,224
+544,168,141,72,Drake,Drake,New Highlands,New England,New South Wales,plains,new english,tazism,7,x,77,170,224
+545,0,144,200,Drake,Drake,New Highlands,New England,New South Wales,plains,new english,tazism,7,x,76,170,224
+546,42,147,73,Clarence,Clarence,Lowlands,New England,New South Wales,plains,new english,tazism,7,x,75,170,224
+547,84,150,201,Clarence,Clarence,Lowlands,New England,New South Wales,plains,new english,tazism,7,x,74,170,224
+548,126,153,74,Clarence,Clarence,Lowlands,New England,New South Wales,plains,new english,tazism,7,x,73,170,224
+549,168,156,202,Richmond Valley,Richmond Valley,Lowlands,New England,New South Wales,plains,new english,tazism,7,x,72,170,224
+550,0,159,75,Richmond Valley,Richmond Valley,Lowlands,New England,New South Wales,plains,new english,tazism,7,x,71,170,224
+551,42,162,203,Rous,Rous,Lowlands,New England,New South Wales,plains,new english,tazism,7,x,70,170,224
+552,84,165,76,Rous,Rous,Lowlands,New England,New South Wales,plains,new english,tazism,7,x,69,170,224
+553,126,168,204,Rous,Rous,Lowlands,New England,New South Wales,plains,new english,tazism,7,x,68,170,224
+554,168,171,77,Rous,Rous,Lowlands,New England,New South Wales,plains,new english,tazism,7,x,67,170,224
+555,0,174,205,Buller,Buller,New Highlands,New England,New South Wales,plains,new english,tazism,7,x,66,170,224
+556,42,177,78,Buller,Buller,New Highlands,New England,New South Wales,plains,new english,tazism,7,x,65,170,224
+557,84,180,206,Clive,Clive,New England Tablelands,New England,New South Wales,plains,new english,tazism,7,x,64,170,224
+558,126,183,79,Clive,Clive,New England Tablelands,New England,New South Wales,plains,new english,tazism,7,x,63,170,224
+559,168,186,207,Clive,Clive,New England Tablelands,New England,New South Wales,plains,new english,tazism,7,x,62,170,224
+560,0,189,80,Clive,Clive,New England Tablelands,New England,New South Wales,plains,new english,tazism,7,x,61,170,224
+561,42,192,208,Gough,Gough,New England Tablelands,New England,New South Wales,plains,new english,tazism,7,x,60,170,224
+562,84,195,81,Gough,Gough,New England Tablelands,New England,New South Wales,plains,new english,tazism,7,x,59,170,224
+563,126,198,209,Gough,Gough,New England Tablelands,New England,New South Wales,plains,new english,tazism,7,x,58,170,224
+564,168,201,82,Hardinge,Hardinge,Nandewar,New England,New South Wales,plains,rivers,tazism,7,x,57,170,224
+565,0,204,210,Hardinge,Hardinge,Nandewar,New England,New South Wales,plains,rivers,tazism,7,x,56,170,224
+566,42,207,83,Darling,Darling,Nandewar,New England,New South Wales,plains,rivers,tazism,7,x,55,170,224
+567,84,210,211,Darling,Darling,Nandewar,New England,New South Wales,plains,rivers,tazism,7,x,54,170,224
+568,126,0,84,Inglis,Inglis,Tamworth,New England,New South Wales,plains,rivers,tazism,7,x,53,170,224
+569,168,3,212,Parry,Parry,Tamworth,New England,New South Wales,plains,rivers,tazism,7,x,52,170,224
+570,0,6,85,Buckland,Buckland,Tamworth,New England,New South Wales,plains,rivers,tazism,7,x,51,170,224
+571,42,9,213,Pottinger,Pottinger,Tamworth,New England,New South Wales,plains,rivers,tazism,7,x,50,170,224
+572,84,12,86,Pottinger,Pottinger,Tamworth,New England,New South Wales,plains,rivers,tazism,7,x,49,170,224
+573,126,15,214,Pottinger,Pottinger,Tamworth,New England,New South Wales,plains,rivers,tazism,7,x,48,170,224
+574,168,18,87,Nandewar,Nandewar,Nandewar,New England,New South Wales,plains,rivers,tazism,7,x,47,170,224
+575,0,21,215,Nandewar,Nandewar,Nandewar,New England,New South Wales,plains,rivers,tazism,7,x,46,170,224
+576,42,24,88,Murchison,Murchison,Nandewar,New England,New South Wales,plains,rivers,tazism,7,x,45,170,224
+577,84,27,216,Murchison,Murchison,Nandewar,New England,New South Wales,plains,rivers,tazism,7,x,44,170,224
+578,126,30,89,Murchison,Murchison,Nandewar,New England,New South Wales,plains,rivers,tazism,7,x,43,170,224
+579,168,33,217,Arrawatta,Arrawatta,North West Slopes,New England,New South Wales,plains,rivers,tazism,7,x,42,170,224
+580,0,36,90,Arrawatta,Arrawatta,North West Slopes,New England,New South Wales,plains,rivers,tazism,7,x,41,170,224
+581,42,39,218,Arrawatta,Arrawatta,North West Slopes,New England,New South Wales,plains,rivers,tazism,7,x,40,170,224
+582,84,42,91,Burnett,Burnett,North West Slopes,New England,New South Wales,plains,rivers,tazism,7,x,39,170,224
+583,126,45,219,Burnett,Burnett,North West Slopes,New England,New South Wales,plains,rivers,tazism,7,x,38,170,224
+584,168,48,92,Burnett,Burnett,North West Slopes,New England,New South Wales,plains,rivers,tazism,7,x,37,170,224
+585,0,51,220,Stapylton,Stapylton,North West Slopes,New England,New South Wales,plains,rivers,tazism,7,x,36,170,224
+586,42,54,93,Stapylton,Stapylton,North West Slopes,New England,New South Wales,plains,rivers,tazism,7,x,35,170,224
+587,84,57,221,Stapylton,Stapylton,North West Slopes,New England,New South Wales,plains,rivers,tazism,7,x,34,170,224
+588,126,60,94,Courallie,Courallie,North West Slopes,New England,New South Wales,plains,rivers,tazism,7,x,33,170,224
+589,168,63,222,Courallie,Courallie,North West Slopes,New England,New South Wales,plains,rivers,tazism,7,x,32,170,224
+590,0,66,95,Benarba,Benarba,Orana,Orana,New South Wales,plains,rivers,tazism,7,x,168,69,12
+591,42,69,223,Benarba,Benarba,Orana,Orana,New South Wales,plains,rivers,tazism,7,x,168,69,13
+592,84,72,96,Benarba,Benarba,Orana,Orana,New South Wales,plains,rivers,tazism,7,x,168,69,14
+593,126,75,224,Benarba,Benarba,Orana,Orana,New South Wales,plains,rivers,tazism,7,x,168,69,15
+594,168,78,97,Jamison,Jamison,Nandewar,New England,New South Wales,plains,rivers,tazism,7,x,168,69,16
+595,0,81,225,Jamison,Jamison,Nandewar,New England,New South Wales,plains,rivers,tazism,7,x,168,69,17
+596,42,84,98,Jamison,Jamison,Nandewar,New England,New South Wales,plains,rivers,tazism,7,x,168,69,18
+597,84,87,226,Jamison,Jamison,Nandewar,New England,New South Wales,plains,rivers,tazism,7,x,168,69,19
+598,126,90,99,Jamison,Jamison,Nandewar,New England,New South Wales,plains,rivers,tazism,7,x,168,69,20
+599,168,93,227,White,White,Leichardt,Orana,New South Wales,plains,rivers,tazism,7,x,168,69,21
+600,0,96,0,White,White,Leichardt,Orana,New South Wales,plains,rivers,tazism,7,x,168,69,22
+601,42,99,128,White,White,Leichardt,Orana,New South Wales,plains,rivers,tazism,7,x,168,69,23
+602,84,102,1,White,White,Leichardt,Orana,New South Wales,plains,rivers,tazism,7,x,168,69,24
+603,126,105,129,Napier,Napier,Leichardt,Orana,New South Wales,plains,rivers,tazism,7,x,168,69,25
+604,168,108,2,Napier,Napier,Leichardt,Orana,New South Wales,plains,rivers,tazism,7,x,168,69,26
+605,0,111,130,Napier,Napier,Leichardt,Orana,New South Wales,plains,rivers,tazism,7,x,168,69,27
+606,42,114,3,Lincoln,Lincoln,Lincoln,Mourewenmar,New South Wales,plains,wamboolian,tazism,7,x,168,69,28
+607,84,117,131,Lincoln,Lincoln,Lincoln,Mourewenmar,New South Wales,plains,wamboolian,tazism,7,x,168,69,29
+608,126,120,4,Lincoln,Lincoln,Lincoln,Mourewenmar,New South Wales,plains,wamboolian,tazism,7,x,168,69,30
+609,168,123,132,Gordon,Gordon,Lincoln,Mourewenmar,New South Wales,plains,wamboolian,tazism,7,x,168,69,31
+610,0,126,5,Gordon,Gordon,Lincoln,Mourewenmar,New South Wales,plains,wamboolian,tazism,7,x,168,69,32
+611,42,129,133,Ashburnham,Ashburnham,Lincoln,Mourewenmar,New South Wales,plains,wamboolian,tazism,7,x,168,69,33
+612,84,132,6,Ashburnham,Ashburnham,Lincoln,Mourewenmar,New South Wales,plains,wamboolian,tazism,7,x,168,69,34
+613,126,135,134,Ashburnham,Ashburnham,Lincoln,Mourewenmar,New South Wales,plains,wamboolian,tazism,7,x,168,69,35
+614,168,138,7,Ashburnham,Ashburnham,Lincoln,Mourewenmar,New South Wales,plains,wamboolian,tazism,7,x,168,69,36
+615,0,141,135,Forbes,Forbes,Hilltops,Riverina,New South Wales,plains,wamboolian,tazism,7,x,49,204,188
+616,42,144,8,Forbes,Forbes,Hilltops,Riverina,New South Wales,plains,wamboolian,tazism,7,x,49,203,188
+617,84,147,136,Monteagle,Monteagle,Hilltops,Riverina,New South Wales,plains,alpine,tazism,7,x,49,202,188
+618,126,150,9,Monteagle,Monteagle,Hilltops,Riverina,New South Wales,plains,alpine,tazism,7,x,49,201,188
+619,168,153,137,Harden,Harden,Harendon,Canberra,New South Wales,plains,alpine,tazism,7,x,8,202,0
+620,0,156,10,Harden,Harden,Harendon,Canberra,New South Wales,plains,alpine,tazism,7,x,8,203,0
+621,42,159,138,Harden,Harden,Harendon,Canberra,New South Wales,plains,alpine,tazism,7,x,8,204,0
+622,84,162,11,Buccleuch,Buccleuch,Snowy Mountains,Canberra,New South Wales,plains,alpine,tazism,7,x,8,205,0
+623,126,165,139,Buccleuch,Buccleuch,Snowy Mountains,Canberra,New South Wales,plains,alpine,tazism,7,x,8,206,0
+624,168,168,12,Selwyn,Selwyn,Snowy Mountains,Canberra,New South Wales,plains,alpine,tazism,7,x,8,207,0
+625,0,171,140,Selwyn,Selwyn,Snowy Mountains,Canberra,New South Wales,plains,alpine,tazism,7,x,8,208,0
+626,42,174,13,Selwyn,Selwyn,Snowy Mountains,Canberra,New South Wales,plains,alpine,tazism,7,x,8,209,0
+627,84,177,141,Selwyn,Selwyn,Snowy Mountains,Canberra,New South Wales,plains,alpine,tazism,7,x,8,210,0
+628,126,180,14,Wagga Wagga,Wynyard,Snowy Mountains,Canberra,New South Wales,plains,alpine,tazism,7,x,8,211,0
+629,168,183,142,Wagga Wagga,Wynyard,Snowy Mountains,Canberra,New South Wales,plains,alpine,tazism,7,x,8,212,0
+630,0,186,15,Wagga Wagga,Wynyard,Snowy Mountains,Canberra,New South Wales,plains,alpine,tazism,7,x,8,213,0
+631,42,189,143,Clarendon,Clarendon,Harendon,Canberra,New South Wales,plains,murrumbidgeen,tazism,7,x,8,214,0
+632,84,192,16,Clarendon,Clarendon,Harendon,Canberra,New South Wales,plains,murrumbidgeen,tazism,7,x,8,215,0
+633,126,195,144,Bland,Bland,Hilltops,Riverina,New South Wales,plains,wamboolian,tazism,7,x,49,214,188
+634,168,198,17,Bland,Bland,Hilltops,Riverina,New South Wales,plains,wamboolian,tazism,7,x,49,213,188
+635,0,201,145,Bland,Bland,Hilltops,Riverina,New South Wales,plains,wamboolian,tazism,7,x,49,212,188
+636,42,204,18,Gipps,Gipps,Hilltops,Riverina,New South Wales,plains,wamboolian,tazism,7,x,49,211,188
+637,84,207,146,Gipps,Gipps,Hilltops,Riverina,New South Wales,plains,wamboolian,tazism,7,x,49,210,188
+638,126,210,19,Gipps,Gipps,Hilltops,Riverina,New South Wales,plains,wamboolian,tazism,7,x,49,209,188
+639,168,0,147,Cunningham,Cunningham,Ewenmar,Mourewenmar,New South Wales,plains,wamboolian,tazism,7,x,168,69,189
+640,0,3,20,Cunningham,Cunningham,Ewenmar,Mourewenmar,New South Wales,plains,wamboolian,tazism,7,x,168,69,190
+641,42,6,148,Kennedy,Kennedy,Ewenmar,Mourewenmar,New South Wales,plains,wamboolian,tazism,7,x,168,69,191
+642,84,9,21,Kennedy,Kennedy,Ewenmar,Mourewenmar,New South Wales,plains,wamboolian,tazism,7,x,168,69,192
+643,126,12,149,Narromine,Narromine,Ewenmar,Mourewenmar,New South Wales,plains,wamboolian,tazism,7,x,168,69,193
+644,168,15,22,Narromine,Narromine,Ewenmar,Mourewenmar,New South Wales,plains,wamboolian,tazism,7,x,168,69,194
+645,0,18,150,Narromine,Narromine,Ewenmar,Mourewenmar,New South Wales,plains,wamboolian,tazism,7,x,168,69,195
+646,42,21,23,Ewenmar,Ewenmar,Ewenmar,Mourewenmar,New South Wales,plains,wamboolian,tazism,7,x,168,69,196
+647,84,24,151,Ewenmar,Ewenmar,Ewenmar,Mourewenmar,New South Wales,plains,wamboolian,tazism,7,x,168,69,197
+648,126,27,24,Ewenmar,Ewenmar,Ewenmar,Mourewenmar,New South Wales,plains,wamboolian,tazism,7,x,168,69,198
+649,168,30,152,Gowen,Gowen,Leichardt,Orana,New South Wales,plains,wamboolian,tazism,7,x,168,69,199
+650,0,33,25,Gowen,Gowen,Leichardt,Orana,New South Wales,plains,wamboolian,tazism,7,x,168,69,200
+651,42,36,153,Gowen,Gowen,Leichardt,Orana,New South Wales,plains,wamboolian,tazism,7,x,168,69,201
+652,84,39,26,Gowen,Gowen,Leichardt,Orana,New South Wales,plains,wamboolian,tazism,7,x,168,69,202
+653,126,42,154,Baradine,Baradine,Leichardt,Orana,New South Wales,plains,rivers,tazism,7,x,168,69,203
+654,168,45,27,Baradine,Baradine,Leichardt,Orana,New South Wales,plains,rivers,tazism,7,x,168,69,204
+655,0,48,155,Baradine,Baradine,Leichardt,Orana,New South Wales,plains,rivers,tazism,7,x,168,69,205
+656,42,51,28,Baradine,Baradine,Leichardt,Orana,New South Wales,plains,rivers,tazism,7,x,168,69,206
+657,84,54,156,Leichardt,Leichardt,Leichardt,Orana,New South Wales,plains,murrawarrian,tazism,7,x,168,69,207
+658,126,57,29,Leichardt,Leichardt,Leichardt,Orana,New South Wales,plains,murrawarrian,tazism,7,x,168,69,208
+659,168,60,157,Leichardt,Leichardt,Leichardt,Orana,New South Wales,plains,murrawarrian,tazism,7,x,168,69,209
+660,0,63,30,Denham,Denham,Orana,Orana,New South Wales,plains,rivers,tazism,7,x,168,69,210
+661,42,66,158,Denham,Denham,Orana,Orana,New South Wales,plains,rivers,tazism,7,x,168,69,211
+662,84,69,31,Denham,Denham,Orana,Orana,New South Wales,plains,rivers,tazism,7,x,168,69,212
+663,126,72,159,Finch,Finch,Orana,Orana,New South Wales,plains,murrawarrian,tazism,7,x,168,69,213
+664,168,75,32,Finch,Finch,Orana,Orana,New South Wales,plains,murrawarrian,tazism,7,x,168,69,214
+665,0,78,160,Finch,Finch,Orana,Orana,New South Wales,plains,murrawarrian,tazism,7,x,168,69,215
+666,42,81,33,Finch,Finch,Orana,Orana,New South Wales,plains,murrawarrian,tazism,7,x,168,69,216
+667,84,84,161,Narran,Narran,Orana,Orana,New South Wales,plains,murrawarrian,tazism,7,x,168,69,217
+668,126,87,34,Narran,Narran,Orana,Orana,New South Wales,plains,murrawarrian,tazism,7,x,168,69,218
+669,168,90,162,Narran,Narran,Orana,Orana,New South Wales,plains,murrawarrian,tazism,7,x,168,69,219
+670,0,93,35,South Culgoa,South Culgoa,Irrara,Orana,New South Wales,plains,murrawarrian,tazism,7,x,168,69,220
+671,42,96,163,South Culgoa,South Culgoa,Irrara,Orana,New South Wales,plains,murrawarrian,tazism,7,x,168,69,221
+672,84,99,36,South Culgoa,South Culgoa,Irrara,Orana,New South Wales,plains,murrawarrian,tazism,7,x,168,69,222
+673,126,102,164,Gunderbooka,Gunderbooka,Irrara,Orana,New South Wales,plains,murrawarrian,tazism,7,x,168,69,223
+674,168,105,37,Gunderbooka,Gunderbooka,Irrara,Orana,New South Wales,plains,murrawarrian,tazism,7,x,168,69,224
+675,0,108,165,Irrara,Irrara,Irrara,Orana,New South Wales,plains,murrawarrian,tazism,7,x,168,69,225
+676,42,111,38,Irrara,Irrara,Irrara,Orana,New South Wales,plains,murrawarrian,tazism,7,x,168,69,226
+677,84,114,166,Irrara,Irrara,Irrara,Orana,New South Wales,plains,murrawarrian,tazism,7,x,168,69,227
+678,126,117,39,Irrara,Irrara,Irrara,Orana,New South Wales,plains,murrawarrian,tazism,7,x,168,69,228
+679,168,120,167,Barrona,Barrona,Irrara,Orana,New South Wales,plains,murrawarrian,tazism,7,x,168,69,229
+680,0,123,40,Barrona,Barrona,Irrara,Orana,New South Wales,plains,murrawarrian,tazism,7,x,168,69,230
+681,42,126,168,Thoulcanna,Thoulcanna,Ularara,Far West,New South Wales,plains,baaka,tazism,7,x,168,69,231
+682,84,129,41,Thoulcanna,Thoulcanna,Ularara,Far West,New South Wales,plains,baaka,tazism,7,x,168,69,232
+683,126,132,169,Ularara,Ularara,Ularara,Far West,New South Wales,plains,baaka,tazism,7,x,168,69,233
+684,168,135,42,Ularara,Ularara,Ularara,Far West,New South Wales,plains,baaka,tazism,7,x,168,69,234
+685,0,138,170,Delalah,Delalah,Ularara,Far West,New South Wales,plains,baaka,tazism,7,x,168,69,235
+686,42,141,43,Tongowoko,Tongowoko,Evlyn,Far West,New South Wales,plains,baaka,tazism,7,x,168,69,236
+687,84,144,171,Tongowoko,Tongowoko,Evlyn,Far West,New South Wales,plains,baaka,tazism,7,x,168,69,237
+688,126,147,44,Yantara,Yantara,Ularara,Far West,New South Wales,plains,baaka,tazism,7,x,168,69,238
+689,168,150,172,Yantara,Yantara,Ularara,Far West,New South Wales,plains,baaka,tazism,7,x,168,69,239
+690,0,153,45,Yantara,Yantara,Ularara,Far West,New South Wales,plains,baaka,tazism,7,x,168,69,240
+691,42,156,173,Poole,Poole,Evlyn,Far West,New South Wales,plains,baaka,tazism,7,x,168,69,241
+692,84,159,46,Poole,Poole,Evlyn,Far West,New South Wales,plains,baaka,tazism,7,x,168,69,242
+693,126,162,174,Evlyn,Evlyn,Evlyn,Far West,New South Wales,plains,baaka,tazism,7,x,168,69,243
+694,168,165,47,Evlyn,Evlyn,Evlyn,Far West,New South Wales,plains,baaka,tazism,7,x,168,69,244
+695,0,168,175,Evlyn,Evlyn,Evlyn,Far West,New South Wales,plains,baaka,tazism,7,x,168,69,245
+696,42,171,48,Farnell,Farnell,Evlyn,Far West,New South Wales,plains,baaka,tazism,7,x,168,69,246
+697,84,174,176,Farnell,Farnell,Evlyn,Far West,New South Wales,plains,baaka,tazism,7,x,168,69,247
+698,126,177,49,Farnell,Farnell,Evlyn,Far West,New South Wales,plains,baaka,tazism,7,x,168,69,248
+699,168,180,177,Mootwingee,Mootwingee,Evlyn,Far West,New South Wales,plains,baaka,tazism,7,x,168,69,249
+700,0,183,50,Mootwingee,Mootwingee,Evlyn,Far West,New South Wales,plains,baaka,tazism,7,x,168,69,250
+701,42,186,178,Mootwingee,Mootwingee,Evlyn,Far West,New South Wales,plains,baaka,tazism,7,x,168,69,251
+702,84,189,51,Yungnulgra,Yungnulgra,Killara,Far West,New South Wales,plains,baaka,tazism,7,x,168,69,252
+703,126,192,179,Yungnulgra,Yungnulgra,Killara,Far West,New South Wales,plains,baaka,tazism,7,x,168,69,253
+704,168,195,52,Yungnulgra,Yungnulgra,Killara,Far West,New South Wales,plains,baaka,tazism,7,x,168,69,254
+705,0,198,180,Fitzgerlald,Fitzgerlald,Killara,Far West,New South Wales,plains,baaka,tazism,7,x,168,69,255
+706,42,201,53,Fitzgerlald,Fitzgerlald,Killara,Far West,New South Wales,plains,baaka,tazism,7,x,168,69,256
+707,84,204,181,Killara,Killara,Killara,Far West,New South Wales,plains,baaka,tazism,7,x,168,69,257
+708,126,207,54,Killara,Killara,Killara,Far West,New South Wales,plains,baaka,tazism,7,x,168,69,258
+709,168,210,182,Killara,Killara,Killara,Far West,New South Wales,plains,baaka,tazism,7,x,168,69,259
+710,0,0,55,Landsborough,Landsborough,Irrara,Orana,New South Wales,plains,baaka,tazism,7,x,168,69,260
+711,42,3,183,Landsborough,Landsborough,Irrara,Orana,New South Wales,plains,baaka,tazism,7,x,168,69,261
+712,84,6,56,Yanda,Yanda,Killara,Far West,New South Wales,plains,wamboolian,tazism,7,x,168,69,262
+713,126,9,184,Yanda,Yanda,Killara,Far West,New South Wales,plains,wamboolian,tazism,7,x,168,69,263
+714,168,12,57,Cowper,Cowper,Clyde,Orana,New South Wales,plains,murrawarrian,tazism,7,x,168,69,264
+715,0,15,185,Cowper,Cowper,Clyde,Orana,New South Wales,plains,murrawarrian,tazism,7,x,168,69,265
+716,42,18,58,Cowper,Cowper,Clyde,Orana,New South Wales,plains,murrawarrian,tazism,7,x,168,69,266
+717,84,21,186,Cowper,Cowper,Clyde,Orana,New South Wales,plains,murrawarrian,tazism,7,x,168,69,267
+718,126,24,59,Cowper,Cowper,Clyde,Orana,New South Wales,plains,murrawarrian,tazism,7,x,168,69,268
+719,168,27,187,Clyde,Clyde,Clyde,Orana,New South Wales,plains,murrawarrian,tazism,7,x,168,69,269
+720,0,30,60,Clyde,Clyde,Clyde,Orana,New South Wales,plains,murrawarrian,tazism,7,x,168,69,270
+721,42,33,188,Clyde,Clyde,Clyde,Orana,New South Wales,plains,murrawarrian,tazism,7,x,168,69,271
+722,84,36,61,Gregory,Gregory,Clyde,Orana,New South Wales,plains,wamboolian,tazism,7,x,168,69,272
+723,126,39,189,Gregory,Gregory,Clyde,Orana,New South Wales,plains,wamboolian,tazism,7,x,168,69,273
+724,168,42,62,Gregory,Gregory,Clyde,Orana,New South Wales,plains,wamboolian,tazism,7,x,168,69,274
+725,0,45,190,Oxley,Oxley,Ewenmar,Mourewenmar,New South Wales,plains,wamboolian,tazism,7,x,168,69,275
+726,42,48,63,Flinders,Flinders,Mouramba,Mourewenmar,New South Wales,plains,wamboolian,tazism,7,x,168,69,276
+727,84,51,191,Canbelego,Canbelego,Clyde,Orana,New South Wales,plains,wamboolian,tazism,7,x,168,69,277
+728,126,54,64,Canbelego,Canbelego,Clyde,Orana,New South Wales,plains,wamboolian,tazism,7,x,168,69,278
+729,168,57,192,Robinson,Robinson,Mouramba,Mourewenmar,New South Wales,plains,wamboolian,tazism,7,x,168,69,279
+730,0,60,65,Robinson,Robinson,Mouramba,Mourewenmar,New South Wales,plains,wamboolian,tazism,7,x,168,69,280
+731,42,63,193,Robinson,Robinson,Mouramba,Mourewenmar,New South Wales,plains,wamboolian,tazism,7,x,168,69,281
+732,84,66,66,Booroondarra,Booroondarra,Mouramba,Mourewenmar,New South Wales,plains,wamboolian,tazism,7,x,168,69,282
+733,126,69,194,Booroondarra,Booroondarra,Mouramba,Mourewenmar,New South Wales,plains,wamboolian,tazism,7,x,168,69,283
+734,168,72,67,Rankin,Rankin,Mouramba,Mourewenmar,New South Wales,plains,baaka,tazism,7,x,168,69,284
+735,0,75,195,Rankin,Rankin,Mouramba,Mourewenmar,New South Wales,plains,baaka,tazism,7,x,168,69,285
+736,42,78,68,Rankin,Rankin,Mouramba,Mourewenmar,New South Wales,plains,baaka,tazism,7,x,168,69,286
+737,84,81,196,Werunda,Werunda,Tandora,Far West,New South Wales,plains,baaka,tazism,7,x,168,69,287
+738,126,84,69,Werunda,Werunda,Tandora,Far West,New South Wales,plains,baaka,tazism,7,x,168,69,288
+739,168,87,197,Werunda,Werunda,Tandora,Far West,New South Wales,plains,baaka,tazism,7,x,168,69,289
+740,0,90,70,Young,Young,Tandora,Far West,New South Wales,plains,baaka,tazism,7,x,168,69,290
+741,42,93,198,Young,Young,Tandora,Far West,New South Wales,plains,baaka,tazism,7,x,168,69,291
+742,84,96,71,Young,Young,Tandora,Far West,New South Wales,plains,baaka,tazism,7,x,168,69,292
+743,126,99,199,Young,Young,Tandora,Far West,New South Wales,plains,baaka,tazism,7,x,168,69,293
+744,168,102,72,Tandora,Tandora,Tandora,Far West,New South Wales,plains,murrumbidgeen,tazism,7,x,168,69,294
+745,0,105,200,Tandora,Tandora,Tandora,Far West,New South Wales,plains,murrumbidgeen,tazism,7,x,168,69,295
+746,42,108,73,Tandora,Tandora,Tandora,Far West,New South Wales,plains,murrumbidgeen,tazism,7,x,168,69,296
+747,84,111,201,Yancowinna,Yancowinna,Tandora,Far West,New South Wales,plains,murrumbidgeen,tazism,7,x,168,69,297
+748,126,114,74,Yancowinna,Yancowinna,Tandora,Far West,New South Wales,plains,murrumbidgeen,tazism,7,x,168,69,298
+749,168,117,202,Menindee,Menindee,Tandora,Far West,New South Wales,plains,murrumbidgeen,tazism,7,x,168,69,299
+750,0,120,75,Menindee,Menindee,Tandora,Far West,New South Wales,plains,murrumbidgeen,tazism,7,x,168,69,300
+751,42,123,203,Livingstone,Livingstone,Tandora,Far West,New South Wales,plains,murrumbidgeen,tazism,7,x,168,69,301
+752,84,126,76,Livingstone,Livingstone,Tandora,Far West,New South Wales,plains,murrumbidgeen,tazism,7,x,168,69,302
+753,126,129,204,Livingstone,Livingstone,Tandora,Far West,New South Wales,plains,murrumbidgeen,tazism,7,x,168,69,303
+754,168,132,77,Livingstone,Livingstone,Tandora,Far West,New South Wales,plains,murrumbidgeen,tazism,7,x,168,69,304
+755,0,135,205,Woore,Woore,Mouramba,Mourewenmar,New South Wales,plains,wamboolian,tazism,7,x,168,69,305
+756,42,138,78,Woore,Woore,Mouramba,Mourewenmar,New South Wales,plains,wamboolian,tazism,7,x,168,69,306
+757,84,141,206,Woore,Woore,Mouramba,Mourewenmar,New South Wales,plains,wamboolian,tazism,7,x,168,69,307
+758,126,144,79,Mossgiel,Mossgiel,Mouramba,Mourewenmar,New South Wales,plains,wamboolian,tazism,7,x,168,69,308
+759,168,147,207,Mossgiel,Mossgiel,Mouramba,Mourewenmar,New South Wales,plains,wamboolian,tazism,7,x,168,69,309
+760,0,150,80,Mossgiel,Mossgiel,Mouramba,Mourewenmar,New South Wales,plains,wamboolian,tazism,7,x,168,69,310
+761,42,153,208,Mossgiel,Mossgiel,Mouramba,Mourewenmar,New South Wales,plains,wamboolian,tazism,7,x,168,69,311
+762,84,156,81,Blaxland,Blaxland,Mouramba,Mourewenmar,New South Wales,plains,wamboolian,tazism,7,x,168,69,312
+763,126,159,209,Blaxland,Blaxland,Mouramba,Mourewenmar,New South Wales,plains,wamboolian,tazism,7,x,168,69,313
+764,168,162,82,Blaxland,Blaxland,Mouramba,Mourewenmar,New South Wales,plains,wamboolian,tazism,7,x,168,69,314
+765,0,165,210,Blaxland,Blaxland,Mouramba,Mourewenmar,New South Wales,plains,wamboolian,tazism,7,x,168,69,315
+766,42,168,83,Mouramba,Mouramba,Mouramba,Mourewenmar,New South Wales,plains,wamboolian,tazism,7,x,168,69,316
+767,84,171,211,Mouramba,Mouramba,Mouramba,Mourewenmar,New South Wales,plains,wamboolian,tazism,7,x,168,69,317
+768,126,174,84,Mouramba,Mouramba,Mouramba,Mourewenmar,New South Wales,plains,wamboolian,tazism,7,x,168,69,318
+769,168,177,212,Dowling,Dowling,Coolamon,Riverina,New South Wales,plains,wamboolian,tazism,7,x,49,68,188
+770,0,180,85,Dowling,Dowling,Coolamon,Riverina,New South Wales,plains,wamboolian,tazism,7,x,49,67,188
+771,42,183,213,Nicholson,Nicholson,Coolamon,Riverina,New South Wales,plains,murrumbidgeen,tazism,7,x,49,66,188
+772,84,186,86,Nicholson,Nicholson,Coolamon,Riverina,New South Wales,plains,murrumbidgeen,tazism,7,x,49,65,188
+773,126,189,214,Franklin,Franklin,Carrathool,Riverina,New South Wales,plains,murrumbidgeen,tazism,7,x,49,64,188
+774,168,192,87,Waljeers,Waljeers,Carrathool,Riverina,New South Wales,plains,murrumbidgeen,tazism,7,x,49,63,188
+775,0,195,215,Waljeers,Waljeers,Carrathool,Riverina,New South Wales,plains,murrumbidgeen,tazism,7,x,49,62,188
+776,42,198,88,Manara,Manara,Wentworth,Far West,New South Wales,plains,murrumbidgeen,tazism,7,x,168,69,189
+777,84,201,216,Manara,Manara,Wentworth,Far West,New South Wales,plains,murrumbidgeen,tazism,7,x,168,69,190
+778,126,204,89,Manara,Manara,Wentworth,Far West,New South Wales,plains,murrumbidgeen,tazism,7,x,168,69,191
+779,168,207,217,Perry,Perry,Wentworth,Far West,New South Wales,plains,murrumbidgeen,tazism,7,x,168,69,192
+780,0,210,90,Perry,Perry,Wentworth,Far West,New South Wales,plains,murrumbidgeen,tazism,7,x,168,69,193
+781,42,0,218,Perry,Perry,Wentworth,Far West,New South Wales,plains,murrumbidgeen,tazism,7,x,168,69,194
+782,84,3,91,Windeyer,Windeyer,Wentworth,Far West,New South Wales,plains,murrumbidgeen,tazism,7,x,168,69,195
+783,126,6,219,Windeyer,Windeyer,Wentworth,Far West,New South Wales,plains,murrumbidgeen,tazism,7,x,168,69,196
+784,168,9,92,Windeyer,Windeyer,Wentworth,Far West,New South Wales,plains,murrumbidgeen,tazism,7,x,168,69,197
+785,0,12,220,Tarawi,Tarawi,Wentworth,Far West,New South Wales,plains,muruwari,tazism,7,x,168,69,198
+786,42,15,93,Tarawi,Tarawi,Wentworth,Far West,New South Wales,plains,muruwari,tazism,7,x,168,69,199
+787,84,18,221,Tarawi,Tarawi,Wentworth,Far West,New South Wales,plains,muruwari,tazism,7,x,168,69,200
+788,126,21,94,Wentworth,Wentworth,Wentworth,Far West,New South Wales,plains,muruwari,tazism,7,x,168,69,201
+789,168,24,222,Wentworth,Wentworth,Wentworth,Far West,New South Wales,plains,muruwari,tazism,7,x,168,69,202
+790,0,27,95,Wentworth,Wentworth,Wentworth,Far West,New South Wales,plains,muruwari,tazism,7,x,168,69,203
+791,42,30,223,Taila,Taila,Wentworth,Far West,New South Wales,plains,muruwari,tazism,7,x,168,69,204
+792,84,33,96,Taila,Taila,Wentworth,Far West,New South Wales,plains,muruwari,tazism,7,x,168,69,205
+793,126,36,224,Taila,Taila,Wentworth,Far West,New South Wales,plains,muruwari,tazism,7,x,168,69,206
+794,168,39,97,Kilfera,Kilfera,Carrathool,Riverina,New South Wales,plains,murrumbidgeen,tazism,7,x,49,68,188
+795,0,42,225,Kilfera,Kilfera,Carrathool,Riverina,New South Wales,plains,murrumbidgeen,tazism,7,x,49,67,188
+796,42,45,98,Kilfera,Kilfera,Carrathool,Riverina,New South Wales,plains,murrumbidgeen,tazism,7,x,49,66,188
+797,84,48,226,Caira,Caira,Carrathool,Riverina,New South Wales,plains,muruwari,tazism,7,x,49,65,188
+798,126,51,99,Caira,Caira,Carrathool,Riverina,New South Wales,plains,muruwari,tazism,7,x,49,64,188
+799,168,54,227,Caira,Caira,Carrathool,Riverina,New South Wales,plains,muruwari,tazism,7,x,49,63,188
+800,0,57,0,Caira,Caira,Carrathool,Riverina,New South Wales,plains,muruwari,tazism,7,x,49,62,188
+801,42,60,128,Waradgery,Waradgery,Carrathool,Riverina,New South Wales,plains,murrumbidgeen,tazism,7,x,49,61,188
+802,84,63,1,Waradgery,Waradgery,Carrathool,Riverina,New South Wales,plains,murrumbidgeen,tazism,7,x,49,60,188
+803,126,66,129,Waradgery,Waradgery,Carrathool,Riverina,New South Wales,plains,murrumbidgeen,tazism,7,x,49,59,188
+804,168,69,2,Waradgery,Waradgery,Carrathool,Riverina,New South Wales,plains,murrumbidgeen,tazism,7,x,49,58,188
+805,0,72,130,Sturt,Sturt,Coolamon,Riverina,New South Wales,plains,murrumbidgeen,tazism,7,x,49,57,188
+806,42,75,3,Sturt,Sturt,Coolamon,Riverina,New South Wales,plains,murrumbidgeen,tazism,7,x,49,56,188
+807,84,78,131,Boyd,Boyd,Coolamon,Riverina,New South Wales,plains,murrumbidgeen,tazism,7,x,49,55,188
+808,126,81,4,Boyd,Boyd,Coolamon,Riverina,New South Wales,plains,murrumbidgeen,tazism,7,x,49,54,188
+809,168,84,132,Cooper,Cooper,Coolamon,Riverina,New South Wales,plains,murrumbidgeen,tazism,7,x,49,53,188
+810,0,87,5,Cooper,Cooper,Coolamon,Riverina,New South Wales,plains,murrumbidgeen,tazism,7,x,49,52,188
+811,42,90,133,Cooper,Cooper,Coolamon,Riverina,New South Wales,plains,murrumbidgeen,tazism,7,x,49,51,188
+812,84,93,6,Cooper,Cooper,Coolamon,Riverina,New South Wales,plains,murrumbidgeen,tazism,7,x,49,50,188
+813,126,96,134,The Rock,The Rock,The Rock,Riverina,New South Wales,plains,murrumbidgeen,tazism,7,x,49,49,188
+814,168,99,7,The Rock,The Rock,The Rock,Riverina,New South Wales,plains,murrumbidgeen,tazism,7,x,49,48,188
+815,0,102,135,The Rock,The Rock,The Rock,Riverina,New South Wales,plains,murrumbidgeen,tazism,7,x,49,47,188
+816,42,105,8,Burke,Burke,The Rock,Riverina,New South Wales,plains,murrumbidgeen,tazism,7,x,49,46,188
+817,84,108,136,Burke,Burke,The Rock,Riverina,New South Wales,plains,murrumbidgeen,tazism,7,x,49,45,188
+818,126,111,9,Burke,Burke,The Rock,Riverina,New South Wales,plains,murrumbidgeen,tazism,7,x,49,44,188
+819,168,114,137,Goulburn,Goulburn,Goulburn,Canberra,New South Wales,plains,muruwari,tazism,7,x,8,45,0
+820,0,117,10,Goulburn,Goulburn,Goulburn,Canberra,New South Wales,plains,muruwari,tazism,7,x,8,46,0
+821,42,120,138,Goulburn,Goulburn,Goulburn,Canberra,New South Wales,plains,muruwari,tazism,7,x,8,47,0
+822,84,123,11,Hume,Hume,Greater Hume,Riverina,New South Wales,plains,muruwari,tazism,7,x,49,46,188
+823,126,126,139,Hume,Hume,Greater Hume,Riverina,New South Wales,plains,muruwari,tazism,7,x,49,45,188
+824,168,129,12,Hume,Hume,Greater Hume,Riverina,New South Wales,plains,muruwari,tazism,7,x,49,44,188
+825,0,132,140,Urana,Urana,Greater Hume,Riverina,New South Wales,plains,muruwari,tazism,7,x,49,43,188
+826,42,135,13,Urana,Urana,Greater Hume,Riverina,New South Wales,plains,muruwari,tazism,7,x,49,42,188
+827,84,138,141,Urana,Urana,Greater Hume,Riverina,New South Wales,plains,muruwari,tazism,7,x,49,41,188
+828,126,141,14,Urana,Urana,Greater Hume,Riverina,New South Wales,plains,muruwari,tazism,7,x,49,40,188
+829,168,144,142,Denison,Denison,Greater Hume,Riverina,New South Wales,plains,muruwari,tazism,7,x,49,39,188
+830,0,147,15,Denison,Denison,Greater Hume,Riverina,New South Wales,plains,muruwari,tazism,7,x,49,38,188
+831,42,150,143,Denison,Denison,Greater Hume,Riverina,New South Wales,plains,muruwari,tazism,7,x,49,37,188
+832,84,153,16,Townsend,Townsend,Wakool,Riverina,New South Wales,plains,muruwari,tazism,7,x,49,36,188
+833,126,156,144,Townsend,Townsend,Wakool,Riverina,New South Wales,plains,muruwari,tazism,7,x,49,35,188
+834,168,159,17,Townsend,Townsend,Wakool,Riverina,New South Wales,plains,muruwari,tazism,7,x,49,34,188
+835,0,162,145,Townsend,Townsend,Wakool,Riverina,New South Wales,plains,muruwari,tazism,7,x,49,33,188
+836,42,165,18,Townsend,Townsend,Wakool,Riverina,New South Wales,plains,muruwari,tazism,7,x,49,32,188
+837,84,168,146,Cadell,Cadell,Wakool,Riverina,New South Wales,plains,muruwari,tazism,7,x,49,31,188
+838,126,171,19,Cadell,Cadell,Wakool,Riverina,New South Wales,plains,muruwari,tazism,7,x,49,30,188
+839,168,174,147,Cadell,Cadell,Wakool,Riverina,New South Wales,plains,muruwari,tazism,7,x,49,29,188
+840,0,177,20,Wakool,Wakool,Wakool,Riverina,New South Wales,plains,muruwari,tazism,7,x,49,28,188
+841,42,180,148,Wakool,Wakool,Wakool,Riverina,New South Wales,plains,muruwari,tazism,7,x,49,27,188
+842,84,183,21,Wakool,Wakool,Wakool,Riverina,New South Wales,plains,muruwari,tazism,7,x,49,26,188
+843,126,186,149,Wakool,Wakool,Wakool,Riverina,New South Wales,plains,muruwari,tazism,7,x,49,25,188
 844,168,189,22,Grey,Grey,Limestone Coast,Outback,South Australia,plains,tasmanian,tazism,7,x,191,8,8
 845,0,192,150,Grey,Grey,Limestone Coast,Outback,South Australia,plains,tasmanian,tazism,7,x,191,9,8
 846,42,195,23,Robe,Robe,Limestone Coast,Outback,South Australia,plains,tasmanian,tazism,7,x,191,10,8
