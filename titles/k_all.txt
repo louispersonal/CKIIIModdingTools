@@ -1,0 +1,1620 @@
+e_greater_tasmania = {
+	2660.1.1 = {
+		holder = none
+	}
+}
+
+k_tasmania = {
+	2660.1.1 = {
+		holder = 1
+	}
+}
+
+d_dorset = {
+	2660.1.1 = {
+		holder = 1
+	}
+}
+
+c_dorset = {
+	2660.1.1 = {
+		holder = 1
+	}
+}
+
+c_cornwall = {
+	2660.1.1 = {
+		holder = 1
+	}
+}
+
+d_tamar = {
+	2660.1.1 = {
+		holder = 1
+	}
+}
+
+c_launceston = {
+	2660.1.1 = {
+		holder = 1
+	}
+}
+
+c_glamorgan = {
+	2660.1.1 = {
+		holder = 1
+	}
+}
+
+c_somerset = {
+	2660.1.1 = {
+		holder = 1
+	}
+}
+
+c_tamar_valley = {
+	2660.1.1 = {
+		holder = 1
+	}
+}
+
+c_devon = {
+	2660.1.1 = {
+		holder = 1
+	}
+}
+
+d_savage = {
+	2660.1.1 = {
+		holder = 1
+	}
+}
+
+c_smithton = {
+	2660.1.1 = {
+		holder = 1
+	}
+}
+
+c_russell = {
+	2660.1.1 = {
+		holder = 1
+	}
+}
+
+c_montagu = {
+	2660.1.1 = {
+		holder = 1
+	}
+}
+
+d_plateau = {
+	2660.1.1 = {
+		holder = 1
+	}
+}
+
+c_central__plateau = {
+	2660.1.1 = {
+		holder = 1
+	}
+}
+
+c_westmoreland = {
+	2660.1.1 = {
+		holder = 1
+	}
+}
+
+d_tasman_highlands = {
+	2660.1.1 = {
+		holder = 1
+	}
+}
+
+c_franklin_river = {
+	2660.1.1 = {
+		holder = 1
+	}
+}
+
+c_montgomery = {
+	2660.1.1 = {
+		holder = 1
+	}
+}
+
+c_arthur = {
+	2660.1.1 = {
+		holder = 1
+	}
+}
+
+c_kent = {
+	2660.1.1 = {
+		holder = 1
+	}
+}
+
+d_derwentia = {
+	2660.1.1 = {
+		holder = 1
+	}
+}
+
+c_buckingham = {
+	2660.1.1 = {
+		holder = 1
+	}
+}
+
+c_monmouth = {
+	2660.1.1 = {
+		holder = 1
+	}
+}
+
+c_pembroke = {
+	2660.1.1 = {
+		holder = 1
+	}
+}
+
+c_york_plains = {
+	2660.1.1 = {
+		holder = 1
+	}
+}
+
+c_lagoons = {
+	2660.1.1 = {
+		holder = 1
+	}
+}
+
+k_melbournia = {
+	2660.1.1 = {
+		holder = 2
+	}
+}
+
+d_great_ocean = {
+	2660.1.1 = {
+		holder = 2
+	}
+}
+
+c_follett = {
+	2660.1.1 = {
+		holder = 2
+	}
+}
+
+c_normanby = {
+	2660.1.1 = {
+		holder = 2
+	}
+}
+
+c_villiers = {
+	2660.1.1 = {
+		holder = 2
+	}
+}
+
+c_heytesbury = {
+	2660.1.1 = {
+		holder = 2
+	}
+}
+
+d_apollo = {
+	2660.1.1 = {
+		holder = 2
+	}
+}
+
+c_polwarth = {
+	2660.1.1 = {
+		holder = 2
+	}
+}
+
+c_grenville = {
+	2660.1.1 = {
+		holder = 2
+	}
+}
+
+c_hampden = {
+	2660.1.1 = {
+		holder = 2
+	}
+}
+
+d_melbourne = {
+	2660.1.1 = {
+		holder = 3
+	}
+}
+
+c_grant = {
+	2660.1.1 = {
+		holder = 2
+	}
+}
+
+c_bourke = {
+	2660.1.1 = {
+		holder = 2
+	}
+}
+
+d_grampians = {
+	2660.1.1 = {
+		holder = 3
+	}
+}
+
+c_ripon = {
+	2660.1.1 = {
+		holder = 2
+	}
+}
+
+c_dundas = {
+	2660.1.1 = {
+		holder = 2
+	}
+}
+
+d_yarra_valley = {
+	2660.1.1 = {
+		holder = 2
+	}
+}
+
+c_mornington = {
+	2660.1.1 = {
+		holder = 2
+	}
+}
+
+c_evelyn = {
+	2660.1.1 = {
+		holder = 2
+	}
+}
+
+d_high_country = {
+	2660.1.1 = {
+		holder = 3
+	}
+}
+
+c_anglesey = {
+	2660.1.1 = {
+		holder = 2
+	}
+}
+
+c_wonnangatta = {
+	2660.1.1 = {
+		holder = 2
+	}
+}
+
+d_gippsland = {
+	2660.1.1 = {
+		holder = 2
+	}
+}
+
+c_lakes_entrance = {
+	2660.1.1 = {
+		holder = 2
+	}
+}
+
+c_croajingolong = {
+	2660.1.1 = {
+		holder = 2
+	}
+}
+
+d_monash = {
+	2660.1.1 = {
+		holder = 2
+	}
+}
+
+c_dargo = {
+	2660.1.1 = {
+		holder = 2
+	}
+}
+
+c_tanjil = {
+	2660.1.1 = {
+		holder = 2
+	}
+}
+
+c_buln_buln = {
+	2660.1.1 = {
+		holder = 2
+	}
+}
+
+k_victoria = {
+	2660.1.1 = {
+		holder = 3
+	}
+}
+
+d_grampians = {
+	2660.1.1 = {
+		holder = 3
+	}
+}
+
+c_lowan = {
+	2660.1.1 = {
+		holder = 3
+	}
+}
+
+c_borung = {
+	2660.1.1 = {
+		holder = 3
+	}
+}
+
+d_mallee = {
+	2660.1.1 = {
+		holder = 3
+	}
+}
+
+c_weeah = {
+	2660.1.1 = {
+		holder = 3
+	}
+}
+
+c_millewa = {
+	2660.1.1 = {
+		holder = 3
+	}
+}
+
+c_karkarooc = {
+	2660.1.1 = {
+		holder = 3
+	}
+}
+
+d_goldfields = {
+	2660.1.1 = {
+		holder = 3
+	}
+}
+
+c_kara_kara = {
+	2660.1.1 = {
+		holder = 3
+	}
+}
+
+c_wedderburn = {
+	2660.1.1 = {
+		holder = 3
+	}
+}
+
+c_talbot = {
+	2660.1.1 = {
+		holder = 3
+	}
+}
+
+c_bendigo = {
+	2660.1.1 = {
+		holder = 3
+	}
+}
+
+d_loddon = {
+	2660.1.1 = {
+		holder = 3
+	}
+}
+
+c_tatchera = {
+	2660.1.1 = {
+		holder = 3
+	}
+}
+
+c_gunbower = {
+	2660.1.1 = {
+		holder = 3
+	}
+}
+
+d_goulburn = {
+	2660.1.1 = {
+		holder = 4
+	}
+}
+
+c_rodney = {
+	2660.1.1 = {
+		holder = 3
+	}
+}
+
+c_moira = {
+	2660.1.1 = {
+		holder = 3
+	}
+}
+
+d_melbourne = {
+	2660.1.1 = {
+		holder = 3
+	}
+}
+
+c_dalhousie = {
+	2660.1.1 = {
+		holder = 3
+	}
+}
+
+d_high_country = {
+	2660.1.1 = {
+		holder = 3
+	}
+}
+
+c_delatite = {
+	2660.1.1 = {
+		holder = 3
+	}
+}
+
+d_alps = {
+	2660.1.1 = {
+		holder = 3
+	}
+}
+
+c_bogong = {
+	2660.1.1 = {
+		holder = 3
+	}
+}
+
+c_benambra = {
+	2660.1.1 = {
+		holder = 3
+	}
+}
+
+e_new_south_wales = {
+	2660.1.1 = {
+		holder = none
+	}
+}
+
+k_canberra = {
+	2660.1.1 = {
+		holder = 4
+	}
+}
+
+d_south_coast = {
+	2660.1.1 = {
+		holder = 4
+	}
+}
+
+c_auckland = {
+	2660.1.1 = {
+		holder = 4
+	}
+}
+
+c_wellesley = {
+	2660.1.1 = {
+		holder = 4
+	}
+}
+
+c_beresford = {
+	2660.1.1 = {
+		holder = 4
+	}
+}
+
+c_dampier = {
+	2660.1.1 = {
+		holder = 4
+	}
+}
+
+d_snowy_mountains = {
+	2660.1.1 = {
+		holder = 4
+	}
+}
+
+c_wallace = {
+	2660.1.1 = {
+		holder = 4
+	}
+}
+
+c_buccleuch = {
+	2660.1.1 = {
+		holder = 4
+	}
+}
+
+c_selwyn = {
+	2660.1.1 = {
+		holder = 4
+	}
+}
+
+c_wynyard = {
+	2660.1.1 = {
+		holder = 4
+	}
+}
+
+d_capital_territory = {
+	2660.1.1 = {
+		holder = 4
+	}
+}
+
+c_cowley = {
+	2660.1.1 = {
+		holder = 4
+	}
+}
+
+c_canberra = {
+	2660.1.1 = {
+		holder = 4
+	}
+}
+
+d_harendon = {
+	2660.1.1 = {
+		holder = 4
+	}
+}
+
+c_harden = {
+	2660.1.1 = {
+		holder = 4
+	}
+}
+
+c_clarendon = {
+	2660.1.1 = {
+		holder = 4
+	}
+}
+
+d_goulburn = {
+	2660.1.1 = {
+		holder = 4
+	}
+}
+
+c_goulburn = {
+	2660.1.1 = {
+		holder = 4
+	}
+}
+
+k_nineteen_counties = {
+	2660.1.1 = {
+		holder = 5
+	}
+}
+
+d_tablelands = {
+	2660.1.1 = {
+		holder = 5
+	}
+}
+
+c_murray = {
+	2660.1.1 = {
+		holder = 5
+	}
+}
+
+c_argyle = {
+	2660.1.1 = {
+		holder = 5
+	}
+}
+
+c_king = {
+	2660.1.1 = {
+		holder = 5
+	}
+}
+
+c_georgiana = {
+	2660.1.1 = {
+		holder = 5
+	}
+}
+
+c_bathurst = {
+	2660.1.1 = {
+		holder = 5
+	}
+}
+
+d_sydney = {
+	2660.1.1 = {
+		holder = 5
+	}
+}
+
+c_st_vincent = {
+	2660.1.1 = {
+		holder = 5
+	}
+}
+
+c_camden = {
+	2660.1.1 = {
+		holder = 5
+	}
+}
+
+c_cumberland = {
+	2660.1.1 = {
+		holder = 5
+	}
+}
+
+c_northumberland = {
+	2660.1.1 = {
+		holder = 5
+	}
+}
+
+d_blue_mountains = {
+	2660.1.1 = {
+		holder = 5
+	}
+}
+
+c_oberon = {
+	2660.1.1 = {
+		holder = 5
+	}
+}
+
+c_cook = {
+	2660.1.1 = {
+		holder = 5
+	}
+}
+
+c_hunter = {
+	2660.1.1 = {
+		holder = 5
+	}
+}
+
+d_mudgee = {
+	2660.1.1 = {
+		holder = 5
+	}
+}
+
+c_wellington = {
+	2660.1.1 = {
+		holder = 5
+	}
+}
+
+c_roxburgh = {
+	2660.1.1 = {
+		holder = 5
+	}
+}
+
+c_phillip = {
+	2660.1.1 = {
+		holder = 5
+	}
+}
+
+c_bligh = {
+	2660.1.1 = {
+		holder = 5
+	}
+}
+
+d_hunter = {
+	2660.1.1 = {
+		holder = 5
+	}
+}
+
+c_scone = {
+	2660.1.1 = {
+		holder = 5
+	}
+}
+
+c_muswellbrook = {
+	2660.1.1 = {
+		holder = 5
+	}
+}
+
+c_gloucester = {
+	2660.1.1 = {
+		holder = 5
+	}
+}
+
+k_new_england = {
+	2660.1.1 = {
+		holder = 6
+	}
+}
+
+d_portharbour = {
+	2660.1.1 = {
+		holder = 6
+	}
+}
+
+c_macquarie = {
+	2660.1.1 = {
+		holder = 6
+	}
+}
+
+c_dudley = {
+	2660.1.1 = {
+		holder = 6
+	}
+}
+
+c_raleigh = {
+	2660.1.1 = {
+		holder = 6
+	}
+}
+
+c_fitzroy = {
+	2660.1.1 = {
+		holder = 6
+	}
+}
+
+d_binghi = {
+	2660.1.1 = {
+		holder = 6
+	}
+}
+
+c_hawes = {
+	2660.1.1 = {
+		holder = 6
+	}
+}
+
+c_vernon = {
+	2660.1.1 = {
+		holder = 6
+	}
+}
+
+c_sandon = {
+	2660.1.1 = {
+		holder = 6
+	}
+}
+
+d_new_england_tablelands = {
+	2660.1.1 = {
+		holder = 6
+	}
+}
+
+c_clarke = {
+	2660.1.1 = {
+		holder = 6
+	}
+}
+
+c_gresham = {
+	2660.1.1 = {
+		holder = 6
+	}
+}
+
+c_clive = {
+	2660.1.1 = {
+		holder = 6
+	}
+}
+
+c_gough = {
+	2660.1.1 = {
+		holder = 6
+	}
+}
+
+d_new_highlands = {
+	2660.1.1 = {
+		holder = 6
+	}
+}
+
+c_drake = {
+	2660.1.1 = {
+		holder = 6
+	}
+}
+
+c_buller = {
+	2660.1.1 = {
+		holder = 6
+	}
+}
+
+d_lowlands = {
+	2660.1.1 = {
+		holder = 6
+	}
+}
+
+c_clarence = {
+	2660.1.1 = {
+		holder = 6
+	}
+}
+
+c_richmond_valley = {
+	2660.1.1 = {
+		holder = 6
+	}
+}
+
+c_rous = {
+	2660.1.1 = {
+		holder = 6
+	}
+}
+
+d_nandewar = {
+	2660.1.1 = {
+		holder = 6
+	}
+}
+
+c_hardinge = {
+	2660.1.1 = {
+		holder = 6
+	}
+}
+
+c_darling = {
+	2660.1.1 = {
+		holder = 6
+	}
+}
+
+c_nandewar = {
+	2660.1.1 = {
+		holder = 6
+	}
+}
+
+c_murchison = {
+	2660.1.1 = {
+		holder = 6
+	}
+}
+
+c_jamison = {
+	2660.1.1 = {
+		holder = 6
+	}
+}
+
+d_tamworth = {
+	2660.1.1 = {
+		holder = 6
+	}
+}
+
+c_inglis = {
+	2660.1.1 = {
+		holder = 6
+	}
+}
+
+c_parry = {
+	2660.1.1 = {
+		holder = 6
+	}
+}
+
+c_buckland = {
+	2660.1.1 = {
+		holder = 6
+	}
+}
+
+c_pottinger = {
+	2660.1.1 = {
+		holder = 6
+	}
+}
+
+d_north_west_slopes = {
+	2660.1.1 = {
+		holder = 6
+	}
+}
+
+c_arrawatta = {
+	2660.1.1 = {
+		holder = 6
+	}
+}
+
+c_burnett = {
+	2660.1.1 = {
+		holder = 6
+	}
+}
+
+c_stapylton = {
+	2660.1.1 = {
+		holder = 6
+	}
+}
+
+c_courallie = {
+	2660.1.1 = {
+		holder = 6
+	}
+}
+
+k_orana = {
+	2660.1.1 = {
+		holder = 7
+	}
+}
+
+d_orana = {
+	2660.1.1 = {
+		holder = 7
+	}
+}
+
+c_benarba = {
+	2660.1.1 = {
+		holder = 7
+	}
+}
+
+c_denham = {
+	2660.1.1 = {
+		holder = 7
+	}
+}
+
+c_finch = {
+	2660.1.1 = {
+		holder = 7
+	}
+}
+
+c_narran = {
+	2660.1.1 = {
+		holder = 7
+	}
+}
+
+d_leichardt = {
+	2660.1.1 = {
+		holder = 7
+	}
+}
+
+c_white = {
+	2660.1.1 = {
+		holder = 7
+	}
+}
+
+c_napier = {
+	2660.1.1 = {
+		holder = 7
+	}
+}
+
+c_gowen = {
+	2660.1.1 = {
+		holder = 7
+	}
+}
+
+c_baradine = {
+	2660.1.1 = {
+		holder = 7
+	}
+}
+
+c_leichardt = {
+	2660.1.1 = {
+		holder = 7
+	}
+}
+
+d_irrara = {
+	2660.1.1 = {
+		holder = 7
+	}
+}
+
+c_south_culgoa = {
+	2660.1.1 = {
+		holder = 7
+	}
+}
+
+c_gunderbooka = {
+	2660.1.1 = {
+		holder = 7
+	}
+}
+
+c_irrara = {
+	2660.1.1 = {
+		holder = 7
+	}
+}
+
+c_barrona = {
+	2660.1.1 = {
+		holder = 7
+	}
+}
+
+c_landsborough = {
+	2660.1.1 = {
+		holder = 7
+	}
+}
+
+d_clyde = {
+	2660.1.1 = {
+		holder = 7
+	}
+}
+
+c_cowper = {
+	2660.1.1 = {
+		holder = 7
+	}
+}
+
+c_clyde = {
+	2660.1.1 = {
+		holder = 7
+	}
+}
+
+c_gregory = {
+	2660.1.1 = {
+		holder = 7
+	}
+}
+
+c_canbelego = {
+	2660.1.1 = {
+		holder = 7
+	}
+}
+
+k_mourewenmar = {
+	2660.1.1 = {
+		holder = 8
+	}
+}
+
+d_lincoln = {
+	2660.1.1 = {
+		holder = 8
+	}
+}
+
+c_lincoln = {
+	2660.1.1 = {
+		holder = 8
+	}
+}
+
+c_gordon = {
+	2660.1.1 = {
+		holder = 8
+	}
+}
+
+c_ashburnham = {
+	2660.1.1 = {
+		holder = 8
+	}
+}
+
+d_ewenmar = {
+	2660.1.1 = {
+		holder = 8
+	}
+}
+
+c_cunningham = {
+	2660.1.1 = {
+		holder = 8
+	}
+}
+
+c_kennedy = {
+	2660.1.1 = {
+		holder = 8
+	}
+}
+
+c_narromine = {
+	2660.1.1 = {
+		holder = 8
+	}
+}
+
+c_ewenmar = {
+	2660.1.1 = {
+		holder = 8
+	}
+}
+
+c_oxley = {
+	2660.1.1 = {
+		holder = 8
+	}
+}
+
+d_mouramba = {
+	2660.1.1 = {
+		holder = 8
+	}
+}
+
+c_flinders = {
+	2660.1.1 = {
+		holder = 8
+	}
+}
+
+c_robinson = {
+	2660.1.1 = {
+		holder = 8
+	}
+}
+
+c_booroondarra = {
+	2660.1.1 = {
+		holder = 8
+	}
+}
+
+c_rankin = {
+	2660.1.1 = {
+		holder = 8
+	}
+}
+
+c_woore = {
+	2660.1.1 = {
+		holder = 8
+	}
+}
+
+c_mossgiel = {
+	2660.1.1 = {
+		holder = 8
+	}
+}
+
+c_blaxland = {
+	2660.1.1 = {
+		holder = 8
+	}
+}
+
+c_mouramba = {
+	2660.1.1 = {
+		holder = 8
+	}
+}
+
+k_riverina = {
+	2660.1.1 = {
+		holder = 9
+	}
+}
+
+d_hilltops = {
+	2660.1.1 = {
+		holder = 9
+	}
+}
+
+c_forbes = {
+	2660.1.1 = {
+		holder = 9
+	}
+}
+
+c_monteagle = {
+	2660.1.1 = {
+		holder = 9
+	}
+}
+
+c_bland = {
+	2660.1.1 = {
+		holder = 9
+	}
+}
+
+c_gipps = {
+	2660.1.1 = {
+		holder = 9
+	}
+}
+
+d_coolamon = {
+	2660.1.1 = {
+		holder = 9
+	}
+}
+
+c_dowling = {
+	2660.1.1 = {
+		holder = 9
+	}
+}
+
+c_nicholson = {
+	2660.1.1 = {
+		holder = 9
+	}
+}
+
+c_sturt = {
+	2660.1.1 = {
+		holder = 9
+	}
+}
+
+c_boyd = {
+	2660.1.1 = {
+		holder = 9
+	}
+}
+
+c_cooper = {
+	2660.1.1 = {
+		holder = 9
+	}
+}
+
+d_carrathool = {
+	2660.1.1 = {
+		holder = 9
+	}
+}
+
+c_franklin = {
+	2660.1.1 = {
+		holder = 9
+	}
+}
+
+c_waljeers = {
+	2660.1.1 = {
+		holder = 9
+	}
+}
+
+c_kilfera = {
+	2660.1.1 = {
+		holder = 9
+	}
+}
+
+c_caira = {
+	2660.1.1 = {
+		holder = 9
+	}
+}
+
+c_waradgery = {
+	2660.1.1 = {
+		holder = 9
+	}
+}
+
+d_the_rock = {
+	2660.1.1 = {
+		holder = 9
+	}
+}
+
+c_the_rock = {
+	2660.1.1 = {
+		holder = 9
+	}
+}
+
+c_burke = {
+	2660.1.1 = {
+		holder = 9
+	}
+}
+
+d_greater_hume = {
+	2660.1.1 = {
+		holder = 9
+	}
+}
+
+c_hume = {
+	2660.1.1 = {
+		holder = 9
+	}
+}
+
+c_urana = {
+	2660.1.1 = {
+		holder = 9
+	}
+}
+
+c_denison = {
+	2660.1.1 = {
+		holder = 9
+	}
+}
+
+d_wakool = {
+	2660.1.1 = {
+		holder = 9
+	}
+}
+
+c_townsend = {
+	2660.1.1 = {
+		holder = 9
+	}
+}
+
+c_cadell = {
+	2660.1.1 = {
+		holder = 9
+	}
+}
+
+c_wakool = {
+	2660.1.1 = {
+		holder = 9
+	}
+}
+
+k_far_west = {
+	2660.1.1 = {
+		holder = 10
+	}
+}
+
+d_ularara = {
+	2660.1.1 = {
+		holder = 10
+	}
+}
+
+c_thoulcanna = {
+	2660.1.1 = {
+		holder = 10
+	}
+}
+
+c_ularara = {
+	2660.1.1 = {
+		holder = 10
+	}
+}
+
+c_delalah = {
+	2660.1.1 = {
+		holder = 10
+	}
+}
+
+c_yantara = {
+	2660.1.1 = {
+		holder = 10
+	}
+}
+
+d_evlyn = {
+	2660.1.1 = {
+		holder = 10
+	}
+}
+
+c_tongowoko = {
+	2660.1.1 = {
+		holder = 10
+	}
+}
+
+c_poole = {
+	2660.1.1 = {
+		holder = 10
+	}
+}
+
+c_evlyn = {
+	2660.1.1 = {
+		holder = 10
+	}
+}
+
+c_farnell = {
+	2660.1.1 = {
+		holder = 10
+	}
+}
+
+c_mootwingee = {
+	2660.1.1 = {
+		holder = 10
+	}
+}
+
+d_killara = {
+	2660.1.1 = {
+		holder = 10
+	}
+}
+
+c_yungnulgra = {
+	2660.1.1 = {
+		holder = 10
+	}
+}
+
+c_fitzgerlald = {
+	2660.1.1 = {
+		holder = 10
+	}
+}
+
+c_killara = {
+	2660.1.1 = {
+		holder = 10
+	}
+}
+
+c_yanda = {
+	2660.1.1 = {
+		holder = 10
+	}
+}
+
+d_tandora = {
+	2660.1.1 = {
+		holder = 10
+	}
+}
+
+c_werunda = {
+	2660.1.1 = {
+		holder = 10
+	}
+}
+
+c_young = {
+	2660.1.1 = {
+		holder = 10
+	}
+}
+
+c_tandora = {
+	2660.1.1 = {
+		holder = 10
+	}
+}
+
+c_yancowinna = {
+	2660.1.1 = {
+		holder = 10
+	}
+}
+
+c_menindee = {
+	2660.1.1 = {
+		holder = 10
+	}
+}
+
+c_livingstone = {
+	2660.1.1 = {
+		holder = 10
+	}
+}
+
+d_wentworth = {
+	2660.1.1 = {
+		holder = 10
+	}
+}
+
+c_manara = {
+	2660.1.1 = {
+		holder = 10
+	}
+}
+
+c_perry = {
+	2660.1.1 = {
+		holder = 10
+	}
+}
+
+c_windeyer = {
+	2660.1.1 = {
+		holder = 10
+	}
+}
+
+c_tarawi = {
+	2660.1.1 = {
+		holder = 10
+	}
+}
+
+c_wentworth = {
+	2660.1.1 = {
+		holder = 10
+	}
+}
+
+c_taila = {
+	2660.1.1 = {
+		holder = 10
+	}
+}
+

@@ -1,0 +1,2890 @@
+# e_greater_tasmania
+# k_tasmania
+# d_dorset
+### c_dorset
+1 = {  #Mount William
+	culture = tasmanian
+	religion = tazism
+	holding = auto
+}
+
+2 = {  #Scottsdale
+	holding = auto
+}
+
+### c_cornwall
+3 = {  #St Helen's
+	culture = tasmanian
+	religion = tazism
+	holding = auto
+}
+
+4 = {  #St Mary's
+	holding = auto
+}
+
+# d_tamar
+### c_launceston
+5 = {  #Avoca
+	culture = tasmanian
+	religion = tazism
+	holding = auto
+}
+
+6 = {  #Launceston
+	holding = auto
+}
+
+7 = {  #George Town
+	holding = auto
+}
+
+### c_glamorgan
+8 = {  #Bichelo
+	culture = tasmanian
+	religion = tazism
+	holding = auto
+}
+
+9 = {  #Swansea
+	holding = auto
+}
+
+### c_somerset
+10 = {  #Campbell Town
+	culture = tasmanian
+	religion = tazism
+	holding = auto
+}
+
+### c_tamar_valley
+11 = {  #Poatina
+	culture = tasmanian
+	religion = tazism
+	holding = auto
+}
+
+12 = {  #Deloraine
+	holding = auto
+}
+
+13 = {  #Beauty Point
+	holding = auto
+}
+
+### c_devon
+14 = {  #Devonport
+	culture = tasmanian
+	religion = tazism
+	holding = auto
+}
+
+15 = {  #Burnie
+	holding = auto
+}
+
+16 = {  #Moina
+	holding = auto
+}
+
+17 = {  #Wynyard
+	holding = auto
+}
+
+# d_savage
+### c_smithton
+18 = {  #Smithton
+	culture = tasmanian
+	religion = tazism
+	holding = auto
+}
+
+19 = {  #Trowutta
+	holding = auto
+}
+
+### c_russell
+20 = {  #Waratah
+	culture = tasmanian
+	religion = tazism
+	holding = auto
+}
+
+### c_montagu
+21 = {  #Zeehan
+	culture = tasmanian
+	religion = tazism
+	holding = auto
+}
+
+22 = {  #Queenstown
+	holding = auto
+}
+
+# d_plateau
+### c_central__plateau
+23 = {  #Cradle Mountain
+	culture = tasmanian
+	religion = tazism
+	holding = auto
+}
+
+24 = {  #Bronte Park
+	holding = auto
+}
+
+### c_westmoreland
+25 = {  #Breona
+	culture = tasmanian
+	religion = tazism
+	holding = auto
+}
+
+26 = {  #Great Lake
+	holding = auto
+}
+
+# d_tasman_highlands
+### c_franklin_river
+27 = {  #West Coast Range
+	culture = tasmanian
+	religion = tazism
+	holding = auto
+}
+
+### c_montgomery
+28 = {  #Macquarie Harbour
+	culture = tasmanian
+	religion = tazism
+	holding = auto
+}
+
+### c_arthur
+29 = {  #Strathgordon
+	culture = tasmanian
+	religion = tazism
+	holding = auto
+}
+
+### c_kent
+30 = {  #Geeveston
+	culture = tasmanian
+	religion = tazism
+	holding = auto
+}
+
+# d_derwentia
+### c_buckingham
+31 = {  #New Norfolk
+	culture = tasmanian
+	religion = tazism
+	holding = auto
+}
+
+32 = {  #Huonville
+	holding = auto
+}
+
+33 = {  #Hobart
+	holding = auto
+}
+
+42 = {  #Bruny
+	holding = auto
+}
+
+### c_monmouth
+34 = {  #Brighton
+	culture = tasmanian
+	religion = tazism
+	holding = auto
+}
+
+35 = {  #Clearance
+	holding = auto
+}
+
+36 = {  #Kempton
+	holding = auto
+}
+
+### c_pembroke
+37 = {  #Dodges Ferry
+	culture = tasmanian
+	religion = tazism
+	holding = auto
+}
+
+38 = {  #Port Arthur
+	holding = auto
+}
+
+39 = {  #Triabunna
+	holding = auto
+}
+
+### c_york_plains
+40 = {  #Oatlands
+	culture = tasmanian
+	religion = tazism
+	holding = auto
+}
+
+41 = {  #Lemont
+	holding = auto
+}
+
+### c_lagoons
+43 = {  #Miena
+	culture = tasmanian
+	religion = tazism
+	holding = auto
+}
+
+44 = {  #Tarraleah
+	holding = auto
+}
+
+45 = {  #Ouse
+	holding = auto
+}
+
+# k_melbournia
+# d_great_ocean
+### c_follett
+46 = {  #Follett
+	culture = wimmeran
+	religion = tazism
+	holding = auto
+}
+
+47 = {  #Follett 1
+	holding = auto
+}
+
+### c_normanby
+48 = {  #Normanby
+	culture = wimmeran
+	religion = tazism
+	holding = auto
+}
+
+49 = {  #Normanby 1
+	holding = auto
+}
+
+50 = {  #Normanby 2
+	holding = auto
+}
+
+### c_villiers
+51 = {  #Villiers
+	culture = phillipian
+	religion = tazism
+	holding = auto
+}
+
+52 = {  #Villiers 1
+	holding = auto
+}
+
+53 = {  #Villiers 2
+	holding = auto
+}
+
+### c_heytesbury
+54 = {  #Heytesbury
+	culture = phillipian
+	religion = tazism
+	holding = auto
+}
+
+55 = {  #Heytesbury 1
+	holding = auto
+}
+
+# d_apollo
+### c_polwarth
+56 = {  #Polwarth
+	culture = phillipian
+	religion = tazism
+	holding = auto
+}
+
+57 = {  #Polwarth 1
+	holding = auto
+}
+
+58 = {  #Polwarth 2
+	holding = auto
+}
+
+### c_grenville
+63 = {  #Grenville
+	culture = phillipian
+	religion = tazism
+	holding = auto
+}
+
+64 = {  #Grenville 1
+	holding = auto
+}
+
+65 = {  #Grenville 2
+	holding = auto
+}
+
+### c_hampden
+66 = {  #Hampden
+	culture = phillipian
+	religion = tazism
+	holding = auto
+}
+
+67 = {  #Hampden 1
+	holding = auto
+}
+
+# d_melbourne
+### c_grant
+59 = {  #Grant
+	culture = phillipian
+	religion = tazism
+	holding = auto
+}
+
+60 = {  #Grant 1
+	holding = auto
+}
+
+61 = {  #Grant 2
+	holding = auto
+}
+
+62 = {  #Grant 3
+	holding = auto
+}
+
+### c_bourke
+107 = {  #Bourke
+	culture = phillipian
+	religion = tazism
+	holding = auto
+}
+
+108 = {  #Bourke 1
+	holding = auto
+}
+
+109 = {  #Bourke 2
+	holding = auto
+}
+
+110 = {  #Bourke 3
+	holding = auto
+}
+
+111 = {  #Bourke 4
+	holding = auto
+}
+
+# d_grampians
+### c_ripon
+68 = {  #Ripon
+	culture = wimmeran
+	religion = tazism
+	holding = auto
+}
+
+69 = {  #Ripon 1
+	holding = auto
+}
+
+70 = {  #Ripon 2
+	holding = auto
+}
+
+### c_dundas
+71 = {  #Dundas
+	culture = wimmeran
+	religion = tazism
+	holding = auto
+}
+
+72 = {  #Dundas 1
+	holding = auto
+}
+
+73 = {  #Dundas 2
+	holding = auto
+}
+
+# d_yarra_valley
+### c_mornington
+112 = {  #Mornington
+	culture = phillipian
+	religion = tazism
+	holding = auto
+}
+
+113 = {  #Mornington 1
+	holding = auto
+}
+
+114 = {  #Mornington 2
+	holding = auto
+}
+
+### c_evelyn
+115 = {  #Evelyn
+	culture = phillipian
+	religion = tazism
+	holding = auto
+}
+
+116 = {  #Evelyn 1
+	holding = auto
+}
+
+# d_high_country
+### c_anglesey
+117 = {  #Anglesey
+	culture = phillipian
+	religion = tazism
+	holding = auto
+}
+
+118 = {  #Anglesey 1
+	holding = auto
+}
+
+119 = {  #Anglesey 2
+	holding = auto
+}
+
+### c_wonnangatta
+143 = {  #Wonnangatta
+	culture = phillipian
+	religion = tazism
+	holding = auto
+}
+
+144 = {  #Wonnangatta 1
+	holding = auto
+}
+
+# d_gippsland
+### c_lakes_entrance
+134 = {  #Lakes Entrance
+	culture = phillipian
+	religion = tazism
+	holding = auto
+}
+
+135 = {  #Lakes Entrance 1
+	holding = auto
+}
+
+136 = {  #Lakes Entrance 2
+	holding = auto
+}
+
+### c_croajingolong
+137 = {  #Croajingolong
+	culture = illawarran
+	religion = tazism
+	holding = auto
+}
+
+138 = {  #Croajingolong 1
+	holding = auto
+}
+
+139 = {  #Croajingolong 2
+	holding = auto
+}
+
+140 = {  #Croajingolong 3
+	holding = auto
+}
+
+# d_monash
+### c_dargo
+141 = {  #Dargo
+	culture = phillipian
+	religion = tazism
+	holding = auto
+}
+
+142 = {  #Dargo 1
+	holding = auto
+}
+
+### c_tanjil
+145 = {  #Tanjil
+	culture = phillipian
+	religion = tazism
+	holding = auto
+}
+
+146 = {  #Tanjil 1
+	holding = auto
+}
+
+147 = {  #Tanjil 2
+	holding = auto
+}
+
+### c_buln_buln
+148 = {  #Buln Buln
+	culture = phillipian
+	religion = tazism
+	holding = auto
+}
+
+149 = {  #Buln Buln 1
+	holding = auto
+}
+
+150 = {  #Buln Buln 2
+	holding = auto
+}
+
+151 = {  #Buln Buln 3
+	holding = auto
+}
+
+152 = {  #Buln Buln 4
+	holding = auto
+}
+
+# k_victoria
+# d_grampians
+### c_lowan
+74 = {  #Lowan
+	culture = wimmeran
+	religion = tazism
+	holding = auto
+}
+
+75 = {  #Lowan 1
+	holding = auto
+}
+
+76 = {  #Lowan 2
+	holding = auto
+}
+
+### c_borung
+85 = {  #Borung
+	culture = wimmeran
+	religion = tazism
+	holding = auto
+}
+
+86 = {  #Borung 1
+	holding = auto
+}
+
+87 = {  #Borung 2
+	holding = auto
+}
+
+# d_mallee
+### c_weeah
+77 = {  #Weeah
+	culture = muruwari
+	religion = tazism
+	holding = auto
+}
+
+78 = {  #Weeah 1
+	holding = auto
+}
+
+### c_millewa
+79 = {  #Millewa
+	culture = muruwari
+	religion = tazism
+	holding = auto
+}
+
+80 = {  #Millewa 1
+	holding = auto
+}
+
+### c_karkarooc
+81 = {  #Karkarooc
+	culture = muruwari
+	religion = tazism
+	holding = auto
+}
+
+82 = {  #Karkarooc 1
+	holding = auto
+}
+
+83 = {  #Karkarooc 2
+	holding = auto
+}
+
+84 = {  #Karkarooc 3
+	holding = auto
+}
+
+# d_goldfields
+### c_kara_kara
+88 = {  #Kara Kara
+	culture = wimmeran
+	religion = tazism
+	holding = auto
+}
+
+89 = {  #Kara Kara 1
+	holding = auto
+}
+
+### c_wedderburn
+92 = {  #Wedderburn
+	culture = wimmeran
+	religion = tazism
+	holding = auto
+}
+
+93 = {  #Wedderburn 1
+	holding = auto
+}
+
+### c_talbot
+94 = {  #Talbot
+	culture = wimmeran
+	religion = tazism
+	holding = auto
+}
+
+95 = {  #Talbot 1
+	holding = auto
+}
+
+96 = {  #Talbot 2
+	holding = auto
+}
+
+### c_bendigo
+97 = {  #Bendigo
+	culture = wimmeran
+	religion = tazism
+	holding = auto
+}
+
+98 = {  #Bendigo 1
+	holding = auto
+}
+
+99 = {  #Bendigo 2
+	holding = auto
+}
+
+# d_loddon
+### c_tatchera
+90 = {  #Tatchera
+	culture = muruwari
+	religion = tazism
+	holding = auto
+}
+
+91 = {  #Tatchera 1
+	holding = auto
+}
+
+### c_gunbower
+100 = {  #Gunbower
+	culture = muruwari
+	religion = tazism
+	holding = auto
+}
+
+101 = {  #Gunbower 1
+	holding = auto
+}
+
+# d_goulburn
+### c_rodney
+102 = {  #Rodney
+	culture = phillipian
+	religion = tazism
+	holding = auto
+}
+
+103 = {  #Rodney 1
+	holding = auto
+}
+
+104 = {  #Rodney 2
+	holding = auto
+}
+
+### c_moira
+124 = {  #Moira
+	culture = muruwari
+	religion = tazism
+	holding = auto
+}
+
+125 = {  #Moira 1
+	holding = auto
+}
+
+126 = {  #Moira 2
+	holding = auto
+}
+
+127 = {  #Moira 3
+	holding = auto
+}
+
+# d_melbourne
+### c_dalhousie
+105 = {  #Dalhousie
+	culture = phillipian
+	religion = tazism
+	holding = auto
+}
+
+106 = {  #Dalhousie 1
+	holding = auto
+}
+
+# d_high_country
+### c_delatite
+120 = {  #Delatite
+	culture = phillipian
+	religion = tazism
+	holding = auto
+}
+
+121 = {  #Delatite 1
+	holding = auto
+}
+
+122 = {  #Delatite 2
+	holding = auto
+}
+
+123 = {  #Delatite 3
+	holding = auto
+}
+
+# d_alps
+### c_bogong
+128 = {  #Bogong
+	culture = muruwari
+	religion = tazism
+	holding = auto
+}
+
+129 = {  #Bogong 1
+	holding = auto
+}
+
+130 = {  #Bogong 2
+	holding = auto
+}
+
+### c_benambra
+131 = {  #Benambra
+	culture = muruwari
+	religion = tazism
+	holding = auto
+}
+
+132 = {  #Benambra 1
+	holding = auto
+}
+
+133 = {  #Benambra 2
+	holding = auto
+}
+
+# e_new_south_wales
+# k_canberra
+# d_south_coast
+### c_auckland
+441 = {  #Auckland
+	culture = illawarran
+	religion = tazism
+	holding = auto
+}
+
+442 = {  #Auckland 1
+	holding = auto
+}
+
+443 = {  #Auckland 2
+	holding = auto
+}
+
+### c_wellesley
+444 = {  #Wellesley
+	culture = illawarran
+	religion = tazism
+	holding = auto
+}
+
+445 = {  #Wellesley 1
+	holding = auto
+}
+
+446 = {  #Wellesley 2
+	holding = auto
+}
+
+### c_beresford
+450 = {  #Beresford
+	culture = illawarran
+	religion = tazism
+	holding = auto
+}
+
+451 = {  #Beresford 1
+	holding = auto
+}
+
+### c_dampier
+452 = {  #Dampier
+	culture = illawarran
+	religion = tazism
+	holding = auto
+}
+
+453 = {  #Dampier 1
+	holding = auto
+}
+
+454 = {  #Dampier 2
+	holding = auto
+}
+
+# d_snowy_mountains
+### c_wallace
+447 = {  #Wallace
+	culture = alpine
+	religion = tazism
+	holding = auto
+}
+
+448 = {  #Wallace 1
+	holding = auto
+}
+
+449 = {  #Wallace 2
+	holding = auto
+}
+
+### c_buccleuch
+622 = {  #Buccleuch
+	culture = alpine
+	religion = tazism
+	holding = auto
+}
+
+623 = {  #Buccleuch 1
+	holding = auto
+}
+
+### c_selwyn
+624 = {  #Selwyn
+	culture = alpine
+	religion = tazism
+	holding = auto
+}
+
+625 = {  #Selwyn 1
+	holding = auto
+}
+
+626 = {  #Selwyn 2
+	holding = auto
+}
+
+627 = {  #Selwyn 3
+	holding = auto
+}
+
+### c_wynyard
+628 = {  #Wagga Wagga
+	culture = alpine
+	religion = tazism
+	holding = auto
+}
+
+629 = {  #Wagga Wagga 1
+	holding = auto
+}
+
+630 = {  #Wagga Wagga 2
+	holding = auto
+}
+
+# d_capital_territory
+### c_cowley
+455 = {  #Cowley
+	culture = illawarran
+	religion = tazism
+	holding = auto
+}
+
+456 = {  #Cowley 1
+	holding = auto
+}
+
+### c_canberra
+457 = {  #Canberra
+	culture = illawarran
+	religion = tazism
+	holding = auto
+}
+
+458 = {  #Canberra 1
+	holding = auto
+}
+
+# d_harendon
+### c_harden
+619 = {  #Harden
+	culture = alpine
+	religion = tazism
+	holding = auto
+}
+
+620 = {  #Harden 1
+	holding = auto
+}
+
+621 = {  #Harden 2
+	holding = auto
+}
+
+### c_clarendon
+631 = {  #Clarendon
+	culture = murrumbidgeen
+	religion = tazism
+	holding = auto
+}
+
+632 = {  #Clarendon 1
+	holding = auto
+}
+
+# d_goulburn
+### c_goulburn
+819 = {  #Goulburn
+	culture = muruwari
+	religion = tazism
+	holding = auto
+}
+
+820 = {  #Goulburn 1
+	holding = auto
+}
+
+821 = {  #Goulburn 2
+	holding = auto
+}
+
+# k_nineteen_counties
+# d_tablelands
+### c_murray
+459 = {  #Murray
+	culture = illawarran
+	religion = tazism
+	holding = auto
+}
+
+460 = {  #Murray 1
+	holding = auto
+}
+
+### c_argyle
+465 = {  #Argyle
+	culture = illawarran
+	religion = tazism
+	holding = auto
+}
+
+466 = {  #Argyle 1
+	holding = auto
+}
+
+467 = {  #Argyle 2
+	holding = auto
+}
+
+468 = {  #Argyle 3
+	holding = auto
+}
+
+### c_king
+469 = {  #King
+	culture = alpine
+	religion = tazism
+	holding = auto
+}
+
+470 = {  #King 1
+	holding = auto
+}
+
+471 = {  #King 2
+	holding = auto
+}
+
+### c_georgiana
+479 = {  #Georgiana
+	culture = alpine
+	religion = tazism
+	holding = auto
+}
+
+480 = {  #Georgiana 1
+	holding = auto
+}
+
+### c_bathurst
+481 = {  #Bathurst
+	culture = alpine
+	religion = tazism
+	holding = auto
+}
+
+482 = {  #Bathurst 1
+	holding = auto
+}
+
+483 = {  #Bathurst 2
+	holding = auto
+}
+
+# d_sydney
+### c_st_vincent
+461 = {  #St Vincent
+	culture = illawarran
+	religion = tazism
+	holding = auto
+}
+
+462 = {  #St Vincent 1
+	holding = auto
+}
+
+463 = {  #St Vincent 2
+	holding = auto
+}
+
+464 = {  #St Vincent 3
+	holding = auto
+}
+
+### c_camden
+472 = {  #Camden
+	culture = illawarran
+	religion = tazism
+	holding = auto
+}
+
+473 = {  #Camden 1
+	holding = auto
+}
+
+474 = {  #Camden 2
+	holding = auto
+}
+
+475 = {  #Camden 3
+	holding = auto
+}
+
+### c_cumberland
+492 = {  #Botany
+	culture = illawarran
+	religion = tazism
+	holding = auto
+}
+
+493 = {  #Sydney
+	holding = auto
+}
+
+494 = {  #Macarthur
+	holding = auto
+}
+
+495 = {  #Penrith
+	holding = auto
+}
+
+### c_northumberland
+496 = {  #Northumberland
+	culture = new english
+	religion = tazism
+	holding = auto
+}
+
+497 = {  #Northumberland 1
+	holding = auto
+}
+
+498 = {  #Northumberland 2
+	holding = auto
+}
+
+499 = {  #Northumberland 3
+	holding = auto
+}
+
+# d_blue_mountains
+### c_oberon
+476 = {  #Oberon
+	culture = alpine
+	religion = tazism
+	holding = auto
+}
+
+477 = {  #Oberon 1
+	holding = auto
+}
+
+478 = {  #Oberon 2
+	holding = auto
+}
+
+### c_cook
+489 = {  #Cook
+	culture = alpine
+	religion = tazism
+	holding = auto
+}
+
+490 = {  #Cook 1
+	holding = auto
+}
+
+491 = {  #Cook 2
+	holding = auto
+}
+
+### c_hunter
+500 = {  #Hunter
+	culture = alpine
+	religion = tazism
+	holding = auto
+}
+
+501 = {  #Hunter 1
+	holding = auto
+}
+
+# d_mudgee
+### c_wellington
+484 = {  #Wellington
+	culture = alpine
+	religion = tazism
+	holding = auto
+}
+
+485 = {  #Wellington 1
+	holding = auto
+}
+
+486 = {  #Wellington 2
+	holding = auto
+}
+
+### c_roxburgh
+487 = {  #Roxburgh
+	culture = alpine
+	religion = tazism
+	holding = auto
+}
+
+488 = {  #Roxburgh 1
+	holding = auto
+}
+
+### c_phillip
+502 = {  #Phillip
+	culture = alpine
+	religion = tazism
+	holding = auto
+}
+
+503 = {  #Phillip 1
+	holding = auto
+}
+
+504 = {  #Phillip 2
+	holding = auto
+}
+
+### c_bligh
+505 = {  #Bligh
+	culture = alpine
+	religion = tazism
+	holding = auto
+}
+
+506 = {  #Bligh 1
+	holding = auto
+}
+
+# d_hunter
+### c_scone
+507 = {  #Scone
+	culture = alpine
+	religion = tazism
+	holding = auto
+}
+
+508 = {  #Scone 1
+	holding = auto
+}
+
+509 = {  #Scone 2
+	holding = auto
+}
+
+### c_muswellbrook
+510 = {  #Muswellbrook
+	culture = new english
+	religion = tazism
+	holding = auto
+}
+
+511 = {  #Muswellbrook 1
+	holding = auto
+}
+
+512 = {  #Muswellbrook 2
+	holding = auto
+}
+
+### c_gloucester
+513 = {  #Gloucester
+	culture = new english
+	religion = tazism
+	holding = auto
+}
+
+514 = {  #Gloucester 1
+	holding = auto
+}
+
+515 = {  #Gloucester 2
+	holding = auto
+}
+
+516 = {  #Gloucester 3
+	holding = auto
+}
+
+517 = {  #Gloucester 4
+	holding = auto
+}
+
+# k_new_england
+# d_portharbour
+### c_macquarie
+518 = {  #Macquarie
+	culture = new english
+	religion = tazism
+	holding = auto
+}
+
+519 = {  #Macquarie 1
+	holding = auto
+}
+
+520 = {  #Macquarie 2
+	holding = auto
+}
+
+521 = {  #Macquarie 3
+	holding = auto
+}
+
+### c_dudley
+525 = {  #Dudley
+	culture = new english
+	religion = tazism
+	holding = auto
+}
+
+526 = {  #Dudley 1
+	holding = auto
+}
+
+### c_raleigh
+535 = {  #Raleigh
+	culture = new english
+	religion = tazism
+	holding = auto
+}
+
+536 = {  #Raleigh 1
+	holding = auto
+}
+
+### c_fitzroy
+537 = {  #Fitzroy
+	culture = new english
+	religion = tazism
+	holding = auto
+}
+
+538 = {  #Fitzroy 1
+	holding = auto
+}
+
+539 = {  #Fitzroy 2
+	holding = auto
+}
+
+540 = {  #Fitzroy 3
+	holding = auto
+}
+
+# d_binghi
+### c_hawes
+522 = {  #Hawes
+	culture = new english
+	religion = tazism
+	holding = auto
+}
+
+523 = {  #Hawes 1
+	holding = auto
+}
+
+524 = {  #Hawes 2
+	holding = auto
+}
+
+### c_vernon
+527 = {  #Vernon
+	culture = new english
+	religion = tazism
+	holding = auto
+}
+
+528 = {  #Vernon 1
+	holding = auto
+}
+
+529 = {  #Vernon 2
+	holding = auto
+}
+
+### c_sandon
+530 = {  #Sandon
+	culture = new english
+	religion = tazism
+	holding = auto
+}
+
+531 = {  #Sandon 1
+	holding = auto
+}
+
+# d_new_england_tablelands
+### c_clarke
+532 = {  #Clarke
+	culture = new english
+	religion = tazism
+	holding = auto
+}
+
+533 = {  #Clarke 1
+	holding = auto
+}
+
+534 = {  #Clarke 2
+	holding = auto
+}
+
+### c_gresham
+541 = {  #Gresham
+	culture = new english
+	religion = tazism
+	holding = auto
+}
+
+542 = {  #Gresham 1
+	holding = auto
+}
+
+### c_clive
+557 = {  #Clive
+	culture = new english
+	religion = tazism
+	holding = auto
+}
+
+558 = {  #Clive 1
+	holding = auto
+}
+
+559 = {  #Clive 2
+	holding = auto
+}
+
+560 = {  #Clive 3
+	holding = auto
+}
+
+### c_gough
+561 = {  #Gough
+	culture = new english
+	religion = tazism
+	holding = auto
+}
+
+562 = {  #Gough 1
+	holding = auto
+}
+
+563 = {  #Gough 2
+	holding = auto
+}
+
+# d_new_highlands
+### c_drake
+543 = {  #Drake
+	culture = new english
+	religion = tazism
+	holding = auto
+}
+
+544 = {  #Drake 1
+	holding = auto
+}
+
+545 = {  #Drake 2
+	holding = auto
+}
+
+### c_buller
+555 = {  #Buller
+	culture = new english
+	religion = tazism
+	holding = auto
+}
+
+556 = {  #Buller 1
+	holding = auto
+}
+
+# d_lowlands
+### c_clarence
+546 = {  #Clarence
+	culture = new english
+	religion = tazism
+	holding = auto
+}
+
+547 = {  #Clarence 1
+	holding = auto
+}
+
+548 = {  #Clarence 2
+	holding = auto
+}
+
+### c_richmond_valley
+549 = {  #Richmond Valley
+	culture = new english
+	religion = tazism
+	holding = auto
+}
+
+550 = {  #Richmond Valley 1
+	holding = auto
+}
+
+### c_rous
+551 = {  #Rous
+	culture = new english
+	religion = tazism
+	holding = auto
+}
+
+552 = {  #Rous 1
+	holding = auto
+}
+
+553 = {  #Rous 2
+	holding = auto
+}
+
+554 = {  #Rous 3
+	holding = auto
+}
+
+# d_nandewar
+### c_hardinge
+564 = {  #Hardinge
+	culture = rivers
+	religion = tazism
+	holding = auto
+}
+
+565 = {  #Hardinge 1
+	holding = auto
+}
+
+### c_darling
+566 = {  #Darling
+	culture = rivers
+	religion = tazism
+	holding = auto
+}
+
+567 = {  #Darling 1
+	holding = auto
+}
+
+### c_nandewar
+574 = {  #Nandewar
+	culture = rivers
+	religion = tazism
+	holding = auto
+}
+
+575 = {  #Nandewar 1
+	holding = auto
+}
+
+### c_murchison
+576 = {  #Murchison
+	culture = rivers
+	religion = tazism
+	holding = auto
+}
+
+577 = {  #Murchison 1
+	holding = auto
+}
+
+578 = {  #Murchison 2
+	holding = auto
+}
+
+### c_jamison
+594 = {  #Jamison
+	culture = rivers
+	religion = tazism
+	holding = auto
+}
+
+595 = {  #Jamison 1
+	holding = auto
+}
+
+596 = {  #Jamison 2
+	holding = auto
+}
+
+597 = {  #Jamison 3
+	holding = auto
+}
+
+598 = {  #Jamison 4
+	holding = auto
+}
+
+# d_tamworth
+### c_inglis
+568 = {  #Inglis
+	culture = rivers
+	religion = tazism
+	holding = auto
+}
+
+### c_parry
+569 = {  #Parry
+	culture = rivers
+	religion = tazism
+	holding = auto
+}
+
+### c_buckland
+570 = {  #Buckland
+	culture = rivers
+	religion = tazism
+	holding = auto
+}
+
+### c_pottinger
+571 = {  #Pottinger
+	culture = rivers
+	religion = tazism
+	holding = auto
+}
+
+572 = {  #Pottinger 1
+	holding = auto
+}
+
+573 = {  #Pottinger 2
+	holding = auto
+}
+
+# d_north_west_slopes
+### c_arrawatta
+579 = {  #Arrawatta
+	culture = rivers
+	religion = tazism
+	holding = auto
+}
+
+580 = {  #Arrawatta 1
+	holding = auto
+}
+
+581 = {  #Arrawatta 2
+	holding = auto
+}
+
+### c_burnett
+582 = {  #Burnett
+	culture = rivers
+	religion = tazism
+	holding = auto
+}
+
+583 = {  #Burnett 1
+	holding = auto
+}
+
+584 = {  #Burnett 2
+	holding = auto
+}
+
+### c_stapylton
+585 = {  #Stapylton
+	culture = rivers
+	religion = tazism
+	holding = auto
+}
+
+586 = {  #Stapylton 1
+	holding = auto
+}
+
+587 = {  #Stapylton 2
+	holding = auto
+}
+
+### c_courallie
+588 = {  #Courallie
+	culture = rivers
+	religion = tazism
+	holding = auto
+}
+
+589 = {  #Courallie 1
+	holding = auto
+}
+
+# k_orana
+# d_orana
+### c_benarba
+590 = {  #Benarba
+	culture = rivers
+	religion = tazism
+	holding = auto
+}
+
+591 = {  #Benarba 1
+	holding = auto
+}
+
+592 = {  #Benarba 2
+	holding = auto
+}
+
+593 = {  #Benarba 3
+	holding = auto
+}
+
+### c_denham
+660 = {  #Denham
+	culture = rivers
+	religion = tazism
+	holding = auto
+}
+
+661 = {  #Denham 1
+	holding = auto
+}
+
+662 = {  #Denham 2
+	holding = auto
+}
+
+### c_finch
+663 = {  #Finch
+	culture = murrawarrian
+	religion = tazism
+	holding = auto
+}
+
+664 = {  #Finch 1
+	holding = auto
+}
+
+665 = {  #Finch 2
+	holding = auto
+}
+
+666 = {  #Finch 3
+	holding = auto
+}
+
+### c_narran
+667 = {  #Narran
+	culture = murrawarrian
+	religion = tazism
+	holding = auto
+}
+
+668 = {  #Narran 1
+	holding = auto
+}
+
+669 = {  #Narran 2
+	holding = auto
+}
+
+# d_leichardt
+### c_white
+599 = {  #White
+	culture = rivers
+	religion = tazism
+	holding = auto
+}
+
+600 = {  #White 1
+	holding = auto
+}
+
+601 = {  #White 2
+	holding = auto
+}
+
+602 = {  #White 3
+	holding = auto
+}
+
+### c_napier
+603 = {  #Napier
+	culture = rivers
+	religion = tazism
+	holding = auto
+}
+
+604 = {  #Napier 1
+	holding = auto
+}
+
+605 = {  #Napier 2
+	holding = auto
+}
+
+### c_gowen
+649 = {  #Gowen
+	culture = wamboolian
+	religion = tazism
+	holding = auto
+}
+
+650 = {  #Gowen 1
+	holding = auto
+}
+
+651 = {  #Gowen 2
+	holding = auto
+}
+
+652 = {  #Gowen 3
+	holding = auto
+}
+
+### c_baradine
+653 = {  #Baradine
+	culture = rivers
+	religion = tazism
+	holding = auto
+}
+
+654 = {  #Baradine 1
+	holding = auto
+}
+
+655 = {  #Baradine 2
+	holding = auto
+}
+
+656 = {  #Baradine 3
+	holding = auto
+}
+
+### c_leichardt
+657 = {  #Leichardt
+	culture = murrawarrian
+	religion = tazism
+	holding = auto
+}
+
+658 = {  #Leichardt 1
+	holding = auto
+}
+
+659 = {  #Leichardt 2
+	holding = auto
+}
+
+# d_irrara
+### c_south_culgoa
+670 = {  #South Culgoa
+	culture = murrawarrian
+	religion = tazism
+	holding = auto
+}
+
+671 = {  #South Culgoa 1
+	holding = auto
+}
+
+672 = {  #South Culgoa 2
+	holding = auto
+}
+
+### c_gunderbooka
+673 = {  #Gunderbooka
+	culture = murrawarrian
+	religion = tazism
+	holding = auto
+}
+
+674 = {  #Gunderbooka 1
+	holding = auto
+}
+
+### c_irrara
+675 = {  #Irrara
+	culture = murrawarrian
+	religion = tazism
+	holding = auto
+}
+
+676 = {  #Irrara 1
+	holding = auto
+}
+
+677 = {  #Irrara 2
+	holding = auto
+}
+
+678 = {  #Irrara 3
+	holding = auto
+}
+
+### c_barrona
+679 = {  #Barrona
+	culture = murrawarrian
+	religion = tazism
+	holding = auto
+}
+
+680 = {  #Barrona 1
+	holding = auto
+}
+
+### c_landsborough
+710 = {  #Landsborough
+	culture = baaka
+	religion = tazism
+	holding = auto
+}
+
+711 = {  #Landsborough 1
+	holding = auto
+}
+
+# d_clyde
+### c_cowper
+714 = {  #Cowper
+	culture = murrawarrian
+	religion = tazism
+	holding = auto
+}
+
+715 = {  #Cowper 1
+	holding = auto
+}
+
+716 = {  #Cowper 2
+	holding = auto
+}
+
+717 = {  #Cowper 3
+	holding = auto
+}
+
+718 = {  #Cowper 4
+	holding = auto
+}
+
+### c_clyde
+719 = {  #Clyde
+	culture = murrawarrian
+	religion = tazism
+	holding = auto
+}
+
+720 = {  #Clyde 1
+	holding = auto
+}
+
+721 = {  #Clyde 2
+	holding = auto
+}
+
+### c_gregory
+722 = {  #Gregory
+	culture = wamboolian
+	religion = tazism
+	holding = auto
+}
+
+723 = {  #Gregory 1
+	holding = auto
+}
+
+724 = {  #Gregory 2
+	holding = auto
+}
+
+### c_canbelego
+727 = {  #Canbelego
+	culture = wamboolian
+	religion = tazism
+	holding = auto
+}
+
+728 = {  #Canbelego 1
+	holding = auto
+}
+
+# k_mourewenmar
+# d_lincoln
+### c_lincoln
+606 = {  #Lincoln
+	culture = wamboolian
+	religion = tazism
+	holding = auto
+}
+
+607 = {  #Lincoln 1
+	holding = auto
+}
+
+608 = {  #Lincoln 2
+	holding = auto
+}
+
+### c_gordon
+609 = {  #Gordon
+	culture = wamboolian
+	religion = tazism
+	holding = auto
+}
+
+610 = {  #Gordon 1
+	holding = auto
+}
+
+### c_ashburnham
+611 = {  #Ashburnham
+	culture = wamboolian
+	religion = tazism
+	holding = auto
+}
+
+612 = {  #Ashburnham 1
+	holding = auto
+}
+
+613 = {  #Ashburnham 2
+	holding = auto
+}
+
+614 = {  #Ashburnham 3
+	holding = auto
+}
+
+# d_ewenmar
+### c_cunningham
+639 = {  #Cunningham
+	culture = wamboolian
+	religion = tazism
+	holding = auto
+}
+
+640 = {  #Cunningham 1
+	holding = auto
+}
+
+### c_kennedy
+641 = {  #Kennedy
+	culture = wamboolian
+	religion = tazism
+	holding = auto
+}
+
+642 = {  #Kennedy 1
+	holding = auto
+}
+
+### c_narromine
+643 = {  #Narromine
+	culture = wamboolian
+	religion = tazism
+	holding = auto
+}
+
+644 = {  #Narromine 1
+	holding = auto
+}
+
+645 = {  #Narromine 2
+	holding = auto
+}
+
+### c_ewenmar
+646 = {  #Ewenmar
+	culture = wamboolian
+	religion = tazism
+	holding = auto
+}
+
+647 = {  #Ewenmar 1
+	holding = auto
+}
+
+648 = {  #Ewenmar 2
+	holding = auto
+}
+
+### c_oxley
+725 = {  #Oxley
+	culture = wamboolian
+	religion = tazism
+	holding = auto
+}
+
+# d_mouramba
+### c_flinders
+726 = {  #Flinders
+	culture = wamboolian
+	religion = tazism
+	holding = auto
+}
+
+### c_robinson
+729 = {  #Robinson
+	culture = wamboolian
+	religion = tazism
+	holding = auto
+}
+
+730 = {  #Robinson 1
+	holding = auto
+}
+
+731 = {  #Robinson 2
+	holding = auto
+}
+
+### c_booroondarra
+732 = {  #Booroondarra
+	culture = wamboolian
+	religion = tazism
+	holding = auto
+}
+
+733 = {  #Booroondarra 1
+	holding = auto
+}
+
+### c_rankin
+734 = {  #Rankin
+	culture = baaka
+	religion = tazism
+	holding = auto
+}
+
+735 = {  #Rankin 1
+	holding = auto
+}
+
+736 = {  #Rankin 2
+	holding = auto
+}
+
+### c_woore
+755 = {  #Woore
+	culture = wamboolian
+	religion = tazism
+	holding = auto
+}
+
+756 = {  #Woore 1
+	holding = auto
+}
+
+757 = {  #Woore 2
+	holding = auto
+}
+
+### c_mossgiel
+758 = {  #Mossgiel
+	culture = wamboolian
+	religion = tazism
+	holding = auto
+}
+
+759 = {  #Mossgiel 1
+	holding = auto
+}
+
+760 = {  #Mossgiel 2
+	holding = auto
+}
+
+761 = {  #Mossgiel 3
+	holding = auto
+}
+
+### c_blaxland
+762 = {  #Blaxland
+	culture = wamboolian
+	religion = tazism
+	holding = auto
+}
+
+763 = {  #Blaxland 1
+	holding = auto
+}
+
+764 = {  #Blaxland 2
+	holding = auto
+}
+
+765 = {  #Blaxland 3
+	holding = auto
+}
+
+### c_mouramba
+766 = {  #Mouramba
+	culture = wamboolian
+	religion = tazism
+	holding = auto
+}
+
+767 = {  #Mouramba 1
+	holding = auto
+}
+
+768 = {  #Mouramba 2
+	holding = auto
+}
+
+# k_riverina
+# d_hilltops
+### c_forbes
+615 = {  #Forbes
+	culture = wamboolian
+	religion = tazism
+	holding = auto
+}
+
+616 = {  #Forbes 1
+	holding = auto
+}
+
+### c_monteagle
+617 = {  #Monteagle
+	culture = alpine
+	religion = tazism
+	holding = auto
+}
+
+618 = {  #Monteagle 1
+	holding = auto
+}
+
+### c_bland
+633 = {  #Bland
+	culture = wamboolian
+	religion = tazism
+	holding = auto
+}
+
+634 = {  #Bland 1
+	holding = auto
+}
+
+635 = {  #Bland 2
+	holding = auto
+}
+
+### c_gipps
+636 = {  #Gipps
+	culture = wamboolian
+	religion = tazism
+	holding = auto
+}
+
+637 = {  #Gipps 1
+	holding = auto
+}
+
+638 = {  #Gipps 2
+	holding = auto
+}
+
+# d_coolamon
+### c_dowling
+769 = {  #Dowling
+	culture = wamboolian
+	religion = tazism
+	holding = auto
+}
+
+770 = {  #Dowling 1
+	holding = auto
+}
+
+### c_nicholson
+771 = {  #Nicholson
+	culture = murrumbidgeen
+	religion = tazism
+	holding = auto
+}
+
+772 = {  #Nicholson 1
+	holding = auto
+}
+
+### c_sturt
+805 = {  #Sturt
+	culture = murrumbidgeen
+	religion = tazism
+	holding = auto
+}
+
+806 = {  #Sturt 1
+	holding = auto
+}
+
+### c_boyd
+807 = {  #Boyd
+	culture = murrumbidgeen
+	religion = tazism
+	holding = auto
+}
+
+808 = {  #Boyd 1
+	holding = auto
+}
+
+### c_cooper
+809 = {  #Cooper
+	culture = murrumbidgeen
+	religion = tazism
+	holding = auto
+}
+
+810 = {  #Cooper 1
+	holding = auto
+}
+
+811 = {  #Cooper 2
+	holding = auto
+}
+
+812 = {  #Cooper 3
+	holding = auto
+}
+
+# d_carrathool
+### c_franklin
+773 = {  #Franklin
+	culture = murrumbidgeen
+	religion = tazism
+	holding = auto
+}
+
+### c_waljeers
+774 = {  #Waljeers
+	culture = murrumbidgeen
+	religion = tazism
+	holding = auto
+}
+
+775 = {  #Waljeers 1
+	holding = auto
+}
+
+### c_kilfera
+794 = {  #Kilfera
+	culture = murrumbidgeen
+	religion = tazism
+	holding = auto
+}
+
+795 = {  #Kilfera 1
+	holding = auto
+}
+
+796 = {  #Kilfera 2
+	holding = auto
+}
+
+### c_caira
+797 = {  #Caira
+	culture = muruwari
+	religion = tazism
+	holding = auto
+}
+
+798 = {  #Caira 1
+	holding = auto
+}
+
+799 = {  #Caira 2
+	holding = auto
+}
+
+800 = {  #Caira 3
+	holding = auto
+}
+
+### c_waradgery
+801 = {  #Waradgery
+	culture = murrumbidgeen
+	religion = tazism
+	holding = auto
+}
+
+802 = {  #Waradgery 1
+	holding = auto
+}
+
+803 = {  #Waradgery 2
+	holding = auto
+}
+
+804 = {  #Waradgery 3
+	holding = auto
+}
+
+# d_the_rock
+### c_the_rock
+813 = {  #The Rock
+	culture = murrumbidgeen
+	religion = tazism
+	holding = auto
+}
+
+814 = {  #The Rock 1
+	holding = auto
+}
+
+815 = {  #The Rock 2
+	holding = auto
+}
+
+### c_burke
+816 = {  #Burke
+	culture = murrumbidgeen
+	religion = tazism
+	holding = auto
+}
+
+817 = {  #Burke 1
+	holding = auto
+}
+
+818 = {  #Burke 2
+	holding = auto
+}
+
+# d_greater_hume
+### c_hume
+822 = {  #Hume
+	culture = muruwari
+	religion = tazism
+	holding = auto
+}
+
+823 = {  #Hume 1
+	holding = auto
+}
+
+824 = {  #Hume 2
+	holding = auto
+}
+
+### c_urana
+825 = {  #Urana
+	culture = muruwari
+	religion = tazism
+	holding = auto
+}
+
+826 = {  #Urana 1
+	holding = auto
+}
+
+827 = {  #Urana 2
+	holding = auto
+}
+
+828 = {  #Urana 3
+	holding = auto
+}
+
+### c_denison
+829 = {  #Denison
+	culture = muruwari
+	religion = tazism
+	holding = auto
+}
+
+830 = {  #Denison 1
+	holding = auto
+}
+
+831 = {  #Denison 2
+	holding = auto
+}
+
+# d_wakool
+### c_townsend
+832 = {  #Townsend
+	culture = muruwari
+	religion = tazism
+	holding = auto
+}
+
+833 = {  #Townsend 1
+	holding = auto
+}
+
+834 = {  #Townsend 2
+	holding = auto
+}
+
+835 = {  #Townsend 3
+	holding = auto
+}
+
+836 = {  #Townsend 4
+	holding = auto
+}
+
+### c_cadell
+837 = {  #Cadell
+	culture = muruwari
+	religion = tazism
+	holding = auto
+}
+
+838 = {  #Cadell 1
+	holding = auto
+}
+
+839 = {  #Cadell 2
+	holding = auto
+}
+
+### c_wakool
+840 = {  #Wakool
+	culture = muruwari
+	religion = tazism
+	holding = auto
+}
+
+841 = {  #Wakool 1
+	holding = auto
+}
+
+842 = {  #Wakool 2
+	holding = auto
+}
+
+843 = {  #Wakool 3
+	holding = auto
+}
+
+# k_far_west
+# d_ularara
+### c_thoulcanna
+681 = {  #Thoulcanna
+	culture = baaka
+	religion = tazism
+	holding = auto
+}
+
+682 = {  #Thoulcanna 1
+	holding = auto
+}
+
+### c_ularara
+683 = {  #Ularara
+	culture = baaka
+	religion = tazism
+	holding = auto
+}
+
+684 = {  #Ularara 1
+	holding = auto
+}
+
+### c_delalah
+685 = {  #Delalah
+	culture = baaka
+	religion = tazism
+	holding = auto
+}
+
+### c_yantara
+688 = {  #Yantara
+	culture = baaka
+	religion = tazism
+	holding = auto
+}
+
+689 = {  #Yantara 1
+	holding = auto
+}
+
+690 = {  #Yantara 2
+	holding = auto
+}
+
+# d_evlyn
+### c_tongowoko
+686 = {  #Tongowoko
+	culture = baaka
+	religion = tazism
+	holding = auto
+}
+
+687 = {  #Tongowoko 1
+	holding = auto
+}
+
+### c_poole
+691 = {  #Poole
+	culture = baaka
+	religion = tazism
+	holding = auto
+}
+
+692 = {  #Poole 1
+	holding = auto
+}
+
+### c_evlyn
+693 = {  #Evlyn
+	culture = baaka
+	religion = tazism
+	holding = auto
+}
+
+694 = {  #Evlyn 1
+	holding = auto
+}
+
+695 = {  #Evlyn 2
+	holding = auto
+}
+
+### c_farnell
+696 = {  #Farnell
+	culture = baaka
+	religion = tazism
+	holding = auto
+}
+
+697 = {  #Farnell 1
+	holding = auto
+}
+
+698 = {  #Farnell 2
+	holding = auto
+}
+
+### c_mootwingee
+699 = {  #Mootwingee
+	culture = baaka
+	religion = tazism
+	holding = auto
+}
+
+700 = {  #Mootwingee 1
+	holding = auto
+}
+
+701 = {  #Mootwingee 2
+	holding = auto
+}
+
+# d_killara
+### c_yungnulgra
+702 = {  #Yungnulgra
+	culture = baaka
+	religion = tazism
+	holding = auto
+}
+
+703 = {  #Yungnulgra 1
+	holding = auto
+}
+
+704 = {  #Yungnulgra 2
+	holding = auto
+}
+
+### c_fitzgerlald
+705 = {  #Fitzgerlald
+	culture = baaka
+	religion = tazism
+	holding = auto
+}
+
+706 = {  #Fitzgerlald 1
+	holding = auto
+}
+
+### c_killara
+707 = {  #Killara
+	culture = baaka
+	religion = tazism
+	holding = auto
+}
+
+708 = {  #Killara 1
+	holding = auto
+}
+
+709 = {  #Killara 2
+	holding = auto
+}
+
+### c_yanda
+712 = {  #Yanda
+	culture = wamboolian
+	religion = tazism
+	holding = auto
+}
+
+713 = {  #Yanda 1
+	holding = auto
+}
+
+# d_tandora
+### c_werunda
+737 = {  #Werunda
+	culture = baaka
+	religion = tazism
+	holding = auto
+}
+
+738 = {  #Werunda 1
+	holding = auto
+}
+
+739 = {  #Werunda 2
+	holding = auto
+}
+
+### c_young
+740 = {  #Young
+	culture = baaka
+	religion = tazism
+	holding = auto
+}
+
+741 = {  #Young 1
+	holding = auto
+}
+
+742 = {  #Young 2
+	holding = auto
+}
+
+743 = {  #Young 3
+	holding = auto
+}
+
+### c_tandora
+744 = {  #Tandora
+	culture = murrumbidgeen
+	religion = tazism
+	holding = auto
+}
+
+745 = {  #Tandora 1
+	holding = auto
+}
+
+746 = {  #Tandora 2
+	holding = auto
+}
+
+### c_yancowinna
+747 = {  #Yancowinna
+	culture = murrumbidgeen
+	religion = tazism
+	holding = auto
+}
+
+748 = {  #Yancowinna 1
+	holding = auto
+}
+
+### c_menindee
+749 = {  #Menindee
+	culture = murrumbidgeen
+	religion = tazism
+	holding = auto
+}
+
+750 = {  #Menindee 1
+	holding = auto
+}
+
+### c_livingstone
+751 = {  #Livingstone
+	culture = murrumbidgeen
+	religion = tazism
+	holding = auto
+}
+
+752 = {  #Livingstone 1
+	holding = auto
+}
+
+753 = {  #Livingstone 2
+	holding = auto
+}
+
+754 = {  #Livingstone 3
+	holding = auto
+}
+
+# d_wentworth
+### c_manara
+776 = {  #Manara
+	culture = murrumbidgeen
+	religion = tazism
+	holding = auto
+}
+
+777 = {  #Manara 1
+	holding = auto
+}
+
+778 = {  #Manara 2
+	holding = auto
+}
+
+### c_perry
+779 = {  #Perry
+	culture = murrumbidgeen
+	religion = tazism
+	holding = auto
+}
+
+780 = {  #Perry 1
+	holding = auto
+}
+
+781 = {  #Perry 2
+	holding = auto
+}
+
+### c_windeyer
+782 = {  #Windeyer
+	culture = murrumbidgeen
+	religion = tazism
+	holding = auto
+}
+
+783 = {  #Windeyer 1
+	holding = auto
+}
+
+784 = {  #Windeyer 2
+	holding = auto
+}
+
+### c_tarawi
+785 = {  #Tarawi
+	culture = muruwari
+	religion = tazism
+	holding = auto
+}
+
+786 = {  #Tarawi 1
+	holding = auto
+}
+
+787 = {  #Tarawi 2
+	holding = auto
+}
+
+### c_wentworth
+788 = {  #Wentworth
+	culture = muruwari
+	religion = tazism
+	holding = auto
+}
+
+789 = {  #Wentworth 1
+	holding = auto
+}
+
+790 = {  #Wentworth 2
+	holding = auto
+}
+
+### c_taila
+791 = {  #Taila
+	culture = muruwari
+	religion = tazism
+	holding = auto
+}
+
+792 = {  #Taila 1
+	holding = auto
+}
+
+793 = {  #Taila 2
+	holding = auto
+}
+

@@ -77,7 +77,7 @@ class LandedTitles:
 
 
 def create_definition(end_line):
-    f = open("definition.csv", "w")
+    f = open("map_data/definition.csv", "w")
     with open('provinces.csv') as csv_file:
         csv_reader = csv.reader(csv_file, delimiter=',')
         line_count = 0
@@ -127,7 +127,7 @@ def create_definition(end_line):
 
 
 def create_landed_titles(end_line):
-    f = open("00_landed_titles.txt", "w")
+    f = open("landed_titles/00_landed_titles.txt", "w")
     landed_titles = LandedTitles()
     with open('provinces.csv') as csv_file:
         csv_reader = csv.reader(csv_file, delimiter=',')
@@ -156,9 +156,9 @@ def create_landed_titles(end_line):
                 empire_name = row[8]
 
                 # map colors (col 14 15 16)
-                map_red = row[14]
-                map_green = row[15]
-                map_blue = row[16]
+                map_red = row[13]
+                map_green = row[14]
+                map_blue = row[15]
 
                 # barony name alteration
                 if not ("Sea" in new_barony_name or "Lakey" in new_barony_name or "Impassable" in new_barony_name):
@@ -251,7 +251,7 @@ def create_landed_titles(end_line):
 
     f.close()
 
-    f2 = open("titles_l_english.yml", "w")
+    f2 = open("localization/titles_l_english.yml", "w")
 
     f2.write(
         "l_english:\n TITLE_NAME:0 \"$NAME$\"\n TITLE_TIERED_NAME:0 \"$TIER|U$ of $NAME$\"\n TITLE_CLAN_TIERED_NAME"
@@ -313,7 +313,7 @@ def print_landed_titles(landed_title_list):
 
 def make_color_palette(start_line, end_line):
     start_line = start_line - 1
-    f = open("provinces.gpl", "w")
+    f = open("extras/provinces.gpl", "w")
     f.write("GIMP Palette\nName: provinces\nColumns: 0\n#\n")
     with open('provinces.csv') as csv_file:
         csv_reader = csv.reader(csv_file, delimiter=',')
@@ -365,7 +365,7 @@ def make_integer_three_spaces(num):
 
 # make history/provinces
 def make_province_history(end_line):
-    f = open("k_all.txt", "w")
+    f = open("provinces/k_all.txt", "w")
     with open('provinces.csv') as csv_file:
         csv_reader = csv.reader(csv_file, delimiter=',')
         line_count = 0
@@ -374,7 +374,7 @@ def make_province_history(end_line):
                 province_id = row[0]
                 province_culture = row[10]
                 province_religion = row[11]
-                province_holding = row[13]
+                province_holding = row[12]
                 f.write(str(province_id) + " = {\n\tculture = " + province_culture + "\n\treligion = " +
                         province_religion)
                 if province_holding != "x":
@@ -392,7 +392,7 @@ def make_province_history(end_line):
 
 # make province terrain
 def make_province_terrain(end_line):
-    f = open("00_province_terrain.txt", "w")
+    f = open("province_terrain/00_province_terrain.txt", "w")
     f.write("# plains, forest, mountains, hills, wetlands, taiga, drylands, desert, desert_mountains, farmlands,"
             " floodplains, oasis\n\n")
     with open('provinces.csv') as csv_file:
