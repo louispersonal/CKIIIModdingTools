@@ -2,6 +2,35 @@ import csv
 import re
 
 
+class Character:
+    def __init__(self, character_number, name, dynasty_name, religion, culture):
+        self.character_number = character_number
+        self.name = name
+        self.dynasty_name = dynasty_name
+        self.religion = religion
+        self.culture = culture
+
+
+class Dynasty:
+    def __init__(self, name, culture, coat):
+        self.name = name
+        self.culture = culture
+        self.coat = coat
+
+
+class DynastyList:
+    def __init__(self):
+        self.dynasties = []
+
+    def find_dynasty(self, name, culture, coat):
+        index = 0
+        for dynasty in self.dynasties:
+            if dynasty.name == name:
+                return index
+        self.dynasties.append(Dynasty(name, culture, coat))
+        return len(self.dynasties) - 1
+
+
 class CoatOfArms:
     def __init__(self, textured, background, bg_color_1, bg_color_2, bg_color_3, icon, icon_color_1,
                  icon_color_2, icon_color_3):
@@ -88,6 +117,7 @@ class County:
         self.year = 2660
         self.liege = "none"
         self.coat = None
+        self.government = "x"
 
     def add_barony(self, barony):
         self.baronies.append(barony)
@@ -132,6 +162,9 @@ class County:
         self.coat = CoatOfArms(textured, background, bg_color_1, bg_color_2, bg_color_3, icon, icon_color_1,
                                icon_color_2, icon_color_3)
 
+    def set_government(self, government):
+        self.government = government
+
 
 class Duchy:
 
@@ -146,6 +179,7 @@ class Duchy:
         self.year = 2660
         self.liege = "none"
         self.coat = None
+        self.government = "x"
 
     def add_county(self, county):
         self.counties.append(county)
@@ -187,6 +221,9 @@ class Duchy:
         self.coat = CoatOfArms(textured, background, bg_color_1, bg_color_2, bg_color_3, icon, icon_color_1,
                                icon_color_2, icon_color_3)
 
+    def set_government(self, government):
+        self.government = government
+
 
 class Kingdom:
 
@@ -201,6 +238,7 @@ class Kingdom:
         self.year = 2660
         self.liege = "none"
         self.coat = None
+        self.government = "x"
 
     def add_duchy(self, duchy):
         self.duchies.append(duchy)
@@ -214,6 +252,9 @@ class Kingdom:
                  icon_color_2, icon_color_3):
         self.coat = CoatOfArms(textured, background, bg_color_1, bg_color_2, bg_color_3, icon, icon_color_1,
                                icon_color_2, icon_color_3)
+
+    def set_government(self, government):
+        self.government = government
 
 
 class Empire:
@@ -229,6 +270,7 @@ class Empire:
         self.year = 2660
         self.liege = "none"
         self.coat = None
+        self.government = "x"
 
     def add_kingdom(self, kingdom):
         self.kingdoms.append(kingdom)
@@ -242,6 +284,9 @@ class Empire:
                  icon_color_2, icon_color_3):
         self.coat = CoatOfArms(textured, background, bg_color_1, bg_color_2, bg_color_3, icon, icon_color_1,
                                icon_color_2, icon_color_3)
+
+    def set_government(self, government):
+        self.government = government
 
 
 class LandedTitles:
@@ -482,7 +527,7 @@ def write_province_terrains(landed_titles):
 def initialize_title_character_list(landed_titles):
     f = open("titles_characters.csv", "w")
     f.write("title,character number,year,liege,textured emblem,background,bg color 1,bg color 2,bg color 3,icon,"
-            "icon color 1,icon color 2,icon color 3\n")
+            "icon color 1,icon color 2,icon color 3,government\n")
     for empire in landed_titles.empires:
         f.write(empire.name + "," + str(empire.holder) + "\n")
         for kingdom in empire.kingdoms:
@@ -514,6 +559,7 @@ def title_character_coat_assignment(landed_titles):
                 icon_color_1 = row[10]
                 icon_color_2 = row[11]
                 icon_color_3 = row[12]
+                government = row[13]
 
                 index = -1
 
@@ -522,6 +568,7 @@ def title_character_coat_assignment(landed_titles):
                     landed_titles.empires[index].assign_holder(character_number, year, liege)
                     landed_titles.empires[index].set_coat(textured_emblem, background, bg_color_1, bg_color_2,
                                                           bg_color_3, icon, icon_color_1, icon_color_2, icon_color_3)
+                    landed_titles.empires[index].set_government(government)
                 if title[0:2] == "k_":
                     for empire in landed_titles.empires:
                         for kingdom in empire.kingdoms:
@@ -531,6 +578,7 @@ def title_character_coat_assignment(landed_titles):
                                 empire.kingdoms[index].set_coat(textured_emblem, background, bg_color_1, bg_color_2,
                                                                 bg_color_3, icon, icon_color_1, icon_color_2,
                                                                 icon_color_3)
+                                empire.kingdoms[index].set_government(government)
                 if title[0:2] == "d_":
                     for empire in landed_titles.empires:
                         for kingdom in empire.kingdoms:
@@ -541,6 +589,7 @@ def title_character_coat_assignment(landed_titles):
                                     kingdom.duchies[index].set_coat(textured_emblem, background, bg_color_1,
                                                                     bg_color_2, bg_color_3, icon, icon_color_1,
                                                                     icon_color_2, icon_color_3)
+                                    kingdom.duchies[index].set_government(government)
                 if title[0:2] == "c_":
                     for empire in landed_titles.empires:
                         for kingdom in empire.kingdoms:
@@ -552,24 +601,53 @@ def title_character_coat_assignment(landed_titles):
                                         duchy.counties[index].set_coat(textured_emblem, background, bg_color_1,
                                                                        bg_color_2, bg_color_3, icon, icon_color_1,
                                                                        icon_color_2, icon_color_3)
+                                        duchy.counties[index].set_government(government)
             line_count = line_count + 1
     csv_file.close()
 
 
 def write_title_history(landed_titles):
     f = open("titles/k_all.txt", "w")
+
     for empire in landed_titles.empires:
-        f.write(empire.name + " = {\n\t" + str(empire.year) + ".1.1 = {\n\t\tholder = "
-                + str(empire.holder) + "\n\t}\n}\n\n")
+        if not empire.holder == "none":
+            f.write(empire.name + " = {\n\t" + str(empire.year) + ".1.1 = {\n\t\tholder = "
+                    + str(empire.holder) + "\n")
+            if not empire.liege == "none":
+                f.write("\t\tliege = \"" + empire.liege + "\"\n")
+            if not empire.government == "x":
+                f.write("\t\tgovernment = \"" + empire.government + "\"\n")
+            f.write("\t}\n}\n\n")
+
         for kingdom in empire.kingdoms:
-            f.write(kingdom.name + " = {\n\t" + str(kingdom.year) + ".1.1 = {\n\t\tholder = "
-                    + str(kingdom.holder) + "\n\t}\n}\n\n")
+            if not kingdom.holder == "none":
+                f.write(kingdom.name + " = {\n\t" + str(kingdom.year) + ".1.1 = {\n\t\tholder = "
+                        + str(kingdom.holder) + "\n")
+                if not kingdom.liege == "none":
+                    f.write("\t\tliege = \"" + kingdom.liege + "\"\n")
+                if not kingdom.government == "x":
+                    f.write("\t\tgovernment = \"" + kingdom.government + "\"\n")
+                f.write("\t}\n}\n\n")
+
             for duchy in kingdom.duchies:
-                f.write(duchy.name + " = {\n\t" + str(duchy.year) + ".1.1 = {\n\t\tholder = "
-                        + str(duchy.holder) + "\n\t}\n}\n\n")
+                if not duchy.holder == "none":
+                    f.write(duchy.name + " = {\n\t" + str(duchy.year) + ".1.1 = {\n\t\tholder = "
+                            + str(duchy.holder) + "\n")
+                    if not duchy.liege == "none":
+                        f.write("\t\tliege = \"" + duchy.liege + "\"\n")
+                    if not duchy.government == "x":
+                        f.write("\t\tgovernment = \"" + duchy.government + "\"\n")
+                    f.write("\t}\n}\n\n")
+
                 for county in duchy.counties:
-                    f.write(county.name + " = {\n\t" + str(county.year) + ".1.1 = {\n\t\tholder = "
-                            + str(county.holder) + "\n\t}\n}\n\n")
+                    if not county.holder == "none":
+                        f.write(county.name + " = {\n\t" + str(county.year) + ".1.1 = {\n\t\tholder = "
+                                + str(county.holder) + "\n")
+                        if not county.liege == "none":
+                            f.write("\t\tliege = \"" + county.liege + "\"\n")
+                        if not county.government == "x":
+                            f.write("\t\tgovernment = \"" + county.government + "\"\n")
+                        f.write("\t}\n}\n\n")
     f.close()
 
 
@@ -604,6 +682,10 @@ def modify_color(colors, index, is_small):
     else:
         colors[index] = colors[index] - 2
     return colors
+
+
+def character_creation():
+    x = 4
 
 
 if __name__ == '__main__':
