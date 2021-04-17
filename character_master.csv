@@ -1,1 +1,20 @@
-character number,name,dynasty,religion,character,culture,dynasty culture,textured emblem,background,bg color 1,bg color 2,bg color 3,icon,icon color 1,icon color 2,icon color 3
+character number,name,dynasty,religion,character culture,dynasty culture,textured emblem,background,bg color 1,bg color 2,bg color 3,icon,icon color 1,icon color 2,icon color 3,female,birth
+1,Dylan,Franklin,tazism,tasmanian,tasmanian,x,x,x,x,x,x,x,x,x,no,2640
+2,John,Franklin,tersian,wimmeran,wimmeran,x,x,x,x,x,x,x,x,x,no,2640
+3,Thomas,Franklin,tersian,phillipian,phillipian,x,x,x,x,x,x,x,x,x,no,2640
+4,Timothy,de_Port,tersian,phillipian,phillipian,x,x,x,x,x,x,x,x,x,no,2640
+5,Bertrand,Davis,tersian,wimmeran,wimmeran,x,x,x,x,x,x,x,x,x,no,2640
+6,Tyler,Swanson,tersian,phillipian,phillipian,x,x,x,x,x,x,x,x,x,no,2640
+7,James,Porter,tersian,phillipian,phillipian,x,x,x,x,x,x,x,x,x,no,2640
+8,Parker,Wrench,tersian,phillipian,phillipian,x,x,x,x,x,x,x,x,x,no,2640
+9,Christopher,Tipps,tersian,alpine,alpine,x,x,x,x,x,x,x,x,x,no,2640
+10,Surly,McGuire,tersian,illawarran,illawarran,x,x,x,x,x,x,x,x,x,no,2640
+11,Jim,Perkins,tersian,new_english,new_english,x,x,x,x,x,x,x,x,x,no,2640
+12,Criggle,Traeger,tersian,murrawarrian,murrawarrian,x,x,x,x,x,x,x,x,x,no,2640
+13,Eugene,Knope,tersian,wamboolian,wamboolian,x,x,x,x,x,x,x,x,x,no,2640
+14,Hunkle,Wyatt,tersian,wamboolian,wamboolian,x,x,x,x,x,x,x,x,x,no,2640
+15,Dilbert,Haverford,tersian,baakan,baakan,x,x,x,x,x,x,x,x,x,no,2640
+16,Nell,Dwyer,tersian,aussie,aussie,x,x,x,x,x,x,x,x,x,no,2640
+17,Gary,Doofus,tersian,aussie,aussie,x,x,x,x,x,x,x,x,x,no,2640
+18,Jeremy,Ample,tersian,aussie,aussie,x,x,x,x,x,x,x,x,x,no,2640
+19,Alexander,Pearseed,tersian,aussie,aussie,x,x,x,x,x,x,x,x,x,no,2640

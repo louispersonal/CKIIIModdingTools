@@ -1,0 +1,190 @@
+1 = {
+	name = "Dylan"
+	dynasty = 1
+	religion = "tazism"
+	culture = "tasmanian"
+	2640.2.9 = {
+		birth = yes
+	}
+}
+
+2 = {
+	name = "John"
+	dynasty = 0
+	religion = "tersian"
+	culture = "wimmeran"
+	2640.6.14 = {
+		birth = yes
+	}
+}
+
+3 = {
+	name = "Thomas"
+	dynasty = 0
+	religion = "tersian"
+	culture = "phillipian"
+	2640.3.2 = {
+		birth = yes
+	}
+}
+
+4 = {
+	name = "Timothy"
+	dynasty = 2
+	religion = "tersian"
+	culture = "phillipian"
+	2640.12.15 = {
+		birth = yes
+	}
+}
+
+5 = {
+	name = "Bertrand"
+	dynasty = 3
+	religion = "tersian"
+	culture = "wimmeran"
+	2640.1.7 = {
+		birth = yes
+	}
+}
+
+6 = {
+	name = "Tyler"
+	dynasty = 4
+	religion = "tersian"
+	culture = "phillipian"
+	2640.1.23 = {
+		birth = yes
+	}
+}
+
+7 = {
+	name = "James"
+	dynasty = 5
+	religion = "tersian"
+	culture = "phillipian"
+	2640.12.2 = {
+		birth = yes
+	}
+}
+
+8 = {
+	name = "Parker"
+	dynasty = 6
+	religion = "tersian"
+	culture = "phillipian"
+	2640.6.15 = {
+		birth = yes
+	}
+}
+
+9 = {
+	name = "Christopher"
+	dynasty = 7
+	religion = "tersian"
+	culture = "alpine"
+	2640.10.27 = {
+		birth = yes
+	}
+}
+
+10 = {
+	name = "Surly"
+	dynasty = 8
+	religion = "tersian"
+	culture = "illawarran"
+	2640.11.3 = {
+		birth = yes
+	}
+}
+
+11 = {
+	name = "Jim"
+	dynasty = 9
+	religion = "tersian"
+	culture = "new_english"
+	2640.4.20 = {
+		birth = yes
+	}
+}
+
+12 = {
+	name = "Criggle"
+	dynasty = 10
+	religion = "tersian"
+	culture = "murrawarrian"
+	2640.1.28 = {
+		birth = yes
+	}
+}
+
+13 = {
+	name = "Eugene"
+	dynasty = 11
+	religion = "tersian"
+	culture = "wamboolian"
+	2640.2.20 = {
+		birth = yes
+	}
+}
+
+14 = {
+	name = "Hunkle"
+	dynasty = 12
+	religion = "tersian"
+	culture = "wamboolian"
+	2640.1.8 = {
+		birth = yes
+	}
+}
+
+15 = {
+	name = "Dilbert"
+	dynasty = 13
+	religion = "tersian"
+	culture = "baakan"
+	2640.5.20 = {
+		birth = yes
+	}
+}
+
+16 = {
+	name = "Nell"
+	dynasty = 14
+	religion = "tersian"
+	culture = "aussie"
+	2640.4.11 = {
+		birth = yes
+	}
+}
+
+17 = {
+	name = "Gary"
+	dynasty = 15
+	religion = "tersian"
+	culture = "aussie"
+	2640.5.1 = {
+		birth = yes
+	}
+}
+
+18 = {
+	name = "Jeremy"
+	dynasty = 16
+	religion = "tersian"
+	culture = "aussie"
+	2640.4.14 = {
+		birth = yes
+	}
+}
+
+19 = {
+	name = "Alexander"
+	dynasty = 17
+	religion = "tersian"
+	culture = "aussie"
+	2640.6.16 = {
+		birth = yes
+	}
+}
+

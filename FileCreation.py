@@ -1,33 +1,56 @@
 import csv
+import random
 import re
 
 
 class Character:
-    def __init__(self, character_number, name, dynasty_name, religion, culture):
+    def __init__(self, character_number, name, dynasty_name, religion, culture, dynasties, dynasty_culture, textured,
+                 background, bg_color_1, bg_color_2, bg_color_3, icon, icon_color_1, icon_color_2, icon_color_3,
+                 female, birth):
         self.character_number = character_number
         self.name = name
-        self.dynasty_name = dynasty_name
         self.religion = religion
         self.culture = culture
+        self.female = female
+        self.birth = birth
+
+        self.dynasty_number = dynasties.find_dynasty(dynasty_name, dynasty_culture, textured, background, bg_color_1,
+                                                     bg_color_2, bg_color_3, icon, icon_color_1, icon_color_2,
+                                                     icon_color_3)
 
 
 class Dynasty:
-    def __init__(self, name, culture, coat):
+    def __init__(self, name, culture, textured, background, bg_color_1, bg_color_2, bg_color_3, icon, icon_color_1,
+                 icon_color_2, icon_color_3):
         self.name = name
         self.culture = culture
-        self.coat = coat
+        self.coat = CoatOfArms(textured, background, bg_color_1, bg_color_2, bg_color_3, icon, icon_color_1,
+                               icon_color_2, icon_color_3)
+
+    def get_prefix(self):
+        if "_" in self.name:
+            return self.name.split("_")[0]
+        return "no prefix"
+
+    def get_name(self):
+        if "_" in self.name:
+            return self.name.split("_")[1]
+        return self.name
 
 
 class DynastyList:
     def __init__(self):
         self.dynasties = []
+        self.dynasties.append(Dynasty("none", "none", "x", "x", "x", "x", "x", "x", "x", "x", "x"))
 
-    def find_dynasty(self, name, culture, coat):
+    def find_dynasty(self, name, culture, textured, background, bg_color_1, bg_color_2, bg_color_3, icon, icon_color_1,
+                     icon_color_2, icon_color_3):
         index = 0
         for dynasty in self.dynasties:
             if dynasty.name == name:
                 return index
-        self.dynasties.append(Dynasty(name, culture, coat))
+        self.dynasties.append(Dynasty(name, culture, textured, background, bg_color_1, bg_color_2, bg_color_3,
+                                      icon, icon_color_1, icon_color_2, icon_color_3))
         return len(self.dynasties) - 1
 
 
@@ -65,7 +88,7 @@ class CoatOfArms:
         else:
             if self.check_if_textured():
                 coat_string = str(numeric_id) + " = {\n\tpattern = \"pattern_solid.dds\"\n\tcolor1 = \"white\"\n" \
-                                                "\ttextured_emblem = {\n\t\ttexture = " + self.textured\
+                                                "\ttextured_emblem = {\n\t\ttexture = " + self.textured \
                               + ".dds\n\t}\n}\n\n"
             else:
                 coat_string = str(numeric_id) + " = {\n\tpattern = \"" + self.background + ".dds\"\n\tcolor1 = \"" \
@@ -685,14 +708,139 @@ def modify_color(colors, index, is_small):
 
 
 def character_creation():
-    x = 4
+    with open('character_master.csv') as csv_file:
+        csv_reader = csv.reader(csv_file, delimiter=',')
+        line_count = 0
+        characters = []
+        dynasties = DynastyList()
+        for row in csv_reader:
+            if line_count > 0:
+                character_number = row[0]
+                character_name = row[1]
+                dynasty_name = row[2]
+                religion = row[3]
+                character_culture = row[4]
+                dynasty_culture = row[5]
+                textured_emblem = row[6]
+                background = row[7]
+                bg_color_1 = row[8]
+                bg_color_2 = row[9]
+                bg_color_3 = row[10]
+                icon = row[11]
+                icon_color_1 = row[12]
+                icon_color_2 = row[13]
+                icon_color_3 = row[14]
+                female = row[15]
+                birth = row[16]
+
+                characters.append(Character(character_number, character_name, dynasty_name, religion,
+                                            character_culture, dynasties, dynasty_culture, textured_emblem, background,
+                                            bg_color_1, bg_color_2, bg_color_3, icon, icon_color_1, icon_color_2,
+                                            icon_color_3, female, birth))
+            line_count = line_count + 1
+    csv_file.close()
+    return characters, dynasties
+
+
+# write character history
+def write_character_history(characters):
+    f = open("characters/all.txt", "w")
+
+    for character in characters:
+        f.write(str(character.character_number) + " = {\n\tname = \"" + character.name + "\"\n")
+        if character.female == "yes":
+            f.write("\tfemale = yes\n")
+        f.write("\tdynasty = " + str(character.dynasty_number) + "\n")
+        f.write("\treligion = \"" + character.religion + "\"\n")
+        f.write("\tculture = \"" + character.culture + "\"\n")
+        f.write("\t" + str(character.birth) + "." + str(random.randint(1, 12)) + "." + str(random.randint(1, 28))
+                + " = {\n\t\tbirth = yes\n\t}\n")
+        f.write("}\n\n")
+
+
+# write dynasties
+def write_dynasties(dynasty_list):
+    f = open("dynasties/00_dynasties.txt", "w")
+
+    dynasties = dynasty_list.dynasties
+    line_count = 0
+    for dynasty in dynasties:
+        if line_count > 0:
+            f.write(str(line_count) + " = {\n")
+            if not dynasty.get_prefix() == "no prefix":
+                f.write("\tprefix = \"dynnp_" + dynasty.get_prefix() + "\"\n")
+            f.write("\tname = \"dynn_" + dynasty.get_name() + "\"\n")
+            f.write("\tculture = \"" + dynasty.culture + "\"\n")
+            f.write("}\n")
+        line_count = line_count + 1
+
+
+# write coat of arms for titles
+def write_title_coats(landed_titles):
+    f = open("coat_of_arms/01_landed_titles.txt", "w")
+
+    for empire in landed_titles.empires:
+        f.write(empire.coat.write_coat_of_arms(empire.name))
+
+        for kingdom in empire.kingdoms:
+            f.write(kingdom.coat.write_coat_of_arms(kingdom.name))
+
+            for duchy in kingdom.duchies:
+                f.write(duchy.coat.write_coat_of_arms(duchy.name))
+
+                for county in duchy.counties:
+                    print(county.name + county.coat.textured)
+                    f.write(county.coat.write_coat_of_arms(county.name))
+
+    f.close()
+
+
+# write coat of arms for titles
+def write_dynasty_coats(dynasty_list):
+    f = open("coat_of_arms/90_dynasties.txt", "w")
+    dynasties = dynasty_list.dynasties
+
+    line_count = 0
+    for dynasty in dynasties:
+        if line_count > 0:
+            f.write(dynasty.coat.write_coat_of_arms(line_count))
+        line_count = line_count + 1
+
+    f.close()
 
 
 if __name__ == '__main__':
-    titles = create_landed_titles_object(845)
+    # read provinces file and create title objects from it
+    titles = create_landed_titles_object(2969)
+
+    # read titles_characters file and assign holders and coats to titles
     title_character_coat_assignment(titles)
+
+    # read character master file and create characters and dynasties
+    master_characters, master_dynasties = character_creation()
+
+    # make the dynasty coat of arms file
+    write_dynasty_coats(master_dynasties)
+
+    # make the title coat of arms file
+    write_title_coats(titles)
+
+    # write dynasty file
+    write_dynasties(master_dynasties)
+
+    # write character file
+    write_character_history(master_characters)
+
+    # write landed titles file
+    write_landed_titles_file(titles)
+
+    # write province history file
+    write_province_history(titles)
+
+    # write province terrain file
+    write_province_terrains(titles)
+
+    # write title history
     write_title_history(titles)
-    # write_landed_titles_file(titles)
-    # write_province_history(titles)
-    # write_province_terrains(titles)
+
     # initialize_title_character_list(titles)

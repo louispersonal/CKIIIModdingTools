@@ -1,0 +1,69 @@
+1 = {
+	name = "dynn_Franklin"
+	culture = "tasmanian"
+}
+2 = {
+	prefix = "dynnp_de"
+	name = "dynn_Port"
+	culture = "phillipian"
+}
+3 = {
+	name = "dynn_Davis"
+	culture = "wimmeran"
+}
+4 = {
+	name = "dynn_Swanson"
+	culture = "phillipian"
+}
+5 = {
+	name = "dynn_Porter"
+	culture = "phillipian"
+}
+6 = {
+	name = "dynn_Wrench"
+	culture = "phillipian"
+}
+7 = {
+	name = "dynn_Tipps"
+	culture = "alpine"
+}
+8 = {
+	name = "dynn_McGuire"
+	culture = "illawarran"
+}
+9 = {
+	name = "dynn_Perkins"
+	culture = "new_english"
+}
+10 = {
+	name = "dynn_Traeger"
+	culture = "murrawarrian"
+}
+11 = {
+	name = "dynn_Knope"
+	culture = "wamboolian"
+}
+12 = {
+	name = "dynn_Wyatt"
+	culture = "wamboolian"
+}
+13 = {
+	name = "dynn_Haverford"
+	culture = "baakan"
+}
+14 = {
+	name = "dynn_Dwyer"
+	culture = "aussie"
+}
+15 = {
+	name = "dynn_Doofus"
+	culture = "aussie"
+}
+16 = {
+	name = "dynn_Ample"
+	culture = "aussie"
+}
+17 = {
+	name = "dynn_Pearseed"
+	culture = "aussie"
+}
