@@ -360,7 +360,7 @@ def make_integer_three_spaces(num):
     if int(num) < 100:
         return " " + num
     if int(num) > 99:
-        return
+        return num
 
 
 # make history/provinces

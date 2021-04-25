@@ -817,19 +817,19 @@ if __name__ == '__main__':
     title_character_coat_assignment(titles)
 
     # read character master file and create characters and dynasties
-    master_characters, master_dynasties = character_creation()
+    # master_characters, master_dynasties = character_creation()
 
     # make the dynasty coat of arms file
-    write_dynasty_coats(master_dynasties)
+    # write_dynasty_coats(master_dynasties)
 
     # make the title coat of arms file
-    write_title_coats(titles)
+    # write_title_coats(titles)
 
     # write dynasty file
-    write_dynasties(master_dynasties)
+    # write_dynasties(master_dynasties)
 
     # write character file
-    write_character_history(master_characters)
+    # write_character_history(master_characters)
 
     # write landed titles file
     write_landed_titles_file(titles)

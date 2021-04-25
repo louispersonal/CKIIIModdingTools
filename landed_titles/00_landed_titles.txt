@@ -458,6 +458,58 @@ e_greater_tasmania = {
 			}
 
 		}
+		d_king_island = {
+			color = { 122 42 173 }
+			color2 = { 255 255 255 }
+
+			capital = c_king_island
+
+			c_king_island = {
+				color = { 122 42 173 }
+				color2 = { 255 255 255 }
+
+				b_north_king = {
+					province = 960
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_south_king = {
+					province = 961
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+
+			}
+
+		}
+		d_furneaux = {
+			color = { 122 44 173 }
+			color2 = { 255 255 255 }
+
+			capital = c_furneaux
+
+			c_furneaux = {
+				color = { 122 44 173 }
+				color2 = { 255 255 255 }
+
+				b_flinders_island = {
+					province = 962
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_cape_barren_island = {
+					province = 963
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+
+			}
+
+		}
 
 	}
 	k_melbournia = {
@@ -476,13 +528,13 @@ e_greater_tasmania = {
 				color = { 255 153 0 }
 				color2 = { 255 255 255 }
 
-				b_follett = {
+				b_palpara = {
 					province = 46
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
 
 				}
-				b_follett_1 = {
+				b_nangwarry = {
 					province = 47
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
@@ -494,19 +546,19 @@ e_greater_tasmania = {
 				color = { 253 153 0 }
 				color2 = { 255 255 255 }
 
-				b_normanby = {
+				b_portland = {
 					province = 48
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
 
 				}
-				b_normanby_1 = {
+				b_casterton = {
 					province = 49
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
 
 				}
-				b_normanby_2 = {
+				b_hamilton = {
 					province = 50
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
@@ -518,19 +570,19 @@ e_greater_tasmania = {
 				color = { 251 153 0 }
 				color2 = { 255 255 255 }
 
-				b_villiers = {
+				b_port_fairy = {
 					province = 51
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
 
 				}
-				b_villiers_1 = {
+				b_penshurst = {
 					province = 52
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
 
 				}
-				b_villiers_2 = {
+				b_dunkeld = {
 					province = 53
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
@@ -542,13 +594,13 @@ e_greater_tasmania = {
 				color = { 249 153 0 }
 				color2 = { 255 255 255 }
 
-				b_heytesbury = {
+				b_warrnambool = {
 					province = 54
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
 
 				}
-				b_heytesbury_1 = {
+				b_camperdown = {
 					province = 55
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
@@ -568,19 +620,19 @@ e_greater_tasmania = {
 				color = { 247 153 0 }
 				color2 = { 255 255 255 }
 
-				b_polwarth = {
+				b_apollo_bay = {
 					province = 56
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
 
 				}
-				b_polwarth_1 = {
+				b_colac = {
 					province = 57
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
 
 				}
-				b_polwarth_2 = {
+				b_lorne = {
 					province = 58
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
@@ -592,19 +644,19 @@ e_greater_tasmania = {
 				color = { 245 153 0 }
 				color2 = { 255 255 255 }
 
-				b_grenville = {
+				b_beeac = {
 					province = 63
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
 
 				}
-				b_grenville_1 = {
+				b_warrambine = {
 					province = 64
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
 
 				}
-				b_grenville_2 = {
+				b_ballarat = {
 					province = 65
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
@@ -616,13 +668,13 @@ e_greater_tasmania = {
 				color = { 243 153 0 }
 				color2 = { 255 255 255 }
 
-				b_hampden = {
+				b_lake_bolac = {
 					province = 66
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
 
 				}
-				b_hampden_1 = {
+				b_skipton = {
 					province = 67
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
@@ -642,25 +694,25 @@ e_greater_tasmania = {
 				color = { 241 153 0 }
 				color2 = { 255 255 255 }
 
-				b_grant = {
+				b_torquay = {
 					province = 59
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
 
 				}
-				b_grant_1 = {
+				b_geelong = {
 					province = 60
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
 
 				}
-				b_grant_2 = {
+				b_morrisons = {
 					province = 61
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
 
 				}
-				b_grant_3 = {
+				b_bacchus_marsh = {
 					province = 62
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
@@ -668,35 +720,53 @@ e_greater_tasmania = {
 				}
 
 			}
-			c_bourke = {
+			c_dalhousie = {
 				color = { 239 153 0 }
 				color2 = { 255 255 255 }
 
-				b_bourke = {
+				b_kyneton = {
+					province = 105
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_broadford = {
+					province = 106
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+
+			}
+			c_bourke = {
+				color = { 237 153 0 }
+				color2 = { 255 255 255 }
+
+				b_melbourne = {
 					province = 107
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
 
 				}
-				b_bourke_1 = {
+				b_whittlesea = {
 					province = 108
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
 
 				}
-				b_bourke_2 = {
+				b_melton = {
 					province = 109
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
 
 				}
-				b_bourke_3 = {
+				b_kilmore = {
 					province = 110
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
 
 				}
-				b_bourke_4 = {
+				b_macedon = {
 					province = 111
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
@@ -707,28 +777,28 @@ e_greater_tasmania = {
 
 		}
 		d_grampians = {
-			color = { 237 153 0 }
+			color = { 235 153 0 }
 			color2 = { 255 255 255 }
 
 			capital = c_ripon
 
 			c_ripon = {
-				color = { 237 153 0 }
+				color = { 235 153 0 }
 				color2 = { 255 255 255 }
 
-				b_ripon = {
+				b_gariwerd_national_park = {
 					province = 68
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
 
 				}
-				b_ripon_1 = {
+				b_ararat = {
 					province = 69
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
 
 				}
-				b_ripon_2 = {
+				b_beaufort = {
 					province = 70
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
@@ -737,22 +807,22 @@ e_greater_tasmania = {
 
 			}
 			c_dundas = {
-				color = { 235 153 0 }
+				color = { 233 153 0 }
 				color2 = { 255 255 255 }
 
-				b_dundas = {
+				b_gatum = {
 					province = 71
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
 
 				}
-				b_dundas_1 = {
+				b_coleraine = {
 					province = 72
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
 
 				}
-				b_dundas_2 = {
+				b_edenhope = {
 					province = 73
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
@@ -763,28 +833,28 @@ e_greater_tasmania = {
 
 		}
 		d_yarra_valley = {
-			color = { 233 153 0 }
+			color = { 231 153 0 }
 			color2 = { 255 255 255 }
 
 			capital = c_mornington
 
 			c_mornington = {
-				color = { 233 153 0 }
+				color = { 231 153 0 }
 				color2 = { 255 255 255 }
 
-				b_mornington = {
+				b_cranbourne = {
 					province = 112
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
 
 				}
-				b_mornington_1 = {
+				b_pakenham = {
 					province = 113
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
 
 				}
-				b_mornington_2 = {
+				b_french_island = {
 					province = 114
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
@@ -793,16 +863,16 @@ e_greater_tasmania = {
 
 			}
 			c_evelyn = {
-				color = { 231 153 0 }
+				color = { 229 153 0 }
 				color2 = { 255 255 255 }
 
-				b_evelyn = {
+				b_healesville = {
 					province = 115
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
 
 				}
-				b_evelyn_1 = {
+				b_rawson = {
 					province = 116
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
@@ -813,28 +883,28 @@ e_greater_tasmania = {
 
 		}
 		d_high_country = {
-			color = { 229 153 0 }
+			color = { 227 153 0 }
 			color2 = { 255 255 255 }
 
 			capital = c_anglesey
 
 			c_anglesey = {
-				color = { 229 153 0 }
+				color = { 227 153 0 }
 				color2 = { 255 255 255 }
 
-				b_anglesey = {
+				b_wandong = {
 					province = 117
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
 
 				}
-				b_anglesey_1 = {
+				b_alexandra = {
 					province = 118
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
 
 				}
-				b_anglesey_2 = {
+				b_marysville = {
 					province = 119
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
@@ -843,16 +913,16 @@ e_greater_tasmania = {
 
 			}
 			c_wonnangatta = {
-				color = { 227 153 0 }
+				color = { 225 153 0 }
 				color2 = { 255 255 255 }
 
-				b_wonnangatta = {
+				b_knockwood = {
 					province = 143
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
 
 				}
-				b_wonnangatta_1 = {
+				b_avon = {
 					province = 144
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
@@ -863,28 +933,28 @@ e_greater_tasmania = {
 
 		}
 		d_gippsland = {
-			color = { 225 153 0 }
+			color = { 223 153 0 }
 			color2 = { 255 255 255 }
 
 			capital = c_lakes_entrance
 
 			c_lakes_entrance = {
-				color = { 225 153 0 }
+				color = { 223 153 0 }
 				color2 = { 255 255 255 }
 
-				b_lakes_entrance = {
+				b_snowy_river_park = {
 					province = 134
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
 
 				}
-				b_lakes_entrance_1 = {
+				b_buchan_caves = {
 					province = 135
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
 
 				}
-				b_lakes_entrance_2 = {
+				b_lakes_entrance = {
 					province = 136
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
@@ -893,28 +963,28 @@ e_greater_tasmania = {
 
 			}
 			c_croajingolong = {
-				color = { 223 153 0 }
+				color = { 221 153 0 }
 				color2 = { 255 255 255 }
 
-				b_croajingolong = {
+				b_marlo = {
 					province = 137
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
 
 				}
-				b_croajingolong_1 = {
+				b_errinundra = {
 					province = 138
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
 
 				}
-				b_croajingolong_2 = {
+				b_chandlers_creek = {
 					province = 139
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
 
 				}
-				b_croajingolong_3 = {
+				b_croajingolong = {
 					province = 140
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
@@ -925,13 +995,13 @@ e_greater_tasmania = {
 
 		}
 		d_monash = {
-			color = { 221 153 0 }
+			color = { 219 153 0 }
 			color2 = { 255 255 255 }
 
 			capital = c_dargo
 
 			c_dargo = {
-				color = { 221 153 0 }
+				color = { 219 153 0 }
 				color2 = { 255 255 255 }
 
 				b_dargo = {
@@ -940,7 +1010,7 @@ e_greater_tasmania = {
 					color2 = { 255 255 255 }
 
 				}
-				b_dargo_1 = {
+				b_bairnsdale = {
 					province = 142
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
@@ -949,22 +1019,22 @@ e_greater_tasmania = {
 
 			}
 			c_tanjil = {
-				color = { 219 153 0 }
+				color = { 217 153 0 }
 				color2 = { 255 255 255 }
 
-				b_tanjil = {
+				b_heyfield = {
 					province = 145
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
 
 				}
-				b_tanjil_1 = {
+				b_sale = {
 					province = 146
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
 
 				}
-				b_tanjil_2 = {
+				b_loch_sport = {
 					province = 147
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
@@ -973,35 +1043,29 @@ e_greater_tasmania = {
 
 			}
 			c_buln_buln = {
-				color = { 217 153 0 }
+				color = { 215 153 0 }
 				color2 = { 255 255 255 }
 
-				b_buln_buln = {
+				b_warragul = {
 					province = 148
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
 
 				}
-				b_buln_buln_1 = {
+				b_korumburra = {
 					province = 149
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
 
 				}
-				b_buln_buln_2 = {
+				b_wilsons_promontory = {
 					province = 150
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
 
 				}
-				b_buln_buln_3 = {
+				b_traralgon = {
 					province = 151
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_buln_buln_4 = {
-					province = 152
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
 
@@ -1028,19 +1092,19 @@ e_greater_tasmania = {
 				color = { 204 51 0 }
 				color2 = { 255 255 255 }
 
-				b_lowan = {
+				b_bordertown = {
 					province = 74
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
 
 				}
-				b_lowan_1 = {
+				b_wilderness_park = {
 					province = 75
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
 
 				}
-				b_lowan_2 = {
+				b_nhill = {
 					province = 76
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
@@ -1052,19 +1116,19 @@ e_greater_tasmania = {
 				color = { 204 51 2 }
 				color2 = { 255 255 255 }
 
-				b_borung = {
+				b_rainbow = {
 					province = 85
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
 
 				}
-				b_borung_1 = {
+				b_horsham = {
 					province = 86
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
 
 				}
-				b_borung_2 = {
+				b_stawell = {
 					province = 87
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
@@ -1084,13 +1148,13 @@ e_greater_tasmania = {
 				color = { 204 51 4 }
 				color2 = { 255 255 255 }
 
-				b_weeah = {
+				b_pinnaroo = {
 					province = 77
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
 
 				}
-				b_weeah_1 = {
+				b_murray_sunset = {
 					province = 78
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
@@ -1102,13 +1166,13 @@ e_greater_tasmania = {
 				color = { 204 51 6 }
 				color2 = { 255 255 255 }
 
-				b_millewa = {
+				b_rufus_river = {
 					province = 79
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
 
 				}
-				b_millewa_1 = {
+				b_mildura = {
 					province = 80
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
@@ -1120,25 +1184,25 @@ e_greater_tasmania = {
 				color = { 204 51 8 }
 				color2 = { 255 255 255 }
 
-				b_karkarooc = {
+				b_robinvale = {
 					province = 81
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
 
 				}
-				b_karkarooc_1 = {
+				b_ouyen = {
 					province = 82
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
 
 				}
-				b_karkarooc_2 = {
+				b_annuello = {
 					province = 83
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
 
 				}
-				b_karkarooc_3 = {
+				b_woomelang = {
 					province = 84
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
@@ -1148,7 +1212,7 @@ e_greater_tasmania = {
 			}
 
 		}
-		d_goldfields = {
+		d_goldplain = {
 			color = { 204 51 10 }
 			color2 = { 255 255 255 }
 
@@ -1158,13 +1222,13 @@ e_greater_tasmania = {
 				color = { 204 51 10 }
 				color2 = { 255 255 255 }
 
-				b_kara_kara = {
+				b_donald = {
 					province = 88
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
 
 				}
-				b_kara_kara_1 = {
+				b_st_arnaud = {
 					province = 89
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
@@ -1176,13 +1240,13 @@ e_greater_tasmania = {
 				color = { 204 51 12 }
 				color2 = { 255 255 255 }
 
-				b_wedderburn = {
+				b_charlton = {
 					province = 92
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
 
 				}
-				b_wedderburn_1 = {
+				b_inglewood = {
 					province = 93
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
@@ -1194,19 +1258,19 @@ e_greater_tasmania = {
 				color = { 204 51 14 }
 				color2 = { 255 255 255 }
 
-				b_talbot = {
+				b_maryborough = {
 					province = 94
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
 
 				}
-				b_talbot_1 = {
+				b_talbot = {
 					province = 95
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
 
 				}
-				b_talbot_2 = {
+				b_castlemaine = {
 					province = 96
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
@@ -1218,19 +1282,19 @@ e_greater_tasmania = {
 				color = { 204 51 16 }
 				color2 = { 255 255 255 }
 
-				b_bendigo = {
+				b_dingee = {
 					province = 97
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
 
 				}
-				b_bendigo_1 = {
+				b_rochester = {
 					province = 98
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
 
 				}
-				b_bendigo_2 = {
+				b_barham = {
 					province = 99
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
@@ -1250,13 +1314,13 @@ e_greater_tasmania = {
 				color = { 204 51 18 }
 				color2 = { 255 255 255 }
 
-				b_tatchera = {
+				b_swan_hill = {
 					province = 90
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
 
 				}
-				b_tatchera_1 = {
+				b_kerang = {
 					province = 91
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
@@ -1268,13 +1332,13 @@ e_greater_tasmania = {
 				color = { 204 51 20 }
 				color2 = { 255 255 255 }
 
-				b_gunbower = {
+				b_echuca = {
 					province = 100
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
 
 				}
-				b_gunbower_1 = {
+				b_gunbower = {
 					province = 101
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
@@ -1294,19 +1358,19 @@ e_greater_tasmania = {
 				color = { 204 51 22 }
 				color2 = { 255 255 255 }
 
-				b_rodney = {
+				b_shepparton = {
 					province = 102
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
 
 				}
-				b_rodney_1 = {
+				b_rushworth = {
 					province = 103
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
 
 				}
-				b_rodney_2 = {
+				b_nagambie = {
 					province = 104
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
@@ -1318,25 +1382,25 @@ e_greater_tasmania = {
 				color = { 204 51 24 }
 				color2 = { 255 255 255 }
 
-				b_moira = {
+				b_euroa = {
 					province = 124
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
 
 				}
-				b_moira_1 = {
+				b_numurkah = {
 					province = 125
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
 
 				}
-				b_moira_2 = {
+				b_yarrawonga = {
 					province = 126
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
 
 				}
-				b_moira_3 = {
+				b_wangaratta = {
 					province = 127
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
@@ -1346,61 +1410,35 @@ e_greater_tasmania = {
 			}
 
 		}
-		d_melbourne = {
-			color = { 204 51 26 }
-			color2 = { 255 255 255 }
-
-			capital = c_dalhousie
-
-			c_dalhousie = {
-				color = { 204 51 26 }
-				color2 = { 255 255 255 }
-
-				b_dalhousie = {
-					province = 105
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_dalhousie_1 = {
-					province = 106
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-
-			}
-
-		}
 		d_high_country = {
-			color = { 204 51 28 }
+			color = { 204 51 26 }
 			color2 = { 255 255 255 }
 
 			capital = c_delatite
 
 			c_delatite = {
-				color = { 204 51 28 }
+				color = { 204 51 26 }
 				color2 = { 255 255 255 }
 
-				b_delatite = {
+				b_strathbogie = {
 					province = 120
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
 
 				}
-				b_delatite_1 = {
+				b_mansfield = {
 					province = 121
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
 
 				}
-				b_delatite_2 = {
+				b_dinner_plane = {
 					province = 122
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
 
 				}
-				b_delatite_3 = {
+				b_moyhu = {
 					province = 123
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
@@ -1411,28 +1449,28 @@ e_greater_tasmania = {
 
 		}
 		d_alps = {
-			color = { 204 51 30 }
+			color = { 204 51 28 }
 			color2 = { 255 255 255 }
 
 			capital = c_bogong
 
 			c_bogong = {
-				color = { 204 51 30 }
+				color = { 204 51 28 }
 				color2 = { 255 255 255 }
 
-				b_bogong = {
+				b_wodonga = {
 					province = 128
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
 
 				}
-				b_bogong_1 = {
+				b_mt_beauty = {
 					province = 129
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
 
 				}
-				b_bogong_2 = {
+				b_omeo = {
 					province = 130
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
@@ -1441,22 +1479,22 @@ e_greater_tasmania = {
 
 			}
 			c_benambra = {
-				color = { 204 51 32 }
+				color = { 204 51 30 }
 				color2 = { 255 255 255 }
 
-				b_benambra = {
+				b_corryong = {
 					province = 131
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
 
 				}
-				b_benambra_1 = {
+				b_sassafrass_gap = {
 					province = 132
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
 
 				}
-				b_benambra_2 = {
+				b_alpine_national_park = {
 					province = 133
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
@@ -1492,19 +1530,19 @@ e_new_south_wales = {
 				color = { 8 97 0 }
 				color2 = { 255 255 255 }
 
-				b_auckland = {
+				b_eden = {
 					province = 441
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
 
 				}
-				b_auckland_1 = {
+				b_merimbula = {
 					province = 442
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
 
 				}
-				b_auckland_2 = {
+				b_bega = {
 					province = 443
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
@@ -1516,19 +1554,19 @@ e_new_south_wales = {
 				color = { 8 97 2 }
 				color2 = { 255 255 255 }
 
-				b_wellesley = {
+				b_byadbo = {
 					province = 444
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
 
 				}
-				b_wellesley_1 = {
+				b_bombala = {
 					province = 445
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
 
 				}
-				b_wellesley_2 = {
+				b_nimmitable = {
 					province = 446
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
@@ -1540,13 +1578,13 @@ e_new_south_wales = {
 				color = { 8 97 4 }
 				color2 = { 255 255 255 }
 
-				b_beresford = {
+				b_bredbo = {
 					province = 450
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
 
 				}
-				b_beresford_1 = {
+				b_cooma = {
 					province = 451
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
@@ -1558,19 +1596,19 @@ e_new_south_wales = {
 				color = { 8 97 6 }
 				color2 = { 255 255 255 }
 
-				b_dampier = {
+				b_wadbilliga = {
 					province = 452
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
 
 				}
-				b_dampier_1 = {
+				b_narooma = {
 					province = 453
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
 
 				}
-				b_dampier_2 = {
+				b_moruya = {
 					province = 454
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
@@ -1590,19 +1628,19 @@ e_new_south_wales = {
 				color = { 8 97 8 }
 				color2 = { 255 255 255 }
 
-				b_wallace = {
+				b_crackenback = {
 					province = 447
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
 
 				}
-				b_wallace_1 = {
+				b_jindabyne = {
 					province = 448
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
 
 				}
-				b_wallace_2 = {
+				b_adaminaby = {
 					province = 449
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
@@ -1694,13 +1732,13 @@ e_new_south_wales = {
 				color = { 8 97 16 }
 				color2 = { 255 255 255 }
 
-				b_cowley = {
+				b_namadgi = {
 					province = 455
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
 
 				}
-				b_cowley_1 = {
+				b_brindabella = {
 					province = 456
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
@@ -1846,25 +1884,25 @@ e_new_south_wales = {
 				color = { 240 121 121 }
 				color2 = { 255 255 255 }
 
-				b_argyle = {
+				b_goulburn = {
 					province = 465
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
 
 				}
-				b_argyle_1 = {
+				b_taralga = {
 					province = 466
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
 
 				}
-				b_argyle_2 = {
+				b_marulan = {
 					province = 467
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
 
 				}
-				b_argyle_3 = {
+				b_tarago = {
 					province = 468
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
@@ -1876,19 +1914,19 @@ e_new_south_wales = {
 				color = { 238 121 121 }
 				color2 = { 255 255 255 }
 
-				b_king = {
+				b_crookwell = {
 					province = 469
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
 
 				}
-				b_king_1 = {
+				b_boorowa = {
 					province = 470
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
 
 				}
-				b_king_2 = {
+				b_yass = {
 					province = 471
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
@@ -1900,13 +1938,13 @@ e_new_south_wales = {
 				color = { 236 121 121 }
 				color2 = { 255 255 255 }
 
-				b_georgiana = {
+				b_abercrombie_river = {
 					province = 479
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
 
 				}
-				b_georgiana_1 = {
+				b_burraga = {
 					province = 480
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
@@ -1924,13 +1962,13 @@ e_new_south_wales = {
 					color2 = { 255 255 255 }
 
 				}
-				b_bathurst_1 = {
+				b_orange = {
 					province = 482
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
 
 				}
-				b_bathurst_2 = {
+				b_woodstock = {
 					province = 483
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
@@ -1950,25 +1988,25 @@ e_new_south_wales = {
 				color = { 232 121 121 }
 				color2 = { 255 255 255 }
 
-				b_st_vincent = {
+				b_sanctuary_point = {
 					province = 461
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
 
 				}
-				b_st_vincent_1 = {
+				b_batemans_bay = {
 					province = 462
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
 
 				}
-				b_st_vincent_2 = {
+				b_colymea = {
 					province = 463
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
 
 				}
-				b_st_vincent_3 = {
+				b_braidwood = {
 					province = 464
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
@@ -1980,25 +2018,25 @@ e_new_south_wales = {
 				color = { 230 121 121 }
 				color2 = { 255 255 255 }
 
-				b_camden = {
+				b_bowral = {
 					province = 472
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
 
 				}
-				b_camden_1 = {
+				b_camden = {
 					province = 473
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
 
 				}
-				b_camden_2 = {
+				b_bomaderry = {
 					province = 474
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
 
 				}
-				b_camden_3 = {
+				b_wollongong = {
 					province = 475
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
@@ -2040,25 +2078,25 @@ e_new_south_wales = {
 				color = { 226 121 121 }
 				color2 = { 255 255 255 }
 
-				b_northumberland = {
+				b_singleton = {
 					province = 496
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
 
 				}
-				b_northumberland_1 = {
+				b_cessnock = {
 					province = 497
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
 
 				}
-				b_northumberland_2 = {
+				b_gosford = {
 					province = 498
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
 
 				}
-				b_northumberland_3 = {
+				b_newcastle = {
 					province = 499
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
@@ -2078,19 +2116,19 @@ e_new_south_wales = {
 				color = { 224 121 121 }
 				color2 = { 255 255 255 }
 
-				b_oberon = {
+				b_kanangra = {
 					province = 476
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
 
 				}
-				b_oberon_1 = {
+				b_tartarus = {
 					province = 477
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
 
 				}
-				b_oberon_2 = {
+				b_oberon = {
 					province = 478
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
@@ -2102,19 +2140,19 @@ e_new_south_wales = {
 				color = { 222 121 121 }
 				color2 = { 255 255 255 }
 
-				b_cook = {
+				b_lithgow = {
 					province = 489
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
 
 				}
-				b_cook_1 = {
+				b_gardens_of_stone = {
 					province = 490
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
 
 				}
-				b_cook_2 = {
+				b_katoomba = {
 					province = 491
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
@@ -2126,13 +2164,13 @@ e_new_south_wales = {
 				color = { 220 121 121 }
 				color2 = { 255 255 255 }
 
-				b_hunter = {
+				b_wisemans_ferry = {
 					province = 500
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
 
 				}
-				b_hunter_1 = {
+				b_putty = {
 					province = 501
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
@@ -2152,19 +2190,19 @@ e_new_south_wales = {
 				color = { 218 121 121 }
 				color2 = { 255 255 255 }
 
-				b_wellington = {
+				b_kerrs_creek = {
 					province = 484
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
 
 				}
-				b_wellington_1 = {
+				b_mudgee = {
 					province = 485
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
 
 				}
-				b_wellington_2 = {
+				b_hill_end = {
 					province = 486
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
@@ -2176,13 +2214,13 @@ e_new_south_wales = {
 				color = { 216 121 121 }
 				color2 = { 255 255 255 }
 
-				b_roxburgh = {
+				b_sunny_corner = {
 					province = 487
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
 
 				}
-				b_roxburgh_1 = {
+				b_kandos = {
 					province = 488
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
@@ -2194,19 +2232,19 @@ e_new_south_wales = {
 				color = { 214 121 121 }
 				color2 = { 255 255 255 }
 
-				b_phillip = {
+				b_nullo_mountain = {
 					province = 502
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
 
 				}
-				b_phillip_1 = {
+				b_gulgong = {
 					province = 503
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
 
 				}
-				b_phillip_2 = {
+				b_wollar = {
 					province = 504
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
@@ -2218,13 +2256,13 @@ e_new_south_wales = {
 				color = { 212 121 121 }
 				color2 = { 255 255 255 }
 
-				b_bligh = {
+				b_goolma = {
 					province = 505
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
 
 				}
-				b_bligh_1 = {
+				b_cassilis = {
 					province = 506
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
@@ -2250,13 +2288,13 @@ e_new_south_wales = {
 					color2 = { 255 255 255 }
 
 				}
-				b_scone_1 = {
+				b_merriwa = {
 					province = 508
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
 
 				}
-				b_scone_2 = {
+				b_murrurundi = {
 					province = 509
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
@@ -2274,13 +2312,13 @@ e_new_south_wales = {
 					color2 = { 255 255 255 }
 
 				}
-				b_muswellbrook_1 = {
+				b_barrington_tops = {
 					province = 511
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
 
 				}
-				b_muswellbrook_2 = {
+				b_paterson = {
 					province = 512
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
@@ -2292,31 +2330,31 @@ e_new_south_wales = {
 				color = { 206 121 121 }
 				color2 = { 255 255 255 }
 
-				b_gloucester = {
+				b_raymond_terrace = {
 					province = 513
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
 
 				}
-				b_gloucester_1 = {
+				b_bulahdelah = {
 					province = 514
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
 
 				}
-				b_gloucester_2 = {
+				b_copeland_tops = {
 					province = 515
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
 
 				}
-				b_gloucester_3 = {
+				b_gloucester = {
 					province = 516
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
 
 				}
-				b_gloucester_4 = {
+				b_forster = {
 					province = 517
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
@@ -2344,25 +2382,25 @@ e_new_south_wales = {
 				color = { 103 170 224 }
 				color2 = { 255 255 255 }
 
-				b_macquarie = {
+				b_bottom_r = {
 					province = 518
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
 
 				}
-				b_macquarie_1 = {
+				b_bottom_l = {
 					province = 519
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
 
 				}
-				b_macquarie_2 = {
+				b_top_l = {
 					province = 520
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
 
 				}
-				b_macquarie_3 = {
+				b_top_r = {
 					province = 521
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
@@ -2374,13 +2412,13 @@ e_new_south_wales = {
 				color = { 103 170 222 }
 				color2 = { 255 255 255 }
 
-				b_dudley = {
+				b_left_1 = {
 					province = 525
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
 
 				}
-				b_dudley_1 = {
+				b_right = {
 					province = 526
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
@@ -2392,13 +2430,13 @@ e_new_south_wales = {
 				color = { 103 170 220 }
 				color2 = { 255 255 255 }
 
-				b_raleigh = {
+				b_left = {
 					province = 535
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
 
 				}
-				b_raleigh_1 = {
+				b_right = {
 					province = 536
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
@@ -2410,25 +2448,25 @@ e_new_south_wales = {
 				color = { 103 170 218 }
 				color2 = { 255 255 255 }
 
-				b_fitzroy = {
+				b_bottom_l = {
 					province = 537
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
 
 				}
-				b_fitzroy_1 = {
+				b_right = {
 					province = 538
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
 
 				}
-				b_fitzroy_2 = {
+				b_middle = {
 					province = 539
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
 
 				}
-				b_fitzroy_3 = {
+				b_top = {
 					province = 540
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
@@ -2448,19 +2486,19 @@ e_new_south_wales = {
 				color = { 103 170 216 }
 				color2 = { 255 255 255 }
 
-				b_hawes = {
+				b_right = {
 					province = 522
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
 
 				}
-				b_hawes_1 = {
+				b_top = {
 					province = 523
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
 
 				}
-				b_hawes_2 = {
+				b_left = {
 					province = 524
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
@@ -2472,19 +2510,19 @@ e_new_south_wales = {
 				color = { 103 170 214 }
 				color2 = { 255 255 255 }
 
-				b_vernon = {
+				b_right_1 = {
 					province = 527
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
 
 				}
-				b_vernon_1 = {
+				b_middle = {
 					province = 528
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
 
 				}
-				b_vernon_2 = {
+				b_left = {
 					province = 529
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
@@ -2496,13 +2534,13 @@ e_new_south_wales = {
 				color = { 103 170 212 }
 				color2 = { 255 255 255 }
 
-				b_sandon = {
+				b_bottom = {
 					province = 530
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
 
 				}
-				b_sandon_1 = {
+				b_top = {
 					province = 531
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
@@ -2522,19 +2560,19 @@ e_new_south_wales = {
 				color = { 103 170 210 }
 				color2 = { 255 255 255 }
 
-				b_clarke = {
+				b_right = {
 					province = 532
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
 
 				}
-				b_clarke_1 = {
+				b_left = {
 					province = 533
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
 
 				}
-				b_clarke_2 = {
+				b_top = {
 					province = 534
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
@@ -2546,13 +2584,13 @@ e_new_south_wales = {
 				color = { 103 170 208 }
 				color2 = { 255 255 255 }
 
-				b_gresham = {
+				b_left = {
 					province = 541
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
 
 				}
-				b_gresham_1 = {
+				b_right = {
 					province = 542
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
@@ -2626,19 +2664,19 @@ e_new_south_wales = {
 				color = { 103 170 202 }
 				color2 = { 255 255 255 }
 
-				b_drake = {
+				b_bottom = {
 					province = 543
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
 
 				}
-				b_drake_1 = {
+				b_left = {
 					province = 544
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
 
 				}
-				b_drake_2 = {
+				b_right = {
 					province = 545
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
@@ -2650,13 +2688,13 @@ e_new_south_wales = {
 				color = { 103 170 200 }
 				color2 = { 255 255 255 }
 
-				b_buller = {
+				b_rous_middle_l = {
 					province = 555
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
 
 				}
-				b_buller_1 = {
+				b_rous_left = {
 					province = 556
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
@@ -2676,19 +2714,19 @@ e_new_south_wales = {
 				color = { 103 170 198 }
 				color2 = { 255 255 255 }
 
-				b_clarence = {
+				b_top_r = {
 					province = 546
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
 
 				}
-				b_clarence_1 = {
+				b_bottom_r = {
 					province = 547
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
 
 				}
-				b_clarence_2 = {
+				b_left = {
 					province = 548
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
@@ -2700,13 +2738,13 @@ e_new_south_wales = {
 				color = { 103 170 196 }
 				color2 = { 255 255 255 }
 
-				b_richmond_valley = {
+				b_left_1 = {
 					province = 549
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
 
 				}
-				b_richmond_valley_1 = {
+				b_right = {
 					province = 550
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
@@ -2718,25 +2756,25 @@ e_new_south_wales = {
 				color = { 103 170 194 }
 				color2 = { 255 255 255 }
 
-				b_rous = {
+				b_rous_bottom_r = {
 					province = 551
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
 
 				}
-				b_rous_1 = {
+				b_rous_middle_r = {
 					province = 552
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
 
 				}
-				b_rous_2 = {
+				b_rous_top_r = {
 					province = 553
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
 
 				}
-				b_rous_3 = {
+				b_rous_middle_r = {
 					province = 554
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
@@ -5096,67 +5134,61 @@ e_south_australia = {
 	color = { 191 8 8 }
 	color2 = { 255 255 255 }
 
-	capital = c_grey
+	capital = c_mount_gambier
 
-	k_outback = {
+	k_adelaide = {
 		color = { 191 8 8 }
 		color2 = { 255 255 255 }
 
-		capital = c_grey
+		capital = c_mount_gambier
 
 		d_limestone_coast = {
 			color = { 191 8 8 }
 			color2 = { 255 255 255 }
 
-			capital = c_grey
+			capital = c_mount_gambier
 
-			c_grey = {
+			c_mount_gambier = {
 				color = { 191 8 8 }
 				color2 = { 255 255 255 }
 
-				b_grey = {
+				b_mount_gambier = {
 					province = 844
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
 
 				}
-				b_grey_1 = {
+				b_mount_gambier_1 = {
 					province = 845
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
 
 				}
-
-			}
-			c_robe = {
-				color = { 191 10 8 }
-				color2 = { 255 255 255 }
-
-				b_robe = {
+				b_mount_gambier_2 = {
 					province = 846
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
 
 				}
-				b_robe_1 = {
+
+			}
+			c_naracoorte = {
+				color = { 191 10 8 }
+				color2 = { 255 255 255 }
+
+				b_naracoorte = {
 					province = 847
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
 
 				}
-
-			}
-			c_macdonnell = {
-				color = { 191 12 8 }
-				color2 = { 255 255 255 }
-
-				b_macdonnell = {
+				b_naracoorte_1 = {
 					province = 848
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
 
 				}
-				b_macdonnell_1 = {
+				b_naracoorte_2 = {
 					province = 849
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
@@ -5164,104 +5196,30 @@ e_south_australia = {
 				}
 
 			}
-			c_coorong = {
-				color = { 191 14 8 }
+			c_bordertown = {
+				color = { 191 12 8 }
 				color2 = { 255 255 255 }
 
-				b_coorong = {
+				b_bordertown = {
 					province = 850
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
 
 				}
-				b_coorong_1 = {
+				b_bordertown_1 = {
 					province = 851
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
 
 				}
-
-			}
-
-		}
-		d_murraylands = {
-			color = { 191 16 8 }
-			color2 = { 255 255 255 }
-
-			capital = c_ngarkat
-
-			c_ngarkat = {
-				color = { 191 16 8 }
-				color2 = { 255 255 255 }
-
-				b_ngarkat = {
+				b_bordertown_2 = {
 					province = 852
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
 
 				}
-				b_ngarkat_1 = {
+				b_bordertown_3 = {
 					province = 853
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_ngarkat_2 = {
-					province = 854
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-
-			}
-			c_chandos = {
-				color = { 191 18 8 }
-				color2 = { 255 255 255 }
-
-				b_chandos = {
-					province = 855
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_chandos_1 = {
-					province = 856
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_chandos_2 = {
-					province = 857
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-
-			}
-			c_coneybeer = {
-				color = { 191 20 8 }
-				color2 = { 255 255 255 }
-
-				b_coneybeer = {
-					province = 858
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_coneybeer_1 = {
-					province = 859
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_coneybeer_2 = {
-					province = 860
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_coneybeer_3 = {
-					province = 861
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
 
@@ -5270,29 +5228,391 @@ e_south_australia = {
 			}
 
 		}
-		d_riverlands = {
+		d_adelaide = {
+			color = { 191 14 8 }
+			color2 = { 255 255 255 }
+
+			capital = c_murray_bridge
+
+			c_murray_bridge = {
+				color = { 191 14 8 }
+				color2 = { 255 255 255 }
+
+				b_murray_bridge = {
+					province = 854
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_murray_bridge_1 = {
+					province = 855
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_murray_bridge_2 = {
+					province = 856
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_murray_bridge_3 = {
+					province = 857
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_murray_bridge_4 = {
+					province = 858
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+
+			}
+			c_adelaide = {
+				color = { 191 16 8 }
+				color2 = { 255 255 255 }
+
+				b_adelaide = {
+					province = 867
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_adelaide_1 = {
+					province = 868
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_adelaide_2 = {
+					province = 869
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_adelaide_3 = {
+					province = 870
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_adelaide_4 = {
+					province = 871
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+
+			}
+			c_adelaide_plains = {
+				color = { 191 18 8 }
+				color2 = { 255 255 255 }
+
+				b_adelaide_plains = {
+					province = 875
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_adelaide_plains_1 = {
+					province = 876
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_adelaide_plains_2 = {
+					province = 877
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_adelaide_plains_3 = {
+					province = 878
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_adelaide_plains_4 = {
+					province = 879
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+
+			}
+			c_ludunda = {
+				color = { 191 20 8 }
+				color2 = { 255 255 255 }
+
+				b_ludunda = {
+					province = 880
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_ludunda_1 = {
+					province = 881
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_ludunda_2 = {
+					province = 882
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_ludunda_3 = {
+					province = 883
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+
+			}
+
+		}
+		d_riverland = {
 			color = { 191 22 8 }
 			color2 = { 255 255 255 }
 
-			capital = c_albert
+			capital = c_barmera
 
-			c_albert = {
+			c_barmera = {
 				color = { 191 22 8 }
 				color2 = { 255 255 255 }
 
-				b_albert = {
+				b_barmera = {
+					province = 859
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_barmera_1 = {
+					province = 860
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_barmera_2 = {
+					province = 861
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_barmera_3 = {
+					province = 862
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+
+			}
+			c_waikerie = {
+				color = { 191 24 8 }
+				color2 = { 255 255 255 }
+
+				b_waikerie = {
+					province = 863
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_waikerie_1 = {
+					province = 864
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_waikerie_2 = {
+					province = 865
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_waikerie_3 = {
+					province = 866
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+
+			}
+			c_burra = {
+				color = { 191 26 8 }
+				color2 = { 255 255 255 }
+
+				b_burra = {
+					province = 964
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_burra_1 = {
+					province = 965
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_burra_2 = {
+					province = 966
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+
+			}
+
+		}
+		d_kangaroo_island = {
+			color = { 191 28 8 }
+			color2 = { 255 255 255 }
+
+			capital = c_kingscote
+
+			c_kingscote = {
+				color = { 191 28 8 }
+				color2 = { 255 255 255 }
+
+				b_kingscote = {
+					province = 872
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_kingscote_1 = {
+					province = 873
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+
+			}
+			c_rocky = {
+				color = { 191 30 8 }
+				color2 = { 255 255 255 }
+
+				b_rocky = {
+					province = 874
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+
+			}
+
+		}
+		d_spencer = {
+			color = { 191 32 8 }
+			color2 = { 255 255 255 }
+
+			capital = c_port_pirie
+
+			c_port_pirie = {
+				color = { 191 32 8 }
+				color2 = { 255 255 255 }
+
+				b_port_pirie = {
+					province = 884
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_port_pirie_1 = {
+					province = 885
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_port_pirie_2 = {
+					province = 886
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_port_pirie_3 = {
+					province = 887
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+
+			}
+			c_moonta = {
+				color = { 191 34 8 }
+				color2 = { 255 255 255 }
+
+				b_moonta = {
+					province = 888
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_moonta_1 = {
+					province = 889
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_moonta_2 = {
+					province = 890
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+
+			}
+			c_yorketown = {
+				color = { 191 36 8 }
+				color2 = { 255 255 255 }
+
+				b_yorketown = {
+					province = 891
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_yorketown_1 = {
+					province = 892
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_yorketown_2 = {
+					province = 893
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+
+			}
+
+		}
+		d_filnders_ranges = {
+			color = { 191 38 8 }
+			color2 = { 255 255 255 }
+
+			capital = c_jamestown
+
+			c_jamestown = {
+				color = { 191 38 8 }
+				color2 = { 255 255 255 }
+
+				b_jamestown = {
 					province = 894
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
 
 				}
-				b_albert_1 = {
+				b_jamestown_1 = {
 					province = 895
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
 
 				}
-				b_albert_2 = {
+				b_jamestown_2 = {
 					province = 896
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
@@ -5300,23 +5620,23 @@ e_south_australia = {
 				}
 
 			}
-			c_alfred = {
-				color = { 191 24 8 }
+			c_peterborough = {
+				color = { 191 40 8 }
 				color2 = { 255 255 255 }
 
-				b_alfred = {
+				b_peterborough = {
 					province = 897
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
 
 				}
-				b_alfred_1 = {
+				b_peterborough_1 = {
 					province = 898
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
 
 				}
-				b_alfred_2 = {
+				b_peterborough_2 = {
 					province = 899
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
@@ -5324,41 +5644,35 @@ e_south_australia = {
 				}
 
 			}
-			c_hamley = {
-				color = { 191 26 8 }
+			c_boolero = {
+				color = { 191 42 8 }
 				color2 = { 255 255 255 }
 
-				b_hamley = {
+				b_boolero = {
 					province = 900
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
 
 				}
-				b_hamley_1 = {
+				b_boolero_1 = {
 					province = 901
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
 
 				}
-				b_hamley_2 = {
+				b_boolero_2 = {
 					province = 902
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
 
 				}
-
-			}
-			c_yung = {
-				color = { 191 28 8 }
-				color2 = { 255 255 255 }
-
-				b_yung = {
+				b_boolero_3 = {
 					province = 903
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
 
 				}
-				b_yung_1 = {
+				b_boolero_4 = {
 					province = 904
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
@@ -5366,62 +5680,54 @@ e_south_australia = {
 				}
 
 			}
-
-		}
-		d_barrier = {
-			color = { 191 30 8 }
-			color2 = { 255 255 255 }
-
-			capital = c_kimberley
-
-			c_kimberley = {
-				color = { 191 30 8 }
+			c_quorn = {
+				color = { 191 44 8 }
 				color2 = { 255 255 255 }
 
-				b_kimberley = {
-					province = 913
+				b_quorn = {
+					province = 905
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
 
 				}
-				b_kimberley_1 = {
-					province = 914
+				b_quorn_1 = {
+					province = 906
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_quorn_2 = {
+					province = 907
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_quorn_3 = {
+					province = 908
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
 
 				}
 
 			}
-			c_herbert = {
-				color = { 191 32 8 }
+			c_baratta = {
+				color = { 191 46 8 }
 				color2 = { 255 255 255 }
 
-				b_herbert = {
-					province = 915
+				b_baratta = {
+					province = 909
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
 
 				}
-				b_herbert_1 = {
-					province = 916
+				b_baratta_1 = {
+					province = 910
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
 
 				}
-
-			}
-			c_lytton = {
-				color = { 191 34 8 }
-				color2 = { 255 255 255 }
-
-				b_lytton = {
-					province = 927
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_lytton_1 = {
-					province = 928
+				b_baratta_2 = {
+					province = 911
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
 
@@ -5431,101 +5737,29 @@ e_south_australia = {
 
 		}
 		d_flinders_ranges = {
-			color = { 191 36 8 }
+			color = { 191 48 8 }
 			color2 = { 255 255 255 }
 
-			capital = c_derby
+			capital = c_port_augusta
 
-			c_derby = {
-				color = { 191 36 8 }
+			c_port_augusta = {
+				color = { 191 48 8 }
 				color2 = { 255 255 255 }
 
-				b_derby = {
-					province = 929
+				b_port_augusta = {
+					province = 916
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
 
 				}
-				b_derby_1 = {
-					province = 930
+				b_port_augusta_1 = {
+					province = 917
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
 
 				}
-				b_derby_2 = {
-					province = 931
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-
-			}
-			c_hanson = {
-				color = { 191 38 8 }
-				color2 = { 255 255 255 }
-
-				b_hanson = {
-					province = 932
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_hanson_1 = {
-					province = 933
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_hanson_2 = {
-					province = 934
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-
-			}
-			c_blachford = {
-				color = { 191 40 8 }
-				color2 = { 255 255 255 }
-
-				b_blachford = {
-					province = 935
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_blachford_1 = {
-					province = 936
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_blachford_2 = {
-					province = 937
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-
-			}
-			c_taunton = {
-				color = { 191 42 8 }
-				color2 = { 255 255 255 }
-
-				b_taunton = {
-					province = 973
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_taunton_1 = {
-					province = 974
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_taunton_2 = {
-					province = 975
+				b_port_augusta_2 = {
+					province = 918
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
 
@@ -5534,14 +5768,684 @@ e_south_australia = {
 			}
 
 		}
-		d_route_32 = {
-			color = { 191 44 8 }
+
+	}
+	k_desertina = {
+		color = { 199 212 134 }
+		color2 = { 255 255 255 }
+
+		capital = c_leigh_creek
+
+		d_torrens = {
+			color = { 199 212 134 }
+			color2 = { 255 255 255 }
+
+			capital = c_leigh_creek
+
+			c_leigh_creek = {
+				color = { 199 212 134 }
+				color2 = { 255 255 255 }
+
+				b_leigh_creek = {
+					province = 912
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_leigh_creek_1 = {
+					province = 913
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_leigh_creek_2 = {
+					province = 914
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_leigh_creek_3 = {
+					province = 915
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+
+			}
+			c_marree = {
+				color = { 199 210 134 }
+				color2 = { 255 255 255 }
+
+				b_marree = {
+					province = 2948
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_marree_1 = {
+					province = 2949
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_marree_2 = {
+					province = 2950
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+
+			}
+			c_vulkathunha = {
+				color = { 199 208 134 }
+				color2 = { 255 255 255 }
+
+				b_vulkathunha = {
+					province = 2951
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_vulkathunha_1 = {
+					province = 2952
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+
+			}
+
+		}
+		d_strzelecki = {
+			color = { 199 206 134 }
+			color2 = { 255 255 255 }
+
+			capital = c_callabonna
+
+			c_callabonna = {
+				color = { 199 206 134 }
+				color2 = { 255 255 255 }
+
+				b_callabonna = {
+					province = 2953
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_callabonna_1 = {
+					province = 2954
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+
+			}
+			c_bollards_lagoon = {
+				color = { 199 204 134 }
+				color2 = { 255 255 255 }
+
+				b_bollards_lagoon = {
+					province = 2955
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_bollards_lagoon_1 = {
+					province = 2956
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+
+			}
+			c_strzelecki = {
+				color = { 199 202 134 }
+				color2 = { 255 255 255 }
+
+				b_strzelecki = {
+					province = 2957
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+
+			}
+			c_tirari_desert = {
+				color = { 199 200 134 }
+				color2 = { 255 255 255 }
+
+				b_tirari_desert = {
+					province = 2958
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+
+			}
+
+		}
+		d_stony_desert = {
+			color = { 199 198 134 }
+			color2 = { 255 255 255 }
+
+			capital = c_innamincka
+
+			c_innamincka = {
+				color = { 199 198 134 }
+				color2 = { 255 255 255 }
+
+				b_innamincka = {
+					province = 2959
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_innamincka_1 = {
+					province = 2960
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_innamincka_2 = {
+					province = 2961
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+
+			}
+			c_sturt_stony_desert = {
+				color = { 199 196 134 }
+				color2 = { 255 255 255 }
+
+				b_sturt_stony_desert = {
+					province = 2962
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_sturt_stony_desert_1 = {
+					province = 2963
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_sturt_stony_desert_2 = {
+					province = 2964
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+
+			}
+			c_warburton_crossing = {
+				color = { 199 194 134 }
+				color2 = { 255 255 255 }
+
+				b_warburton_crossing = {
+					province = 2965
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_warburton_crossing_1 = {
+					province = 2966
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+
+			}
+			c_kalamurina = {
+				color = { 199 192 134 }
+				color2 = { 255 255 255 }
+
+				b_kalamurina = {
+					province = 2967
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+
+			}
+
+		}
+
+	}
+	k_eyre = {
+		color = { 194 212 134 }
+		color2 = { 255 255 255 }
+
+		capital = c_whyalla
+
+		d_eyre_peninsula = {
+			color = { 194 212 134 }
+			color2 = { 255 255 255 }
+
+			capital = c_whyalla
+
+			c_whyalla = {
+				color = { 194 212 134 }
+				color2 = { 255 255 255 }
+
+				b_whyalla = {
+					province = 919
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_whyalla_1 = {
+					province = 920
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_whyalla_2 = {
+					province = 921
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+
+			}
+			c_cleve = {
+				color = { 194 210 134 }
+				color2 = { 255 255 255 }
+
+				b_cleve = {
+					province = 922
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_cleve_1 = {
+					province = 923
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_cleve_2 = {
+					province = 924
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_cleve_3 = {
+					province = 925
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+
+			}
+			c_tumby_bay = {
+				color = { 194 208 134 }
+				color2 = { 255 255 255 }
+
+				b_tumby_bay = {
+					province = 926
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_tumby_bay_1 = {
+					province = 927
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_tumby_bay_2 = {
+					province = 928
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_tumby_bay_3 = {
+					province = 929
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_tumby_bay_4 = {
+					province = 930
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+
+			}
+			c_port_lincoln = {
+				color = { 194 206 134 }
+				color2 = { 255 255 255 }
+
+				b_port_lincoln = {
+					province = 931
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_port_lincoln_1 = {
+					province = 932
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_port_lincoln_2 = {
+					province = 933
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+
+			}
+
+		}
+		d_gawler = {
+			color = { 194 204 134 }
+			color2 = { 255 255 255 }
+
+			capital = c_elliston
+
+			c_elliston = {
+				color = { 194 204 134 }
+				color2 = { 255 255 255 }
+
+				b_elliston = {
+					province = 934
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_elliston_1 = {
+					province = 935
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_elliston_2 = {
+					province = 936
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_elliston_3 = {
+					province = 937
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+
+			}
+			c_streaky_bay = {
+				color = { 194 202 134 }
+				color2 = { 255 255 255 }
+
+				b_streaky_bay = {
+					province = 938
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_streaky_bay_1 = {
+					province = 939
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_streaky_bay_2 = {
+					province = 940
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_streaky_bay_3 = {
+					province = 941
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+
+			}
+			c_wirrulla = {
+				color = { 194 200 134 }
+				color2 = { 255 255 255 }
+
+				b_wirrulla = {
+					province = 942
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_wirrulla_1 = {
+					province = 943
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_wirrulla_2 = {
+					province = 944
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_wirrulla_3 = {
+					province = 945
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+
+			}
+			c_buckleboo = {
+				color = { 194 198 134 }
+				color2 = { 255 255 255 }
+
+				b_buckleboo = {
+					province = 2908
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_buckleboo_1 = {
+					province = 2909
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_buckleboo_2 = {
+					province = 2910
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_buckleboo_3 = {
+					province = 2911
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+
+			}
+			c_gairdner = {
+				color = { 194 196 134 }
+				color2 = { 255 255 255 }
+
+				b_gairdner = {
+					province = 2912
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_gairdner_1 = {
+					province = 2913
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+
+			}
+
+		}
+		d_ceduna = {
+			color = { 194 194 134 }
+			color2 = { 255 255 255 }
+
+			capital = c_ceduna
+
+			c_ceduna = {
+				color = { 194 194 134 }
+				color2 = { 255 255 255 }
+
+				b_ceduna = {
+					province = 946
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_ceduna_1 = {
+					province = 947
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_ceduna_2 = {
+					province = 948
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_ceduna_3 = {
+					province = 949
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+
+			}
+			c_port_le_hunt = {
+				color = { 194 192 134 }
+				color2 = { 255 255 255 }
+
+				b_port_le_hunt = {
+					province = 950
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_port_le_hunt_1 = {
+					province = 951
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_port_le_hunt_2 = {
+					province = 952
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_port_le_hunt_3 = {
+					province = 953
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+
+			}
+			c_fowlers_bay = {
+				color = { 194 190 134 }
+				color2 = { 255 255 255 }
+
+				b_fowlers_bay = {
+					province = 954
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_fowlers_bay_1 = {
+					province = 955
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_fowlers_bay_2 = {
+					province = 956
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_fowlers_bay_3 = {
+					province = 957
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_fowlers_bay_4 = {
+					province = 958
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+
+			}
+			c_tarcoola = {
+				color = { 194 188 134 }
+				color2 = { 255 255 255 }
+
+				b_tarcoola = {
+					province = 2918
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_tarcoola_1 = {
+					province = 2919
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_tarcoola_2 = {
+					province = 2920
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+
+			}
+			c_east_yellabinna = {
+				color = { 194 186 134 }
+				color2 = { 255 255 255 }
+
+				b_east_yellabinna = {
+					province = 2921
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_east_yellabinna_1 = {
+					province = 2922
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_east_yellabinna_2 = {
+					province = 2923
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+
+			}
+
+		}
+		d_frome = {
+			color = { 194 184 134 }
 			color2 = { 255 255 255 }
 
 			capital = c_ikara
 
 			c_ikara = {
-				color = { 191 44 8 }
+				color = { 194 184 134 }
 				color2 = { 255 255 255 }
 
 				b_ikara_flinders = {
@@ -5565,7 +6469,7 @@ e_south_australia = {
 
 			}
 			c_mulyungarie = {
-				color = { 191 46 8 }
+				color = { 194 182 134 }
 				color2 = { 255 255 255 }
 
 				b_mulyungarie = {
@@ -5583,7 +6487,7 @@ e_south_australia = {
 
 			}
 			c_yunta = {
-				color = { 191 48 8 }
+				color = { 194 180 134 }
 				color2 = { 255 255 255 }
 
 				b_bimbowrie = {
@@ -5613,7 +6517,7 @@ e_south_australia = {
 
 			}
 			c_cockburn = {
-				color = { 191 50 8 }
+				color = { 194 178 134 }
 				color2 = { 255 255 255 }
 
 				b_cockburn = {
@@ -5631,7 +6535,7 @@ e_south_australia = {
 
 			}
 			c_parnaroo = {
-				color = { 191 52 8 }
+				color = { 194 176 134 }
 				color2 = { 255 255 255 }
 
 				b_parnaroo = {
@@ -5655,7 +6559,7 @@ e_south_australia = {
 
 			}
 			c_danggali = {
-				color = { 191 54 8 }
+				color = { 194 174 134 }
 				color2 = { 255 255 255 }
 
 				b_danggali = {
@@ -5680,152 +6584,102 @@ e_south_australia = {
 			}
 
 		}
-
-	}
-	k_gulfs = {
-		color = { 0 212 134 }
-		color2 = { 255 255 255 }
-
-		capital = c_alexandrina
-
-		d_adelaide = {
-			color = { 0 212 134 }
+		d_saltpan = {
+			color = { 194 172 134 }
 			color2 = { 255 255 255 }
 
-			capital = c_alexandrina
+			capital = c_woomera
 
-			c_alexandrina = {
-				color = { 0 212 134 }
+			c_woomera = {
+				color = { 194 172 134 }
 				color2 = { 255 255 255 }
 
-				b_alexandrina = {
-					province = 862
+				b_woomera = {
+					province = 2914
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
 
 				}
-				b_alexandrina_1 = {
-					province = 863
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_alexandrina_2 = {
-					province = 864
+				b_woomera_1 = {
+					province = 2915
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
 
 				}
 
 			}
-			c_murray_bridge = {
-				color = { 2 212 134 }
+			c_glendambo = {
+				color = { 194 170 134 }
 				color2 = { 255 255 255 }
 
-				b_murray_bridge = {
-					province = 865
+				b_glendambo = {
+					province = 2916
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
 
 				}
-				b_murray_bridge_1 = {
-					province = 866
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_murray_bridge_2 = {
-					province = 867
+				b_glendambo_1 = {
+					province = 2917
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
 
 				}
 
 			}
-			c_hindmarsh = {
-				color = { 4 212 134 }
+			c_gina = {
+				color = { 194 168 134 }
 				color2 = { 255 255 255 }
 
-				b_hindmarsh = {
-					province = 868
+				b_gina = {
+					province = 2924
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
 
 				}
-				b_hindmarsh_1 = {
-					province = 869
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_hindmarsh_2 = {
-					province = 870
+				b_gina_1 = {
+					province = 2925
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
 
 				}
 
 			}
-			c_kangaroo_island = {
-				color = { 6 212 134 }
+			c_mount_eba = {
+				color = { 194 166 134 }
 				color2 = { 255 255 255 }
 
-				b_kangaroo_island = {
-					province = 871
+				b_mount_eba = {
+					province = 2938
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
 
 				}
-				b_kangaroo_island_1 = {
-					province = 872
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_kangaroo_island_2 = {
-					province = 873
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_kangaroo_island_3 = {
-					province = 874
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_kangaroo_island_4 = {
-					province = 875
+				b_mount_eba_1 = {
+					province = 2939
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
 
 				}
 
 			}
-			c_adelaide = {
-				color = { 8 212 134 }
+			c_old_peake = {
+				color = { 194 164 134 }
 				color2 = { 255 255 255 }
 
-				b_adelaide = {
-					province = 876
+				b_old_peake = {
+					province = 2940
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
 
 				}
-				b_adelaide_1 = {
-					province = 877
+				b_old_peake_1 = {
+					province = 2941
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
 
 				}
-				b_adelaide_2 = {
-					province = 878
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_adelaide_3 = {
-					province = 879
+				b_old_peake_2 = {
+					province = 2942
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
 
@@ -5834,108 +6688,84 @@ e_south_australia = {
 			}
 
 		}
-		d_yorke = {
-			color = { 10 212 134 }
+		d_maralinga = {
+			color = { 194 162 134 }
 			color2 = { 255 255 255 }
 
-			capital = c_ferguson
+			capital = c_maralinga
 
-			c_ferguson = {
-				color = { 10 212 134 }
+			c_maralinga = {
+				color = { 194 162 134 }
 				color2 = { 255 255 255 }
 
-				b_ferguson = {
-					province = 880
+				b_maralinga = {
+					province = 2926
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
 
 				}
-				b_ferguson_1 = {
-					province = 881
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_ferguson_2 = {
-					province = 882
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_ferguson_3 = {
-					province = 883
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_ferguson_4 = {
-					province = 884
+				b_maralinga_1 = {
+					province = 2927
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
 
 				}
 
 			}
-			c_daly = {
-				color = { 12 212 134 }
+			c_maurice = {
+				color = { 194 160 134 }
 				color2 = { 255 255 255 }
 
-				b_daly = {
-					province = 885
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_daly_1 = {
-					province = 886
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_daly_2 = {
-					province = 887
+				b_maurice = {
+					province = 2928
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
 
 				}
 
 			}
-			c_stanley = {
-				color = { 14 212 134 }
+			c_mamungari = {
+				color = { 194 158 134 }
 				color2 = { 255 255 255 }
 
-				b_stanley = {
-					province = 908
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_stanley_1 = {
-					province = 909
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_stanley_2 = {
-					province = 910
+				b_mamungari = {
+					province = 2929
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
 
 				}
 
 			}
-			c_victoria = {
-				color = { 16 212 134 }
+			c_emu_junction = {
+				color = { 194 156 134 }
 				color2 = { 255 255 255 }
 
-				b_victoria = {
-					province = 911
+				b_emu_junction = {
+					province = 2930
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
 
 				}
-				b_victoria_1 = {
-					province = 912
+				b_emu_junction_1 = {
+					province = 2931
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+
+			}
+			c_tallaringa = {
+				color = { 194 154 134 }
+				color2 = { 255 255 255 }
+
+				b_tallaringa = {
+					province = 2932
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_tallaringa_1 = {
+					province = 2933
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
 
@@ -5944,268 +6774,90 @@ e_south_australia = {
 			}
 
 		}
-		d_clare_valley = {
-			color = { 18 212 134 }
+		d_ephemeral_rivers = {
+			color = { 194 152 134 }
 			color2 = { 255 255 255 }
 
-			capital = c_gawler
+			capital = c_cadney
 
-			c_gawler = {
-				color = { 18 212 134 }
+			c_cadney = {
+				color = { 194 152 134 }
 				color2 = { 255 255 255 }
 
-				b_gawler = {
-					province = 888
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_gawler_1 = {
-					province = 889
+				b_cadney = {
+					province = 2934
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
 
 				}
 
 			}
-			c_light = {
-				color = { 20 212 134 }
+			c_coober_pedy = {
+				color = { 194 150 134 }
 				color2 = { 255 255 255 }
 
-				b_light = {
-					province = 890
+				b_coober_pedy = {
+					province = 2935
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_coober_pedy_1 = {
+					province = 2936
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_coober_pedy_2 = {
+					province = 2937
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
 
 				}
 
 			}
-			c_eyre = {
-				color = { 22 212 134 }
+			c_oodnadatta = {
+				color = { 194 148 134 }
 				color2 = { 255 255 255 }
 
-				b_eyre = {
-					province = 891
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_eyre_1 = {
-					province = 892
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_eyre_2 = {
-					province = 893
+				b_oodnadatta = {
+					province = 2943
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
 
 				}
 
 			}
-			c_burra = {
-				color = { 24 212 134 }
+			c_pedirka = {
+				color = { 194 146 134 }
 				color2 = { 255 255 255 }
 
-				b_burra = {
-					province = 905
+				b_pedirka = {
+					province = 2944
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
 
 				}
-				b_burra_1 = {
-					province = 906
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_burra_2 = {
-					province = 907
+				b_pedirka_1 = {
+					province = 2945
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
 
 				}
 
 			}
-
-		}
-		d_remarkable = {
-			color = { 26 212 134 }
-			color2 = { 255 255 255 }
-
-			capital = c_yongala
-
-			c_yongala = {
-				color = { 26 212 134 }
+			c_witjira = {
+				color = { 194 144 134 }
 				color2 = { 255 255 255 }
 
-				b_yongala = {
-					province = 917
+				b_witjira = {
+					province = 2946
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
 
 				}
-				b_yongala_1 = {
-					province = 918
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-
-			}
-			c_frome = {
-				color = { 28 212 134 }
-				color2 = { 255 255 255 }
-
-				b_frome = {
-					province = 919
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_frome_1 = {
-					province = 920
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_frome_2 = {
-					province = 921
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-
-			}
-			c_newcastle = {
-				color = { 30 212 134 }
-				color2 = { 255 255 255 }
-
-				b_newcastle = {
-					province = 922
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_newcastle_1 = {
-					province = 923
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_newcastle_2 = {
-					province = 924
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-
-			}
-			c_granville = {
-				color = { 32 212 134 }
-				color2 = { 255 255 255 }
-
-				b_granville = {
-					province = 925
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_granville_1 = {
-					province = 926
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-
-			}
-
-		}
-		d_west_spencer = {
-			color = { 34 212 134 }
-			color2 = { 255 255 255 }
-
-			capital = c_manchester
-
-			c_manchester = {
-				color = { 34 212 134 }
-				color2 = { 255 255 255 }
-
-				b_manchester = {
-					province = 938
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_manchester_1 = {
-					province = 939
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_manchester_2 = {
-					province = 940
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-
-			}
-			c_york = {
-				color = { 36 212 134 }
-				color2 = { 255 255 255 }
-
-				b_york = {
-					province = 941
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_york_1 = {
-					province = 942
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_york_2 = {
-					province = 943
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-
-			}
-			c_jervois = {
-				color = { 38 212 134 }
-				color2 = { 255 255 255 }
-
-				b_jervois = {
-					province = 944
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_jervois_1 = {
-					province = 945
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_jervois_2 = {
-					province = 946
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_jervois_3 = {
-					province = 947
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_jervois_4 = {
-					province = 948
+				b_witjira_1 = {
+					province = 2947
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
 
@@ -6216,206 +6868,2842 @@ e_south_australia = {
 		}
 
 	}
-	k_eyrelands = {
-		color = { 150 3 87 }
+
+}
+e_great_barrier = {
+	color = { 150 13 87 }
+	color2 = { 255 255 255 }
+
+	capital = c_torres_strait
+
+	k_cape = {
+		color = { 150 13 87 }
 		color2 = { 255 255 255 }
 
-		capital = c_jussieu
+		capital = c_torres_strait
 
-		d_lower_eyre = {
-			color = { 150 3 87 }
+		d_yorktip = {
+			color = { 150 13 87 }
 			color2 = { 255 255 255 }
 
-			capital = c_jussieu
+			capital = c_torres_strait
 
-			c_jussieu = {
-				color = { 150 3 87 }
+			c_torres_strait = {
+				color = { 150 13 87 }
 				color2 = { 255 255 255 }
 
-				b_jussieu = {
-					province = 949
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_jussieu_1 = {
-					province = 950
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_jussieu_2 = {
-					province = 951
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_jussieu_3 = {
-					province = 952
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_jussieu_4 = {
-					province = 953
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-
-			}
-			c_musgrave = {
-				color = { 150 5 87 }
-				color2 = { 255 255 255 }
-
-				b_musgrave = {
-					province = 954
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_musgrave_1 = {
-					province = 955
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_musgrave_2 = {
-					province = 956
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_musgrave_3 = {
-					province = 957
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-
-			}
-
-		}
-		d_west_eyre = {
-			color = { 150 7 87 }
-			color2 = { 255 255 255 }
-
-			capital = c_calpatanna
-
-			c_calpatanna = {
-				color = { 150 7 87 }
-				color2 = { 255 255 255 }
-
-				b_calpatanna = {
-					province = 958
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_calpatanna_1 = {
+				b_badu = {
 					province = 959
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
 
 				}
-				b_calpatanna_2 = {
-					province = 960
+				b_bamaga = {
+					province = 1636
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_prince_of_wales = {
+					province = 1637
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_moa = {
+					province = 1638
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
 
 				}
 
 			}
-			c_dufferin = {
-				color = { 150 9 87 }
+			c_shelburne = {
+				color = { 150 15 87 }
 				color2 = { 255 255 255 }
 
-				b_dufferin = {
-					province = 961
+				b_cape_grenville = {
+					province = 1631
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
 
 				}
-				b_dufferin_1 = {
-					province = 962
+				b_shelburne = {
+					province = 1632
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
 
 				}
-				b_dufferin_2 = {
-					province = 963
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_dufferin_3 = {
-					province = 964
+				b_heathlands = {
+					province = 1633
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
 
 				}
 
 			}
-			c_way = {
-				color = { 150 11 87 }
+			c_mapoon = {
+				color = { 150 17 87 }
 				color2 = { 255 255 255 }
 
-				b_way = {
-					province = 965
+				b_mapoon = {
+					province = 1634
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
 
 				}
-				b_way_1 = {
-					province = 966
+				b_jardine_river = {
+					province = 1635
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
 
 				}
-				b_way_2 = {
+
+			}
+
+		}
+		d_kunjen = {
+			color = { 150 19 87 }
+			color2 = { 255 255 255 }
+
+			capital = c_red_river
+
+			c_red_river = {
+				color = { 150 19 87 }
+				color2 = { 255 255 255 }
+
+				b_red_river = {
+					province = 1580
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_red_river_1 = {
+					province = 1581
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+
+			}
+			c_vanrook = {
+				color = { 150 21 87 }
+				color2 = { 255 255 255 }
+
+				b_vanrook = {
+					province = 1582
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_vanrook_1 = {
+					province = 1583
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+
+			}
+			c_dunbar = {
+				color = { 150 23 87 }
+				color2 = { 255 255 255 }
+
+				b_dunbar = {
+					province = 1586
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+
+			}
+			c_staaten_river = {
+				color = { 150 25 87 }
+				color2 = { 255 255 255 }
+
+				b_staaten_river = {
+					province = 1587
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+
+			}
+			c_blackdown = {
+				color = { 150 27 87 }
+				color2 = { 255 255 255 }
+
+				b_blackdown = {
+					province = 1588
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_blackdown_1 = {
+					province = 1589
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+
+			}
+
+		}
+		d_wik = {
+			color = { 150 29 87 }
+			color2 = { 255 255 255 }
+
+			capital = c_drumduff
+
+			c_drumduff = {
+				color = { 150 29 87 }
+				color2 = { 255 255 255 }
+
+				b_drumduff = {
+					province = 1603
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+
+			}
+			c_kowanyama = {
+				color = { 150 31 87 }
+				color2 = { 255 255 255 }
+
+				b_kowanyama = {
+					province = 1604
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_kowanyama_1 = {
+					province = 1605
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+
+			}
+			c_pormpuraaw = {
+				color = { 150 33 87 }
+				color2 = { 255 255 255 }
+
+				b_pormpuraaw = {
+					province = 1606
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_pormpuraaw_1 = {
+					province = 1607
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+
+			}
+
+		}
+		d_reeflands = {
+			color = { 150 35 87 }
+			color2 = { 255 255 255 }
+
+			capital = c_dixie
+
+			c_dixie = {
+				color = { 150 35 87 }
+				color2 = { 255 255 255 }
+
+				b_dixie = {
+					province = 1608
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_dixie_1 = {
+					province = 1609
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_dixie_2 = {
+					province = 1610
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+
+			}
+			c_lakefield = {
+				color = { 150 37 87 }
+				color2 = { 255 255 255 }
+
+				b_lakefield = {
+					province = 1611
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_lakefield_1 = {
+					province = 1612
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+
+			}
+			c_cape_melville = {
+				color = { 150 39 87 }
+				color2 = { 255 255 255 }
+
+				b_cape_melville = {
+					province = 1613
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_cape_melville_1 = {
+					province = 1614
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+
+			}
+			c_cooktown = {
+				color = { 150 41 87 }
+				color2 = { 255 255 255 }
+
+				b_cooktown = {
+					province = 1615
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_cooktown_1 = {
+					province = 1616
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_cooktown_2 = {
+					province = 1617
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+
+			}
+			c_coen = {
+				color = { 150 43 87 }
+				color2 = { 255 255 255 }
+
+				b_coen = {
+					province = 1618
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_coen_1 = {
+					province = 1619
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_coen_2 = {
+					province = 1620
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+
+			}
+
+		}
+		d_mungkan_kandju = {
+			color = { 150 45 87 }
+			color2 = { 255 255 255 }
+
+			capital = c_archer_river
+
+			c_archer_river = {
+				color = { 150 45 87 }
+				color2 = { 255 255 255 }
+
+				b_archer_river = {
+					province = 1621
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_archer_river_1 = {
+					province = 1622
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+
+			}
+			c_aurukun = {
+				color = { 150 47 87 }
+				color2 = { 255 255 255 }
+
+				b_mungkan_kandju = {
+					province = 1623
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_aurukun = {
+					province = 1624
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+
+			}
+			c_lockhart_river = {
+				color = { 150 49 87 }
+				color2 = { 255 255 255 }
+
+				b_lockhart_river = {
+					province = 1625
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_portland_roads = {
+					province = 1626
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_batavia_downs = {
+					province = 1627
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+
+			}
+			c_weipa = {
+				color = { 150 51 87 }
+				color2 = { 255 255 255 }
+
+				b_mornton = {
+					province = 1628
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_weipa = {
+					province = 1629
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_cornalco = {
+					province = 1630
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+
+			}
+
+		}
+
+	}
+	k_gold_coast = {
+		color = { 255 170 114 }
+		color2 = { 255 255 255 }
+
+		capital = c_goondiwindi
+
+		d_goondiwindi = {
+			color = { 255 170 114 }
+			color2 = { 255 255 255 }
+
+			capital = c_goondiwindi
+
+			c_goondiwindi = {
+				color = { 255 170 114 }
+				color2 = { 255 255 255 }
+
+				b_toobeeh = {
+					province = 1018
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_bungunya = {
+					province = 1019
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_goondiwindi = {
+					province = 1020
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+
+			}
+			c_inglewood = {
+				color = { 253 170 114 }
+				color2 = { 255 255 255 }
+
+				b_wyaga = {
+					province = 1021
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_inglewood = {
+					province = 1022
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_yelarbon = {
+					province = 1023
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+
+			}
+			c_texas = {
+				color = { 251 170 114 }
+				color2 = { 255 255 255 }
+
+				b_stanthorpe = {
+					province = 1024
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_pikedale = {
+					province = 1025
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_texas = {
+					province = 1026
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+
+			}
+			c_warwick = {
+				color = { 249 170 114 }
+				color2 = { 255 255 255 }
+
+				b_warwick = {
+					province = 1027
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_gore = {
+					province = 1028
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_cill_arna = {
+					province = 1029
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+
+			}
+			c_millmerran = {
+				color = { 247 170 114 }
+				color2 = { 255 255 255 }
+
+				b_moonlo = {
+					province = 1047
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_millmerran = {
+					province = 1048
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_koorongara = {
+					province = 1049
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+
+			}
+
+		}
+		d_brisbane = {
+			color = { 245 170 114 }
+			color2 = { 255 255 255 }
+
+			capital = c_boonah
+
+			c_boonah = {
+				color = { 245 170 114 }
+				color2 = { 255 255 255 }
+
+				b_kildare = {
+					province = 1030
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_boonah = {
+					province = 1031
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_rathdowney = {
+					province = 1032
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+
+			}
+			c_surfers_paradise = {
+				color = { 243 170 114 }
+				color2 = { 255 255 255 }
+
+				b_oxenford = {
+					province = 1033
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_surfers_paradise = {
+					province = 1034
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_beaudesert = {
+					province = 1035
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_tweed_heads = {
+					province = 1036
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+
+			}
+			c_brisbane = {
+				color = { 241 170 114 }
+				color2 = { 255 255 255 }
+
+				b_toogoolawah = {
+					province = 1037
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_caboolture = {
+					province = 1038
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_crows_nest = {
+					province = 1039
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_brisbane = {
+					province = 1040
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_beenleigh = {
+					province = 1041
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+
+			}
+			c_toowoomba = {
+				color = { 239 170 114 }
+				color2 = { 255 255 255 }
+
+				b_oakey = {
+					province = 1042
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_toowoomba = {
+					province = 1043
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_gatton = {
+					province = 1044
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_pittsworth = {
+					province = 1045
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_clifton = {
+					province = 1046
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+
+			}
+			c_maroochydore = {
+				color = { 237 170 114 }
+				color2 = { 255 255 255 }
+
+				b_nanango = {
+					province = 1111
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_maroochydore = {
+					province = 1112
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_caloundra = {
+					province = 1113
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_landsborough = {
+					province = 1114
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+
+			}
+
+		}
+		d_maranoa = {
+			color = { 235 170 114 }
+			color2 = { 255 255 255 }
+
+			capital = c_mitchell
+
+			c_mitchell = {
+				color = { 235 170 114 }
+				color2 = { 255 255 255 }
+
+				b_mitchell = {
+					province = 1096
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_bindango = {
+					province = 1097
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_dunkeld = {
+					province = 1098
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+
+			}
+			c_roma = {
+				color = { 233 170 114 }
+				color2 = { 255 255 255 }
+
+				b_yuleba = {
+					province = 1099
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_wallumbilla = {
+					province = 1100
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_roma = {
+					province = 1101
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+
+			}
+			c_surat = {
+				color = { 231 170 114 }
+				color2 = { 255 255 255 }
+
+				b_surat = {
+					province = 1122
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_surat_1 = {
+					province = 1123
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_surat_2 = {
+					province = 1124
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+
+			}
+			c_forest_vale = {
+				color = { 229 170 114 }
+				color2 = { 255 255 255 }
+
+				b_forest_vale = {
+					province = 1145
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_forest_vale_1 = {
+					province = 1146
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+
+			}
+
+		}
+		d_western_downs = {
+			color = { 227 170 114 }
+			color2 = { 255 255 255 }
+
+			capital = c_miles
+
+			c_miles = {
+				color = { 227 170 114 }
+				color2 = { 255 255 255 }
+
+				b_wandoan = {
+					province = 1102
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_miles = {
+					province = 1103
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+
+			}
+			c_tara = {
+				color = { 225 170 114 }
+				color2 = { 255 255 255 }
+
+				b_brigalow = {
+					province = 1104
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_goodamine = {
+					province = 1105
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_tara = {
+					province = 1106
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+
+			}
+			c_dalby = {
+				color = { 223 170 114 }
+				color2 = { 255 255 255 }
+
+				b_jandowae = {
+					province = 1107
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_beil = {
+					province = 1108
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_dalby = {
+					province = 1109
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_goombungee = {
+					province = 1110
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+
+			}
+			c_chinchilla = {
+				color = { 221 170 114 }
+				color2 = { 255 255 255 }
+
+				b_chinchilla = {
+					province = 1118
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_chinchilla_1 = {
+					province = 1119
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_chinchilla_2 = {
+					province = 1120
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_chinchilla_3 = {
+					province = 1121
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+
+			}
+
+		}
+		d_sunshine = {
+			color = { 219 170 114 }
+			color2 = { 255 255 255 }
+
+			capital = c_kingaroy
+
+			c_kingaroy = {
+				color = { 219 170 114 }
+				color2 = { 255 255 255 }
+
+				b_murgon = {
+					province = 1115
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_wondail = {
+					province = 1116
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_kingaroy = {
+					province = 1117
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+
+			}
+			c_sunshine_coast = {
+				color = { 217 170 114 }
+				color2 = { 255 255 255 }
+
+				b_sunshine_coast = {
+					province = 1125
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_sunshine_coast_1 = {
+					province = 1126
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_sunshine_coast_2 = {
+					province = 1127
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_sunshine_coast_3 = {
+					province = 1128
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_sunshine_coast_4 = {
+					province = 1129
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+
+			}
+			c_maryborough = {
+				color = { 215 170 114 }
+				color2 = { 255 255 255 }
+
+				b_maryborough = {
+					province = 1130
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_maryborough_1 = {
+					province = 1131
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_maryborough_2 = {
+					province = 1132
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_maryborough_3 = {
+					province = 1133
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_maryborough_4 = {
+					province = 1134
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+
+			}
+			c_mundubbera = {
+				color = { 213 170 114 }
+				color2 = { 255 255 255 }
+
+				b_mundubbera = {
+					province = 1135
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_mundubbera_1 = {
+					province = 1136
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+
+			}
+
+		}
+		d_banana = {
+			color = { 211 170 114 }
+			color2 = { 255 255 255 }
+
+			capital = c_taroom
+
+			c_taroom = {
+				color = { 211 170 114 }
+				color2 = { 255 255 255 }
+
+				b_taroom = {
+					province = 1137
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_taroom_1 = {
+					province = 1138
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_taroom_2 = {
+					province = 1139
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_taroom_3 = {
+					province = 1140
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+
+			}
+			c_injune = {
+				color = { 209 170 114 }
+				color2 = { 255 255 255 }
+
+				b_injune = {
+					province = 1141
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_injune_1 = {
+					province = 1142
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_injune_2 = {
+					province = 1143
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_injune_3 = {
+					province = 1144
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+
+			}
+			c_theodore = {
+				color = { 207 170 114 }
+				color2 = { 255 255 255 }
+
+				b_theodore = {
+					province = 1195
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_theodore_1 = {
+					province = 1196
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_theodore_2 = {
+					province = 1197
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_theodore_3 = {
+					province = 1198
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+
+			}
+
+		}
+		d_north_burnett = {
+			color = { 205 170 114 }
+			color2 = { 255 255 255 }
+
+			capital = c_dawson_park
+
+			c_dawson_park = {
+				color = { 205 170 114 }
+				color2 = { 255 255 255 }
+
+				b_dawson_park = {
+					province = 1199
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_dawson_park_1 = {
+					province = 1200
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_dawson_park_2 = {
+					province = 1201
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+
+			}
+			c_monto = {
+				color = { 203 170 114 }
+				color2 = { 255 255 255 }
+
+				b_monto = {
+					province = 1202
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_monto_1 = {
+					province = 1203
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_monto_2 = {
+					province = 1204
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_monto_3 = {
+					province = 1205
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+
+			}
+			c_bundaberg = {
+				color = { 201 170 114 }
+				color2 = { 255 255 255 }
+
+				b_bundaberg = {
+					province = 1206
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_bundaberg_1 = {
+					province = 1207
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_bundaberg_2 = {
+					province = 1208
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+
+			}
+			c_gladstone = {
+				color = { 199 170 114 }
+				color2 = { 255 255 255 }
+
+				b_gladstone = {
+					province = 1209
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_gladstone_1 = {
+					province = 1210
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_gladstone_2 = {
+					province = 1211
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_gladstone_3 = {
+					province = 1212
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+
+			}
+			c_biloela = {
+				color = { 197 170 114 }
+				color2 = { 255 255 255 }
+
+				b_biloela = {
+					province = 1213
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_biloela_1 = {
+					province = 1214
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_biloela_2 = {
+					province = 1215
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+
+			}
+
+		}
+
+	}
+	k_fitzroy = {
+		color = { 191 255 73 }
+		color2 = { 255 255 255 }
+
+		capital = c_hillside_forest
+
+		d_carnarvon = {
+			color = { 191 255 73 }
+			color2 = { 255 255 255 }
+
+			capital = c_hillside_forest
+
+			c_hillside_forest = {
+				color = { 191 255 73 }
+				color2 = { 255 255 255 }
+
+				b_hillside_forest = {
+					province = 1187
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_hillside_forest_1 = {
+					province = 1188
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+
+			}
+			c_oak_vale = {
+				color = { 191 253 73 }
+				color2 = { 255 255 255 }
+
+				b_oak_vale = {
+					province = 1189
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_oak_vale_1 = {
+					province = 1190
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_oak_vale_2 = {
+					province = 1191
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+
+			}
+			c_expedition = {
+				color = { 191 251 73 }
+				color2 = { 255 255 255 }
+
+				b_expedition = {
+					province = 1192
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_expedition_1 = {
+					province = 1193
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_expedition_2 = {
+					province = 1194
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+
+			}
+			c_carnarvon = {
+				color = { 191 249 73 }
+				color2 = { 255 255 255 }
+
+				b_carnarvon = {
+					province = 1224
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_carnarvon_1 = {
+					province = 1225
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_carnarvon_2 = {
+					province = 1226
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_carnarvon_3 = {
+					province = 1227
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_carnarvon_4 = {
+					province = 1228
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+
+			}
+
+		}
+		d_central_highlands = {
+			color = { 191 247 73 }
+			color2 = { 255 255 255 }
+
+			capital = c_moura
+
+			c_moura = {
+				color = { 191 247 73 }
+				color2 = { 255 255 255 }
+
+				b_moura = {
+					province = 1216
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_moura_1 = {
+					province = 1217
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_moura_2 = {
+					province = 1218
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_moura_3 = {
+					province = 1219
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_moura_4 = {
+					province = 1220
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+
+			}
+			c_rolleston = {
+				color = { 191 245 73 }
+				color2 = { 255 255 255 }
+
+				b_rolleston = {
+					province = 1221
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_rolleston_1 = {
+					province = 1222
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_rolleston_2 = {
+					province = 1223
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+
+			}
+			c_mantuan_downs = {
+				color = { 191 243 73 }
+				color2 = { 255 255 255 }
+
+				b_mantuan_downs = {
+					province = 1276
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_mantuan_downs_1 = {
+					province = 1277
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_mantuan_downs_2 = {
+					province = 1278
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+
+			}
+			c_blackwater = {
+				color = { 191 241 73 }
+				color2 = { 255 255 255 }
+
+				b_blackwater = {
+					province = 1284
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_blackwater_1 = {
+					province = 1285
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_blackwater_2 = {
+					province = 1286
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_blackwater_3 = {
+					province = 1287
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+
+			}
+			c_emerald = {
+				color = { 191 239 73 }
+				color2 = { 255 255 255 }
+
+				b_emerald = {
+					province = 1288
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_emerald_1 = {
+					province = 1289
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_emerald_2 = {
+					province = 1290
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_emerald_3 = {
+					province = 1291
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_emerald_4 = {
+					province = 1292
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+
+			}
+
+		}
+		d_torilla = {
+			color = { 191 237 73 }
+			color2 = { 255 255 255 }
+
+			capital = c_rockhampton
+
+			c_rockhampton = {
+				color = { 191 237 73 }
+				color2 = { 255 255 255 }
+
+				b_rockhampton = {
+					province = 1279
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_rockhampton_1 = {
+					province = 1280
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_rockhampton_2 = {
+					province = 1281
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_rockhampton_3 = {
+					province = 1282
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_rockhampton_4 = {
+					province = 1283
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+
+			}
+			c_yeppoon = {
+				color = { 191 235 73 }
+				color2 = { 255 255 255 }
+
+				b_yeppoon = {
+					province = 1349
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_yeppoon_1 = {
+					province = 1350
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_yeppoon_2 = {
+					province = 1351
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_yeppoon_3 = {
+					province = 1352
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_yeppoon_4 = {
+					province = 1353
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+
+			}
+			c_middlemount = {
+				color = { 191 233 73 }
+				color2 = { 255 255 255 }
+
+				b_middlemount = {
+					province = 1354
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_middlemount_1 = {
+					province = 1355
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_middlemount_2 = {
+					province = 1356
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+
+			}
+
+		}
+		d_clermont = {
+			color = { 191 231 73 }
+			color2 = { 255 255 255 }
+
+			capital = c_alpha
+
+			c_alpha = {
+				color = { 191 231 73 }
+				color2 = { 255 255 255 }
+
+				b_alpha = {
+					province = 1293
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_alpha_1 = {
+					province = 1294
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_alpha_2 = {
+					province = 1295
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+
+			}
+			c_surbiton = {
+				color = { 191 229 73 }
+				color2 = { 255 255 255 }
+
+				b_surbiton = {
+					province = 1346
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_surbiton_1 = {
+					province = 1347
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_surbiton_2 = {
+					province = 1348
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+
+			}
+			c_clermont = {
+				color = { 191 227 73 }
+				color2 = { 255 255 255 }
+
+				b_clermont = {
+					province = 1363
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_clermont_1 = {
+					province = 1364
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_clermont_2 = {
+					province = 1365
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+
+			}
+
+		}
+		d_mackay = {
+			color = { 191 225 73 }
+			color2 = { 255 255 255 }
+
+			capital = c_carmila
+
+			c_carmila = {
+				color = { 191 225 73 }
+				color2 = { 255 255 255 }
+
+				b_carmila = {
+					province = 1357
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_carmila_1 = {
+					province = 1358
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_carmila_2 = {
+					province = 1359
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+
+			}
+			c_dysart = {
+				color = { 191 223 73 }
+				color2 = { 255 255 255 }
+
+				b_dysart = {
+					province = 1360
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_dysart_1 = {
+					province = 1361
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_dysart_2 = {
+					province = 1362
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+
+			}
+			c_moranbah = {
+				color = { 191 221 73 }
+				color2 = { 255 255 255 }
+
+				b_moranbah = {
+					province = 1445
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_moranbah_1 = {
+					province = 1446
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+
+			}
+			c_mackay = {
+				color = { 191 219 73 }
+				color2 = { 255 255 255 }
+
+				b_mackay = {
+					province = 1449
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_mackay_1 = {
+					province = 1450
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_mackay_2 = {
+					province = 1451
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_mackay_3 = {
+					province = 1452
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_mackay_4 = {
+					province = 1453
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+
+			}
+			c_glenden = {
+				color = { 191 217 73 }
+				color2 = { 255 255 255 }
+
+				b_glenden = {
+					province = 1454
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_glenden_1 = {
+					province = 1455
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_glenden_2 = {
+					province = 1456
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+
+			}
+
+		}
+		d_belyando = {
+			color = { 191 215 73 }
+			color2 = { 255 255 255 }
+
+			capital = c_mount_coolon
+
+			c_mount_coolon = {
+				color = { 191 215 73 }
+				color2 = { 255 255 255 }
+
+				b_mount_coolon = {
+					province = 1366
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_mount_coolon_1 = {
+					province = 1367
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_mount_coolon_2 = {
+					province = 1368
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+
+			}
+			c_willandspey = {
+				color = { 191 213 73 }
+				color2 = { 255 255 255 }
+
+				b_willandspey = {
+					province = 1437
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_willandspey_1 = {
+					province = 1438
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+
+			}
+			c_natal_downs = {
+				color = { 191 211 73 }
+				color2 = { 255 255 255 }
+
+				b_natal_downs = {
+					province = 1439
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_natal_downs_1 = {
+					province = 1440
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+
+			}
+
+		}
+		d_galilee = {
+			color = { 191 209 73 }
+			color2 = { 255 255 255 }
+
+			capital = c_laglan
+
+			c_laglan = {
+				color = { 191 209 73 }
+				color2 = { 255 255 255 }
+
+				b_laglan = {
+					province = 1369
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_laglan_1 = {
+					province = 1370
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_laglan_2 = {
+					province = 1371
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+
+			}
+			c_galilee = {
+				color = { 191 207 73 }
+				color2 = { 255 255 255 }
+
+				b_galilee = {
+					province = 1372
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_galilee_1 = {
+					province = 1373
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_galilee_2 = {
+					province = 1374
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+
+			}
+			c_buchanan = {
+				color = { 191 205 73 }
+				color2 = { 255 255 255 }
+
+				b_buchanan = {
+					province = 1432
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_buchanan_1 = {
+					province = 1433
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_buchanan_2 = {
+					province = 1434
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+
+			}
+			c_doongmabulla = {
+				color = { 191 203 73 }
+				color2 = { 255 255 255 }
+
+				b_doongmabulla = {
+					province = 1435
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_doongmabulla_1 = {
+					province = 1436
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+
+			}
+
+		}
+		d_brigalow = {
+			color = { 191 201 73 }
+			color2 = { 255 255 255 }
+
+			capital = c_dalrymple
+
+			c_dalrymple = {
+				color = { 191 201 73 }
+				color2 = { 255 255 255 }
+
+				b_dalrymple = {
+					province = 1443
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_dalrymple_1 = {
+					province = 1444
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+
+			}
+			c_newlands = {
+				color = { 191 199 73 }
+				color2 = { 255 255 255 }
+
+				b_newlands = {
+					province = 1447
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_newlands_1 = {
+					province = 1448
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+
+			}
+			c_bowen = {
+				color = { 191 197 73 }
+				color2 = { 255 255 255 }
+
+				b_bowen = {
+					province = 1457
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_bowen_1 = {
+					province = 1458
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_bowen_2 = {
+					province = 1459
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+
+			}
+			c_collinsville = {
+				color = { 191 195 73 }
+				color2 = { 255 255 255 }
+
+				b_collinsville = {
+					province = 1460
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_collinsville_1 = {
+					province = 1461
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_collinsville_2 = {
+					province = 1462
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_collinsville_3 = {
+					province = 1463
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+
+			}
+			c_ayr = {
+				color = { 191 193 73 }
+				color2 = { 255 255 255 }
+
+				b_ayr = {
+					province = 1464
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_ayr_1 = {
+					province = 1465
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_ayr_2 = {
+					province = 1466
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_ayr_3 = {
+					province = 1467
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+
+			}
+
+		}
+
+	}
+	k_troppers = {
+		color = { 102 255 186 }
+		color2 = { 255 255 255 }
+
+		capital = c_corea_plains
+
+		d_charters = {
+			color = { 102 255 186 }
+			color2 = { 255 255 255 }
+
+			capital = c_corea_plains
+
+			c_corea_plains = {
+				color = { 102 255 186 }
+				color2 = { 255 255 255 }
+
+				b_corea_plains = {
+					province = 1441
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_corea_plains_1 = {
+					province = 1442
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+
+			}
+			c_charters_towers = {
+				color = { 102 253 186 }
+				color2 = { 255 255 255 }
+
+				b_charters_towers = {
+					province = 1473
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_charters_towers_1 = {
+					province = 1474
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_charters_towers_2 = {
+					province = 1475
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_charters_towers_3 = {
+					province = 1476
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+
+			}
+			c_pentland = {
+				color = { 102 251 186 }
+				color2 = { 255 255 255 }
+
+				b_pentland = {
+					province = 1477
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_pentland_1 = {
+					province = 1478
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+
+			}
+			c_basalt = {
+				color = { 102 249 186 }
+				color2 = { 255 255 255 }
+
+				b_basalt = {
+					province = 1547
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_basalt_1 = {
+					province = 1548
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+
+			}
+
+		}
+		d_paluma = {
+			color = { 102 247 186 }
+			color2 = { 255 255 255 }
+
+			capital = c_townsville
+
+			c_townsville = {
+				color = { 102 247 186 }
+				color2 = { 255 255 255 }
+
+				b_townsville = {
+					province = 1468
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_townsville_1 = {
+					province = 1469
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_townsville_2 = {
+					province = 1470
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_townsville_3 = {
+					province = 1471
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_townsville_4 = {
+					province = 1472
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+
+			}
+			c_greenvale = {
+				color = { 102 245 186 }
+				color2 = { 255 255 255 }
+
+				b_greenvale = {
+					province = 1549
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_greenvale_1 = {
+					province = 1550
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+
+			}
+			c_ingham = {
+				color = { 102 243 186 }
+				color2 = { 255 255 255 }
+
+				b_ingham = {
+					province = 1551
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_ingham_1 = {
+					province = 1552
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_ingham_2 = {
+					province = 1553
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_ingham_3 = {
+					province = 1554
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+
+			}
+			c_cardwell = {
+				color = { 102 241 186 }
+				color2 = { 255 255 255 }
+
+				b_cardwell = {
+					province = 1555
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_cardwell_1 = {
+					province = 1556
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_cardwell_2 = {
+					province = 1557
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_cardwell_3 = {
+					province = 1558
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+
+			}
+
+		}
+		d_blackbraes = {
+			color = { 102 239 186 }
+			color2 = { 255 255 255 }
+
+			capital = c_blackbraes
+
+			c_blackbraes = {
+				color = { 102 239 186 }
+				color2 = { 255 255 255 }
+
+				b_blackbraes = {
+					province = 1543
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_blackbraes_1 = {
+					province = 1544
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+
+			}
+			c_gregory_springs = {
+				color = { 102 237 186 }
+				color2 = { 255 255 255 }
+
+				b_gregory_springs = {
+					province = 1545
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_gregory_springs_1 = {
+					province = 1546
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+
+			}
+
+		}
+		d_einaslynd = {
+			color = { 102 235 186 }
+			color2 = { 255 255 255 }
+
+			capital = c_undara
+
+			c_undara = {
+				color = { 102 235 186 }
+				color2 = { 255 255 255 }
+
+				b_undara = {
+					province = 1559
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_undara_1 = {
+					province = 1560
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_undara_2 = {
+					province = 1561
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+
+			}
+			c_georgetown = {
+				color = { 102 233 186 }
+				color2 = { 255 255 255 }
+
+				b_georgetown = {
+					province = 1562
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_georgetown_1 = {
+					province = 1563
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_georgetown_2 = {
+					province = 1564
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+
+			}
+			c_bolwarra = {
+				color = { 102 231 186 }
+				color2 = { 255 255 255 }
+
+				b_bolwarra = {
+					province = 1578
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_bolwarra_1 = {
+					province = 1579
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+
+			}
+
+		}
+		d_cairnlands = {
+			color = { 102 229 186 }
+			color2 = { 255 255 255 }
+
+			capital = c_innisfail
+
+			c_innisfail = {
+				color = { 102 229 186 }
+				color2 = { 255 255 255 }
+
+				b_innisfail = {
+					province = 1565
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_innisfail_1 = {
+					province = 1566
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_innisfail_2 = {
+					province = 1567
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_innisfail_3 = {
+					province = 1568
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+
+			}
+			c_cairns = {
+				color = { 102 227 186 }
+				color2 = { 255 255 255 }
+
+				b_cairns = {
+					province = 1569
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_cairns_1 = {
+					province = 1570
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_cairns_2 = {
+					province = 1571
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_cairns_3 = {
+					province = 1572
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_cairns_4 = {
+					province = 1573
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+
+			}
+			c_atherton = {
+				color = { 102 225 186 }
+				color2 = { 255 255 255 }
+
+				b_atherton = {
+					province = 1574
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_atherton_1 = {
+					province = 1575
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_atherton_2 = {
+					province = 1576
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_atherton_3 = {
+					province = 1577
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+
+			}
+			c_mareeba = {
+				color = { 102 223 186 }
+				color2 = { 255 255 255 }
+
+				b_mareeba = {
+					province = 1591
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_mareeba_1 = {
+					province = 1592
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_mareeba_2 = {
+					province = 1593
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+
+			}
+
+		}
+		d_palmeronia = {
+			color = { 102 221 186 }
+			color2 = { 255 255 255 }
+
+			capital = c_hurricane
+
+			c_hurricane = {
+				color = { 102 221 186 }
+				color2 = { 255 255 255 }
+
+				b_hurricane = {
+					province = 1590
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+
+			}
+			c_port_douglas = {
+				color = { 102 219 186 }
+				color2 = { 255 255 255 }
+
+				b_port_douglas = {
+					province = 1594
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_port_douglas_1 = {
+					province = 1595
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_port_douglas_2 = {
+					province = 1596
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_port_douglas_3 = {
+					province = 1597
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+
+			}
+			c_palmer = {
+				color = { 102 217 186 }
+				color2 = { 255 255 255 }
+
+				b_palmer = {
+					province = 1598
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_palmer_1 = {
+					province = 1599
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_palmer_2 = {
+					province = 1600
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+
+			}
+			c_killarney = {
+				color = { 102 215 186 }
+				color2 = { 255 255 255 }
+
+				b_killarney = {
+					province = 1601
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_killarney_1 = {
+					province = 1602
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+
+			}
+
+		}
+
+	}
+
+}
+e_terra_nullius = {
+	color = { 150 21 87 }
+	color2 = { 255 255 255 }
+
+	capital = c_terra_nullius
+
+	k_terra_nullius = {
+		color = { 150 21 87 }
+		color2 = { 255 255 255 }
+
+		capital = c_terra_nullius
+
+		d_terra_nullius = {
+			color = { 150 21 87 }
+			color2 = { 255 255 255 }
+
+			capital = c_terra_nullius
+
+			c_terra_nullius = {
+				color = { 150 21 87 }
+				color2 = { 255 255 255 }
+
+				b_terra_nullius = {
 					province = 967
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
 
 				}
-
-			}
-			c_kintore = {
-				color = { 150 13 87 }
-				color2 = { 255 255 255 }
-
-				b_kintore = {
+				b_terra_nullius_1 = {
 					province = 968
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
 
 				}
-				b_kintore_1 = {
+				b_terra_nullius_2 = {
 					province = 969
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
 
 				}
-
-			}
-			c_hopetoun = {
-				color = { 150 15 87 }
-				color2 = { 255 255 255 }
-
-				b_hopetoun = {
+				b_terra_nullius_3 = {
 					province = 970
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
 
 				}
-				b_hopetoun_1 = {
+				b_terra_nullius_4 = {
 					province = 971
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
 
 				}
-				b_hopetoun_2 = {
+				b_terra_nullius_5 = {
 					province = 972
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_terra_nullius_6 = {
+					province = 973
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_terra_nullius_7 = {
+					province = 974
+					color = { 255 255 255 }
+					color2 = { 255 255 255 }
+
+				}
+				b_terra_nullius_8 = {
+					province = 975
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
 
@@ -6492,19 +9780,19 @@ e_inner_queensland = {
 				color = { 162 160 251 }
 				color2 = { 255 255 255 }
 
-				b_nockatunga = {
+				b_noccundra = {
 					province = 1070
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
 
 				}
-				b_nockatunga_1 = {
+				b_nockatunga = {
 					province = 1071
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
 
 				}
-				b_nockatunga_2 = {
+				b_jackson_oil_field = {
 					province = 1072
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
@@ -6516,19 +9804,19 @@ e_inner_queensland = {
 				color = { 162 160 249 }
 				color2 = { 255 255 255 }
 
-				b_orientos = {
+				b_santos = {
 					province = 1073
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
 
 				}
-				b_orientos_1 = {
+				b_orientos = {
 					province = 1074
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
 
 				}
-				b_orientos_2 = {
+				b_naccowlah = {
 					province = 1075
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
@@ -6540,13 +9828,13 @@ e_inner_queensland = {
 				color = { 162 160 247 }
 				color2 = { 255 255 255 }
 
-				b_cooper_creek = {
+				b_nappa_merrie = {
 					province = 1076
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
 
 				}
-				b_cooper_creek_1 = {
+				b_arrabury = {
 					province = 1077
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
@@ -6762,19 +10050,19 @@ e_inner_queensland = {
 				color = { 162 160 227 }
 				color2 = { 255 255 255 }
 
-				b_begonia = {
+				b_thrushton = {
 					province = 1093
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
 
 				}
-				b_begonia_1 = {
+				b_begonia = {
 					province = 1094
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
 
 				}
-				b_begonia_2 = {
+				b_woodlands = {
 					province = 1095
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
@@ -6934,19 +10222,19 @@ e_inner_queensland = {
 				color = { 162 160 213 }
 				color2 = { 255 255 255 }
 
-				b_big_creek = {
+				b_alroy = {
 					province = 1088
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
 
 				}
-				b_big_creek_1 = {
+				b_big_creek = {
 					province = 1089
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
 
 				}
-				b_big_creek_2 = {
+				b_humebum = {
 					province = 1090
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
@@ -6990,19 +10278,19 @@ e_inner_queensland = {
 				color = { 162 160 209 }
 				color2 = { 255 255 255 }
 
-				b_thargomindah = {
+				b_picantill = {
 					province = 1067
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
 
 				}
-				b_thargomindah_1 = {
+				b_orion = {
 					province = 1068
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
 
 				}
-				b_thargomindah_2 = {
+				b_thargomindah = {
 					province = 1069
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
@@ -7032,7 +10320,7 @@ e_inner_queensland = {
 					color2 = { 255 255 255 }
 
 				}
-				b_ardoch_1 = {
+				b_tobermory = {
 					province = 1085
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
@@ -7050,7 +10338,7 @@ e_inner_queensland = {
 					color2 = { 255 255 255 }
 
 				}
-				b_toompine_1 = {
+				b_wombin = {
 					province = 1087
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
@@ -7070,13 +10358,13 @@ e_inner_queensland = {
 				color = { 162 160 201 }
 				color2 = { 255 255 255 }
 
-				b_durham = {
+				b_durham_downs = {
 					province = 1078
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
 
 				}
-				b_durham_1 = {
+				b_planet_downs = {
 					province = 1079
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
@@ -7088,19 +10376,19 @@ e_inner_queensland = {
 				color = { 162 160 199 }
 				color2 = { 255 255 255 }
 
-				b_mount_howitt = {
+				b_prevna_downs = {
 					province = 1080
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
 
 				}
-				b_mount_howitt_1 = {
+				b_mount_howitt = {
 					province = 1081
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
 
 				}
-				b_mount_howitt_2 = {
+				b_malagarga = {
 					province = 1082
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
@@ -7198,7 +10486,7 @@ e_inner_queensland = {
 					color2 = { 255 255 255 }
 
 				}
-				b_boatman_1 = {
+				b_bonus_downs = {
 					province = 1092
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
@@ -9508,2762 +12796,6 @@ e_inner_queensland = {
 
 				b_mount_sturgeon = {
 					province = 1483
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-
-			}
-
-		}
-
-	}
-
-}
-e_great_barrier = {
-	color = { 255 170 114 }
-	color2 = { 255 255 255 }
-
-	capital = c_goondiwindi
-
-	k_gold_coast = {
-		color = { 255 170 114 }
-		color2 = { 255 255 255 }
-
-		capital = c_goondiwindi
-
-		d_goondiwindi = {
-			color = { 255 170 114 }
-			color2 = { 255 255 255 }
-
-			capital = c_goondiwindi
-
-			c_goondiwindi = {
-				color = { 255 170 114 }
-				color2 = { 255 255 255 }
-
-				b_toobeeh = {
-					province = 1018
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_bungunya = {
-					province = 1019
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_goondiwindi = {
-					province = 1020
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-
-			}
-			c_inglewood = {
-				color = { 253 170 114 }
-				color2 = { 255 255 255 }
-
-				b_wyaga = {
-					province = 1021
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_inglewood = {
-					province = 1022
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_yelarbon = {
-					province = 1023
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-
-			}
-			c_texas = {
-				color = { 251 170 114 }
-				color2 = { 255 255 255 }
-
-				b_stanthorpe = {
-					province = 1024
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_pikedale = {
-					province = 1025
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_texas = {
-					province = 1026
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-
-			}
-			c_warwick = {
-				color = { 249 170 114 }
-				color2 = { 255 255 255 }
-
-				b_warwick = {
-					province = 1027
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_gore = {
-					province = 1028
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_cill_arna = {
-					province = 1029
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-
-			}
-			c_millmerran = {
-				color = { 247 170 114 }
-				color2 = { 255 255 255 }
-
-				b_moonlo = {
-					province = 1047
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_millmerran = {
-					province = 1048
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_koorongara = {
-					province = 1049
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-
-			}
-
-		}
-		d_brisbane = {
-			color = { 245 170 114 }
-			color2 = { 255 255 255 }
-
-			capital = c_boonah
-
-			c_boonah = {
-				color = { 245 170 114 }
-				color2 = { 255 255 255 }
-
-				b_kildare = {
-					province = 1030
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_boonah = {
-					province = 1031
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_rathdowney = {
-					province = 1032
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-
-			}
-			c_surfers_paradise = {
-				color = { 243 170 114 }
-				color2 = { 255 255 255 }
-
-				b_oxenford = {
-					province = 1033
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_surfers_paradise = {
-					province = 1034
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_beaudesert = {
-					province = 1035
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_tweed_heads = {
-					province = 1036
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-
-			}
-			c_brisbane = {
-				color = { 241 170 114 }
-				color2 = { 255 255 255 }
-
-				b_toogoolawah = {
-					province = 1037
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_caboolture = {
-					province = 1038
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_crows_nest = {
-					province = 1039
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_brisbane = {
-					province = 1040
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_beenleigh = {
-					province = 1041
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-
-			}
-			c_toowoomba = {
-				color = { 239 170 114 }
-				color2 = { 255 255 255 }
-
-				b_oakey = {
-					province = 1042
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_toowoomba = {
-					province = 1043
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_gatton = {
-					province = 1044
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_pittsworth = {
-					province = 1045
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_clifton = {
-					province = 1046
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-
-			}
-			c_maroochydore = {
-				color = { 237 170 114 }
-				color2 = { 255 255 255 }
-
-				b_maroochydore = {
-					province = 1111
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_maroochydore_1 = {
-					province = 1112
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_maroochydore_2 = {
-					province = 1113
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_maroochydore_3 = {
-					province = 1114
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-
-			}
-
-		}
-		d_maranoa = {
-			color = { 235 170 114 }
-			color2 = { 255 255 255 }
-
-			capital = c_mitchell
-
-			c_mitchell = {
-				color = { 235 170 114 }
-				color2 = { 255 255 255 }
-
-				b_mitchell = {
-					province = 1096
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_mitchell_1 = {
-					province = 1097
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_mitchell_2 = {
-					province = 1098
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-
-			}
-			c_roma = {
-				color = { 233 170 114 }
-				color2 = { 255 255 255 }
-
-				b_roma = {
-					province = 1099
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_roma_1 = {
-					province = 1100
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_roma_2 = {
-					province = 1101
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-
-			}
-			c_surat = {
-				color = { 231 170 114 }
-				color2 = { 255 255 255 }
-
-				b_surat = {
-					province = 1122
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_surat_1 = {
-					province = 1123
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_surat_2 = {
-					province = 1124
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-
-			}
-			c_forest_vale = {
-				color = { 229 170 114 }
-				color2 = { 255 255 255 }
-
-				b_forest_vale = {
-					province = 1145
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_forest_vale_1 = {
-					province = 1146
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-
-			}
-
-		}
-		d_western_downs = {
-			color = { 227 170 114 }
-			color2 = { 255 255 255 }
-
-			capital = c_miles
-
-			c_miles = {
-				color = { 227 170 114 }
-				color2 = { 255 255 255 }
-
-				b_miles = {
-					province = 1102
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_miles_1 = {
-					province = 1103
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-
-			}
-			c_tara = {
-				color = { 225 170 114 }
-				color2 = { 255 255 255 }
-
-				b_tara = {
-					province = 1104
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_tara_1 = {
-					province = 1105
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_tara_2 = {
-					province = 1106
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-
-			}
-			c_dalby = {
-				color = { 223 170 114 }
-				color2 = { 255 255 255 }
-
-				b_dalby = {
-					province = 1107
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_dalby_1 = {
-					province = 1108
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_dalby_2 = {
-					province = 1109
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_dalby_3 = {
-					province = 1110
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-
-			}
-			c_chinchilla = {
-				color = { 221 170 114 }
-				color2 = { 255 255 255 }
-
-				b_chinchilla = {
-					province = 1118
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_chinchilla_1 = {
-					province = 1119
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_chinchilla_2 = {
-					province = 1120
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_chinchilla_3 = {
-					province = 1121
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-
-			}
-
-		}
-		d_sunshine = {
-			color = { 219 170 114 }
-			color2 = { 255 255 255 }
-
-			capital = c_kingaroy
-
-			c_kingaroy = {
-				color = { 219 170 114 }
-				color2 = { 255 255 255 }
-
-				b_kingaroy = {
-					province = 1115
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_kingaroy_1 = {
-					province = 1116
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_kingaroy_2 = {
-					province = 1117
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-
-			}
-			c_sunshine_coast = {
-				color = { 217 170 114 }
-				color2 = { 255 255 255 }
-
-				b_sunshine_coast = {
-					province = 1125
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_sunshine_coast_1 = {
-					province = 1126
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_sunshine_coast_2 = {
-					province = 1127
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_sunshine_coast_3 = {
-					province = 1128
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_sunshine_coast_4 = {
-					province = 1129
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-
-			}
-			c_maryborough = {
-				color = { 215 170 114 }
-				color2 = { 255 255 255 }
-
-				b_maryborough = {
-					province = 1130
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_maryborough_1 = {
-					province = 1131
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_maryborough_2 = {
-					province = 1132
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_maryborough_3 = {
-					province = 1133
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_maryborough_4 = {
-					province = 1134
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-
-			}
-			c_mundubbera = {
-				color = { 213 170 114 }
-				color2 = { 255 255 255 }
-
-				b_mundubbera = {
-					province = 1135
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_mundubbera_1 = {
-					province = 1136
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-
-			}
-
-		}
-		d_banana = {
-			color = { 211 170 114 }
-			color2 = { 255 255 255 }
-
-			capital = c_taroom
-
-			c_taroom = {
-				color = { 211 170 114 }
-				color2 = { 255 255 255 }
-
-				b_taroom = {
-					province = 1137
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_taroom_1 = {
-					province = 1138
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_taroom_2 = {
-					province = 1139
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_taroom_3 = {
-					province = 1140
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-
-			}
-			c_injune = {
-				color = { 209 170 114 }
-				color2 = { 255 255 255 }
-
-				b_injune = {
-					province = 1141
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_injune_1 = {
-					province = 1142
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_injune_2 = {
-					province = 1143
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_injune_3 = {
-					province = 1144
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-
-			}
-			c_theodore = {
-				color = { 207 170 114 }
-				color2 = { 255 255 255 }
-
-				b_theodore = {
-					province = 1195
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_theodore_1 = {
-					province = 1196
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_theodore_2 = {
-					province = 1197
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_theodore_3 = {
-					province = 1198
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-
-			}
-
-		}
-		d_north_burnett = {
-			color = { 205 170 114 }
-			color2 = { 255 255 255 }
-
-			capital = c_dawson_park
-
-			c_dawson_park = {
-				color = { 205 170 114 }
-				color2 = { 255 255 255 }
-
-				b_dawson_park = {
-					province = 1199
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_dawson_park_1 = {
-					province = 1200
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_dawson_park_2 = {
-					province = 1201
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-
-			}
-			c_monto = {
-				color = { 203 170 114 }
-				color2 = { 255 255 255 }
-
-				b_monto = {
-					province = 1202
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_monto_1 = {
-					province = 1203
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_monto_2 = {
-					province = 1204
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_monto_3 = {
-					province = 1205
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-
-			}
-			c_bundaberg = {
-				color = { 201 170 114 }
-				color2 = { 255 255 255 }
-
-				b_bundaberg = {
-					province = 1206
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_bundaberg_1 = {
-					province = 1207
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_bundaberg_2 = {
-					province = 1208
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-
-			}
-			c_gladstone = {
-				color = { 199 170 114 }
-				color2 = { 255 255 255 }
-
-				b_gladstone = {
-					province = 1209
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_gladstone_1 = {
-					province = 1210
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_gladstone_2 = {
-					province = 1211
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_gladstone_3 = {
-					province = 1212
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-
-			}
-			c_biloela = {
-				color = { 197 170 114 }
-				color2 = { 255 255 255 }
-
-				b_biloela = {
-					province = 1213
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_biloela_1 = {
-					province = 1214
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_biloela_2 = {
-					province = 1215
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-
-			}
-
-		}
-
-	}
-	k_fitzroy = {
-		color = { 191 255 73 }
-		color2 = { 255 255 255 }
-
-		capital = c_hillside_forest
-
-		d_carnarvon = {
-			color = { 191 255 73 }
-			color2 = { 255 255 255 }
-
-			capital = c_hillside_forest
-
-			c_hillside_forest = {
-				color = { 191 255 73 }
-				color2 = { 255 255 255 }
-
-				b_hillside_forest = {
-					province = 1187
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_hillside_forest_1 = {
-					province = 1188
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-
-			}
-			c_oak_vale = {
-				color = { 191 253 73 }
-				color2 = { 255 255 255 }
-
-				b_oak_vale = {
-					province = 1189
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_oak_vale_1 = {
-					province = 1190
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_oak_vale_2 = {
-					province = 1191
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-
-			}
-			c_expedition = {
-				color = { 191 251 73 }
-				color2 = { 255 255 255 }
-
-				b_expedition = {
-					province = 1192
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_expedition_1 = {
-					province = 1193
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_expedition_2 = {
-					province = 1194
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-
-			}
-			c_carnarvon = {
-				color = { 191 249 73 }
-				color2 = { 255 255 255 }
-
-				b_carnarvon = {
-					province = 1224
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_carnarvon_1 = {
-					province = 1225
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_carnarvon_2 = {
-					province = 1226
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_carnarvon_3 = {
-					province = 1227
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_carnarvon_4 = {
-					province = 1228
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-
-			}
-
-		}
-		d_central_highlands = {
-			color = { 191 247 73 }
-			color2 = { 255 255 255 }
-
-			capital = c_moura
-
-			c_moura = {
-				color = { 191 247 73 }
-				color2 = { 255 255 255 }
-
-				b_moura = {
-					province = 1216
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_moura_1 = {
-					province = 1217
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_moura_2 = {
-					province = 1218
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_moura_3 = {
-					province = 1219
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_moura_4 = {
-					province = 1220
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-
-			}
-			c_rolleston = {
-				color = { 191 245 73 }
-				color2 = { 255 255 255 }
-
-				b_rolleston = {
-					province = 1221
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_rolleston_1 = {
-					province = 1222
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_rolleston_2 = {
-					province = 1223
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-
-			}
-			c_mantuan_downs = {
-				color = { 191 243 73 }
-				color2 = { 255 255 255 }
-
-				b_mantuan_downs = {
-					province = 1276
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_mantuan_downs_1 = {
-					province = 1277
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_mantuan_downs_2 = {
-					province = 1278
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-
-			}
-			c_blackwater = {
-				color = { 191 241 73 }
-				color2 = { 255 255 255 }
-
-				b_blackwater = {
-					province = 1284
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_blackwater_1 = {
-					province = 1285
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_blackwater_2 = {
-					province = 1286
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_blackwater_3 = {
-					province = 1287
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-
-			}
-			c_emerald = {
-				color = { 191 239 73 }
-				color2 = { 255 255 255 }
-
-				b_emerald = {
-					province = 1288
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_emerald_1 = {
-					province = 1289
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_emerald_2 = {
-					province = 1290
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_emerald_3 = {
-					province = 1291
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_emerald_4 = {
-					province = 1292
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-
-			}
-
-		}
-		d_torilla = {
-			color = { 191 237 73 }
-			color2 = { 255 255 255 }
-
-			capital = c_rockhampton
-
-			c_rockhampton = {
-				color = { 191 237 73 }
-				color2 = { 255 255 255 }
-
-				b_rockhampton = {
-					province = 1279
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_rockhampton_1 = {
-					province = 1280
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_rockhampton_2 = {
-					province = 1281
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_rockhampton_3 = {
-					province = 1282
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_rockhampton_4 = {
-					province = 1283
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-
-			}
-			c_yeppoon = {
-				color = { 191 235 73 }
-				color2 = { 255 255 255 }
-
-				b_yeppoon = {
-					province = 1349
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_yeppoon_1 = {
-					province = 1350
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_yeppoon_2 = {
-					province = 1351
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_yeppoon_3 = {
-					province = 1352
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_yeppoon_4 = {
-					province = 1353
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-
-			}
-			c_middlemount = {
-				color = { 191 233 73 }
-				color2 = { 255 255 255 }
-
-				b_middlemount = {
-					province = 1354
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_middlemount_1 = {
-					province = 1355
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_middlemount_2 = {
-					province = 1356
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-
-			}
-
-		}
-		d_clermont = {
-			color = { 191 231 73 }
-			color2 = { 255 255 255 }
-
-			capital = c_alpha
-
-			c_alpha = {
-				color = { 191 231 73 }
-				color2 = { 255 255 255 }
-
-				b_alpha = {
-					province = 1293
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_alpha_1 = {
-					province = 1294
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_alpha_2 = {
-					province = 1295
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-
-			}
-			c_surbiton = {
-				color = { 191 229 73 }
-				color2 = { 255 255 255 }
-
-				b_surbiton = {
-					province = 1346
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_surbiton_1 = {
-					province = 1347
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_surbiton_2 = {
-					province = 1348
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-
-			}
-			c_clermont = {
-				color = { 191 227 73 }
-				color2 = { 255 255 255 }
-
-				b_clermont = {
-					province = 1363
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_clermont_1 = {
-					province = 1364
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_clermont_2 = {
-					province = 1365
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-
-			}
-
-		}
-		d_mackay = {
-			color = { 191 225 73 }
-			color2 = { 255 255 255 }
-
-			capital = c_carmila
-
-			c_carmila = {
-				color = { 191 225 73 }
-				color2 = { 255 255 255 }
-
-				b_carmila = {
-					province = 1357
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_carmila_1 = {
-					province = 1358
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_carmila_2 = {
-					province = 1359
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-
-			}
-			c_dysart = {
-				color = { 191 223 73 }
-				color2 = { 255 255 255 }
-
-				b_dysart = {
-					province = 1360
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_dysart_1 = {
-					province = 1361
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_dysart_2 = {
-					province = 1362
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-
-			}
-			c_moranbah = {
-				color = { 191 221 73 }
-				color2 = { 255 255 255 }
-
-				b_moranbah = {
-					province = 1445
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_moranbah_1 = {
-					province = 1446
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-
-			}
-			c_mackay = {
-				color = { 191 219 73 }
-				color2 = { 255 255 255 }
-
-				b_mackay = {
-					province = 1449
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_mackay_1 = {
-					province = 1450
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_mackay_2 = {
-					province = 1451
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_mackay_3 = {
-					province = 1452
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_mackay_4 = {
-					province = 1453
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-
-			}
-			c_glenden = {
-				color = { 191 217 73 }
-				color2 = { 255 255 255 }
-
-				b_glenden = {
-					province = 1454
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_glenden_1 = {
-					province = 1455
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_glenden_2 = {
-					province = 1456
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-
-			}
-
-		}
-		d_belyando = {
-			color = { 191 215 73 }
-			color2 = { 255 255 255 }
-
-			capital = c_mount_coolon
-
-			c_mount_coolon = {
-				color = { 191 215 73 }
-				color2 = { 255 255 255 }
-
-				b_mount_coolon = {
-					province = 1366
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_mount_coolon_1 = {
-					province = 1367
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_mount_coolon_2 = {
-					province = 1368
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-
-			}
-			c_willandspey = {
-				color = { 191 213 73 }
-				color2 = { 255 255 255 }
-
-				b_willandspey = {
-					province = 1437
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_willandspey_1 = {
-					province = 1438
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-
-			}
-			c_natal_downs = {
-				color = { 191 211 73 }
-				color2 = { 255 255 255 }
-
-				b_natal_downs = {
-					province = 1439
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_natal_downs_1 = {
-					province = 1440
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-
-			}
-
-		}
-		d_galilee = {
-			color = { 191 209 73 }
-			color2 = { 255 255 255 }
-
-			capital = c_laglan
-
-			c_laglan = {
-				color = { 191 209 73 }
-				color2 = { 255 255 255 }
-
-				b_laglan = {
-					province = 1369
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_laglan_1 = {
-					province = 1370
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_laglan_2 = {
-					province = 1371
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-
-			}
-			c_galilee = {
-				color = { 191 207 73 }
-				color2 = { 255 255 255 }
-
-				b_galilee = {
-					province = 1372
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_galilee_1 = {
-					province = 1373
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_galilee_2 = {
-					province = 1374
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-
-			}
-			c_buchanan = {
-				color = { 191 205 73 }
-				color2 = { 255 255 255 }
-
-				b_buchanan = {
-					province = 1432
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_buchanan_1 = {
-					province = 1433
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_buchanan_2 = {
-					province = 1434
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-
-			}
-			c_doongmabulla = {
-				color = { 191 203 73 }
-				color2 = { 255 255 255 }
-
-				b_doongmabulla = {
-					province = 1435
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_doongmabulla_1 = {
-					province = 1436
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-
-			}
-
-		}
-		d_brigalow = {
-			color = { 191 201 73 }
-			color2 = { 255 255 255 }
-
-			capital = c_dalrymple
-
-			c_dalrymple = {
-				color = { 191 201 73 }
-				color2 = { 255 255 255 }
-
-				b_dalrymple = {
-					province = 1443
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_dalrymple_1 = {
-					province = 1444
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-
-			}
-			c_newlands = {
-				color = { 191 199 73 }
-				color2 = { 255 255 255 }
-
-				b_newlands = {
-					province = 1447
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_newlands_1 = {
-					province = 1448
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-
-			}
-			c_bowen = {
-				color = { 191 197 73 }
-				color2 = { 255 255 255 }
-
-				b_bowen = {
-					province = 1457
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_bowen_1 = {
-					province = 1458
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_bowen_2 = {
-					province = 1459
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-
-			}
-			c_collinsville = {
-				color = { 191 195 73 }
-				color2 = { 255 255 255 }
-
-				b_collinsville = {
-					province = 1460
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_collinsville_1 = {
-					province = 1461
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_collinsville_2 = {
-					province = 1462
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_collinsville_3 = {
-					province = 1463
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-
-			}
-			c_ayr = {
-				color = { 191 193 73 }
-				color2 = { 255 255 255 }
-
-				b_ayr = {
-					province = 1464
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_ayr_1 = {
-					province = 1465
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_ayr_2 = {
-					province = 1466
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_ayr_3 = {
-					province = 1467
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-
-			}
-
-		}
-
-	}
-	k_troppers = {
-		color = { 102 255 186 }
-		color2 = { 255 255 255 }
-
-		capital = c_corea_plains
-
-		d_charters = {
-			color = { 102 255 186 }
-			color2 = { 255 255 255 }
-
-			capital = c_corea_plains
-
-			c_corea_plains = {
-				color = { 102 255 186 }
-				color2 = { 255 255 255 }
-
-				b_corea_plains = {
-					province = 1441
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_corea_plains_1 = {
-					province = 1442
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-
-			}
-			c_charters_towers = {
-				color = { 102 253 186 }
-				color2 = { 255 255 255 }
-
-				b_charters_towers = {
-					province = 1473
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_charters_towers_1 = {
-					province = 1474
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_charters_towers_2 = {
-					province = 1475
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_charters_towers_3 = {
-					province = 1476
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-
-			}
-			c_pentland = {
-				color = { 102 251 186 }
-				color2 = { 255 255 255 }
-
-				b_pentland = {
-					province = 1477
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_pentland_1 = {
-					province = 1478
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-
-			}
-			c_basalt = {
-				color = { 102 249 186 }
-				color2 = { 255 255 255 }
-
-				b_basalt = {
-					province = 1547
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_basalt_1 = {
-					province = 1548
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-
-			}
-
-		}
-		d_paluma = {
-			color = { 102 247 186 }
-			color2 = { 255 255 255 }
-
-			capital = c_townsville
-
-			c_townsville = {
-				color = { 102 247 186 }
-				color2 = { 255 255 255 }
-
-				b_townsville = {
-					province = 1468
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_townsville_1 = {
-					province = 1469
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_townsville_2 = {
-					province = 1470
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_townsville_3 = {
-					province = 1471
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_townsville_4 = {
-					province = 1472
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-
-			}
-			c_greenvale = {
-				color = { 102 245 186 }
-				color2 = { 255 255 255 }
-
-				b_greenvale = {
-					province = 1549
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_greenvale_1 = {
-					province = 1550
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-
-			}
-			c_ingham = {
-				color = { 102 243 186 }
-				color2 = { 255 255 255 }
-
-				b_ingham = {
-					province = 1551
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_ingham_1 = {
-					province = 1552
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_ingham_2 = {
-					province = 1553
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_ingham_3 = {
-					province = 1554
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-
-			}
-			c_cardwell = {
-				color = { 102 241 186 }
-				color2 = { 255 255 255 }
-
-				b_cardwell = {
-					province = 1555
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_cardwell_1 = {
-					province = 1556
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_cardwell_2 = {
-					province = 1557
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_cardwell_3 = {
-					province = 1558
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-
-			}
-
-		}
-		d_blackbraes = {
-			color = { 102 239 186 }
-			color2 = { 255 255 255 }
-
-			capital = c_blackbraes
-
-			c_blackbraes = {
-				color = { 102 239 186 }
-				color2 = { 255 255 255 }
-
-				b_blackbraes = {
-					province = 1543
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_blackbraes_1 = {
-					province = 1544
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-
-			}
-			c_gregory_springs = {
-				color = { 102 237 186 }
-				color2 = { 255 255 255 }
-
-				b_gregory_springs = {
-					province = 1545
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_gregory_springs_1 = {
-					province = 1546
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-
-			}
-
-		}
-		d_einaslynd = {
-			color = { 102 235 186 }
-			color2 = { 255 255 255 }
-
-			capital = c_undara
-
-			c_undara = {
-				color = { 102 235 186 }
-				color2 = { 255 255 255 }
-
-				b_undara = {
-					province = 1559
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_undara_1 = {
-					province = 1560
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_undara_2 = {
-					province = 1561
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-
-			}
-			c_georgetown = {
-				color = { 102 233 186 }
-				color2 = { 255 255 255 }
-
-				b_georgetown = {
-					province = 1562
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_georgetown_1 = {
-					province = 1563
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_georgetown_2 = {
-					province = 1564
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-
-			}
-			c_bolwarra = {
-				color = { 102 231 186 }
-				color2 = { 255 255 255 }
-
-				b_bolwarra = {
-					province = 1578
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_bolwarra_1 = {
-					province = 1579
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-
-			}
-
-		}
-		d_cairnlands = {
-			color = { 102 229 186 }
-			color2 = { 255 255 255 }
-
-			capital = c_innisfail
-
-			c_innisfail = {
-				color = { 102 229 186 }
-				color2 = { 255 255 255 }
-
-				b_innisfail = {
-					province = 1565
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_innisfail_1 = {
-					province = 1566
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_innisfail_2 = {
-					province = 1567
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_innisfail_3 = {
-					province = 1568
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-
-			}
-			c_cairns = {
-				color = { 102 227 186 }
-				color2 = { 255 255 255 }
-
-				b_cairns = {
-					province = 1569
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_cairns_1 = {
-					province = 1570
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_cairns_2 = {
-					province = 1571
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_cairns_3 = {
-					province = 1572
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_cairns_4 = {
-					province = 1573
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-
-			}
-			c_atherton = {
-				color = { 102 225 186 }
-				color2 = { 255 255 255 }
-
-				b_atherton = {
-					province = 1574
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_atherton_1 = {
-					province = 1575
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_atherton_2 = {
-					province = 1576
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_atherton_3 = {
-					province = 1577
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-
-			}
-			c_mareeba = {
-				color = { 102 223 186 }
-				color2 = { 255 255 255 }
-
-				b_mareeba = {
-					province = 1591
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_mareeba_1 = {
-					province = 1592
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_mareeba_2 = {
-					province = 1593
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-
-			}
-
-		}
-		d_palmeronia = {
-			color = { 102 221 186 }
-			color2 = { 255 255 255 }
-
-			capital = c_hurricane
-
-			c_hurricane = {
-				color = { 102 221 186 }
-				color2 = { 255 255 255 }
-
-				b_hurricane = {
-					province = 1590
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-
-			}
-			c_port_douglas = {
-				color = { 102 219 186 }
-				color2 = { 255 255 255 }
-
-				b_port_douglas = {
-					province = 1594
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_port_douglas_1 = {
-					province = 1595
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_port_douglas_2 = {
-					province = 1596
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_port_douglas_3 = {
-					province = 1597
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-
-			}
-			c_palmer = {
-				color = { 102 217 186 }
-				color2 = { 255 255 255 }
-
-				b_palmer = {
-					province = 1598
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_palmer_1 = {
-					province = 1599
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_palmer_2 = {
-					province = 1600
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-
-			}
-			c_killarney = {
-				color = { 102 215 186 }
-				color2 = { 255 255 255 }
-
-				b_killarney = {
-					province = 1601
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_killarney_1 = {
-					province = 1602
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-
-			}
-
-		}
-
-	}
-	k_cape = {
-		color = { 178 200 253 }
-		color2 = { 255 255 255 }
-
-		capital = c_red_river
-
-		d_kunjen = {
-			color = { 178 200 253 }
-			color2 = { 255 255 255 }
-
-			capital = c_red_river
-
-			c_red_river = {
-				color = { 178 200 253 }
-				color2 = { 255 255 255 }
-
-				b_red_river = {
-					province = 1580
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_red_river_1 = {
-					province = 1581
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-
-			}
-			c_vanrook = {
-				color = { 178 200 251 }
-				color2 = { 255 255 255 }
-
-				b_vanrook = {
-					province = 1582
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_vanrook_1 = {
-					province = 1583
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-
-			}
-			c_dunbar = {
-				color = { 178 200 249 }
-				color2 = { 255 255 255 }
-
-				b_dunbar = {
-					province = 1586
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-
-			}
-			c_staaten_river = {
-				color = { 178 200 247 }
-				color2 = { 255 255 255 }
-
-				b_staaten_river = {
-					province = 1587
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-
-			}
-			c_blackdown = {
-				color = { 178 200 245 }
-				color2 = { 255 255 255 }
-
-				b_blackdown = {
-					province = 1588
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_blackdown_1 = {
-					province = 1589
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-
-			}
-
-		}
-		d_wik = {
-			color = { 178 200 243 }
-			color2 = { 255 255 255 }
-
-			capital = c_drumduff
-
-			c_drumduff = {
-				color = { 178 200 243 }
-				color2 = { 255 255 255 }
-
-				b_drumduff = {
-					province = 1603
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-
-			}
-			c_kowanyama = {
-				color = { 178 200 241 }
-				color2 = { 255 255 255 }
-
-				b_kowanyama = {
-					province = 1604
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_kowanyama_1 = {
-					province = 1605
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-
-			}
-			c_pormpuraaw = {
-				color = { 178 200 239 }
-				color2 = { 255 255 255 }
-
-				b_pormpuraaw = {
-					province = 1606
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_pormpuraaw_1 = {
-					province = 1607
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-
-			}
-
-		}
-		d_reeflands = {
-			color = { 178 200 237 }
-			color2 = { 255 255 255 }
-
-			capital = c_dixie
-
-			c_dixie = {
-				color = { 178 200 237 }
-				color2 = { 255 255 255 }
-
-				b_dixie = {
-					province = 1608
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_dixie_1 = {
-					province = 1609
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_dixie_2 = {
-					province = 1610
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-
-			}
-			c_lakefield = {
-				color = { 178 200 235 }
-				color2 = { 255 255 255 }
-
-				b_lakefield = {
-					province = 1611
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_lakefield_1 = {
-					province = 1612
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-
-			}
-			c_cape_melville = {
-				color = { 178 200 233 }
-				color2 = { 255 255 255 }
-
-				b_cape_melville = {
-					province = 1613
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_cape_melville_1 = {
-					province = 1614
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-
-			}
-			c_cooktown = {
-				color = { 178 200 231 }
-				color2 = { 255 255 255 }
-
-				b_cooktown = {
-					province = 1615
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_cooktown_1 = {
-					province = 1616
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_cooktown_2 = {
-					province = 1617
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-
-			}
-			c_coen = {
-				color = { 178 200 229 }
-				color2 = { 255 255 255 }
-
-				b_coen = {
-					province = 1618
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_coen_1 = {
-					province = 1619
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_coen_2 = {
-					province = 1620
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-
-			}
-
-		}
-		d_mungkan_kandju = {
-			color = { 178 200 227 }
-			color2 = { 255 255 255 }
-
-			capital = c_archer_river
-
-			c_archer_river = {
-				color = { 178 200 227 }
-				color2 = { 255 255 255 }
-
-				b_archer_river = {
-					province = 1621
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_archer_river_1 = {
-					province = 1622
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-
-			}
-			c_aurukun = {
-				color = { 178 200 225 }
-				color2 = { 255 255 255 }
-
-				b_mungkan_kandju = {
-					province = 1623
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_aurukun = {
-					province = 1624
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-
-			}
-			c_lockhart_river = {
-				color = { 178 200 223 }
-				color2 = { 255 255 255 }
-
-				b_lockhart_river = {
-					province = 1625
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_portland_roads = {
-					province = 1626
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_batavia_downs = {
-					province = 1627
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-
-			}
-			c_weipa = {
-				color = { 178 200 221 }
-				color2 = { 255 255 255 }
-
-				b_mornton = {
-					province = 1628
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_weipa = {
-					province = 1629
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_cornalco = {
-					province = 1630
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-
-			}
-
-		}
-		d_yorktip = {
-			color = { 178 200 219 }
-			color2 = { 255 255 255 }
-
-			capital = c_shelburne
-
-			c_shelburne = {
-				color = { 178 200 219 }
-				color2 = { 255 255 255 }
-
-				b_cape_grenville = {
-					province = 1631
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_shelburne = {
-					province = 1632
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_heathlands = {
-					province = 1633
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-
-			}
-			c_mapoon = {
-				color = { 178 200 217 }
-				color2 = { 255 255 255 }
-
-				b_mapoon = {
-					province = 1634
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_jardine_river = {
-					province = 1635
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-
-			}
-			c_torres_strait = {
-				color = { 178 200 215 }
-				color2 = { 255 255 255 }
-
-				b_bamaga = {
-					province = 1636
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_prince_of_wales = {
-					province = 1637
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_moa = {
-					province = 1638
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
 
@@ -23584,564 +24116,6 @@ e_nullarbor = {
 				}
 				b_nullarbor_cliffs_2 = {
 					province = 2906
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-
-			}
-
-		}
-
-	}
-
-}
-e_untouched = {
-	color = { 41 47 43 }
-	color2 = { 255 255 255 }
-
-	capital = c_buckleboo
-
-	k_untouched = {
-		color = { 41 47 43 }
-		color2 = { 255 255 255 }
-
-		capital = c_buckleboo
-
-		d_untouched = {
-			color = { 41 47 43 }
-			color2 = { 255 255 255 }
-
-			capital = c_buckleboo
-
-			c_buckleboo = {
-				color = { 41 47 43 }
-				color2 = { 255 255 255 }
-
-				b_buckleboo = {
-					province = 2908
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_buckleboo_1 = {
-					province = 2909
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_buckleboo_2 = {
-					province = 2910
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_buckleboo_3 = {
-					province = 2911
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-
-			}
-			c_gairdner = {
-				color = { 43 47 43 }
-				color2 = { 255 255 255 }
-
-				b_gairdner = {
-					province = 2912
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_gairdner_1 = {
-					province = 2913
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-
-			}
-			c_woomera = {
-				color = { 45 47 43 }
-				color2 = { 255 255 255 }
-
-				b_woomera = {
-					province = 2914
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_woomera_1 = {
-					province = 2915
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-
-			}
-			c_glendambo = {
-				color = { 47 47 43 }
-				color2 = { 255 255 255 }
-
-				b_glendambo = {
-					province = 2916
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_glendambo_1 = {
-					province = 2917
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-
-			}
-			c_tarcoola = {
-				color = { 49 47 43 }
-				color2 = { 255 255 255 }
-
-				b_tarcoola = {
-					province = 2918
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_tarcoola_1 = {
-					province = 2919
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_tarcoola_2 = {
-					province = 2920
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-
-			}
-			c_east_yellabinna = {
-				color = { 51 47 43 }
-				color2 = { 255 255 255 }
-
-				b_east_yellabinna = {
-					province = 2921
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_east_yellabinna_1 = {
-					province = 2922
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_east_yellabinna_2 = {
-					province = 2923
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-
-			}
-			c_gina = {
-				color = { 53 47 43 }
-				color2 = { 255 255 255 }
-
-				b_gina = {
-					province = 2924
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_gina_1 = {
-					province = 2925
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-
-			}
-			c_maralinga = {
-				color = { 55 47 43 }
-				color2 = { 255 255 255 }
-
-				b_maralinga = {
-					province = 2926
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_maralinga_1 = {
-					province = 2927
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-
-			}
-			c_maurice = {
-				color = { 57 47 43 }
-				color2 = { 255 255 255 }
-
-				b_maurice = {
-					province = 2928
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-
-			}
-			c_mamungari = {
-				color = { 59 47 43 }
-				color2 = { 255 255 255 }
-
-				b_mamungari = {
-					province = 2929
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-
-			}
-			c_emu_junction = {
-				color = { 61 47 43 }
-				color2 = { 255 255 255 }
-
-				b_emu_junction = {
-					province = 2930
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_emu_junction_1 = {
-					province = 2931
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-
-			}
-			c_tallaringa = {
-				color = { 63 47 43 }
-				color2 = { 255 255 255 }
-
-				b_tallaringa = {
-					province = 2932
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_tallaringa_1 = {
-					province = 2933
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-
-			}
-			c_cardney = {
-				color = { 65 47 43 }
-				color2 = { 255 255 255 }
-
-				b_cardney = {
-					province = 2934
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-
-			}
-			c_coober_pedy = {
-				color = { 67 47 43 }
-				color2 = { 255 255 255 }
-
-				b_coober_pedy = {
-					province = 2935
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_coober_pedy_1 = {
-					province = 2936
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_coober_pedy_2 = {
-					province = 2937
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-
-			}
-			c_mount_eba = {
-				color = { 69 47 43 }
-				color2 = { 255 255 255 }
-
-				b_mount_eba = {
-					province = 2938
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_mount_eba_1 = {
-					province = 2939
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-
-			}
-			c_old_peake = {
-				color = { 71 47 43 }
-				color2 = { 255 255 255 }
-
-				b_old_peake = {
-					province = 2940
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_old_peake_1 = {
-					province = 2941
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_old_peake_2 = {
-					province = 2942
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-
-			}
-			c_oodnadatta = {
-				color = { 73 47 43 }
-				color2 = { 255 255 255 }
-
-				b_oodnadatta = {
-					province = 2943
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-
-			}
-			c_pedirka = {
-				color = { 75 47 43 }
-				color2 = { 255 255 255 }
-
-				b_pedirka = {
-					province = 2944
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_pedirka_1 = {
-					province = 2945
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-
-			}
-			c_witjira = {
-				color = { 77 47 43 }
-				color2 = { 255 255 255 }
-
-				b_witjira = {
-					province = 2946
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_witjira_1 = {
-					province = 2947
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-
-			}
-			c_marree = {
-				color = { 79 47 43 }
-				color2 = { 255 255 255 }
-
-				b_marree = {
-					province = 2948
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_marree_1 = {
-					province = 2949
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_marree_2 = {
-					province = 2950
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-
-			}
-			c_vulkathunha = {
-				color = { 81 47 43 }
-				color2 = { 255 255 255 }
-
-				b_vulkathunha = {
-					province = 2951
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_vulkathunha_1 = {
-					province = 2952
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-
-			}
-			c_callabonna = {
-				color = { 83 47 43 }
-				color2 = { 255 255 255 }
-
-				b_callabonna = {
-					province = 2953
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_callabonna_1 = {
-					province = 2954
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-
-			}
-			c_bollards_lagoon = {
-				color = { 85 47 43 }
-				color2 = { 255 255 255 }
-
-				b_bollards_lagoon = {
-					province = 2955
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_bollards_lagoon_1 = {
-					province = 2956
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-
-			}
-			c_strzelecki = {
-				color = { 87 47 43 }
-				color2 = { 255 255 255 }
-
-				b_strzelecki = {
-					province = 2957
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-
-			}
-			c_tirari_desert = {
-				color = { 89 47 43 }
-				color2 = { 255 255 255 }
-
-				b_tirari_desert = {
-					province = 2958
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-
-			}
-			c_innamincka = {
-				color = { 91 47 43 }
-				color2 = { 255 255 255 }
-
-				b_innamincka = {
-					province = 2959
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_innamincka_1 = {
-					province = 2960
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_innamincka_2 = {
-					province = 2961
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-
-			}
-			c_sturt_stony_desert = {
-				color = { 93 47 43 }
-				color2 = { 255 255 255 }
-
-				b_sturt_stony_desert = {
-					province = 2962
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_sturt_stony_desert_1 = {
-					province = 2963
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_sturt_stony_desert_2 = {
-					province = 2964
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-
-			}
-			c_warburton_crossing = {
-				color = { 95 47 43 }
-				color2 = { 255 255 255 }
-
-				b_warburton_crossing = {
-					province = 2965
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-				b_warburton_crossing_1 = {
-					province = 2966
-					color = { 255 255 255 }
-					color2 = { 255 255 255 }
-
-				}
-
-			}
-			c_kalamurina = {
-				color = { 97 47 43 }
-				color2 = { 255 255 255 }
-
-				b_kalamurina = {
-					province = 2967
 					color = { 255 255 255 }
 					color2 = { 255 255 255 }
 

@@ -45,113 +45,113 @@
 43,126,129,149,Miena,Lagoons,Derwentia,Tasmania,Greater Tasmania,hills,tasmanian,tersian,auto,164,0,173
 44,168,132,22,Tarraleah,Lagoons,Derwentia,Tasmania,Greater Tasmania,hills,tasmanian,tersian,auto,165,0,173
 45,0,135,150,Ouse,Lagoons,Derwentia,Tasmania,Greater Tasmania,hills,tasmanian,tersian,auto,166,0,173
-46,42,138,23,Follett,Follett,Great Ocean,Melbournia,Greater Tasmania,plains,wimmeran,tersian,auto,255,153,0
-47,84,141,151,Follett,Follett,Great Ocean,Melbournia,Greater Tasmania,plains,wimmeran,tersian,auto,255,152,0
-48,126,144,24,Normanby,Normanby,Great Ocean,Melbournia,Greater Tasmania,plains,wimmeran,tersian,auto,255,151,0
-49,168,147,152,Normanby,Normanby,Great Ocean,Melbournia,Greater Tasmania,plains,wimmeran,tersian,auto,255,150,0
-50,0,150,25,Normanby,Normanby,Great Ocean,Melbournia,Greater Tasmania,plains,wimmeran,tersian,auto,255,149,0
-51,42,153,153,Villiers,Villiers,Great Ocean,Melbournia,Greater Tasmania,plains,phillipian,tersian,auto,255,148,0
-52,84,156,26,Villiers,Villiers,Great Ocean,Melbournia,Greater Tasmania,plains,phillipian,tersian,auto,255,147,0
-53,126,159,154,Villiers,Villiers,Great Ocean,Melbournia,Greater Tasmania,plains,phillipian,tersian,auto,255,146,0
-54,168,162,27,Heytesbury,Heytesbury,Great Ocean,Melbournia,Greater Tasmania,plains,phillipian,tersian,auto,255,145,0
-55,0,165,155,Heytesbury,Heytesbury,Great Ocean,Melbournia,Greater Tasmania,plains,phillipian,tersian,auto,255,144,0
-56,42,168,28,Polwarth,Polwarth,Apollo,Melbournia,Greater Tasmania,plains,phillipian,tersian,auto,255,143,0
-57,84,171,156,Polwarth,Polwarth,Apollo,Melbournia,Greater Tasmania,plains,phillipian,tersian,auto,255,142,0
-58,126,174,29,Polwarth,Polwarth,Apollo,Melbournia,Greater Tasmania,plains,phillipian,tersian,auto,255,141,0
-59,168,177,157,Grant,Grant,Melbourne,Melbournia,Greater Tasmania,plains,phillipian,tersian,auto,255,140,0
-60,0,180,30,Grant,Grant,Melbourne,Melbournia,Greater Tasmania,plains,phillipian,tersian,auto,255,139,0
-61,42,183,158,Grant,Grant,Melbourne,Melbournia,Greater Tasmania,plains,phillipian,tersian,auto,255,138,0
-62,84,186,31,Grant,Grant,Melbourne,Melbournia,Greater Tasmania,plains,phillipian,tersian,auto,255,137,0
-63,126,189,159,Grenville,Grenville,Apollo,Melbournia,Greater Tasmania,plains,phillipian,tersian,auto,255,136,0
-64,168,192,32,Grenville,Grenville,Apollo,Melbournia,Greater Tasmania,plains,phillipian,tersian,auto,255,135,0
-65,0,195,160,Grenville,Grenville,Apollo,Melbournia,Greater Tasmania,plains,phillipian,tersian,auto,255,134,0
-66,42,198,33,Hampden,Hampden,Apollo,Melbournia,Greater Tasmania,plains,phillipian,tersian,auto,255,133,0
-67,84,201,161,Hampden,Hampden,Apollo,Melbournia,Greater Tasmania,plains,phillipian,tersian,auto,255,132,0
-68,126,204,34,Ripon,Ripon,Grampians,Melbournia,Greater Tasmania,plains,wimmeran,tersian,auto,255,131,0
-69,168,207,162,Ripon,Ripon,Grampians,Melbournia,Greater Tasmania,plains,wimmeran,tersian,auto,255,130,0
-70,0,210,35,Ripon,Ripon,Grampians,Melbournia,Greater Tasmania,plains,wimmeran,tersian,auto,255,129,0
-71,42,0,163,Dundas,Dundas,Grampians,Melbournia,Greater Tasmania,plains,wimmeran,tersian,auto,255,128,0
-72,84,3,36,Dundas,Dundas,Grampians,Melbournia,Greater Tasmania,plains,wimmeran,tersian,auto,255,127,0
-73,126,6,164,Dundas,Dundas,Grampians,Melbournia,Greater Tasmania,plains,wimmeran,tersian,auto,255,126,0
-74,168,9,37,Lowan,Lowan,Grampians,Victoria,Greater Tasmania,plains,wimmeran,tersian,auto,204,51,0
-75,0,12,165,Lowan,Lowan,Grampians,Victoria,Greater Tasmania,plains,wimmeran,tersian,auto,204,51,1
-76,42,15,38,Lowan,Lowan,Grampians,Victoria,Greater Tasmania,plains,wimmeran,tersian,auto,204,51,2
-77,84,18,166,Weeah,Weeah,Mallee,Victoria,Greater Tasmania,plains,muruwari,tersian,auto,204,51,3
-78,126,21,39,Weeah,Weeah,Mallee,Victoria,Greater Tasmania,plains,muruwari,tersian,auto,204,51,4
-79,168,24,167,Millewa,Millewa,Mallee,Victoria,Greater Tasmania,plains,muruwari,tersian,auto,204,51,5
-80,0,27,40,Millewa,Millewa,Mallee,Victoria,Greater Tasmania,plains,muruwari,tersian,auto,204,51,6
-81,42,30,168,Karkarooc,Karkarooc,Mallee,Victoria,Greater Tasmania,plains,muruwari,tersian,auto,204,51,7
-82,84,33,41,Karkarooc,Karkarooc,Mallee,Victoria,Greater Tasmania,plains,muruwari,tersian,auto,204,51,8
-83,126,36,169,Karkarooc,Karkarooc,Mallee,Victoria,Greater Tasmania,plains,muruwari,tersian,auto,204,51,9
-84,168,39,42,Karkarooc,Karkarooc,Mallee,Victoria,Greater Tasmania,plains,muruwari,tersian,auto,204,51,10
-85,0,42,170,Borung,Borung,Grampians,Victoria,Greater Tasmania,plains,wimmeran,tersian,auto,204,51,11
-86,42,45,43,Borung,Borung,Grampians,Victoria,Greater Tasmania,plains,wimmeran,tersian,auto,204,51,12
-87,84,48,171,Borung,Borung,Grampians,Victoria,Greater Tasmania,plains,wimmeran,tersian,auto,204,51,13
-88,126,51,44,Kara Kara,Kara Kara,Goldplain,Victoria,Greater Tasmania,plains,wimmeran,tersian,auto,204,51,14
-89,168,54,172,Kara Kara,Kara Kara,Goldplain,Victoria,Greater Tasmania,plains,wimmeran,tersian,auto,204,51,15
-90,0,57,45,Tatchera,Tatchera,Loddon,Victoria,Greater Tasmania,plains,muruwari,tersian,auto,204,51,16
-91,42,60,173,Tatchera,Tatchera,Loddon,Victoria,Greater Tasmania,plains,muruwari,tersian,auto,204,51,17
-92,84,63,46,Wedderburn,Wedderburn,Goldplain,Victoria,Greater Tasmania,plains,wimmeran,tersian,auto,204,51,18
-93,126,66,174,Wedderburn,Wedderburn,Goldplain,Victoria,Greater Tasmania,plains,wimmeran,tersian,auto,204,51,19
-94,168,69,47,Talbot,Talbot,Goldplain,Victoria,Greater Tasmania,plains,wimmeran,tersian,auto,204,51,20
+46,42,138,23,Palpara,Follett,Great Ocean,Melbournia,Greater Tasmania,plains,wimmeran,tersian,auto,255,153,0
+47,84,141,151,Nangwarry,Follett,Great Ocean,Melbournia,Greater Tasmania,plains,wimmeran,tersian,auto,255,152,0
+48,126,144,24,Portland,Normanby,Great Ocean,Melbournia,Greater Tasmania,plains,wimmeran,tersian,auto,255,151,0
+49,168,147,152,Casterton,Normanby,Great Ocean,Melbournia,Greater Tasmania,plains,wimmeran,tersian,auto,255,150,0
+50,0,150,25,Hamilton,Normanby,Great Ocean,Melbournia,Greater Tasmania,plains,wimmeran,tersian,auto,255,149,0
+51,42,153,153,Port Fairy,Villiers,Great Ocean,Melbournia,Greater Tasmania,plains,phillipian,tersian,auto,255,148,0
+52,84,156,26,Penshurst,Villiers,Great Ocean,Melbournia,Greater Tasmania,plains,phillipian,tersian,auto,255,147,0
+53,126,159,154,Dunkeld,Villiers,Great Ocean,Melbournia,Greater Tasmania,plains,phillipian,tersian,auto,255,146,0
+54,168,162,27,Warrnambool,Heytesbury,Great Ocean,Melbournia,Greater Tasmania,plains,phillipian,tersian,auto,255,145,0
+55,0,165,155,Camperdown,Heytesbury,Great Ocean,Melbournia,Greater Tasmania,plains,phillipian,tersian,auto,255,144,0
+56,42,168,28,Apollo Bay,Polwarth,Apollo,Melbournia,Greater Tasmania,plains,phillipian,tersian,auto,255,143,0
+57,84,171,156,Colac,Polwarth,Apollo,Melbournia,Greater Tasmania,plains,phillipian,tersian,auto,255,142,0
+58,126,174,29,Lorne,Polwarth,Apollo,Melbournia,Greater Tasmania,plains,phillipian,tersian,auto,255,141,0
+59,168,177,157,Torquay,Grant,Melbourne,Melbournia,Greater Tasmania,plains,phillipian,tersian,auto,255,140,0
+60,0,180,30,Geelong,Grant,Melbourne,Melbournia,Greater Tasmania,plains,phillipian,tersian,auto,255,139,0
+61,42,183,158,Morrisons,Grant,Melbourne,Melbournia,Greater Tasmania,plains,phillipian,tersian,auto,255,138,0
+62,84,186,31,Bacchus Marsh,Grant,Melbourne,Melbournia,Greater Tasmania,plains,phillipian,tersian,auto,255,137,0
+63,126,189,159,Beeac,Grenville,Apollo,Melbournia,Greater Tasmania,plains,phillipian,tersian,auto,255,136,0
+64,168,192,32,Warrambine,Grenville,Apollo,Melbournia,Greater Tasmania,plains,phillipian,tersian,auto,255,135,0
+65,0,195,160,Ballarat,Grenville,Apollo,Melbournia,Greater Tasmania,plains,phillipian,tersian,auto,255,134,0
+66,42,198,33,Lake Bolac,Hampden,Apollo,Melbournia,Greater Tasmania,plains,phillipian,tersian,auto,255,133,0
+67,84,201,161,Skipton,Hampden,Apollo,Melbournia,Greater Tasmania,plains,phillipian,tersian,auto,255,132,0
+68,126,204,34,Gariwerd National Park,Ripon,Grampians,Melbournia,Greater Tasmania,plains,wimmeran,tersian,auto,255,131,0
+69,168,207,162,Ararat,Ripon,Grampians,Melbournia,Greater Tasmania,plains,wimmeran,tersian,auto,255,130,0
+70,0,210,35,Beaufort,Ripon,Grampians,Melbournia,Greater Tasmania,plains,wimmeran,tersian,auto,255,129,0
+71,42,0,163,Gatum,Dundas,Grampians,Melbournia,Greater Tasmania,plains,wimmeran,tersian,auto,255,128,0
+72,84,3,36,Coleraine,Dundas,Grampians,Melbournia,Greater Tasmania,plains,wimmeran,tersian,auto,255,127,0
+73,126,6,164,Edenhope,Dundas,Grampians,Melbournia,Greater Tasmania,plains,wimmeran,tersian,auto,255,126,0
+74,168,9,37,Bordertown,Lowan,Grampians,Victoria,Greater Tasmania,plains,wimmeran,tersian,auto,204,51,0
+75,0,12,165,Wilderness Park,Lowan,Grampians,Victoria,Greater Tasmania,plains,wimmeran,tersian,auto,204,51,1
+76,42,15,38,Nhill,Lowan,Grampians,Victoria,Greater Tasmania,plains,wimmeran,tersian,auto,204,51,2
+77,84,18,166,Pinnaroo,Weeah,Mallee,Victoria,Greater Tasmania,plains,muruwari,tersian,auto,204,51,3
+78,126,21,39,Murray Sunset,Weeah,Mallee,Victoria,Greater Tasmania,plains,muruwari,tersian,auto,204,51,4
+79,168,24,167,Rufus River,Millewa,Mallee,Victoria,Greater Tasmania,plains,muruwari,tersian,auto,204,51,5
+80,0,27,40,Mildura,Millewa,Mallee,Victoria,Greater Tasmania,plains,muruwari,tersian,auto,204,51,6
+81,42,30,168,Robinvale,Karkarooc,Mallee,Victoria,Greater Tasmania,plains,muruwari,tersian,auto,204,51,7
+82,84,33,41,Ouyen,Karkarooc,Mallee,Victoria,Greater Tasmania,plains,muruwari,tersian,auto,204,51,8
+83,126,36,169,Annuello,Karkarooc,Mallee,Victoria,Greater Tasmania,plains,muruwari,tersian,auto,204,51,9
+84,168,39,42,Woomelang,Karkarooc,Mallee,Victoria,Greater Tasmania,plains,muruwari,tersian,auto,204,51,10
+85,0,42,170,Rainbow,Borung,Grampians,Victoria,Greater Tasmania,plains,wimmeran,tersian,auto,204,51,11
+86,42,45,43,Horsham,Borung,Grampians,Victoria,Greater Tasmania,plains,wimmeran,tersian,auto,204,51,12
+87,84,48,171,Stawell,Borung,Grampians,Victoria,Greater Tasmania,plains,wimmeran,tersian,auto,204,51,13
+88,126,51,44,Donald,Kara Kara,Goldplain,Victoria,Greater Tasmania,plains,wimmeran,tersian,auto,204,51,14
+89,168,54,172,St Arnaud,Kara Kara,Goldplain,Victoria,Greater Tasmania,plains,wimmeran,tersian,auto,204,51,15
+90,0,57,45,Swan Hill,Tatchera,Loddon,Victoria,Greater Tasmania,plains,muruwari,tersian,auto,204,51,16
+91,42,60,173,Kerang,Tatchera,Loddon,Victoria,Greater Tasmania,plains,muruwari,tersian,auto,204,51,17
+92,84,63,46,Charlton,Wedderburn,Goldplain,Victoria,Greater Tasmania,plains,wimmeran,tersian,auto,204,51,18
+93,126,66,174,Inglewood,Wedderburn,Goldplain,Victoria,Greater Tasmania,plains,wimmeran,tersian,auto,204,51,19
+94,168,69,47,Maryborough,Talbot,Goldplain,Victoria,Greater Tasmania,plains,wimmeran,tersian,auto,204,51,20
 95,0,72,175,Talbot,Talbot,Goldplain,Victoria,Greater Tasmania,plains,wimmeran,tersian,auto,204,51,21
-96,42,75,48,Talbot,Talbot,Goldplain,Victoria,Greater Tasmania,plains,wimmeran,tersian,auto,204,51,22
-97,84,78,176,Bendigo,Bendigo,Goldplain,Victoria,Greater Tasmania,plains,wimmeran,tersian,auto,204,51,23
-98,126,81,49,Bendigo,Bendigo,Goldplain,Victoria,Greater Tasmania,plains,wimmeran,tersian,auto,204,51,24
-99,168,84,177,Bendigo,Bendigo,Goldplain,Victoria,Greater Tasmania,plains,wimmeran,tersian,auto,204,51,25
-100,0,87,50,Gunbower,Gunbower,Loddon,Victoria,Greater Tasmania,plains,muruwari,tersian,auto,204,51,26
+96,42,75,48,Castlemaine,Talbot,Goldplain,Victoria,Greater Tasmania,plains,wimmeran,tersian,auto,204,51,22
+97,84,78,176,Dingee,Bendigo,Goldplain,Victoria,Greater Tasmania,plains,wimmeran,tersian,auto,204,51,23
+98,126,81,49,Rochester,Bendigo,Goldplain,Victoria,Greater Tasmania,plains,wimmeran,tersian,auto,204,51,24
+99,168,84,177,Barham,Bendigo,Goldplain,Victoria,Greater Tasmania,plains,wimmeran,tersian,auto,204,51,25
+100,0,87,50,Echuca,Gunbower,Loddon,Victoria,Greater Tasmania,plains,muruwari,tersian,auto,204,51,26
 101,42,90,178,Gunbower,Gunbower,Loddon,Victoria,Greater Tasmania,plains,muruwari,tersian,auto,204,51,27
-102,84,93,51,Rodney,Rodney,Goulburn,Victoria,Greater Tasmania,plains,phillipian,tersian,auto,204,51,28
-103,126,96,179,Rodney,Rodney,Goulburn,Victoria,Greater Tasmania,plains,phillipian,tersian,auto,204,51,29
-104,168,99,52,Rodney,Rodney,Goulburn,Victoria,Greater Tasmania,plains,phillipian,tersian,auto,204,51,30
-105,0,102,180,Dalhousie,Dalhousie,Melbourne,Melbournia,Greater Tasmania,plains,phillipian,tersian,auto,204,51,31
-106,42,105,53,Dalhousie,Dalhousie,Melbourne,Melbournia,Greater Tasmania,plains,phillipian,tersian,auto,204,51,32
-107,84,108,181,Bourke,Bourke,Melbourne,Melbournia,Greater Tasmania,plains,phillipian,tersian,auto,255,50,0
-108,126,111,54,Bourke,Bourke,Melbourne,Melbournia,Greater Tasmania,plains,phillipian,tersian,auto,255,49,0
-109,168,114,182,Bourke,Bourke,Melbourne,Melbournia,Greater Tasmania,plains,phillipian,tersian,auto,255,48,0
-110,0,117,55,Bourke,Bourke,Melbourne,Melbournia,Greater Tasmania,plains,phillipian,tersian,auto,255,47,0
-111,42,120,183,Bourke,Bourke,Melbourne,Melbournia,Greater Tasmania,plains,phillipian,tersian,auto,255,46,0
-112,84,123,56,Mornington,Mornington,Yarra Valley,Melbournia,Greater Tasmania,plains,phillipian,tersian,auto,255,45,0
-113,126,126,184,Mornington,Mornington,Yarra Valley,Melbournia,Greater Tasmania,plains,phillipian,tersian,auto,255,44,0
-114,168,129,57,Mornington,Mornington,Yarra Valley,Melbournia,Greater Tasmania,plains,phillipian,tersian,auto,255,43,0
-115,0,132,185,Evelyn,Evelyn,Yarra Valley,Melbournia,Greater Tasmania,plains,phillipian,tersian,auto,255,42,0
-116,42,135,58,Evelyn,Evelyn,Yarra Valley,Melbournia,Greater Tasmania,plains,phillipian,tersian,auto,255,41,0
-117,84,138,186,Anglesey,Anglesey,High Country,Melbournia,Greater Tasmania,plains,phillipian,tersian,auto,255,40,0
-118,126,141,59,Anglesey,Anglesey,High Country,Melbournia,Greater Tasmania,plains,phillipian,tersian,auto,255,39,0
-119,168,144,187,Anglesey,Anglesey,High Country,Melbournia,Greater Tasmania,plains,phillipian,tersian,auto,255,38,0
-120,0,147,60,Delatite,Delatite,High Country,Victoria,Greater Tasmania,plains,phillipian,tersian,auto,204,51,1
-121,42,150,188,Delatite,Delatite,High Country,Victoria,Greater Tasmania,plains,phillipian,tersian,auto,204,51,2
-122,84,153,61,Delatite,Delatite,High Country,Victoria,Greater Tasmania,plains,phillipian,tersian,auto,204,51,3
-123,126,156,189,Delatite,Delatite,High Country,Victoria,Greater Tasmania,plains,phillipian,tersian,auto,204,51,4
-124,168,159,62,Moira,Moira,Goulburn,Victoria,Greater Tasmania,plains,muruwari,tersian,auto,204,51,5
-125,0,162,190,Moira,Moira,Goulburn,Victoria,Greater Tasmania,plains,muruwari,tersian,auto,204,51,6
-126,42,165,63,Moira,Moira,Goulburn,Victoria,Greater Tasmania,plains,muruwari,tersian,auto,204,51,7
-127,84,168,191,Moira,Moira,Goulburn,Victoria,Greater Tasmania,plains,muruwari,tersian,auto,204,51,8
-128,126,171,64,Bogong,Bogong,Alps,Victoria,Greater Tasmania,plains,muruwari,tersian,auto,204,51,9
-129,168,174,192,Bogong,Bogong,Alps,Victoria,Greater Tasmania,plains,muruwari,tersian,auto,204,51,10
-130,0,177,65,Bogong,Bogong,Alps,Victoria,Greater Tasmania,plains,muruwari,tersian,auto,204,51,11
-131,42,180,193,Benambra,Benambra,Alps,Victoria,Greater Tasmania,plains,muruwari,tersian,auto,204,51,12
-132,84,183,66,Benambra,Benambra,Alps,Victoria,Greater Tasmania,plains,muruwari,tersian,auto,204,51,13
-133,126,186,194,Benambra,Benambra,Alps,Victoria,Greater Tasmania,plains,muruwari,tersian,auto,204,51,14
-134,168,189,67,Lakes Entrance,Lakes Entrance,Gippsland,Melbournia,Greater Tasmania,plains,phillipian,tersian,auto,255,50,0
-135,0,192,195,Lakes Entrance,Lakes Entrance,Gippsland,Melbournia,Greater Tasmania,plains,phillipian,tersian,auto,255,49,0
+102,84,93,51,Shepparton,Rodney,Goulburn,Victoria,Greater Tasmania,plains,phillipian,tersian,auto,204,51,28
+103,126,96,179,Rushworth,Rodney,Goulburn,Victoria,Greater Tasmania,plains,phillipian,tersian,auto,204,51,29
+104,168,99,52,Nagambie,Rodney,Goulburn,Victoria,Greater Tasmania,plains,phillipian,tersian,auto,204,51,30
+105,0,102,180,Kyneton,Dalhousie,Melbourne,Melbournia,Greater Tasmania,plains,phillipian,tersian,auto,204,51,31
+106,42,105,53,Broadford,Dalhousie,Melbourne,Melbournia,Greater Tasmania,plains,phillipian,tersian,auto,204,51,32
+107,84,108,181,Melbourne,Bourke,Melbourne,Melbournia,Greater Tasmania,plains,phillipian,tersian,auto,255,50,0
+108,126,111,54,Whittlesea,Bourke,Melbourne,Melbournia,Greater Tasmania,plains,phillipian,tersian,auto,255,49,0
+109,168,114,182,Melton,Bourke,Melbourne,Melbournia,Greater Tasmania,plains,phillipian,tersian,auto,255,48,0
+110,0,117,55,Kilmore,Bourke,Melbourne,Melbournia,Greater Tasmania,plains,phillipian,tersian,auto,255,47,0
+111,42,120,183,Macedon,Bourke,Melbourne,Melbournia,Greater Tasmania,plains,phillipian,tersian,auto,255,46,0
+112,84,123,56,Cranbourne,Mornington,Yarra Valley,Melbournia,Greater Tasmania,plains,phillipian,tersian,auto,255,45,0
+113,126,126,184,Pakenham,Mornington,Yarra Valley,Melbournia,Greater Tasmania,plains,phillipian,tersian,auto,255,44,0
+114,168,129,57,French Island,Mornington,Yarra Valley,Melbournia,Greater Tasmania,plains,phillipian,tersian,auto,255,43,0
+115,0,132,185,Healesville,Evelyn,Yarra Valley,Melbournia,Greater Tasmania,plains,phillipian,tersian,auto,255,42,0
+116,42,135,58,Rawson,Evelyn,Yarra Valley,Melbournia,Greater Tasmania,plains,phillipian,tersian,auto,255,41,0
+117,84,138,186,Wandong,Anglesey,High Country,Melbournia,Greater Tasmania,plains,phillipian,tersian,auto,255,40,0
+118,126,141,59,Alexandra,Anglesey,High Country,Melbournia,Greater Tasmania,plains,phillipian,tersian,auto,255,39,0
+119,168,144,187,Marysville,Anglesey,High Country,Melbournia,Greater Tasmania,plains,phillipian,tersian,auto,255,38,0
+120,0,147,60,Strathbogie,Delatite,High Country,Victoria,Greater Tasmania,plains,phillipian,tersian,auto,204,51,1
+121,42,150,188,Mansfield,Delatite,High Country,Victoria,Greater Tasmania,plains,phillipian,tersian,auto,204,51,2
+122,84,153,61,Dinner Plane,Delatite,High Country,Victoria,Greater Tasmania,plains,phillipian,tersian,auto,204,51,3
+123,126,156,189,Moyhu,Delatite,High Country,Victoria,Greater Tasmania,plains,phillipian,tersian,auto,204,51,4
+124,168,159,62,Euroa,Moira,Goulburn,Victoria,Greater Tasmania,plains,muruwari,tersian,auto,204,51,5
+125,0,162,190,Numurkah,Moira,Goulburn,Victoria,Greater Tasmania,plains,muruwari,tersian,auto,204,51,6
+126,42,165,63,Yarrawonga,Moira,Goulburn,Victoria,Greater Tasmania,plains,muruwari,tersian,auto,204,51,7
+127,84,168,191,Wangaratta,Moira,Goulburn,Victoria,Greater Tasmania,plains,muruwari,tersian,auto,204,51,8
+128,126,171,64,Wodonga,Bogong,Alps,Victoria,Greater Tasmania,plains,muruwari,tersian,auto,204,51,9
+129,168,174,192,Mt Beauty,Bogong,Alps,Victoria,Greater Tasmania,plains,muruwari,tersian,auto,204,51,10
+130,0,177,65,Omeo,Bogong,Alps,Victoria,Greater Tasmania,plains,muruwari,tersian,auto,204,51,11
+131,42,180,193,Corryong,Benambra,Alps,Victoria,Greater Tasmania,plains,muruwari,tersian,auto,204,51,12
+132,84,183,66,Sassafrass Gap,Benambra,Alps,Victoria,Greater Tasmania,plains,muruwari,tersian,auto,204,51,13
+133,126,186,194,Alpine National Park,Benambra,Alps,Victoria,Greater Tasmania,plains,muruwari,tersian,auto,204,51,14
+134,168,189,67,Snowy River Park,Lakes Entrance,Gippsland,Melbournia,Greater Tasmania,plains,phillipian,tersian,auto,255,50,0
+135,0,192,195,Buchan Caves,Lakes Entrance,Gippsland,Melbournia,Greater Tasmania,plains,phillipian,tersian,auto,255,49,0
 136,42,195,68,Lakes Entrance,Lakes Entrance,Gippsland,Melbournia,Greater Tasmania,plains,phillipian,tersian,auto,255,48,0
-137,84,198,196,Croajingolong,Croajingolong,Gippsland,Melbournia,Greater Tasmania,plains,illawarran,tersian,auto,255,47,0
-138,126,201,69,Croajingolong,Croajingolong,Gippsland,Melbournia,Greater Tasmania,plains,illawarran,tersian,auto,255,46,0
-139,168,204,197,Croajingolong,Croajingolong,Gippsland,Melbournia,Greater Tasmania,plains,illawarran,tersian,auto,255,45,0
+137,84,198,196,Marlo,Croajingolong,Gippsland,Melbournia,Greater Tasmania,plains,illawarran,tersian,auto,255,47,0
+138,126,201,69,Errinundra,Croajingolong,Gippsland,Melbournia,Greater Tasmania,plains,illawarran,tersian,auto,255,46,0
+139,168,204,197,Chandlers Creek,Croajingolong,Gippsland,Melbournia,Greater Tasmania,plains,illawarran,tersian,auto,255,45,0
 140,0,207,70,Croajingolong,Croajingolong,Gippsland,Melbournia,Greater Tasmania,plains,illawarran,tersian,auto,255,44,0
 141,42,210,198,Dargo,Dargo,Monash,Melbournia,Greater Tasmania,plains,phillipian,tersian,auto,255,43,0
-142,84,0,71,Dargo,Dargo,Monash,Melbournia,Greater Tasmania,plains,phillipian,tersian,auto,255,42,0
-143,126,3,199,Wonnangatta,Wonnangatta,High Country,Melbournia,Greater Tasmania,plains,phillipian,tersian,auto,255,41,0
-144,168,6,72,Wonnangatta,Wonnangatta,High Country,Melbournia,Greater Tasmania,plains,phillipian,tersian,auto,255,40,0
-145,0,9,200,Tanjil,Tanjil,Monash,Melbournia,Greater Tasmania,plains,phillipian,tersian,auto,255,39,0
-146,42,12,73,Tanjil,Tanjil,Monash,Melbournia,Greater Tasmania,plains,phillipian,tersian,auto,255,38,0
-147,84,15,201,Tanjil,Tanjil,Monash,Melbournia,Greater Tasmania,plains,phillipian,tersian,auto,255,37,0
-148,126,18,74,Buln Buln,Buln Buln,Monash,Melbournia,Greater Tasmania,plains,phillipian,tersian,auto,255,36,0
-149,168,21,202,Buln Buln,Buln Buln,Monash,Melbournia,Greater Tasmania,plains,phillipian,tersian,auto,255,35,0
-150,0,24,75,Buln Buln,Buln Buln,Monash,Melbournia,Greater Tasmania,plains,phillipian,tersian,auto,255,34,0
-151,42,27,203,Buln Buln,Buln Buln,Monash,Melbournia,Greater Tasmania,plains,phillipian,tersian,auto,255,33,0
-152,84,30,76,Buln Buln,Buln Buln,Monash,Melbournia,Greater Tasmania,plains,phillipian,tersian,auto,255,32,0
+142,84,0,71,Bairnsdale,Dargo,Monash,Melbournia,Greater Tasmania,plains,phillipian,tersian,auto,255,42,0
+143,126,3,199,Knockwood,Wonnangatta,High Country,Melbournia,Greater Tasmania,plains,phillipian,tersian,auto,255,41,0
+144,168,6,72,Avon,Wonnangatta,High Country,Melbournia,Greater Tasmania,plains,phillipian,tersian,auto,255,40,0
+145,0,9,200,Heyfield,Tanjil,Monash,Melbournia,Greater Tasmania,plains,phillipian,tersian,auto,255,39,0
+146,42,12,73,Sale,Tanjil,Monash,Melbournia,Greater Tasmania,plains,phillipian,tersian,auto,255,38,0
+147,84,15,201,Loch Sport,Tanjil,Monash,Melbournia,Greater Tasmania,plains,phillipian,tersian,auto,255,37,0
+148,126,18,74,Warragul,Buln Buln,Monash,Melbournia,Greater Tasmania,plains,phillipian,tersian,auto,255,36,0
+149,168,21,202,Korumburra,Buln Buln,Monash,Melbournia,Greater Tasmania,plains,phillipian,tersian,auto,255,35,0
+150,0,24,75,Wilsons Promontory,Buln Buln,Monash,Melbournia,Greater Tasmania,plains,phillipian,tersian,auto,255,34,0
+151,42,27,203,Traralgon,Buln Buln,Monash,Melbournia,Greater Tasmania,plains,phillipian,tersian,auto,255,33,0
+152,84,30,76,Seaspray,Buln Buln,Monash,Melbournia,Greater Tasmania,plains,phillipian,tersian,auto,255,32,0
 153,126,33,204,Sea Melbourne,,,,,,,,,,,
 154,168,36,77,Sea Bass,,,,,,,,,,,
 155,0,39,205,Sea Furneaux,,,,,,,,,,,
@@ -440,122 +440,122 @@
 438,126,36,19,Sea impassable274,,,,,,,,,,,
 439,168,39,147,Sea impassable275,,,,,,,,,,,
 440,0,42,20,Sea impassable276,,,,,,,,,,,
-441,42,45,148,Auckland,Auckland,South Coast,Canberra,New South Wales,plains,illawarran,tersian,auto,8,97,0
-442,84,48,21,Auckland,Auckland,South Coast,Canberra,New South Wales,plains,illawarran,tersian,auto,8,98,0
-443,126,51,149,Auckland,Auckland,South Coast,Canberra,New South Wales,plains,illawarran,tersian,auto,8,99,0
-444,168,54,22,Wellesley,Wellesley,South Coast,Canberra,New South Wales,plains,illawarran,tersian,auto,8,100,0
-445,0,57,150,Wellesley,Wellesley,South Coast,Canberra,New South Wales,plains,illawarran,tersian,auto,8,101,0
-446,42,60,23,Wellesley,Wellesley,South Coast,Canberra,New South Wales,plains,illawarran,tersian,auto,8,102,0
-447,84,63,151,Wallace,Wallace,Snowy Mountains,Canberra,New South Wales,plains,alpine,tersian,auto,8,103,0
-448,126,66,24,Wallace,Wallace,Snowy Mountains,Canberra,New South Wales,plains,alpine,tersian,auto,8,104,0
-449,168,69,152,Wallace,Wallace,Snowy Mountains,Canberra,New South Wales,plains,alpine,tersian,auto,8,105,0
-450,0,72,25,Beresford,Beresford,South Coast,Canberra,New South Wales,plains,illawarran,tersian,auto,8,106,0
-451,42,75,153,Beresford,Beresford,South Coast,Canberra,New South Wales,plains,illawarran,tersian,auto,8,107,0
-452,84,78,26,Dampier,Dampier,South Coast,Canberra,New South Wales,plains,illawarran,tersian,auto,8,108,0
-453,126,81,154,Dampier,Dampier,South Coast,Canberra,New South Wales,plains,illawarran,tersian,auto,8,109,0
-454,168,84,27,Dampier,Dampier,South Coast,Canberra,New South Wales,plains,illawarran,tersian,auto,8,110,0
-455,0,87,155,Cowley,Cowley,Capital Territory,Canberra,New South Wales,plains,illawarran,tersian,auto,8,111,0
-456,42,90,28,Cowley,Cowley,Capital Territory,Canberra,New South Wales,plains,illawarran,tersian,auto,8,112,0
+441,42,45,148,Eden,Auckland,South Coast,Canberra,New South Wales,plains,illawarran,tersian,auto,8,97,0
+442,84,48,21,Merimbula,Auckland,South Coast,Canberra,New South Wales,plains,illawarran,tersian,auto,8,98,0
+443,126,51,149,Bega,Auckland,South Coast,Canberra,New South Wales,plains,illawarran,tersian,auto,8,99,0
+444,168,54,22,Byadbo,Wellesley,South Coast,Canberra,New South Wales,plains,illawarran,tersian,auto,8,100,0
+445,0,57,150,Bombala,Wellesley,South Coast,Canberra,New South Wales,plains,illawarran,tersian,auto,8,101,0
+446,42,60,23,Nimmitable,Wellesley,South Coast,Canberra,New South Wales,plains,illawarran,tersian,auto,8,102,0
+447,84,63,151,Crackenback,Wallace,Snowy Mountains,Canberra,New South Wales,plains,alpine,tersian,auto,8,103,0
+448,126,66,24,Jindabyne,Wallace,Snowy Mountains,Canberra,New South Wales,plains,alpine,tersian,auto,8,104,0
+449,168,69,152,Adaminaby,Wallace,Snowy Mountains,Canberra,New South Wales,plains,alpine,tersian,auto,8,105,0
+450,0,72,25,Bredbo,Beresford,South Coast,Canberra,New South Wales,plains,illawarran,tersian,auto,8,106,0
+451,42,75,153,Cooma,Beresford,South Coast,Canberra,New South Wales,plains,illawarran,tersian,auto,8,107,0
+452,84,78,26,Wadbilliga,Dampier,South Coast,Canberra,New South Wales,plains,illawarran,tersian,auto,8,108,0
+453,126,81,154,Narooma,Dampier,South Coast,Canberra,New South Wales,plains,illawarran,tersian,auto,8,109,0
+454,168,84,27,Moruya,Dampier,South Coast,Canberra,New South Wales,plains,illawarran,tersian,auto,8,110,0
+455,0,87,155,Namadgi,Cowley,Capital Territory,Canberra,New South Wales,plains,illawarran,tersian,auto,8,111,0
+456,42,90,28,Brindabella,Cowley,Capital Territory,Canberra,New South Wales,plains,illawarran,tersian,auto,8,112,0
 457,84,93,156,Murrumbateman,Murray,Tablelands,Nineteen Counties,New South Wales,plains,illawarran,tersian,auto,242,121,121
 458,126,96,29,Canberra,Canberra,Capital Territory,Canberra,New South Wales,plains,illawarran,tersian,auto,8,114,0
 459,168,99,157,Williamsdale,Canberra,Capital Territory,Canberra,New South Wales,plains,illawarran,tersian,auto,8,113,0
 460,0,102,30,Murray,Murray,Tablelands,Nineteen Counties,New South Wales,plains,illawarran,tersian,auto,242,120,121
-461,42,105,158,St Vincent,St Vincent,Sydney,Nineteen Counties,New South Wales,plains,illawarran,tersian,auto,242,119,121
-462,84,108,31,St Vincent,St Vincent,Sydney,Nineteen Counties,New South Wales,plains,illawarran,tersian,auto,242,118,121
-463,126,111,159,St Vincent,St Vincent,Sydney,Nineteen Counties,New South Wales,plains,illawarran,tersian,auto,242,117,121
-464,168,114,32,St Vincent,St Vincent,Sydney,Nineteen Counties,New South Wales,plains,illawarran,tersian,auto,242,116,121
-465,0,117,160,Argyle,Argyle,Tablelands,Nineteen Counties,New South Wales,plains,illawarran,tersian,auto,242,115,121
-466,42,120,33,Argyle,Argyle,Tablelands,Nineteen Counties,New South Wales,plains,illawarran,tersian,auto,242,114,121
-467,84,123,161,Argyle,Argyle,Tablelands,Nineteen Counties,New South Wales,plains,illawarran,tersian,auto,242,113,121
-468,126,126,34,Argyle,Argyle,Tablelands,Nineteen Counties,New South Wales,plains,illawarran,tersian,auto,242,112,121
-469,168,129,162,King,King,Tablelands,Nineteen Counties,New South Wales,plains,alpine,tersian,auto,242,111,121
-470,0,132,35,King,King,Tablelands,Nineteen Counties,New South Wales,plains,alpine,tersian,auto,242,110,121
-471,42,135,163,King,King,Tablelands,Nineteen Counties,New South Wales,plains,alpine,tersian,auto,242,109,121
-472,84,138,36,Camden,Camden,Sydney,Nineteen Counties,New South Wales,plains,illawarran,tersian,auto,242,108,121
+461,42,105,158,Sanctuary Point,St Vincent,Sydney,Nineteen Counties,New South Wales,plains,illawarran,tersian,auto,242,119,121
+462,84,108,31,Batemans Bay,St Vincent,Sydney,Nineteen Counties,New South Wales,plains,illawarran,tersian,auto,242,118,121
+463,126,111,159,Colymea,St Vincent,Sydney,Nineteen Counties,New South Wales,plains,illawarran,tersian,auto,242,117,121
+464,168,114,32,Braidwood,St Vincent,Sydney,Nineteen Counties,New South Wales,plains,illawarran,tersian,auto,242,116,121
+465,0,117,160,Goulburn,Argyle,Tablelands,Nineteen Counties,New South Wales,plains,illawarran,tersian,auto,242,115,121
+466,42,120,33,Taralga,Argyle,Tablelands,Nineteen Counties,New South Wales,plains,illawarran,tersian,auto,242,114,121
+467,84,123,161,Marulan,Argyle,Tablelands,Nineteen Counties,New South Wales,plains,illawarran,tersian,auto,242,113,121
+468,126,126,34,Tarago,Argyle,Tablelands,Nineteen Counties,New South Wales,plains,illawarran,tersian,auto,242,112,121
+469,168,129,162,Crookwell,King,Tablelands,Nineteen Counties,New South Wales,plains,alpine,tersian,auto,242,111,121
+470,0,132,35,Boorowa,King,Tablelands,Nineteen Counties,New South Wales,plains,alpine,tersian,auto,242,110,121
+471,42,135,163,Yass,King,Tablelands,Nineteen Counties,New South Wales,plains,alpine,tersian,auto,242,109,121
+472,84,138,36,Bowral,Camden,Sydney,Nineteen Counties,New South Wales,plains,illawarran,tersian,auto,242,108,121
 473,126,141,164,Camden,Camden,Sydney,Nineteen Counties,New South Wales,plains,illawarran,tersian,auto,242,107,121
-474,168,144,37,Camden,Camden,Sydney,Nineteen Counties,New South Wales,plains,illawarran,tersian,auto,242,106,121
-475,0,147,165,Camden,Camden,Sydney,Nineteen Counties,New South Wales,plains,illawarran,tersian,auto,242,105,121
-476,42,150,38,Oberon,Oberon,Blue Mountains,Nineteen Counties,New South Wales,plains,alpine,tersian,auto,242,104,121
-477,84,153,166,Oberon,Oberon,Blue Mountains,Nineteen Counties,New South Wales,plains,alpine,tersian,auto,242,103,121
+474,168,144,37,Bomaderry,Camden,Sydney,Nineteen Counties,New South Wales,plains,illawarran,tersian,auto,242,106,121
+475,0,147,165,Wollongong,Camden,Sydney,Nineteen Counties,New South Wales,plains,illawarran,tersian,auto,242,105,121
+476,42,150,38,Kanangra,Oberon,Blue Mountains,Nineteen Counties,New South Wales,plains,alpine,tersian,auto,242,104,121
+477,84,153,166,Tartarus,Oberon,Blue Mountains,Nineteen Counties,New South Wales,plains,alpine,tersian,auto,242,103,121
 478,126,156,39,Oberon,Oberon,Blue Mountains,Nineteen Counties,New South Wales,plains,alpine,tersian,auto,242,102,121
-479,168,159,167,Georgiana,Georgiana,Tablelands,Nineteen Counties,New South Wales,plains,alpine,tersian,auto,242,101,121
-480,0,162,40,Georgiana,Georgiana,Tablelands,Nineteen Counties,New South Wales,plains,alpine,tersian,auto,242,100,121
+479,168,159,167,Abercrombie River,Georgiana,Tablelands,Nineteen Counties,New South Wales,plains,alpine,tersian,auto,242,101,121
+480,0,162,40,Burraga,Georgiana,Tablelands,Nineteen Counties,New South Wales,plains,alpine,tersian,auto,242,100,121
 481,42,165,168,Bathurst,Bathurst,Tablelands,Nineteen Counties,New South Wales,plains,alpine,tersian,auto,242,99,121
-482,84,168,41,Bathurst,Bathurst,Tablelands,Nineteen Counties,New South Wales,plains,alpine,tersian,auto,242,98,121
-483,126,171,169,Bathurst,Bathurst,Tablelands,Nineteen Counties,New South Wales,plains,alpine,tersian,auto,242,97,121
-484,168,174,42,Wellington,Wellington,Mudgee,Nineteen Counties,New South Wales,plains,alpine,tersian,auto,242,96,121
-485,0,177,170,Wellington,Wellington,Mudgee,Nineteen Counties,New South Wales,plains,alpine,tersian,auto,242,95,121
-486,42,180,43,Wellington,Wellington,Mudgee,Nineteen Counties,New South Wales,plains,alpine,tersian,auto,242,94,121
-487,84,183,171,Roxburgh,Roxburgh,Mudgee,Nineteen Counties,New South Wales,plains,alpine,tersian,auto,242,93,121
-488,126,186,44,Roxburgh,Roxburgh,Mudgee,Nineteen Counties,New South Wales,plains,alpine,tersian,auto,242,92,121
-489,168,189,172,Cook,Cook,Blue Mountains,Nineteen Counties,New South Wales,plains,alpine,tersian,auto,242,91,121
-490,0,192,45,Cook,Cook,Blue Mountains,Nineteen Counties,New South Wales,plains,alpine,tersian,auto,242,90,121
-491,42,195,173,Cook,Cook,Blue Mountains,Nineteen Counties,New South Wales,plains,alpine,tersian,auto,242,89,121
+482,84,168,41,Orange,Bathurst,Tablelands,Nineteen Counties,New South Wales,plains,alpine,tersian,auto,242,98,121
+483,126,171,169,Woodstock,Bathurst,Tablelands,Nineteen Counties,New South Wales,plains,alpine,tersian,auto,242,97,121
+484,168,174,42,Kerrs Creek,Wellington,Mudgee,Nineteen Counties,New South Wales,plains,alpine,tersian,auto,242,96,121
+485,0,177,170,Mudgee,Wellington,Mudgee,Nineteen Counties,New South Wales,plains,alpine,tersian,auto,242,95,121
+486,42,180,43,Hill End,Wellington,Mudgee,Nineteen Counties,New South Wales,plains,alpine,tersian,auto,242,94,121
+487,84,183,171,Sunny Corner,Roxburgh,Mudgee,Nineteen Counties,New South Wales,plains,alpine,tersian,auto,242,93,121
+488,126,186,44,Kandos,Roxburgh,Mudgee,Nineteen Counties,New South Wales,plains,alpine,tersian,auto,242,92,121
+489,168,189,172,Lithgow,Cook,Blue Mountains,Nineteen Counties,New South Wales,plains,alpine,tersian,auto,242,91,121
+490,0,192,45,Gardens of Stone,Cook,Blue Mountains,Nineteen Counties,New South Wales,plains,alpine,tersian,auto,242,90,121
+491,42,195,173,Katoomba,Cook,Blue Mountains,Nineteen Counties,New South Wales,plains,alpine,tersian,auto,242,89,121
 492,84,198,46,Botany,Cumberland,Sydney,Nineteen Counties,New South Wales,plains,illawarran,tersian,auto,242,88,121
 493,126,201,174,Sydney,Cumberland,Sydney,Nineteen Counties,New South Wales,plains,illawarran,tersian,auto,242,87,121
 494,168,204,47,Macarthur,Cumberland,Sydney,Nineteen Counties,New South Wales,plains,illawarran,tersian,auto,242,86,121
 495,0,207,175,Penrith,Cumberland,Sydney,Nineteen Counties,New South Wales,plains,illawarran,tersian,auto,242,85,121
-496,42,210,48,Northumberland,Northumberland,Sydney,Nineteen Counties,New South Wales,plains,new_english,tersian,auto,242,84,121
-497,84,0,176,Northumberland,Northumberland,Sydney,Nineteen Counties,New South Wales,plains,new_english,tersian,auto,242,83,121
-498,126,3,49,Northumberland,Northumberland,Sydney,Nineteen Counties,New South Wales,plains,new_english,tersian,auto,242,82,121
-499,168,6,177,Northumberland,Northumberland,Sydney,Nineteen Counties,New South Wales,plains,new_english,tersian,auto,242,81,121
-500,0,9,50,Hunter,Hunter,Blue Mountains,Nineteen Counties,New South Wales,plains,alpine,tersian,auto,242,80,121
-501,42,12,178,Hunter,Hunter,Blue Mountains,Nineteen Counties,New South Wales,plains,alpine,tersian,auto,242,79,121
-502,84,15,51,Phillip,Phillip,Mudgee,Nineteen Counties,New South Wales,plains,alpine,tersian,auto,242,78,121
-503,126,18,179,Phillip,Phillip,Mudgee,Nineteen Counties,New South Wales,plains,alpine,tersian,auto,242,77,121
-504,168,21,52,Phillip,Phillip,Mudgee,Nineteen Counties,New South Wales,plains,alpine,tersian,auto,242,76,121
-505,0,24,180,Bligh,Bligh,Mudgee,Nineteen Counties,New South Wales,plains,alpine,tersian,auto,242,75,121
-506,42,27,53,Bligh,Bligh,Mudgee,Nineteen Counties,New South Wales,plains,alpine,tersian,auto,242,74,121
+496,42,210,48,Singleton,Northumberland,Sydney,Nineteen Counties,New South Wales,plains,new_english,tersian,auto,242,84,121
+497,84,0,176,Cessnock,Northumberland,Sydney,Nineteen Counties,New South Wales,plains,new_english,tersian,auto,242,83,121
+498,126,3,49,Gosford,Northumberland,Sydney,Nineteen Counties,New South Wales,plains,new_english,tersian,auto,242,82,121
+499,168,6,177,Newcastle,Northumberland,Sydney,Nineteen Counties,New South Wales,plains,new_english,tersian,auto,242,81,121
+500,0,9,50,Wisemans Ferry,Hunter,Blue Mountains,Nineteen Counties,New South Wales,plains,alpine,tersian,auto,242,80,121
+501,42,12,178,Putty,Hunter,Blue Mountains,Nineteen Counties,New South Wales,plains,alpine,tersian,auto,242,79,121
+502,84,15,51,Nullo Mountain,Phillip,Mudgee,Nineteen Counties,New South Wales,plains,alpine,tersian,auto,242,78,121
+503,126,18,179,Gulgong,Phillip,Mudgee,Nineteen Counties,New South Wales,plains,alpine,tersian,auto,242,77,121
+504,168,21,52,Wollar,Phillip,Mudgee,Nineteen Counties,New South Wales,plains,alpine,tersian,auto,242,76,121
+505,0,24,180,Goolma,Bligh,Mudgee,Nineteen Counties,New South Wales,plains,alpine,tersian,auto,242,75,121
+506,42,27,53,Cassilis,Bligh,Mudgee,Nineteen Counties,New South Wales,plains,alpine,tersian,auto,242,74,121
 507,84,30,181,Scone,Scone,Hunter,Nineteen Counties,New South Wales,plains,alpine,tersian,auto,242,73,121
-508,126,33,54,Scone,Scone,Hunter,Nineteen Counties,New South Wales,plains,alpine,tersian,auto,242,72,121
-509,168,36,182,Scone,Scone,Hunter,Nineteen Counties,New South Wales,plains,alpine,tersian,auto,242,71,121
+508,126,33,54,Merriwa,Scone,Hunter,Nineteen Counties,New South Wales,plains,alpine,tersian,auto,242,72,121
+509,168,36,182,Murrurundi,Scone,Hunter,Nineteen Counties,New South Wales,plains,alpine,tersian,auto,242,71,121
 510,0,39,55,Muswellbrook,Muswellbrook,Hunter,Nineteen Counties,New South Wales,plains,new_english,tersian,auto,242,70,121
-511,42,42,183,Muswellbrook,Muswellbrook,Hunter,Nineteen Counties,New South Wales,plains,new_english,tersian,auto,242,69,121
-512,84,45,56,Muswellbrook,Muswellbrook,Hunter,Nineteen Counties,New South Wales,plains,new_english,tersian,auto,242,68,121
-513,126,48,184,Gloucester,Gloucester,Hunter,Nineteen Counties,New South Wales,plains,new_english,tersian,auto,242,67,121
-514,168,51,57,Gloucester,Gloucester,Hunter,Nineteen Counties,New South Wales,plains,new_english,tersian,auto,242,66,121
-515,0,54,185,Gloucester,Gloucester,Hunter,Nineteen Counties,New South Wales,plains,new_english,tersian,auto,242,65,121
+511,42,42,183,Barrington Tops,Muswellbrook,Hunter,Nineteen Counties,New South Wales,plains,new_english,tersian,auto,242,69,121
+512,84,45,56,Paterson,Muswellbrook,Hunter,Nineteen Counties,New South Wales,plains,new_english,tersian,auto,242,68,121
+513,126,48,184,Raymond Terrace,Gloucester,Hunter,Nineteen Counties,New South Wales,plains,new_english,tersian,auto,242,67,121
+514,168,51,57,Bulahdelah,Gloucester,Hunter,Nineteen Counties,New South Wales,plains,new_english,tersian,auto,242,66,121
+515,0,54,185,Copeland Tops,Gloucester,Hunter,Nineteen Counties,New South Wales,plains,new_english,tersian,auto,242,65,121
 516,42,57,58,Gloucester,Gloucester,Hunter,Nineteen Counties,New South Wales,plains,new_english,tersian,auto,242,64,121
-517,84,60,186,Gloucester,Gloucester,Hunter,Nineteen Counties,New South Wales,plains,new_english,tersian,auto,242,63,121
-518,126,63,59,Macquarie,Macquarie,Portharbour,New England,New South Wales,plains,new_english,tersian,auto,103,170,224
-519,168,66,187,Macquarie,Macquarie,Portharbour,New England,New South Wales,plains,new_english,tersian,auto,102,170,224
-520,0,69,60,Macquarie,Macquarie,Portharbour,New England,New South Wales,plains,new_english,tersian,auto,101,170,224
-521,42,72,188,Macquarie,Macquarie,Portharbour,New England,New South Wales,plains,new_english,tersian,auto,100,170,224
-522,84,75,61,Hawes,Hawes,Binghi,New England,New South Wales,plains,new_english,tersian,auto,99,170,224
-523,126,78,189,Hawes,Hawes,Binghi,New England,New South Wales,plains,new_english,tersian,auto,98,170,224
-524,168,81,62,Hawes,Hawes,Binghi,New England,New South Wales,plains,new_english,tersian,auto,97,170,224
-525,0,84,190,Dudley,Dudley,Portharbour,New England,New South Wales,plains,new_english,tersian,auto,96,170,224
-526,126,21,144,Dudley,Dudley,Portharbour,New England,New South Wales,plains,new_english,tersian,auto,95,170,224
-527,84,90,191,Vernon,Vernon,Binghi,New England,New South Wales,plains,new_english,tersian,auto,94,170,224
-528,126,93,64,Vernon,Vernon,Binghi,New England,New South Wales,plains,new_english,tersian,auto,93,170,224
-529,168,96,192,Vernon,Vernon,Binghi,New England,New South Wales,plains,new_english,tersian,auto,92,170,224
-530,0,99,65,Sandon,Sandon,Binghi,New England,New South Wales,plains,new_english,tersian,auto,91,170,224
-531,42,102,193,Sandon,Sandon,Binghi,New England,New South Wales,plains,new_english,tersian,auto,90,170,224
-532,84,105,66,Clarke,Clarke,New England Tablelands,New England,New South Wales,plains,new_english,tersian,auto,89,170,224
-533,126,108,194,Clarke,Clarke,New England Tablelands,New England,New South Wales,plains,new_english,tersian,auto,88,170,224
-534,168,111,67,Clarke,Clarke,New England Tablelands,New England,New South Wales,plains,new_english,tersian,auto,87,170,224
-535,0,114,195,Raleigh,Raleigh,Portharbour,New England,New South Wales,plains,new_english,tersian,auto,86,170,224
-536,42,117,68,Raleigh,Raleigh,Portharbour,New England,New South Wales,plains,new_english,tersian,auto,85,170,224
-537,84,120,196,Fitzroy,Fitzroy,Portharbour,New England,New South Wales,plains,new_english,tersian,auto,84,170,224
-538,126,123,69,Fitzroy,Fitzroy,Portharbour,New England,New South Wales,plains,new_english,tersian,auto,83,170,224
-539,168,126,197,Fitzroy,Fitzroy,Portharbour,New England,New South Wales,plains,new_english,tersian,auto,82,170,224
-540,0,129,70,Fitzroy,Fitzroy,Portharbour,New England,New South Wales,plains,new_english,tersian,auto,81,170,224
-541,42,132,198,Gresham,Gresham,New England Tablelands,New England,New South Wales,plains,new_english,tersian,auto,80,170,224
-542,84,135,71,Gresham,Gresham,New England Tablelands,New England,New South Wales,plains,new_english,tersian,auto,79,170,224
-543,126,138,199,Drake,Drake,New Highlands,New England,New South Wales,plains,new_english,tersian,auto,78,170,224
-544,168,141,72,Drake,Drake,New Highlands,New England,New South Wales,plains,new_english,tersian,auto,77,170,224
-545,0,144,200,Drake,Drake,New Highlands,New England,New South Wales,plains,new_english,tersian,auto,76,170,224
-546,42,147,73,Clarence,Clarence,Lowlands,New England,New South Wales,plains,new_english,tersian,auto,75,170,224
-547,84,150,201,Clarence,Clarence,Lowlands,New England,New South Wales,plains,new_english,tersian,auto,74,170,224
-548,126,153,74,Clarence,Clarence,Lowlands,New England,New South Wales,plains,new_english,tersian,auto,73,170,224
-549,168,156,202,Richmond Valley,Richmond Valley,Lowlands,New England,New South Wales,plains,new_english,tersian,auto,72,170,224
-550,0,159,75,Richmond Valley,Richmond Valley,Lowlands,New England,New South Wales,plains,new_english,tersian,auto,71,170,224
-551,42,162,203,Rous,Rous,Lowlands,New England,New South Wales,plains,new_english,tersian,auto,70,170,224
-552,84,165,76,Rous,Rous,Lowlands,New England,New South Wales,plains,new_english,tersian,auto,69,170,224
-553,126,168,204,Rous,Rous,Lowlands,New England,New South Wales,plains,new_english,tersian,auto,68,170,224
-554,168,171,77,Rous,Rous,Lowlands,New England,New South Wales,plains,new_english,tersian,auto,67,170,224
-555,0,174,205,Buller,Buller,New Highlands,New England,New South Wales,plains,new_english,tersian,auto,66,170,224
-556,42,177,78,Buller,Buller,New Highlands,New England,New South Wales,plains,new_english,tersian,auto,65,170,224
+517,84,60,186,Forster,Gloucester,Hunter,Nineteen Counties,New South Wales,plains,new_english,tersian,auto,242,63,121
+518,126,63,59,bottom r,Macquarie,Portharbour,New England,New South Wales,plains,new_english,tersian,auto,103,170,224
+519,168,66,187,bottom l,Macquarie,Portharbour,New England,New South Wales,plains,new_english,tersian,auto,102,170,224
+520,0,69,60,top l,Macquarie,Portharbour,New England,New South Wales,plains,new_english,tersian,auto,101,170,224
+521,42,72,188,top r,Macquarie,Portharbour,New England,New South Wales,plains,new_english,tersian,auto,100,170,224
+522,84,75,61,right,Hawes,Binghi,New England,New South Wales,plains,new_english,tersian,auto,99,170,224
+523,126,78,189,top,Hawes,Binghi,New England,New South Wales,plains,new_english,tersian,auto,98,170,224
+524,168,81,62,left,Hawes,Binghi,New England,New South Wales,plains,new_english,tersian,auto,97,170,224
+525,0,84,190,left,Dudley,Portharbour,New England,New South Wales,plains,new_english,tersian,auto,96,170,224
+526,126,21,144,right,Dudley,Portharbour,New England,New South Wales,plains,new_english,tersian,auto,95,170,224
+527,84,90,191,right,Vernon,Binghi,New England,New South Wales,plains,new_english,tersian,auto,94,170,224
+528,126,93,64,middle,Vernon,Binghi,New England,New South Wales,plains,new_english,tersian,auto,93,170,224
+529,168,96,192,left,Vernon,Binghi,New England,New South Wales,plains,new_english,tersian,auto,92,170,224
+530,0,99,65,bottom,Sandon,Binghi,New England,New South Wales,plains,new_english,tersian,auto,91,170,224
+531,42,102,193,top,Sandon,Binghi,New England,New South Wales,plains,new_english,tersian,auto,90,170,224
+532,84,105,66,right,Clarke,New England Tablelands,New England,New South Wales,plains,new_english,tersian,auto,89,170,224
+533,126,108,194,left,Clarke,New England Tablelands,New England,New South Wales,plains,new_english,tersian,auto,88,170,224
+534,168,111,67,top,Clarke,New England Tablelands,New England,New South Wales,plains,new_english,tersian,auto,87,170,224
+535,0,114,195,left,Raleigh,Portharbour,New England,New South Wales,plains,new_english,tersian,auto,86,170,224
+536,42,117,68,right,Raleigh,Portharbour,New England,New South Wales,plains,new_english,tersian,auto,85,170,224
+537,84,120,196,bottom l,Fitzroy,Portharbour,New England,New South Wales,plains,new_english,tersian,auto,84,170,224
+538,126,123,69,right,Fitzroy,Portharbour,New England,New South Wales,plains,new_english,tersian,auto,83,170,224
+539,168,126,197,middle,Fitzroy,Portharbour,New England,New South Wales,plains,new_english,tersian,auto,82,170,224
+540,0,129,70,top,Fitzroy,Portharbour,New England,New South Wales,plains,new_english,tersian,auto,81,170,224
+541,42,132,198,left,Gresham,New England Tablelands,New England,New South Wales,plains,new_english,tersian,auto,80,170,224
+542,84,135,71,right,Gresham,New England Tablelands,New England,New South Wales,plains,new_english,tersian,auto,79,170,224
+543,126,138,199,bottom,Drake,New Highlands,New England,New South Wales,plains,new_english,tersian,auto,78,170,224
+544,168,141,72,left,Drake,New Highlands,New England,New South Wales,plains,new_english,tersian,auto,77,170,224
+545,0,144,200,right,Drake,New Highlands,New England,New South Wales,plains,new_english,tersian,auto,76,170,224
+546,42,147,73,top r,Clarence,Lowlands,New England,New South Wales,plains,new_english,tersian,auto,75,170,224
+547,84,150,201,bottom r,Clarence,Lowlands,New England,New South Wales,plains,new_english,tersian,auto,74,170,224
+548,126,153,74,left,Clarence,Lowlands,New England,New South Wales,plains,new_english,tersian,auto,73,170,224
+549,168,156,202,left,Richmond Valley,Lowlands,New England,New South Wales,plains,new_english,tersian,auto,72,170,224
+550,0,159,75,right,Richmond Valley,Lowlands,New England,New South Wales,plains,new_english,tersian,auto,71,170,224
+551,42,162,203,Rous bottom r,Rous,Lowlands,New England,New South Wales,plains,new_english,tersian,auto,70,170,224
+552,84,165,76,rous middle r,Rous,Lowlands,New England,New South Wales,plains,new_english,tersian,auto,69,170,224
+553,126,168,204,rous top r,Rous,Lowlands,New England,New South Wales,plains,new_english,tersian,auto,68,170,224
+554,168,171,77,rous middle r,Rous,Lowlands,New England,New South Wales,plains,new_english,tersian,auto,67,170,224
+555,0,174,205,rous middle l,Buller,New Highlands,New England,New South Wales,plains,new_english,tersian,auto,66,170,224
+556,42,177,78,rous left,Buller,New Highlands,New England,New South Wales,plains,new_english,tersian,auto,65,170,224
 557,84,180,206,Clive,Clive,New England Tablelands,New England,New South Wales,plains,new_english,tersian,auto,64,170,224
 558,126,183,79,Clive,Clive,New England Tablelands,New England,New South Wales,plains,new_english,tersian,auto,63,170,224
 559,168,186,207,Clive,Clive,New England Tablelands,New England,New South Wales,plains,new_english,tersian,auto,62,170,224
@@ -843,155 +843,155 @@
 841,42,180,148,Wakool,Wakool,Wakool,Riverina,New South Wales,plains,muruwari,tersian,auto,49,27,188
 842,84,183,21,Wakool,Wakool,Wakool,Riverina,New South Wales,plains,muruwari,tersian,auto,49,26,188
 843,126,186,149,Wakool,Wakool,Wakool,Riverina,New South Wales,plains,muruwari,tersian,auto,49,25,188
-844,168,189,22,Grey,Grey,Limestone Coast,Outback,South Australia,plains,aussie,tersian,auto,191,8,8
-845,0,192,150,Grey,Grey,Limestone Coast,Outback,South Australia,plains,aussie,tersian,auto,191,9,8
-846,42,195,23,Robe,Robe,Limestone Coast,Outback,South Australia,plains,aussie,tersian,auto,191,10,8
-847,84,198,151,Robe,Robe,Limestone Coast,Outback,South Australia,plains,aussie,tersian,auto,191,11,8
-848,0,3,225,MacDonnell,MacDonnell,Limestone Coast,Outback,South Australia,plains,aussie,tersian,auto,191,12,8
-849,126,201,24,MacDonnell,MacDonnell,Limestone Coast,Outback,South Australia,plains,aussie,tersian,auto,191,13,8
-850,168,96,42,Coorong,Coorong,Limestone Coast,Outback,South Australia,plains,aussie,tersian,auto,191,14,8
-851,84,9,226,Coorong,Coorong,Limestone Coast,Outback,South Australia,plains,aussie,tersian,auto,191,15,8
-852,85,84,11,Ngarkat,Ngarkat,Murraylands,Outback,South Australia,plains,aussie,tersian,auto,191,16,8
-853,127,87,139,Ngarkat,Ngarkat,Murraylands,Outback,South Australia,plains,aussie,tersian,auto,191,17,8
-854,169,90,12,Ngarkat,Ngarkat,Murraylands,Outback,South Australia,plains,aussie,tersian,auto,191,18,8
-855,126,135,84,Chandos,Chandos,Murraylands,Outback,South Australia,plains,aussie,tersian,auto,191,19,8
-856,168,138,212,Chandos,Chandos,Murraylands,Outback,South Australia,plains,aussie,tersian,auto,191,20,8
-857,0,141,85,Chandos,Chandos,Murraylands,Outback,South Australia,plains,aussie,tersian,auto,191,21,8
-858,42,144,213,Coneybeer,Coneybeer,Murraylands,Outback,South Australia,plains,aussie,tersian,auto,191,22,8
-859,84,147,86,Coneybeer,Coneybeer,Murraylands,Outback,South Australia,plains,aussie,tersian,auto,191,23,8
-860,126,150,214,Coneybeer,Coneybeer,Murraylands,Outback,South Australia,plains,aussie,tersian,auto,191,24,8
-861,168,153,87,Coneybeer,Coneybeer,Murraylands,Outback,South Australia,plains,aussie,tersian,auto,191,25,8
-862,0,156,215,Alexandrina,Alexandrina,Adelaide,Gulfs,South Australia,plains,aussie,tersian,auto,0,212,134
-863,42,159,88,Alexandrina,Alexandrina,Adelaide,Gulfs,South Australia,plains,aussie,tersian,auto,1,212,134
-864,84,162,216,Alexandrina,Alexandrina,Adelaide,Gulfs,South Australia,plains,aussie,tersian,auto,2,212,134
-865,126,165,89,Murray Bridge,Murray Bridge,Adelaide,Gulfs,South Australia,plains,aussie,tersian,auto,3,212,134
-866,168,168,217,Murray Bridge,Murray Bridge,Adelaide,Gulfs,South Australia,plains,aussie,tersian,auto,4,212,134
-867,0,171,90,Murray Bridge,Murray Bridge,Adelaide,Gulfs,South Australia,plains,aussie,tersian,auto,5,212,134
-868,42,174,218,Hindmarsh,Hindmarsh,Adelaide,Gulfs,South Australia,plains,aussie,tersian,auto,6,212,134
-869,84,177,91,Hindmarsh,Hindmarsh,Adelaide,Gulfs,South Australia,plains,aussie,tersian,auto,7,212,134
-870,126,180,219,Hindmarsh,Hindmarsh,Adelaide,Gulfs,South Australia,plains,aussie,tersian,auto,8,212,134
-871,168,183,92,Kangaroo Island,Kangaroo Island,Adelaide,Gulfs,South Australia,plains,aussie,tersian,auto,9,212,134
-872,0,186,220,Kangaroo Island,Kangaroo Island,Adelaide,Gulfs,South Australia,plains,aussie,tersian,auto,10,212,134
-873,42,189,93,Kangaroo Island,Kangaroo Island,Adelaide,Gulfs,South Australia,plains,aussie,tersian,auto,11,212,134
-874,84,192,221,Kangaroo Island,Kangaroo Island,Adelaide,Gulfs,South Australia,plains,aussie,tersian,auto,12,212,134
-875,126,195,94,Kangaroo Island,Kangaroo Island,Adelaide,Gulfs,South Australia,plains,aussie,tersian,auto,13,212,134
-876,168,198,222,Adelaide,Adelaide,Adelaide,Gulfs,South Australia,plains,aussie,tersian,auto,14,212,134
-877,0,201,95,Adelaide,Adelaide,Adelaide,Gulfs,South Australia,plains,aussie,tersian,auto,15,212,134
-878,42,204,223,Adelaide,Adelaide,Adelaide,Gulfs,South Australia,plains,aussie,tersian,auto,16,212,134
-879,84,207,96,Adelaide,Adelaide,Adelaide,Gulfs,South Australia,plains,aussie,tersian,auto,17,212,134
-880,126,210,224,Ferguson,Ferguson,Yorke,Gulfs,South Australia,plains,aussie,tersian,auto,18,212,134
-881,168,0,97,Ferguson,Ferguson,Yorke,Gulfs,South Australia,plains,aussie,tersian,auto,19,212,134
-882,168,123,82,Ferguson,Ferguson,Yorke,Gulfs,South Australia,plains,aussie,tersian,auto,20,212,134
-883,126,120,209,Ferguson,Ferguson,Yorke,Gulfs,South Australia,plains,aussie,tersian,auto,21,212,134
-884,126,3,154,Ferguson,Ferguson,Yorke,Gulfs,South Australia,plains,aussie,tersian,auto,22,212,134
-885,84,117,81,Daly,Daly,Yorke,Gulfs,South Australia,plains,aussie,tersian,auto,23,212,134
-886,168,15,227,Daly,Daly,Yorke,Gulfs,South Australia,plains,aussie,tersian,auto,24,212,134
-887,1,18,0,Daly,Daly,Yorke,Gulfs,South Australia,plains,aussie,tersian,auto,25,212,134
-888,43,21,128,Gawler,Gawler,Clare Valley,Gulfs,South Australia,plains,aussie,tersian,auto,26,212,134
-889,85,24,1,Gawler,Gawler,Clare Valley,Gulfs,South Australia,plains,aussie,tersian,auto,27,212,134
-890,127,27,129,Light,Light,Clare Valley,Gulfs,South Australia,plains,aussie,tersian,auto,28,212,134
-891,169,30,2,Eyre,Eyre,Clare Valley,Gulfs,South Australia,plains,aussie,tersian,auto,29,212,134
-892,1,33,130,Eyre,Eyre,Clare Valley,Gulfs,South Australia,plains,aussie,tersian,auto,30,212,134
-893,43,36,3,Eyre,Eyre,Clare Valley,Gulfs,South Australia,plains,aussie,tersian,auto,31,212,134
-894,43,96,13,Albert,Albert,Riverlands,Outback,South Australia,plains,aussie,tersian,auto,191,213,8
-895,127,42,4,Albert,Albert,Riverlands,Outback,South Australia,plains,aussie,tersian,auto,191,214,8
-896,169,45,132,Albert,Albert,Riverlands,Outback,South Australia,plains,aussie,tersian,auto,191,215,8
-897,1,48,5,Alfred,Alfred,Riverlands,Outback,South Australia,plains,aussie,tersian,auto,191,216,8
-898,43,51,133,Alfred,Alfred,Riverlands,Outback,South Australia,plains,aussie,tersian,auto,191,217,8
-899,1,93,140,Alfred,Alfred,Riverlands,Outback,South Australia,plains,aussie,tersian,auto,191,218,8
-900,127,57,134,Hamley,Hamley,Riverlands,Outback,South Australia,plains,aussie,tersian,auto,191,219,8
-901,169,60,7,Hamley,Hamley,Riverlands,Outback,South Australia,plains,aussie,tersian,auto,191,220,8
-902,1,63,135,Hamley,Hamley,Riverlands,Outback,South Australia,plains,aussie,tersian,auto,191,221,8
-903,43,66,8,Yung,Yung,Riverlands,Outback,South Australia,plains,aussie,tersian,auto,191,222,8
-904,85,69,136,Yung,Yung,Riverlands,Outback,South Australia,plains,aussie,tersian,auto,191,223,8
-905,127,72,9,Burra,Burra,Clare Valley,Gulfs,South Australia,plains,aussie,tersian,auto,192,212,134
-906,169,75,137,Burra,Burra,Clare Valley,Gulfs,South Australia,plains,aussie,tersian,auto,193,212,134
-907,1,78,10,Burra,Burra,Clare Valley,Gulfs,South Australia,plains,aussie,tersian,auto,194,212,134
-908,84,132,211,Stanley,Stanley,Yorke,Gulfs,South Australia,plains,aussie,tersian,auto,195,212,134
-909,0,126,210,Stanley,Stanley,Yorke,Gulfs,South Australia,plains,aussie,tersian,auto,196,212,134
-910,42,129,83,Stanley,Stanley,Yorke,Gulfs,South Australia,plains,aussie,tersian,auto,197,212,134
-911,0,207,25,Victoria,Victoria,Yorke,Gulfs,South Australia,plains,aussie,tersian,auto,198,212,134
-912,84,0,26,Victoria,Victoria,Yorke,Gulfs,South Australia,plains,aussie,tersian,auto,199,212,134
-913,126,48,34,Kimberley,Kimberley,Barrier,Outback,South Australia,plains,aussie,tersian,auto,191,213,8
-914,84,45,161,Kimberley,Kimberley,Barrier,Outback,South Australia,plains,aussie,tersian,auto,191,214,8
-915,85,39,131,Herbert,Herbert,Barrier,Outback,South Australia,plains,aussie,tersian,auto,191,215,8
-916,126,105,79,Herbert,Herbert,Barrier,Outback,South Australia,plains,aussie,tersian,auto,191,216,8
-917,42,99,78,Yongala,Yongala,Remarkable,Gulfs,South Australia,plains,aussie,tersian,auto,192,212,134
-918,168,93,77,Yongala,Yongala,Remarkable,Gulfs,South Australia,plains,aussie,tersian,auto,193,212,134
-919,126,90,204,Frome,Frome,Remarkable,Gulfs,South Australia,plains,aussie,tersian,auto,194,212,134
-920,85,99,141,Frome,Frome,Remarkable,Gulfs,South Australia,plains,aussie,tersian,auto,195,212,134
-921,127,102,14,Frome,Frome,Remarkable,Gulfs,South Australia,plains,aussie,tersian,auto,196,212,134
-922,169,105,142,Newcastle,Newcastle,Remarkable,Gulfs,South Australia,plains,aussie,tersian,auto,197,212,134
-923,1,108,15,Newcastle,Newcastle,Remarkable,Gulfs,South Australia,plains,aussie,tersian,auto,198,212,134
-924,43,111,143,Newcastle,Newcastle,Remarkable,Gulfs,South Australia,plains,aussie,tersian,auto,199,212,134
-925,85,114,16,Granville,Granville,Remarkable,Gulfs,South Australia,plains,aussie,tersian,auto,200,212,134
-926,127,117,144,Granville,Granville,Remarkable,Gulfs,South Australia,plains,aussie,tersian,auto,201,212,134
-927,17,40,240,Lytton,Lytton,Barrier,Outback,South Australia,plains,aussie,tersian,auto,191,213,8
-928,169,120,17,Lytton,Lytton,Barrier,Outback,South Australia,plains,aussie,tersian,auto,191,214,8
-929,1,123,145,Derby,Derby,Flinders Ranges,Outback,South Australia,plains,aussie,tersian,auto,191,215,8
-930,43,126,18,Derby,Derby,Flinders Ranges,Outback,South Australia,plains,aussie,tersian,auto,191,216,8
-931,85,129,146,Derby,Derby,Flinders Ranges,Outback,South Australia,plains,aussie,tersian,auto,191,217,8
-932,127,132,19,Hanson,Hanson,Flinders Ranges,Outback,South Australia,plains,aussie,tersian,auto,191,218,8
-933,169,132,182,Hanson,Hanson,Flinders Ranges,Outback,South Australia,plains,aussie,tersian,auto,191,219,8
-934,1,135,55,Hanson,Hanson,Flinders Ranges,Outback,South Australia,plains,aussie,tersian,auto,191,220,8
-935,43,138,183,Blachford,Blachford,Flinders Ranges,Outback,South Australia,plains,aussie,tersian,auto,191,221,8
-936,42,39,68,Blachford,Blachford,Flinders Ranges,Outback,South Australia,plains,aussie,tersian,auto,191,222,8
-937,84,42,196,Blachford,Blachford,Flinders Ranges,Outback,South Australia,plains,aussie,tersian,auto,191,223,8
-938,126,45,69,Manchester,Manchester,West Spencer,Gulfs,South Australia,plains,aussie,tersian,auto,192,212,134
-939,168,48,197,Manchester,Manchester,West Spencer,Gulfs,South Australia,plains,aussie,tersian,auto,193,212,134
-940,0,51,70,Manchester,Manchester,West Spencer,Gulfs,South Australia,plains,aussie,tersian,auto,194,212,134
-941,42,54,198,York,York,West Spencer,Gulfs,South Australia,plains,aussie,tersian,auto,195,212,134
-942,0,54,35,York,York,West Spencer,Gulfs,South Australia,plains,aussie,tersian,auto,196,212,134
-943,42,18,3,York,York,West Spencer,Gulfs,South Australia,plains,aussie,tersian,auto,197,212,134
-944,168,63,72,Jervois,Jervois,West Spencer,Gulfs,South Australia,plains,aussie,tersian,auto,198,212,134
-945,0,66,200,Jervois,Jervois,West Spencer,Gulfs,South Australia,plains,aussie,tersian,auto,199,212,134
-946,42,69,73,Jervois,Jervois,West Spencer,Gulfs,South Australia,plains,aussie,tersian,auto,200,212,134
-947,84,72,201,Jervois,Jervois,West Spencer,Gulfs,South Australia,plains,aussie,tersian,auto,201,212,134
-948,126,75,74,Jervois,Jervois,West Spencer,Gulfs,South Australia,plains,aussie,tersian,auto,202,212,134
-949,168,78,202,Jussieu,Jussieu,Lower Eyre,Eyrelands,South Australia,plains,aussie,tersian,auto,150,3,87
-950,0,81,75,Jussieu,Jussieu,Lower Eyre,Eyrelands,South Australia,plains,aussie,tersian,auto,150,4,87
-951,42,84,203,Jussieu,Jussieu,Lower Eyre,Eyrelands,South Australia,plains,aussie,tersian,auto,150,5,87
-952,0,96,205,Jussieu,Jussieu,Lower Eyre,Eyrelands,South Australia,plains,aussie,tersian,auto,150,6,87
-953,84,180,56,Jussieu,Jussieu,Lower Eyre,Eyrelands,South Australia,plains,aussie,tersian,auto,150,7,87
-954,126,183,184,Musgrave,Musgrave,Lower Eyre,Eyrelands,South Australia,plains,aussie,tersian,auto,150,8,87
-955,126,33,159,Musgrave,Musgrave,Lower Eyre,Eyrelands,South Australia,plains,aussie,tersian,auto,150,9,87
-956,84,15,156,Musgrave,Musgrave,Lower Eyre,Eyrelands,South Australia,plains,aussie,tersian,auto,150,10,87
-957,168,204,152,Musgrave,Musgrave,Lower Eyre,Eyrelands,South Australia,plains,aussie,tersian,auto,150,11,87
-958,42,132,48,Calpatanna,Calpatanna,West Eyre,Eyrelands,South Australia,plains,aussie,tersian,auto,150,12,87
-959,84,135,176,Calpatanna,Calpatanna,West Eyre,Eyrelands,South Australia,plains,aussie,tersian,auto,150,13,87
-960,168,171,182,Calpatanna,Calpatanna,West Eyre,Eyrelands,South Australia,plains,aussie,tersian,auto,150,14,87
-961,168,141,177,Dufferin,Dufferin,West Eyre,Eyrelands,South Australia,plains,aussie,tersian,auto,150,15,87
-962,0,144,50,Dufferin,Dufferin,West Eyre,Eyrelands,South Australia,plains,aussie,tersian,auto,150,16,87
-963,42,147,178,Dufferin,Dufferin,West Eyre,Eyrelands,South Australia,plains,aussie,tersian,auto,150,17,87
-964,84,150,51,Dufferin,Dufferin,West Eyre,Eyrelands,South Australia,plains,aussie,tersian,auto,150,18,87
-965,126,153,179,Way,Way,West Eyre,Eyrelands,South Australia,plains,aussie,tersian,auto,150,19,87
-966,168,156,52,Way,Way,West Eyre,Eyrelands,South Australia,plains,aussie,tersian,auto,150,20,87
-967,0,159,180,Way,Way,West Eyre,Eyrelands,South Australia,plains,aussie,tersian,auto,150,21,87
-968,42,162,53,Kintore,Kintore,West Eyre,Eyrelands,South Australia,plains,aussie,tersian,auto,150,22,87
-969,84,87,76,Kintore,Kintore,West Eyre,Eyrelands,South Australia,plains,aussie,tersian,auto,150,23,87
-970,168,21,157,Hopetoun,Hopetoun,West Eyre,Eyrelands,South Australia,plains,aussie,tersian,auto,150,24,87
-971,126,90,149,Hopetoun,Hopetoun,West Eyre,Eyrelands,South Australia,plains,aussie,tersian,auto,150,25,87
-972,168,108,207,Hopetoun,Hopetoun,West Eyre,Eyrelands,South Australia,plains,aussie,tersian,auto,150,26,87
-973,126,78,39,Taunton,Taunton,Flinders Ranges,Outback,South Australia,plains,aussie,tersian,auto,191,27,8
-974,42,27,158,Taunton,Taunton,Flinders Ranges,Outback,South Australia,plains,aussie,tersian,auto,191,28,8
-975,126,168,54,Taunton,Taunton,Flinders Ranges,Outback,South Australia,plains,aussie,tersian,auto,191,29,8
-976,42,210,153,Ikara Flinders,Ikara,Route 32,Outback,South Australia,plains,aussie,tersian,auto,191,30,8
-977,168,36,32,Barndioota,Ikara,Route 32,Outback,South Australia,plains,aussie,tersian,auto,191,31,8
-978,0,39,160,Dead Range,Ikara,Route 32,Outback,South Australia,plains,aussie,tersian,auto,191,32,8
-979,0,111,80,Mulyungarie,Mulyungarie,Route 32,Outback,South Australia,plains,aussie,tersian,auto,191,33,8
-980,42,12,28,Kalkaroo,Mulyungarie,Route 32,Outback,South Australia,plains,aussie,tersian,auto,191,34,8
-981,0,9,155,Bimbowrie,Yunta,Route 32,Outback,South Australia,plains,aussie,tersian,auto,191,35,8
-982,168,51,162,Yunta,Yunta,Route 32,Outback,South Australia,plains,aussie,tersian,auto,191,36,8
-983,42,114,208,Oodla Wirra,Yunta,Route 32,Outback,South Australia,plains,aussie,tersian,auto,191,37,8
-984,42,57,163,Pualco Range,Yunta,Route 32,Outback,South Australia,plains,aussie,tersian,auto,191,38,8
-985,84,60,36,Cockburn,Cockburn,Route 32,Outback,South Australia,plains,aussie,tersian,auto,191,39,8
-986,126,63,164,Rocky Dam,Cockburn,Route 32,Outback,South Australia,plains,aussie,tersian,auto,191,40,8
-987,168,66,37,Parnaroo,Parnaroo,Route 32,Outback,South Australia,plains,aussie,tersian,auto,191,41,8
-988,0,69,165,Pine,Parnaroo,Route 32,Outback,South Australia,plains,aussie,tersian,auto,191,42,8
-989,42,72,38,Gluepot,Parnaroo,Route 32,Outback,South Australia,plains,aussie,tersian,auto,191,43,8
-990,84,75,166,Danggali,Danggali,Route 32,Outback,South Australia,plains,aussie,tersian,auto,191,44,8
-991,42,6,98,Calperum Station,Danggali,Route 32,Outback,South Australia,plains,aussie,tersian,auto,191,45,8
-992,168,81,167,Chowilla,Danggali,Route 32,Outback,South Australia,plains,aussie,tersian,auto,191,46,8
+844,168,189,22,Mount Gambier,Mount Gambier,Limestone Coast,Adelaide,South Australia,plains,aussie,tersian,auto,191,8,8
+845,0,192,150,Mount Gambier,Mount Gambier,Limestone Coast,Adelaide,South Australia,plains,aussie,tersian,auto,191,9,8
+846,42,195,23,Mount Gambier,Mount Gambier,Limestone Coast,Adelaide,South Australia,plains,aussie,tersian,auto,191,10,8
+847,84,198,151,Naracoorte,Naracoorte,Limestone Coast,Adelaide,South Australia,plains,aussie,tersian,auto,191,11,8
+848,0,3,225,Naracoorte,Naracoorte,Limestone Coast,Adelaide,South Australia,plains,aussie,tersian,auto,191,12,8
+849,126,201,24,Naracoorte,Naracoorte,Limestone Coast,Adelaide,South Australia,plains,aussie,tersian,auto,191,13,8
+850,168,96,42,Bordertown,Bordertown,Limestone Coast,Adelaide,South Australia,plains,aussie,tersian,auto,191,14,8
+851,84,9,226,Bordertown,Bordertown,Limestone Coast,Adelaide,South Australia,plains,aussie,tersian,auto,191,15,8
+852,85,84,11,Bordertown,Bordertown,Limestone Coast,Adelaide,South Australia,plains,aussie,tersian,auto,191,16,8
+853,127,87,139,Bordertown,Bordertown,Limestone Coast,Adelaide,South Australia,plains,aussie,tersian,auto,191,17,8
+854,169,90,12,Murray Bridge,Murray Bridge,Adelaide,Adelaide,South Australia,plains,aussie,tersian,auto,191,18,8
+855,126,135,84,Murray Bridge,Murray Bridge,Adelaide,Adelaide,South Australia,plains,aussie,tersian,auto,191,19,8
+856,168,138,212,Murray Bridge,Murray Bridge,Adelaide,Adelaide,South Australia,plains,aussie,tersian,auto,191,20,8
+857,0,141,85,Murray Bridge,Murray Bridge,Adelaide,Adelaide,South Australia,plains,aussie,tersian,auto,191,21,8
+858,42,144,213,Murray Bridge,Murray Bridge,Adelaide,Adelaide,South Australia,plains,aussie,tersian,auto,191,22,8
+859,84,147,86,Barmera,Barmera,Riverland,Adelaide,South Australia,plains,aussie,tersian,auto,191,23,8
+860,126,150,214,Barmera,Barmera,Riverland,Adelaide,South Australia,plains,aussie,tersian,auto,191,24,8
+861,168,153,87,Barmera,Barmera,Riverland,Adelaide,South Australia,plains,aussie,tersian,auto,191,25,8
+862,0,156,215,Barmera,Barmera,Riverland,Adelaide,South Australia,plains,aussie,tersian,auto,0,212,134
+863,42,159,88,Waikerie,Waikerie,Riverland,Adelaide,South Australia,plains,aussie,tersian,auto,1,212,134
+864,84,162,216,Waikerie,Waikerie,Riverland,Adelaide,South Australia,plains,aussie,tersian,auto,2,212,134
+865,126,165,89,Waikerie,Waikerie,Riverland,Adelaide,South Australia,plains,aussie,tersian,auto,3,212,134
+866,168,168,217,Waikerie,Waikerie,Riverland,Adelaide,South Australia,plains,aussie,tersian,auto,4,212,134
+867,0,171,90,Adelaide,Adelaide,Adelaide,Adelaide,South Australia,plains,aussie,tersian,auto,5,212,134
+868,42,174,218,Adelaide,Adelaide,Adelaide,Adelaide,South Australia,plains,aussie,tersian,auto,6,212,134
+869,84,177,91,Adelaide,Adelaide,Adelaide,Adelaide,South Australia,plains,aussie,tersian,auto,7,212,134
+870,126,180,219,Adelaide,Adelaide,Adelaide,Adelaide,South Australia,plains,aussie,tersian,auto,8,212,134
+871,168,183,92,Adelaide,Adelaide,Adelaide,Adelaide,South Australia,plains,aussie,tersian,auto,9,212,134
+872,0,186,220,Kingscote,Kingscote,Kangaroo Island,Adelaide,South Australia,plains,aussie,tersian,auto,10,212,134
+873,42,189,93,Kingscote,Kingscote,Kangaroo Island,Adelaide,South Australia,plains,aussie,tersian,auto,11,212,134
+874,84,192,221,Rocky,Rocky,Kangaroo Island,Adelaide,South Australia,plains,aussie,tersian,auto,12,212,134
+875,126,195,94,Adelaide Plains,Adelaide Plains,Adelaide,Adelaide,South Australia,plains,aussie,tersian,auto,13,212,134
+876,168,198,222,Adelaide Plains,Adelaide Plains,Adelaide,Adelaide,South Australia,plains,aussie,tersian,auto,14,212,134
+877,0,201,95,Adelaide Plains,Adelaide Plains,Adelaide,Adelaide,South Australia,plains,aussie,tersian,auto,15,212,134
+878,42,204,223,Adelaide Plains,Adelaide Plains,Adelaide,Adelaide,South Australia,plains,aussie,tersian,auto,16,212,134
+879,84,207,96,Adelaide Plains,Adelaide Plains,Adelaide,Adelaide,South Australia,plains,aussie,tersian,auto,17,212,134
+880,126,210,224,Ludunda,Ludunda,Adelaide,Adelaide,South Australia,plains,aussie,tersian,auto,18,212,134
+881,168,0,97,Ludunda,Ludunda,Adelaide,Adelaide,South Australia,plains,aussie,tersian,auto,19,212,134
+882,168,123,82,Ludunda,Ludunda,Adelaide,Adelaide,South Australia,plains,aussie,tersian,auto,20,212,134
+883,126,120,209,Ludunda,Ludunda,Adelaide,Adelaide,South Australia,plains,aussie,tersian,auto,21,212,134
+884,126,3,154,Port Pirie,Port Pirie,Spencer,Adelaide,South Australia,plains,aussie,tersian,auto,22,212,134
+885,84,117,81,Port Pirie,Port Pirie,Spencer,Adelaide,South Australia,plains,aussie,tersian,auto,23,212,134
+886,168,15,227,Port Pirie,Port Pirie,Spencer,Adelaide,South Australia,plains,aussie,tersian,auto,24,212,134
+887,1,18,0,Port Pirie,Port Pirie,Spencer,Adelaide,South Australia,plains,aussie,tersian,auto,25,212,134
+888,43,21,128,Moonta,Moonta,Spencer,Adelaide,South Australia,plains,aussie,tersian,auto,26,212,134
+889,85,24,1,Moonta,Moonta,Spencer,Adelaide,South Australia,plains,aussie,tersian,auto,27,212,134
+890,127,27,129,Moonta,Moonta,Spencer,Adelaide,South Australia,plains,aussie,tersian,auto,28,212,134
+891,169,30,2,Yorketown,Yorketown,Spencer,Adelaide,South Australia,plains,aussie,tersian,auto,29,212,134
+892,1,33,130,Yorketown,Yorketown,Spencer,Adelaide,South Australia,plains,aussie,tersian,auto,30,212,134
+893,43,36,3,Yorketown,Yorketown,Spencer,Adelaide,South Australia,plains,aussie,tersian,auto,31,212,134
+894,43,96,13,Jamestown,Jamestown,Filnders Ranges,Adelaide,South Australia,plains,aussie,tersian,auto,191,213,8
+895,127,42,4,Jamestown,Jamestown,Filnders Ranges,Adelaide,South Australia,plains,aussie,tersian,auto,191,214,8
+896,169,45,132,Jamestown,Jamestown,Filnders Ranges,Adelaide,South Australia,plains,aussie,tersian,auto,191,215,8
+897,1,48,5,Peterborough,Peterborough,Filnders Ranges,Adelaide,South Australia,plains,aussie,tersian,auto,191,216,8
+898,43,51,133,Peterborough,Peterborough,Filnders Ranges,Adelaide,South Australia,plains,aussie,tersian,auto,191,217,8
+899,1,93,140,Peterborough,Peterborough,Filnders Ranges,Adelaide,South Australia,plains,aussie,tersian,auto,191,218,8
+900,127,57,134,Boolero,Boolero,Filnders Ranges,Adelaide,South Australia,plains,aussie,tersian,auto,191,219,8
+901,169,60,7,Boolero,Boolero,Filnders Ranges,Adelaide,South Australia,plains,aussie,tersian,auto,191,220,8
+902,1,63,135,Boolero,Boolero,Filnders Ranges,Adelaide,South Australia,plains,aussie,tersian,auto,191,221,8
+903,43,66,8,Boolero,Boolero,Filnders Ranges,Adelaide,South Australia,plains,aussie,tersian,auto,191,222,8
+904,85,69,136,Boolero,Boolero,Filnders Ranges,Adelaide,South Australia,plains,aussie,tersian,auto,191,223,8
+905,127,72,9,Quorn,Quorn,Filnders Ranges,Adelaide,South Australia,plains,aussie,tersian,auto,192,212,134
+906,169,75,137,Quorn,Quorn,Filnders Ranges,Adelaide,South Australia,plains,aussie,tersian,auto,193,212,134
+907,1,78,10,Quorn,Quorn,Filnders Ranges,Adelaide,South Australia,plains,aussie,tersian,auto,194,212,134
+908,84,132,211,Quorn,Quorn,Filnders Ranges,Adelaide,South Australia,plains,aussie,tersian,auto,195,212,134
+909,0,126,210,Baratta,Baratta,Filnders Ranges,Adelaide,South Australia,plains,aussie,tersian,auto,196,212,134
+910,42,129,83,Baratta,Baratta,Filnders Ranges,Adelaide,South Australia,plains,aussie,tersian,auto,197,212,134
+911,0,207,25,Baratta,Baratta,Filnders Ranges,Adelaide,South Australia,plains,aussie,tersian,auto,198,212,134
+912,84,0,26,Leigh Creek,Leigh Creek,Torrens,Desertina,South Australia,plains,aussie,tersian,auto,199,212,134
+913,126,48,34,Leigh Creek,Leigh Creek,Torrens,Desertina,South Australia,plains,aussie,tersian,auto,191,213,8
+914,84,45,161,Leigh Creek,Leigh Creek,Torrens,Desertina,South Australia,plains,aussie,tersian,auto,191,214,8
+915,85,39,131,Leigh Creek,Leigh Creek,Torrens,Desertina,South Australia,plains,aussie,tersian,auto,191,215,8
+916,126,105,79,Port Augusta,Port Augusta,Flinders Ranges,Adelaide,South Australia,plains,aussie,tersian,auto,191,216,8
+917,42,99,78,Port Augusta,Port Augusta,Flinders Ranges,Adelaide,South Australia,plains,aussie,tersian,auto,192,212,134
+918,168,93,77,Port Augusta,Port Augusta,Flinders Ranges,Adelaide,South Australia,plains,aussie,tersian,auto,193,212,134
+919,126,90,204,Whyalla,Whyalla,Eyre Peninsula,Eyre,South Australia,plains,aussie,tersian,auto,194,212,134
+920,85,99,141,Whyalla,Whyalla,Eyre Peninsula,Eyre,South Australia,plains,aussie,tersian,auto,195,212,134
+921,127,102,14,Whyalla,Whyalla,Eyre Peninsula,Eyre,South Australia,plains,aussie,tersian,auto,196,212,134
+922,169,105,142,Cleve,Cleve,Eyre Peninsula,Eyre,South Australia,plains,aussie,tersian,auto,197,212,134
+923,1,108,15,Cleve,Cleve,Eyre Peninsula,Eyre,South Australia,plains,aussie,tersian,auto,198,212,134
+924,43,111,143,Cleve,Cleve,Eyre Peninsula,Eyre,South Australia,plains,aussie,tersian,auto,199,212,134
+925,85,114,16,Cleve,Cleve,Eyre Peninsula,Eyre,South Australia,plains,aussie,tersian,auto,200,212,134
+926,127,117,144,Tumby Bay,Tumby Bay,Eyre Peninsula,Eyre,South Australia,plains,aussie,tersian,auto,201,212,134
+927,17,40,240,Tumby Bay,Tumby Bay,Eyre Peninsula,Eyre,South Australia,plains,aussie,tersian,auto,191,213,8
+928,169,120,17,Tumby Bay,Tumby Bay,Eyre Peninsula,Eyre,South Australia,plains,aussie,tersian,auto,191,214,8
+929,1,123,145,Tumby Bay,Tumby Bay,Eyre Peninsula,Eyre,South Australia,plains,aussie,tersian,auto,191,215,8
+930,43,126,18,Tumby Bay,Tumby Bay,Eyre Peninsula,Eyre,South Australia,plains,aussie,tersian,auto,191,216,8
+931,85,129,146,Port Lincoln,Port Lincoln,Eyre Peninsula,Eyre,South Australia,plains,aussie,tersian,auto,191,217,8
+932,127,132,19,Port Lincoln,Port Lincoln,Eyre Peninsula,Eyre,South Australia,plains,aussie,tersian,auto,191,218,8
+933,169,132,182,Port Lincoln,Port Lincoln,Eyre Peninsula,Eyre,South Australia,plains,aussie,tersian,auto,191,219,8
+934,1,135,55,Elliston,Elliston,Gawler,Eyre,South Australia,plains,aussie,tersian,auto,191,220,8
+935,43,138,183,Elliston,Elliston,Gawler,Eyre,South Australia,plains,aussie,tersian,auto,191,221,8
+936,42,39,68,Elliston,Elliston,Gawler,Eyre,South Australia,plains,aussie,tersian,auto,191,222,8
+937,84,42,196,Elliston,Elliston,Gawler,Eyre,South Australia,plains,aussie,tersian,auto,191,223,8
+938,126,45,69,Streaky Bay,Streaky Bay,Gawler,Eyre,South Australia,plains,aussie,tersian,auto,192,212,134
+939,168,48,197,Streaky Bay,Streaky Bay,Gawler,Eyre,South Australia,plains,aussie,tersian,auto,193,212,134
+940,0,51,70,Streaky Bay,Streaky Bay,Gawler,Eyre,South Australia,plains,aussie,tersian,auto,194,212,134
+941,42,54,198,Streaky Bay,Streaky Bay,Gawler,Eyre,South Australia,plains,aussie,tersian,auto,195,212,134
+942,0,54,35,Wirrulla,Wirrulla,Gawler,Eyre,South Australia,plains,aussie,tersian,auto,196,212,134
+943,42,18,3,Wirrulla,Wirrulla,Gawler,Eyre,South Australia,plains,aussie,tersian,auto,197,212,134
+944,168,63,72,Wirrulla,Wirrulla,Gawler,Eyre,South Australia,plains,aussie,tersian,auto,198,212,134
+945,0,66,200,Wirrulla,Wirrulla,Gawler,Eyre,South Australia,plains,aussie,tersian,auto,199,212,134
+946,42,69,73,Ceduna,Ceduna,Ceduna,Eyre,South Australia,plains,aussie,tersian,auto,200,212,134
+947,84,72,201,Ceduna,Ceduna,Ceduna,Eyre,South Australia,plains,aussie,tersian,auto,201,212,134
+948,126,75,74,Ceduna,Ceduna,Ceduna,Eyre,South Australia,plains,aussie,tersian,auto,202,212,134
+949,168,78,202,Ceduna,Ceduna,Ceduna,Eyre,South Australia,plains,aussie,tersian,auto,150,3,87
+950,0,81,75,Port Le Hunt,Port Le Hunt,Ceduna,Eyre,South Australia,plains,aussie,tersian,auto,150,4,87
+951,42,84,203,Port Le Hunt,Port Le Hunt,Ceduna,Eyre,South Australia,plains,aussie,tersian,auto,150,5,87
+952,0,96,205,Port Le Hunt,Port Le Hunt,Ceduna,Eyre,South Australia,plains,aussie,tersian,auto,150,6,87
+953,84,180,56,Port Le Hunt,Port Le Hunt,Ceduna,Eyre,South Australia,plains,aussie,tersian,auto,150,7,87
+954,126,183,184,Fowlers Bay,Fowlers Bay,Ceduna,Eyre,South Australia,plains,aussie,tersian,auto,150,8,87
+955,126,33,159,Fowlers Bay,Fowlers Bay,Ceduna,Eyre,South Australia,plains,aussie,tersian,auto,150,9,87
+956,84,15,156,Fowlers Bay,Fowlers Bay,Ceduna,Eyre,South Australia,plains,aussie,tersian,auto,150,10,87
+957,168,204,152,Fowlers Bay,Fowlers Bay,Ceduna,Eyre,South Australia,plains,aussie,tersian,auto,150,11,87
+958,42,132,48,Fowlers Bay,Fowlers Bay,Ceduna,Eyre,South Australia,plains,aussie,tersian,auto,150,12,87
+959,84,135,176,Badu,Torres Strait,Yorktip,Cape,Great Barrier,plains,aussie,tersian,auto,150,13,87
+960,168,171,182,North King,King Island,King Island,Tasmania,Greater Tasmania,plains,aussie,tersian,auto,150,14,87
+961,168,141,177,South King,King Island,King Island,Tasmania,Greater Tasmania,plains,aussie,tersian,auto,150,15,87
+962,0,144,50,Flinders Island,Furneaux,Furneaux,Tasmania,Greater Tasmania,plains,aussie,tersian,auto,150,16,87
+963,42,147,178,Cape Barren island,Furneaux,Furneaux,Tasmania,Greater Tasmania,plains,aussie,tersian,auto,150,17,87
+964,84,150,51,Burra,Burra,Riverland,Adelaide,South Australia,plains,aussie,tersian,auto,150,18,87
+965,126,153,179,Burra,Burra,Riverland,Adelaide,South Australia,plains,aussie,tersian,auto,150,19,87
+966,168,156,52,Burra,Burra,Riverland,Adelaide,South Australia,plains,aussie,tersian,auto,150,20,87
+967,0,159,180,Terra Nullius,Terra Nullius,Terra Nullius,Terra Nullius,Terra Nullius,plains,aussie,tersian,auto,150,21,87
+968,42,162,53,Terra Nullius,Terra Nullius,Terra Nullius,Terra Nullius,Terra Nullius,plains,aussie,tersian,auto,150,22,87
+969,84,87,76,Terra Nullius,Terra Nullius,Terra Nullius,Terra Nullius,Terra Nullius,plains,aussie,tersian,auto,150,23,87
+970,168,21,157,Terra Nullius,Terra Nullius,Terra Nullius,Terra Nullius,Terra Nullius,plains,aussie,tersian,auto,150,24,87
+971,126,90,149,Terra Nullius,Terra Nullius,Terra Nullius,Terra Nullius,Terra Nullius,plains,aussie,tersian,auto,150,25,87
+972,168,108,207,Terra Nullius,Terra Nullius,Terra Nullius,Terra Nullius,Terra Nullius,plains,aussie,tersian,auto,150,26,87
+973,126,78,39,Terra Nullius,Terra Nullius,Terra Nullius,Terra Nullius,Terra Nullius,plains,aussie,tersian,auto,191,27,8
+974,42,27,158,Terra Nullius,Terra Nullius,Terra Nullius,Terra Nullius,Terra Nullius,plains,aussie,tersian,auto,191,28,8
+975,126,168,54,Terra Nullius,Terra Nullius,Terra Nullius,Terra Nullius,Terra Nullius,plains,aussie,tersian,auto,191,29,8
+976,42,210,153,Ikara Flinders,Ikara,Frome,Eyre,South Australia,plains,aussie,tersian,auto,191,30,8
+977,168,36,32,Barndioota,Ikara,Frome,Eyre,South Australia,plains,aussie,tersian,auto,191,31,8
+978,0,39,160,Dead Range,Ikara,Frome,Eyre,South Australia,plains,aussie,tersian,auto,191,32,8
+979,0,111,80,Mulyungarie,Mulyungarie,Frome,Eyre,South Australia,plains,aussie,tersian,auto,191,33,8
+980,42,12,28,Kalkaroo,Mulyungarie,Frome,Eyre,South Australia,plains,aussie,tersian,auto,191,34,8
+981,0,9,155,Bimbowrie,Yunta,Frome,Eyre,South Australia,plains,aussie,tersian,auto,191,35,8
+982,168,51,162,Yunta,Yunta,Frome,Eyre,South Australia,plains,aussie,tersian,auto,191,36,8
+983,42,114,208,Oodla Wirra,Yunta,Frome,Eyre,South Australia,plains,aussie,tersian,auto,191,37,8
+984,42,57,163,Pualco Range,Yunta,Frome,Eyre,South Australia,plains,aussie,tersian,auto,191,38,8
+985,84,60,36,Cockburn,Cockburn,Frome,Eyre,South Australia,plains,aussie,tersian,auto,191,39,8
+986,126,63,164,Rocky Dam,Cockburn,Frome,Eyre,South Australia,plains,aussie,tersian,auto,191,40,8
+987,168,66,37,Parnaroo,Parnaroo,Frome,Eyre,South Australia,plains,aussie,tersian,auto,191,41,8
+988,0,69,165,Pine,Parnaroo,Frome,Eyre,South Australia,plains,aussie,tersian,auto,191,42,8
+989,42,72,38,Gluepot,Parnaroo,Frome,Eyre,South Australia,plains,aussie,tersian,auto,191,43,8
+990,84,75,166,Danggali,Danggali,Frome,Eyre,South Australia,plains,aussie,tersian,auto,191,44,8
+991,42,6,98,Calperum Station,Danggali,Frome,Eyre,South Australia,plains,aussie,tersian,auto,191,45,8
+992,168,81,167,Chowilla,Danggali,Frome,Eyre,South Australia,plains,aussie,tersian,auto,191,46,8
 993,0,84,40,Epsilon,Great Southern Cross,Bulloo Dunefields,Mulga,Inner Queensland,plains,aussie,tersian,auto,162,160,255
 994,42,87,168,Omicron,Great Southern Cross,Bulloo Dunefields,Mulga,Inner Queensland,plains,aussie,tersian,auto,162,160,254
 995,84,90,41,Bransby,Warri Gate,Bulloo Dunefields,Mulga,Inner Queensland,plains,aussie,tersian,auto,162,160,253
@@ -1066,56 +1066,56 @@
 1064,169,210,32,Yowah,Yowah,Opal,Mulga,Inner Queensland,plains,aussie,tersian,auto,162,160,99
 1065,1,0,160,Bindegolly,Yowah,Opal,Mulga,Inner Queensland,plains,aussie,tersian,auto,162,160,98
 1066,43,3,33,Dynevor Downs,Yowah,Opal,Mulga,Inner Queensland,plains,aussie,tersian,auto,162,160,97
-1067,85,6,161,Thargomindah,Thargomindah,Thargomindah,Mulga,Inner Queensland,plains,aussie,tersian,auto,162,160,96
-1068,127,9,34,Thargomindah,Thargomindah,Thargomindah,Mulga,Inner Queensland,plains,aussie,tersian,auto,162,160,95
+1067,85,6,161,Picantill,Thargomindah,Thargomindah,Mulga,Inner Queensland,plains,aussie,tersian,auto,162,160,96
+1068,127,9,34,Orion,Thargomindah,Thargomindah,Mulga,Inner Queensland,plains,aussie,tersian,auto,162,160,95
 1069,169,12,162,Thargomindah,Thargomindah,Thargomindah,Mulga,Inner Queensland,plains,aussie,tersian,auto,162,160,94
-1070,1,15,35,Nockatunga,Nockatunga,Bulloo Dunefields,Mulga,Inner Queensland,plains,aussie,tersian,auto,162,160,93
+1070,1,15,35,Noccundra,Nockatunga,Bulloo Dunefields,Mulga,Inner Queensland,plains,aussie,tersian,auto,162,160,93
 1071,43,18,163,Nockatunga,Nockatunga,Bulloo Dunefields,Mulga,Inner Queensland,plains,aussie,tersian,auto,162,160,92
-1072,85,21,36,Nockatunga,Nockatunga,Bulloo Dunefields,Mulga,Inner Queensland,plains,aussie,tersian,auto,162,160,91
-1073,127,24,164,Orientos,Orientos,Bulloo Dunefields,Mulga,Inner Queensland,plains,aussie,tersian,auto,162,160,90
+1072,85,21,36,Jackson Oil Field,Nockatunga,Bulloo Dunefields,Mulga,Inner Queensland,plains,aussie,tersian,auto,162,160,91
+1073,127,24,164,Santos,Orientos,Bulloo Dunefields,Mulga,Inner Queensland,plains,aussie,tersian,auto,162,160,90
 1074,169,27,37,Orientos,Orientos,Bulloo Dunefields,Mulga,Inner Queensland,plains,aussie,tersian,auto,162,160,89
-1075,1,30,165,Orientos,Orientos,Bulloo Dunefields,Mulga,Inner Queensland,plains,aussie,tersian,auto,162,160,88
-1076,43,33,38,Cooper Creek,Cooper Creek,Bulloo Dunefields,Mulga,Inner Queensland,plains,aussie,tersian,auto,162,160,87
-1077,85,36,166,Cooper Creek,Cooper Creek,Bulloo Dunefields,Mulga,Inner Queensland,plains,aussie,tersian,auto,162,160,86
-1078,127,39,39,Durham,Durham,Yamma Yamma,Mulga,Inner Queensland,plains,aussie,tersian,auto,162,160,85
-1079,169,42,167,Durham,Durham,Yamma Yamma,Mulga,Inner Queensland,plains,aussie,tersian,auto,162,160,84
-1080,1,45,40,Mount Howitt,Mount Howitt,Yamma Yamma,Mulga,Inner Queensland,plains,aussie,tersian,auto,162,160,83
+1075,1,30,165,Naccowlah,Orientos,Bulloo Dunefields,Mulga,Inner Queensland,plains,aussie,tersian,auto,162,160,88
+1076,43,33,38,Nappa Merrie,Cooper Creek,Bulloo Dunefields,Mulga,Inner Queensland,plains,aussie,tersian,auto,162,160,87
+1077,85,36,166,Arrabury,Cooper Creek,Bulloo Dunefields,Mulga,Inner Queensland,plains,aussie,tersian,auto,162,160,86
+1078,127,39,39,Durham Downs,Durham,Yamma Yamma,Mulga,Inner Queensland,plains,aussie,tersian,auto,162,160,85
+1079,169,42,167,Planet Downs,Durham,Yamma Yamma,Mulga,Inner Queensland,plains,aussie,tersian,auto,162,160,84
+1080,1,45,40,Prevna Downs,Mount Howitt,Yamma Yamma,Mulga,Inner Queensland,plains,aussie,tersian,auto,162,160,83
 1081,43,48,168,Mount Howitt,Mount Howitt,Yamma Yamma,Mulga,Inner Queensland,plains,aussie,tersian,auto,162,160,82
-1082,85,51,41,Mount Howitt,Mount Howitt,Yamma Yamma,Mulga,Inner Queensland,plains,aussie,tersian,auto,162,160,81
+1082,85,51,41,Malagarga,Mount Howitt,Yamma Yamma,Mulga,Inner Queensland,plains,aussie,tersian,auto,162,160,81
 1083,127,54,169,Mount Margaret,Mount Margaret,Thargomindah,Mulga,Inner Queensland,plains,aussie,tersian,auto,162,160,80
 1084,169,57,42,Ardoch,Ardoch,Thargomindah,Mulga,Inner Queensland,plains,aussie,tersian,auto,162,160,79
-1085,1,60,170,Ardoch,Ardoch,Thargomindah,Mulga,Inner Queensland,plains,aussie,tersian,auto,162,160,78
+1085,1,60,170,Tobermory,Ardoch,Thargomindah,Mulga,Inner Queensland,plains,aussie,tersian,auto,162,160,78
 1086,43,63,43,Toompine,Toompine,Thargomindah,Mulga,Inner Queensland,plains,aussie,tersian,auto,162,160,77
-1087,85,66,171,Toompine,Toompine,Thargomindah,Mulga,Inner Queensland,plains,aussie,tersian,auto,162,160,76
-1088,127,69,44,Big Creek,Big Creek,Opal,Mulga,Inner Queensland,plains,aussie,tersian,auto,162,160,75
+1087,85,66,171,Wombin,Toompine,Thargomindah,Mulga,Inner Queensland,plains,aussie,tersian,auto,162,160,76
+1088,127,69,44,Alroy,Big Creek,Opal,Mulga,Inner Queensland,plains,aussie,tersian,auto,162,160,75
 1089,169,72,172,Big Creek,Big Creek,Opal,Mulga,Inner Queensland,plains,aussie,tersian,auto,162,160,74
-1090,1,75,45,Big Creek,Big Creek,Opal,Mulga,Inner Queensland,plains,aussie,tersian,auto,162,160,73
+1090,1,75,45,Humebum,Big Creek,Opal,Mulga,Inner Queensland,plains,aussie,tersian,auto,162,160,73
 1091,43,78,173,Boatman,Boatman,Murweh,Mulga,Inner Queensland,plains,aussie,tersian,auto,162,160,72
-1092,85,81,46,Boatman,Boatman,Murweh,Mulga,Inner Queensland,plains,aussie,tersian,auto,162,160,71
-1093,127,84,174,Begonia,Begonia,Dirranbandi,Mulga,Inner Queensland,plains,aussie,tersian,auto,162,160,70
+1092,85,81,46,Bonus Downs,Boatman,Murweh,Mulga,Inner Queensland,plains,aussie,tersian,auto,162,160,71
+1093,127,84,174,Thrushton,Begonia,Dirranbandi,Mulga,Inner Queensland,plains,aussie,tersian,auto,162,160,70
 1094,169,87,47,Begonia,Begonia,Dirranbandi,Mulga,Inner Queensland,plains,aussie,tersian,auto,162,160,69
-1095,1,90,175,Begonia,Begonia,Dirranbandi,Mulga,Inner Queensland,plains,aussie,tersian,auto,162,160,68
+1095,1,90,175,Woodlands,Begonia,Dirranbandi,Mulga,Inner Queensland,plains,aussie,tersian,auto,162,160,68
 1096,43,93,48,Mitchell,Mitchell,Maranoa,Gold Coast,Great Barrier,plains,aussie,tersian,auto,161,170,114
-1097,85,96,176,Mitchell,Mitchell,Maranoa,Gold Coast,Great Barrier,plains,aussie,tersian,auto,160,170,114
-1098,127,99,49,Mitchell,Mitchell,Maranoa,Gold Coast,Great Barrier,plains,aussie,tersian,auto,159,170,114
-1099,169,102,177,Roma,Roma,Maranoa,Gold Coast,Great Barrier,plains,aussie,tersian,auto,158,170,114
-1100,1,105,50,Roma,Roma,Maranoa,Gold Coast,Great Barrier,plains,aussie,tersian,auto,157,170,114
+1097,85,96,176,Bindango,Mitchell,Maranoa,Gold Coast,Great Barrier,plains,aussie,tersian,auto,160,170,114
+1098,127,99,49,Dunkeld,Mitchell,Maranoa,Gold Coast,Great Barrier,plains,aussie,tersian,auto,159,170,114
+1099,169,102,177,Yuleba,Roma,Maranoa,Gold Coast,Great Barrier,plains,aussie,tersian,auto,158,170,114
+1100,1,105,50,Wallumbilla,Roma,Maranoa,Gold Coast,Great Barrier,plains,aussie,tersian,auto,157,170,114
 1101,43,108,178,Roma,Roma,Maranoa,Gold Coast,Great Barrier,plains,aussie,tersian,auto,156,170,114
-1102,85,111,51,Miles,Miles,Western Downs,Gold Coast,Great Barrier,plains,aussie,tersian,auto,155,170,114
+1102,85,111,51,Wandoan,Miles,Western Downs,Gold Coast,Great Barrier,plains,aussie,tersian,auto,155,170,114
 1103,127,114,179,Miles,Miles,Western Downs,Gold Coast,Great Barrier,plains,aussie,tersian,auto,154,170,114
-1104,169,117,52,Tara,Tara,Western Downs,Gold Coast,Great Barrier,plains,aussie,tersian,auto,153,170,114
-1105,1,120,180,Tara,Tara,Western Downs,Gold Coast,Great Barrier,plains,aussie,tersian,auto,152,170,114
+1104,169,117,52,Brigalow,Tara,Western Downs,Gold Coast,Great Barrier,plains,aussie,tersian,auto,153,170,114
+1105,1,120,180,Goodamine,Tara,Western Downs,Gold Coast,Great Barrier,plains,aussie,tersian,auto,152,170,114
 1106,43,123,53,Tara,Tara,Western Downs,Gold Coast,Great Barrier,plains,aussie,tersian,auto,151,170,114
-1107,85,126,181,Dalby,Dalby,Western Downs,Gold Coast,Great Barrier,plains,aussie,tersian,auto,150,170,114
-1108,127,127,54,Dalby,Dalby,Western Downs,Gold Coast,Great Barrier,plains,aussie,tersian,auto,149,170,114
+1107,85,126,181,Jandowae,Dalby,Western Downs,Gold Coast,Great Barrier,plains,aussie,tersian,auto,150,170,114
+1108,127,127,54,Beil,Dalby,Western Downs,Gold Coast,Great Barrier,plains,aussie,tersian,auto,149,170,114
 1109,126,30,194,Dalby,Dalby,Western Downs,Gold Coast,Great Barrier,plains,aussie,tersian,auto,148,170,114
-1110,168,33,67,Dalby,Dalby,Western Downs,Gold Coast,Great Barrier,plains,aussie,tersian,auto,147,170,114
-1111,0,36,195,Maroochydore,Maroochydore,Brisbane,Gold Coast,Great Barrier,plains,aussie,tersian,auto,146,170,114
+1110,168,33,67,Goombungee,Dalby,Western Downs,Gold Coast,Great Barrier,plains,aussie,tersian,auto,147,170,114
+1111,0,36,195,Nanango,Maroochydore,Brisbane,Gold Coast,Great Barrier,plains,aussie,tersian,auto,146,170,114
 1112,85,141,56,Maroochydore,Maroochydore,Brisbane,Gold Coast,Great Barrier,plains,aussie,tersian,auto,145,170,114
-1113,127,144,184,Maroochydore,Maroochydore,Brisbane,Gold Coast,Great Barrier,plains,aussie,tersian,auto,144,170,114
-1114,169,147,57,Maroochydore,Maroochydore,Brisbane,Gold Coast,Great Barrier,plains,aussie,tersian,auto,143,170,114
-1115,1,150,185,Kingaroy,Kingaroy,Sunshine,Gold Coast,Great Barrier,plains,aussie,tersian,auto,142,170,114
-1116,43,153,58,Kingaroy,Kingaroy,Sunshine,Gold Coast,Great Barrier,plains,aussie,tersian,auto,141,170,114
+1113,127,144,184,Caloundra,Maroochydore,Brisbane,Gold Coast,Great Barrier,plains,aussie,tersian,auto,144,170,114
+1114,169,147,57,Landsborough,Maroochydore,Brisbane,Gold Coast,Great Barrier,plains,aussie,tersian,auto,143,170,114
+1115,1,150,185,Murgon,Kingaroy,Sunshine,Gold Coast,Great Barrier,plains,aussie,tersian,auto,142,170,114
+1116,43,153,58,Wondail,Kingaroy,Sunshine,Gold Coast,Great Barrier,plains,aussie,tersian,auto,141,170,114
 1117,85,156,186,Kingaroy,Kingaroy,Sunshine,Gold Coast,Great Barrier,plains,aussie,tersian,auto,140,170,114
 1118,127,159,59,Chinchilla,Chinchilla,Western Downs,Gold Coast,Great Barrier,plains,aussie,tersian,auto,139,170,114
 1119,169,162,187,Chinchilla,Chinchilla,Western Downs,Gold Coast,Great Barrier,plains,aussie,tersian,auto,138,170,114
@@ -2907,66 +2907,66 @@
 2905,2,195,180,Nullarbor Cliffs,Nullarbor Cliffs,Praeceps,Nullarbor,Nullarbor,plains,aussie,tersian,auto,57,166,136
 2906,44,198,53,Nullarbor Cliffs,Nullarbor Cliffs,Praeceps,Nullarbor,Nullarbor,plains,aussie,tersian,auto,58,166,136
 2907,86,201,181,Boamsaffsaff,Boamsaffsaff,Jasduhrpash,Ushbansaff,Bokaam,plains,aussie,tersian,auto,205,167,232
-2908,128,204,54,Buckleboo,Buckleboo,Untouched,Untouched,Untouched,plains,aussie,tersian,auto,41,47,43
-2909,170,207,182,Buckleboo,Buckleboo,Untouched,Untouched,Untouched,plains,aussie,tersian,auto,42,47,43
-2910,2,210,55,Buckleboo,Buckleboo,Untouched,Untouched,Untouched,plains,aussie,tersian,auto,43,47,43
-2911,44,0,183,Buckleboo,Buckleboo,Untouched,Untouched,Untouched,plains,aussie,tersian,auto,44,47,43
-2912,86,3,56,Gairdner,Gairdner,Untouched,Untouched,Untouched,plains,aussie,tersian,auto,45,47,43
-2913,128,6,184,Gairdner,Gairdner,Untouched,Untouched,Untouched,plains,aussie,tersian,auto,46,47,43
-2914,170,9,57,Woomera,Woomera,Untouched,Untouched,Untouched,plains,aussie,tersian,auto,47,47,43
-2915,2,12,185,Woomera,Woomera,Untouched,Untouched,Untouched,plains,aussie,tersian,auto,48,47,43
-2916,44,15,58,Glendambo,Glendambo,Untouched,Untouched,Untouched,plains,aussie,tersian,auto,49,47,43
-2917,86,18,186,Glendambo,Glendambo,Untouched,Untouched,Untouched,plains,aussie,tersian,auto,50,47,43
-2918,128,21,59,Tarcoola,Tarcoola,Untouched,Untouched,Untouched,plains,aussie,tersian,auto,51,47,43
-2919,170,24,187,Tarcoola,Tarcoola,Untouched,Untouched,Untouched,plains,aussie,tersian,auto,52,47,43
-2920,2,27,60,Tarcoola,Tarcoola,Untouched,Untouched,Untouched,plains,aussie,tersian,auto,53,47,43
-2921,44,30,188,East Yellabinna,East Yellabinna,Untouched,Untouched,Untouched,plains,aussie,tersian,auto,54,47,43
-2922,86,33,61,East Yellabinna,East Yellabinna,Untouched,Untouched,Untouched,plains,aussie,tersian,auto,55,47,43
-2923,128,36,189,East Yellabinna,East Yellabinna,Untouched,Untouched,Untouched,plains,aussie,tersian,auto,56,47,43
-2924,170,39,62,Gina,Gina,Untouched,Untouched,Untouched,plains,aussie,tersian,auto,57,47,43
-2925,2,42,190,Gina,Gina,Untouched,Untouched,Untouched,plains,aussie,tersian,auto,58,47,43
-2926,44,45,63,Maralinga,Maralinga,Untouched,Untouched,Untouched,plains,aussie,tersian,auto,59,47,43
-2927,86,48,191,Maralinga,Maralinga,Untouched,Untouched,Untouched,plains,aussie,tersian,auto,60,47,43
-2928,128,51,64,Maurice,Maurice,Untouched,Untouched,Untouched,plains,aussie,tersian,auto,61,47,43
-2929,170,54,192,Mamungari,Mamungari,Untouched,Untouched,Untouched,plains,aussie,tersian,auto,62,47,43
-2930,2,57,65,Emu Junction,Emu Junction,Untouched,Untouched,Untouched,plains,aussie,tersian,auto,63,47,43
-2931,44,60,193,Emu Junction,Emu Junction,Untouched,Untouched,Untouched,plains,aussie,tersian,auto,64,47,43
-2932,86,63,66,Tallaringa,Tallaringa,Untouched,Untouched,Untouched,plains,aussie,tersian,auto,65,47,43
-2933,128,66,194,Tallaringa,Tallaringa,Untouched,Untouched,Untouched,plains,aussie,tersian,auto,66,47,43
-2934,170,69,67,Cardney,Cardney,Untouched,Untouched,Untouched,plains,aussie,tersian,auto,67,47,43
-2935,2,72,195,Coober Pedy,Coober Pedy,Untouched,Untouched,Untouched,plains,aussie,tersian,auto,68,47,43
-2936,44,75,68,Coober Pedy,Coober Pedy,Untouched,Untouched,Untouched,plains,aussie,tersian,auto,69,47,43
-2937,86,78,196,Coober Pedy,Coober Pedy,Untouched,Untouched,Untouched,plains,aussie,tersian,auto,70,47,43
-2938,128,81,69,Mount Eba,Mount Eba,Untouched,Untouched,Untouched,plains,aussie,tersian,auto,71,47,43
-2939,170,84,197,Mount Eba,Mount Eba,Untouched,Untouched,Untouched,plains,aussie,tersian,auto,72,47,43
-2940,2,87,70,Old Peake,Old Peake,Untouched,Untouched,Untouched,plains,aussie,tersian,auto,73,47,43
-2941,44,90,198,Old Peake,Old Peake,Untouched,Untouched,Untouched,plains,aussie,tersian,auto,74,47,43
-2942,86,93,71,Old Peake,Old Peake,Untouched,Untouched,Untouched,plains,aussie,tersian,auto,75,47,43
-2943,128,96,199,Oodnadatta,Oodnadatta,Untouched,Untouched,Untouched,plains,aussie,tersian,auto,76,47,43
-2944,170,99,72,Pedirka,Pedirka,Untouched,Untouched,Untouched,plains,aussie,tersian,auto,77,47,43
-2945,2,102,200,Pedirka,Pedirka,Untouched,Untouched,Untouched,plains,aussie,tersian,auto,78,47,43
-2946,44,105,73,Witjira,Witjira,Untouched,Untouched,Untouched,plains,aussie,tersian,auto,79,47,43
-2947,86,108,201,Witjira,Witjira,Untouched,Untouched,Untouched,plains,aussie,tersian,auto,80,47,43
-2948,128,111,74,Marree,Marree,Untouched,Untouched,Untouched,plains,aussie,tersian,auto,81,47,43
-2949,170,114,202,Marree,Marree,Untouched,Untouched,Untouched,plains,aussie,tersian,auto,82,47,43
-2950,2,117,75,Marree,Marree,Untouched,Untouched,Untouched,plains,aussie,tersian,auto,83,47,43
-2951,44,120,203,Vulkathunha,Vulkathunha,Untouched,Untouched,Untouched,plains,aussie,tersian,auto,84,47,43
-2952,86,123,76,Vulkathunha,Vulkathunha,Untouched,Untouched,Untouched,plains,aussie,tersian,auto,85,47,43
-2953,128,126,204,Callabonna,Callabonna,Untouched,Untouched,Untouched,plains,aussie,tersian,auto,86,47,43
-2954,170,129,77,Callabonna,Callabonna,Untouched,Untouched,Untouched,plains,aussie,tersian,auto,87,47,43
-2955,2,132,205,Bollards Lagoon,Bollards Lagoon,Untouched,Untouched,Untouched,plains,aussie,tersian,auto,88,47,43
-2956,44,135,78,Bollards Lagoon,Bollards Lagoon,Untouched,Untouched,Untouched,plains,aussie,tersian,auto,89,47,43
-2957,86,138,206,Strzelecki,Strzelecki,Untouched,Untouched,Untouched,plains,aussie,tersian,auto,90,47,43
-2958,128,141,79,Tirari Desert,Tirari Desert,Untouched,Untouched,Untouched,plains,aussie,tersian,auto,91,47,43
-2959,170,144,207,Innamincka,Innamincka,Untouched,Untouched,Untouched,plains,aussie,tersian,auto,92,47,43
-2960,2,147,80,Innamincka,Innamincka,Untouched,Untouched,Untouched,plains,aussie,tersian,auto,93,47,43
-2961,44,150,208,Innamincka,Innamincka,Untouched,Untouched,Untouched,plains,aussie,tersian,auto,94,47,43
-2962,86,153,81,Sturt Stony Desert,Sturt Stony Desert,Untouched,Untouched,Untouched,plains,aussie,tersian,auto,95,47,43
-2963,128,156,209,Sturt Stony Desert,Sturt Stony Desert,Untouched,Untouched,Untouched,plains,aussie,tersian,auto,96,47,43
-2964,170,159,82,Sturt Stony Desert,Sturt Stony Desert,Untouched,Untouched,Untouched,plains,aussie,tersian,auto,97,47,43
-2965,2,162,210,Warburton Crossing,Warburton Crossing,Untouched,Untouched,Untouched,plains,aussie,tersian,auto,98,47,43
-2966,44,165,83,Warburton Crossing,Warburton Crossing,Untouched,Untouched,Untouched,plains,aussie,tersian,auto,99,47,43
-2967,86,168,211,Kalamurina,Kalamurina,Untouched,Untouched,Untouched,plains,aussie,tersian,auto,100,47,43
+2908,128,204,54,Buckleboo,Buckleboo,Gawler,Eyre,South Australia,plains,aussie,tersian,auto,41,47,43
+2909,170,207,182,Buckleboo,Buckleboo,Gawler,Eyre,South Australia,plains,aussie,tersian,auto,42,47,43
+2910,2,210,55,Buckleboo,Buckleboo,Gawler,Eyre,South Australia,plains,aussie,tersian,auto,43,47,43
+2911,44,0,183,Buckleboo,Buckleboo,Gawler,Eyre,South Australia,plains,aussie,tersian,auto,44,47,43
+2912,86,3,56,Gairdner,Gairdner,Gawler,Eyre,South Australia,plains,aussie,tersian,auto,45,47,43
+2913,128,6,184,Gairdner,Gairdner,Gawler,Eyre,South Australia,plains,aussie,tersian,auto,46,47,43
+2914,170,9,57,Woomera,Woomera,Saltpan,Eyre,South Australia,plains,aussie,tersian,auto,47,47,43
+2915,2,12,185,Woomera,Woomera,Saltpan,Eyre,South Australia,plains,aussie,tersian,auto,48,47,43
+2916,44,15,58,Glendambo,Glendambo,Saltpan,Eyre,South Australia,plains,aussie,tersian,auto,49,47,43
+2917,86,18,186,Glendambo,Glendambo,Saltpan,Eyre,South Australia,plains,aussie,tersian,auto,50,47,43
+2918,128,21,59,Tarcoola,Tarcoola,Ceduna,Eyre,South Australia,plains,aussie,tersian,auto,51,47,43
+2919,170,24,187,Tarcoola,Tarcoola,Ceduna,Eyre,South Australia,plains,aussie,tersian,auto,52,47,43
+2920,2,27,60,Tarcoola,Tarcoola,Ceduna,Eyre,South Australia,plains,aussie,tersian,auto,53,47,43
+2921,44,30,188,East Yellabinna,East Yellabinna,Ceduna,Eyre,South Australia,plains,aussie,tersian,auto,54,47,43
+2922,86,33,61,East Yellabinna,East Yellabinna,Ceduna,Eyre,South Australia,plains,aussie,tersian,auto,55,47,43
+2923,128,36,189,East Yellabinna,East Yellabinna,Ceduna,Eyre,South Australia,plains,aussie,tersian,auto,56,47,43
+2924,170,39,62,Gina,Gina,Saltpan,Eyre,South Australia,plains,aussie,tersian,auto,57,47,43
+2925,2,42,190,Gina,Gina,Saltpan,Eyre,South Australia,plains,aussie,tersian,auto,58,47,43
+2926,44,45,63,Maralinga,Maralinga,Maralinga,Eyre,South Australia,plains,aussie,tersian,auto,59,47,43
+2927,86,48,191,Maralinga,Maralinga,Maralinga,Eyre,South Australia,plains,aussie,tersian,auto,60,47,43
+2928,128,51,64,Maurice,Maurice,Maralinga,Eyre,South Australia,plains,aussie,tersian,auto,61,47,43
+2929,170,54,192,Mamungari,Mamungari,Maralinga,Eyre,South Australia,plains,aussie,tersian,auto,62,47,43
+2930,2,57,65,Emu Junction,Emu Junction,Maralinga,Eyre,South Australia,plains,aussie,tersian,auto,63,47,43
+2931,44,60,193,Emu Junction,Emu Junction,Maralinga,Eyre,South Australia,plains,aussie,tersian,auto,64,47,43
+2932,86,63,66,Tallaringa,Tallaringa,Maralinga,Eyre,South Australia,plains,aussie,tersian,auto,65,47,43
+2933,128,66,194,Tallaringa,Tallaringa,Maralinga,Eyre,South Australia,plains,aussie,tersian,auto,66,47,43
+2934,170,69,67,Cadney,Cadney,Ephemeral Rivers,Eyre,South Australia,plains,aussie,tersian,auto,67,47,43
+2935,2,72,195,Coober Pedy,Coober Pedy,Ephemeral Rivers,Eyre,South Australia,plains,aussie,tersian,auto,68,47,43
+2936,44,75,68,Coober Pedy,Coober Pedy,Ephemeral Rivers,Eyre,South Australia,plains,aussie,tersian,auto,69,47,43
+2937,86,78,196,Coober Pedy,Coober Pedy,Ephemeral Rivers,Eyre,South Australia,plains,aussie,tersian,auto,70,47,43
+2938,128,81,69,Mount Eba,Mount Eba,Saltpan,Eyre,South Australia,plains,aussie,tersian,auto,71,47,43
+2939,170,84,197,Mount Eba,Mount Eba,Saltpan,Eyre,South Australia,plains,aussie,tersian,auto,72,47,43
+2940,2,87,70,Old Peake,Old Peake,Saltpan,Eyre,South Australia,plains,aussie,tersian,auto,73,47,43
+2941,44,90,198,Old Peake,Old Peake,Saltpan,Eyre,South Australia,plains,aussie,tersian,auto,74,47,43
+2942,86,93,71,Old Peake,Old Peake,Saltpan,Eyre,South Australia,plains,aussie,tersian,auto,75,47,43
+2943,128,96,199,Oodnadatta,Oodnadatta,Ephemeral Rivers,Eyre,South Australia,plains,aussie,tersian,auto,76,47,43
+2944,170,99,72,Pedirka,Pedirka,Ephemeral Rivers,Eyre,South Australia,plains,aussie,tersian,auto,77,47,43
+2945,2,102,200,Pedirka,Pedirka,Ephemeral Rivers,Eyre,South Australia,plains,aussie,tersian,auto,78,47,43
+2946,44,105,73,Witjira,Witjira,Ephemeral Rivers,Eyre,South Australia,plains,aussie,tersian,auto,79,47,43
+2947,86,108,201,Witjira,Witjira,Ephemeral Rivers,Eyre,South Australia,plains,aussie,tersian,auto,80,47,43
+2948,128,111,74,Marree,Marree,Torrens,Desertina,South Australia,plains,aussie,tersian,auto,81,47,43
+2949,170,114,202,Marree,Marree,Torrens,Desertina,South Australia,plains,aussie,tersian,auto,82,47,43
+2950,2,117,75,Marree,Marree,Torrens,Desertina,South Australia,plains,aussie,tersian,auto,83,47,43
+2951,44,120,203,Vulkathunha,Vulkathunha,Torrens,Desertina,South Australia,plains,aussie,tersian,auto,84,47,43
+2952,86,123,76,Vulkathunha,Vulkathunha,Torrens,Desertina,South Australia,plains,aussie,tersian,auto,85,47,43
+2953,128,126,204,Callabonna,Callabonna,Strzelecki,Desertina,South Australia,plains,aussie,tersian,auto,86,47,43
+2954,170,129,77,Callabonna,Callabonna,Strzelecki,Desertina,South Australia,plains,aussie,tersian,auto,87,47,43
+2955,2,132,205,Bollards Lagoon,Bollards Lagoon,Strzelecki,Desertina,South Australia,plains,aussie,tersian,auto,88,47,43
+2956,44,135,78,Bollards Lagoon,Bollards Lagoon,Strzelecki,Desertina,South Australia,plains,aussie,tersian,auto,89,47,43
+2957,86,138,206,Strzelecki,Strzelecki,Strzelecki,Desertina,South Australia,plains,aussie,tersian,auto,90,47,43
+2958,128,141,79,Tirari Desert,Tirari Desert,Strzelecki,Desertina,South Australia,plains,aussie,tersian,auto,91,47,43
+2959,170,144,207,Innamincka,Innamincka,Stony Desert,Desertina,South Australia,plains,aussie,tersian,auto,92,47,43
+2960,2,147,80,Innamincka,Innamincka,Stony Desert,Desertina,South Australia,plains,aussie,tersian,auto,93,47,43
+2961,44,150,208,Innamincka,Innamincka,Stony Desert,Desertina,South Australia,plains,aussie,tersian,auto,94,47,43
+2962,86,153,81,Sturt Stony Desert,Sturt Stony Desert,Stony Desert,Desertina,South Australia,plains,aussie,tersian,auto,95,47,43
+2963,128,156,209,Sturt Stony Desert,Sturt Stony Desert,Stony Desert,Desertina,South Australia,plains,aussie,tersian,auto,96,47,43
+2964,170,159,82,Sturt Stony Desert,Sturt Stony Desert,Stony Desert,Desertina,South Australia,plains,aussie,tersian,auto,97,47,43
+2965,2,162,210,Warburton Crossing,Warburton Crossing,Stony Desert,Desertina,South Australia,plains,aussie,tersian,auto,98,47,43
+2966,44,165,83,Warburton Crossing,Warburton Crossing,Stony Desert,Desertina,South Australia,plains,aussie,tersian,auto,99,47,43
+2967,86,168,211,Kalamurina,Kalamurina,Stony Desert,Desertina,South Australia,plains,aussie,tersian,auto,100,47,43
 2968,128,171,84,Lakey 1,,,,,,,,,,,
 2969,170,174,212,Lakey 2,,,,,,,,,,,
 2970,2,177,85,Lakey 3,,,,,,,,,,,
