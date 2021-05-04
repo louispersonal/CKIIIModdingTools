@@ -389,18 +389,7 @@
 	holding = auto
 }
 
-### c_dalhousie
-105 = {  #Kyneton
-	culture = phillipian
-	religion = tersian
-	holding = auto
-}
-
-106 = {  #Broadford
-	holding = auto
-}
-
-### c_bourke
+### c_melbourne
 107 = {  #Melbourne
 	culture = phillipian
 	religion = tersian
@@ -451,6 +440,18 @@
 }
 
 73 = {  #Edenhope
+	holding = auto
+}
+
+# d_goulburn
+### c_dalhousie
+105 = {  #Kyneton
+	culture = phillipian
+	religion = tersian
+	holding = auto
+}
+
+106 = {  #Broadford
 	holding = auto
 }
 
@@ -589,10 +590,14 @@
 	holding = auto
 }
 
+152 = {  #Oceanspray
+	holding = auto
+}
+
 # k_victoria
 # d_grampians
 ### c_lowan
-74 = {  #Bordertown
+74 = {  #Serviceton
 	culture = wimmeran
 	religion = tersian
 	holding = auto
@@ -682,12 +687,12 @@
 	holding = auto
 }
 
-93 = {  #Inglewood
+93 = {  #Salisbury West
 	holding = auto
 }
 
 ### c_talbot
-94 = {  #Maryborough
+94 = {  #Carlsbrook
 	culture = wimmeran
 	religion = tersian
 	holding = auto
@@ -828,7 +833,7 @@
 # e_new_south_wales
 # k_canberra
 # d_south_coast
-### c_auckland
+### c_merimbula
 441 = {  #Eden
 	culture = illawarran
 	religion = tersian
@@ -843,7 +848,7 @@
 	holding = auto
 }
 
-### c_wellesley
+### c_bombala
 444 = {  #Byadbo
 	culture = illawarran
 	religion = tersian
@@ -854,22 +859,11 @@
 	holding = auto
 }
 
-446 = {  #Nimmitable
+446 = {  #Nimmitabel
 	holding = auto
 }
 
-### c_beresford
-450 = {  #Bredbo
-	culture = illawarran
-	religion = tersian
-	holding = auto
-}
-
-451 = {  #Cooma
-	holding = auto
-}
-
-### c_dampier
+### c_narooma
 452 = {  #Wadbilliga
 	culture = illawarran
 	religion = tersian
@@ -900,48 +894,59 @@
 	holding = auto
 }
 
+### c_beresford
+450 = {  #Bredbo
+	culture = illawarran
+	religion = tersian
+	holding = auto
+}
+
+451 = {  #Cooma
+	holding = auto
+}
+
 ### c_buccleuch
-622 = {  #Buccleuch
+622 = {  #Tumut
 	culture = alpine
 	religion = tersian
 	holding = auto
 }
 
-623 = {  #Buccleuch 1
+623 = {  #Bondo
 	holding = auto
 }
 
 ### c_selwyn
-624 = {  #Selwyn
+624 = {  #Khancoba
 	culture = alpine
 	religion = tersian
 	holding = auto
 }
 
-625 = {  #Selwyn 1
+625 = {  #Kosciuszko
 	holding = auto
 }
 
-626 = {  #Selwyn 2
+626 = {  #Batlow
 	holding = auto
 }
 
-627 = {  #Selwyn 3
+627 = {  #Tumbarumba
 	holding = auto
 }
 
-### c_wynyard
-628 = {  #Wagga Wagga
+### c_wagga_wagga
+628 = {  #Humula
 	culture = alpine
 	religion = tersian
 	holding = auto
 }
 
-629 = {  #Wagga Wagga 1
+629 = {  #Tumblong
 	holding = auto
 }
 
-630 = {  #Wagga Wagga 2
+630 = {  #Wagga Wagga
 	holding = auto
 }
 
@@ -976,38 +981,38 @@
 	holding = auto
 }
 
-620 = {  #Harden 1
+620 = {  #Cootaundra
 	holding = auto
 }
 
-621 = {  #Harden 2
+621 = {  #Jugiong
 	holding = auto
 }
 
 ### c_clarendon
-631 = {  #Clarendon
+631 = {  #Gundagai
 	culture = murrumbidgeen
 	religion = tersian
 	holding = auto
 }
 
-632 = {  #Clarendon 1
+632 = {  #Junee
 	holding = auto
 }
 
-# d_goulburn
-### c_goulburn
-819 = {  #Goulburn
+# d_alps
+### c_jindera
+819 = {  #Woomargama
 	culture = muruwari
 	religion = tersian
 	holding = auto
 }
 
-820 = {  #Goulburn 1
+820 = {  #Jindera
 	holding = auto
 }
 
-821 = {  #Goulburn 2
+821 = {  #Hollbrook
 	holding = auto
 }
 
@@ -1024,7 +1029,7 @@
 	holding = auto
 }
 
-### c_argyle
+### c_goulburn
 465 = {  #Goulburn
 	culture = illawarran
 	religion = tersian
@@ -1080,13 +1085,13 @@
 	holding = auto
 }
 
-483 = {  #Woodstock
+483 = {  #Blayney
 	holding = auto
 }
 
 # d_sydney
-### c_st_vincent
-461 = {  #Sanctuary Point
+### c_nowra
+461 = {  #Ulladulla
 	culture = illawarran
 	religion = tersian
 	holding = auto
@@ -1096,7 +1101,7 @@
 	holding = auto
 }
 
-463 = {  #Colymea
+463 = {  #Nowra
 	holding = auto
 }
 
@@ -1104,7 +1109,7 @@
 	holding = auto
 }
 
-### c_camden
+### c_wollongong
 472 = {  #Bowral
 	culture = illawarran
 	religion = tersian
@@ -1123,7 +1128,7 @@
 	holding = auto
 }
 
-### c_cumberland
+### c_sydney
 492 = {  #Botany
 	culture = illawarran
 	religion = tersian
@@ -1142,7 +1147,7 @@
 	holding = auto
 }
 
-### c_northumberland
+### c_newcastle
 496 = {  #Singleton
 	culture = new_english
 	religion = tersian
@@ -1163,7 +1168,7 @@
 
 # d_blue_mountains
 ### c_oberon
-476 = {  #Kanangra
+476 = {  #Kanangra Boyd
 	culture = alpine
 	religion = tersian
 	holding = auto
@@ -1192,7 +1197,7 @@
 	holding = auto
 }
 
-### c_hunter
+### c_wollemi
 500 = {  #Wisemans Ferry
 	culture = alpine
 	religion = tersian
@@ -1230,7 +1235,7 @@
 	holding = auto
 }
 
-### c_phillip
+### c_gulgong
 502 = {  #Nullo Mountain
 	culture = alpine
 	religion = tersian
@@ -1287,7 +1292,7 @@
 	holding = auto
 }
 
-### c_gloucester
+### c_forster
 513 = {  #Raymond Terrace
 	culture = new_english
 	religion = tersian
@@ -1312,311 +1317,311 @@
 
 # k_new_england
 # d_portharbour
-### c_macquarie
-518 = {  #bottom r
+### c_port_macquarie
+518 = {  #Harrington
 	culture = new_english
 	religion = tersian
 	holding = auto
 }
 
-519 = {  #bottom l
+519 = {  #Knorrit
 	holding = auto
 }
 
-520 = {  #top l
+520 = {  #Werrikimbe
 	holding = auto
 }
 
-521 = {  #top r
+521 = {  #Port Macquarie
 	holding = auto
 }
 
 ### c_dudley
-525 = {  #left 1
+525 = {  #Bellbrook
 	culture = new_english
 	religion = tersian
 	holding = auto
 }
 
-526 = {  #right
+526 = {  #South West Rocks
 	holding = auto
 }
 
-### c_raleigh
-535 = {  #left
+### c_nambucca_heads
+535 = {  #Bowraville
 	culture = new_english
 	religion = tersian
 	holding = auto
 }
 
-536 = {  #right
+536 = {  #Nambucca Heads
 	holding = auto
 }
 
-### c_fitzroy
-537 = {  #bottom l
+### c_coffs_harbour
+537 = {  #Dorrigo
 	culture = new_english
 	religion = tersian
 	holding = auto
 }
 
-538 = {  #right
+538 = {  #Coffs Harbour
 	holding = auto
 }
 
-539 = {  #middle
+539 = {  #Glenreagh
 	holding = auto
 }
 
-540 = {  #top
+540 = {  #Nymboida
 	holding = auto
 }
 
 # d_binghi
 ### c_hawes
-522 = {  #right
+522 = {  #Mount Oceanview
 	culture = new_english
 	religion = tersian
 	holding = auto
 }
 
-523 = {  #top
+523 = {  #Nowendoc
 	holding = auto
 }
 
-524 = {  #left
+524 = {  #Curracabundi
 	holding = auto
 }
 
-### c_vernon
-527 = {  #right 1
+### c_walcha
+527 = {  #Oxley Wild Rivers
 	culture = new_english
 	religion = tersian
 	holding = auto
 }
 
-528 = {  #middle
+528 = {  #Trinidad
 	holding = auto
 }
 
-529 = {  #left
+529 = {  #Walcha
 	holding = auto
 }
 
-### c_sandon
-530 = {  #bottom
+### c_armidale
+530 = {  #Uralla
 	culture = new_english
 	religion = tersian
 	holding = auto
 }
 
-531 = {  #top
+531 = {  #Armidale
 	holding = auto
 }
 
 # d_new_england_tablelands
 ### c_clarke
-532 = {  #right
+532 = {  #Ebor
 	culture = new_english
 	religion = tersian
 	holding = auto
 }
 
-533 = {  #left
+533 = {  #Wollomombi
 	holding = auto
 }
 
-534 = {  #top
+534 = {  #Guy Fawkes
 	holding = auto
 }
 
 ### c_gresham
-541 = {  #left
+541 = {  #Glen Nevis
 	culture = new_english
 	religion = tersian
 	holding = auto
 }
 
-542 = {  #right
+542 = {  #Dalmorton
 	holding = auto
 }
 
-### c_clive
-557 = {  #Clive
+### c_tenterfield
+557 = {  #Washpool Park
 	culture = new_english
 	religion = tersian
 	holding = auto
 }
 
-558 = {  #Clive 1
+558 = {  #Deepwater
 	holding = auto
 }
 
-559 = {  #Clive 2
+559 = {  #Tenterfield
 	holding = auto
 }
 
-560 = {  #Clive 3
+560 = {  #Torrington Park
 	holding = auto
 }
 
-### c_gough
-561 = {  #Gough
+### c_glen_innes
+561 = {  #Glen Innes
 	culture = new_english
 	religion = tersian
 	holding = auto
 }
 
-562 = {  #Gough 1
+562 = {  #Torrington
 	holding = auto
 }
 
-563 = {  #Gough 2
+563 = {  #Elsmore
 	holding = auto
 }
 
 # d_new_highlands
 ### c_drake
-543 = {  #bottom
+543 = {  #Washpool
 	culture = new_english
 	religion = tersian
 	holding = auto
 }
 
-544 = {  #left
+544 = {  #Tabulam
 	holding = auto
 }
 
-545 = {  #right
+545 = {  #Mallanganee
 	holding = auto
 }
 
 ### c_buller
-555 = {  #rous middle l
+555 = {  #Kyogle
 	culture = new_english
 	religion = tersian
 	holding = auto
 }
 
-556 = {  #rous left
+556 = {  #Urbenville
 	holding = auto
 }
 
 # d_lowlands
 ### c_clarence
-546 = {  #top r
+546 = {  #Yamba
 	culture = new_english
 	religion = tersian
 	holding = auto
 }
 
-547 = {  #bottom r
+547 = {  #Wooli
 	holding = auto
 }
 
-548 = {  #left
+548 = {  #Grafton
 	holding = auto
 }
 
-### c_richmond_valley
-549 = {  #left 1
+### c_casino
+549 = {  #Casino
 	culture = new_english
 	religion = tersian
 	holding = auto
 }
 
-550 = {  #right
+550 = {  #Woodburn
 	holding = auto
 }
 
-### c_rous
-551 = {  #Rous bottom r
+### c_lismore
+551 = {  #Ballina
 	culture = new_english
 	religion = tersian
 	holding = auto
 }
 
-552 = {  #rous middle r
+552 = {  #Lismore
 	holding = auto
 }
 
-553 = {  #rous top r
+553 = {  #Byron Bay
 	holding = auto
 }
 
-554 = {  #rous middle r
+554 = {  #Nimbin
 	holding = auto
 }
 
 # d_nandewar
 ### c_hardinge
-564 = {  #Hardinge
+564 = {  #Tingha
 	culture = rivers
 	religion = tersian
 	holding = auto
 }
 
-565 = {  #Hardinge 1
+565 = {  #Bundarra
 	holding = auto
 }
 
 ### c_darling
-566 = {  #Darling
+566 = {  #Manilla
 	culture = rivers
 	religion = tersian
 	holding = auto
 }
 
-567 = {  #Darling 1
+567 = {  #Barraba
 	holding = auto
 }
 
 ### c_nandewar
-574 = {  #Nandewar
+574 = {  #Gunnedah
 	culture = rivers
 	religion = tersian
 	holding = auto
 }
 
-575 = {  #Nandewar 1
+575 = {  #Narrabri
 	holding = auto
 }
 
 ### c_murchison
-576 = {  #Murchison
+576 = {  #Gwydir
 	culture = rivers
 	religion = tersian
 	holding = auto
 }
 
-577 = {  #Murchison 1
+577 = {  #Bingara
 	holding = auto
 }
 
-578 = {  #Murchison 2
+578 = {  #Upper Horton
 	holding = auto
 }
 
 ### c_jamison
-594 = {  #Jamison
+594 = {  #Bellata
 	culture = rivers
 	religion = tersian
 	holding = auto
 }
 
-595 = {  #Jamison 1
+595 = {  #Belar
 	holding = auto
 }
 
-596 = {  #Jamison 2
+596 = {  #Wee Waa
 	holding = auto
 }
 
-597 = {  #Jamison 3
+597 = {  #Billaboo
 	holding = auto
 }
 
-598 = {  #Jamison 4
+598 = {  #Burren Junction
 	holding = auto
 }
 
@@ -1628,213 +1633,213 @@
 	holding = auto
 }
 
-### c_parry
-569 = {  #Parry
+### c_tamworth
+569 = {  #Tamworth
 	culture = rivers
 	religion = tersian
 	holding = auto
 }
 
-### c_buckland
-570 = {  #Buckland
+### c_carroll
+570 = {  #Carroll
 	culture = rivers
 	religion = tersian
 	holding = auto
 }
 
 ### c_pottinger
-571 = {  #Pottinger
+571 = {  #Spring Ridge
 	culture = rivers
 	religion = tersian
 	holding = auto
 }
 
-572 = {  #Pottinger 1
+572 = {  #Tambar Springs
 	holding = auto
 }
 
-573 = {  #Pottinger 2
+573 = {  #Boggabri
 	holding = auto
 }
 
 # d_north_west_slopes
 ### c_arrawatta
-579 = {  #Arrawatta
+579 = {  #Inverell
 	culture = rivers
 	religion = tersian
 	holding = auto
 }
 
-580 = {  #Arrawatta 1
+580 = {  #Ashford
 	holding = auto
 }
 
-581 = {  #Arrawatta 2
+581 = {  #Dthinna
 	holding = auto
 }
 
 ### c_burnett
-582 = {  #Burnett
+582 = {  #Warialda
 	culture = rivers
 	religion = tersian
 	holding = auto
 }
 
-583 = {  #Burnett 1
+583 = {  #Delungra
 	holding = auto
 }
 
-584 = {  #Burnett 2
+584 = {  #Croppa Creek
 	holding = auto
 }
 
 ### c_stapylton
-585 = {  #Stapylton
+585 = {  #Boggabilla
 	culture = rivers
 	religion = tersian
 	holding = auto
 }
 
-586 = {  #Stapylton 1
+586 = {  #North Star
 	holding = auto
 }
 
-587 = {  #Stapylton 2
+587 = {  #Garah
 	holding = auto
 }
 
 ### c_courallie
-588 = {  #Courallie
+588 = {  #Pringle
 	culture = rivers
 	religion = tersian
 	holding = auto
 }
 
-589 = {  #Courallie 1
+589 = {  #Moree
 	holding = auto
 }
 
 # k_orana
 # d_orana
 ### c_benarba
-590 = {  #Benarba
+590 = {  #Moomin
 	culture = rivers
 	religion = tersian
 	holding = auto
 }
 
-591 = {  #Benarba 1
+591 = {  #Collarenebri
 	holding = auto
 }
 
-592 = {  #Benarba 2
+592 = {  #Mungindi
 	holding = auto
 }
 
-593 = {  #Benarba 3
+593 = {  #Boomi
 	holding = auto
 }
 
 ### c_denham
-660 = {  #Denham
+660 = {  #Bugilbone
 	culture = rivers
 	religion = tersian
 	holding = auto
 }
 
-661 = {  #Denham 1
+661 = {  #Barwon
 	holding = auto
 }
 
-662 = {  #Denham 2
+662 = {  #Pian
 	holding = auto
 }
 
 ### c_finch
-663 = {  #Finch
+663 = {  #Glatherindi
 	culture = murrawarrian
 	religion = tersian
 	holding = auto
 }
 
-664 = {  #Finch 1
+664 = {  #Cambo Cambo
 	holding = auto
 }
 
-665 = {  #Finch 2
+665 = {  #Lightning Ridge
 	holding = auto
 }
 
-666 = {  #Finch 3
+666 = {  #Gingie
 	holding = auto
 }
 
 ### c_narran
-667 = {  #Narran
+667 = {  #Brewarinna
 	culture = murrawarrian
 	religion = tersian
 	holding = auto
 }
 
-668 = {  #Narran 1
+668 = {  #Narran
 	holding = auto
 }
 
-669 = {  #Narran 2
+669 = {  #Goodooga
 	holding = auto
 }
 
 # d_leichardt
 ### c_white
-599 = {  #White
+599 = {  #Pilliga South
 	culture = rivers
 	religion = tersian
 	holding = auto
 }
 
-600 = {  #White 1
+600 = {  #Bibblewindi
 	holding = auto
 }
 
-601 = {  #White 2
+601 = {  #Pilliga East
 	holding = auto
 }
 
-602 = {  #White 3
+602 = {  #Jacks Creek
 	holding = auto
 }
 
 ### c_napier
-603 = {  #Napier
+603 = {  #Lowe
 	culture = rivers
 	religion = tersian
 	holding = auto
 }
 
-604 = {  #Napier 1
+604 = {  #Neilrex
 	holding = auto
 }
 
-605 = {  #Napier 2
+605 = {  #Purlewaugh
 	holding = auto
 }
 
 ### c_gowen
-649 = {  #Gowen
+649 = {  #Mendooran
 	culture = wamboolian
 	religion = tersian
 	holding = auto
 }
 
-650 = {  #Gowen 1
+650 = {  #Biddon
 	holding = auto
 }
 
-651 = {  #Gowen 2
+651 = {  #Coonabarabran
 	holding = auto
 }
 
-652 = {  #Gowen 3
+652 = {  #Tooraweenah
 	holding = auto
 }
 
@@ -1845,274 +1850,274 @@
 	holding = auto
 }
 
-654 = {  #Baradine 1
+654 = {  #Timmallallie
 	holding = auto
 }
 
-655 = {  #Baradine 2
+655 = {  #Gwabegar
 	holding = auto
 }
 
-656 = {  #Baradine 3
+656 = {  #Walgett
 	holding = auto
 }
 
 ### c_leichardt
-657 = {  #Leichardt
+657 = {  #Coonamble
 	culture = murrawarrian
 	religion = tersian
 	holding = auto
 }
 
-658 = {  #Leichardt 1
+658 = {  #Wingadee
 	holding = auto
 }
 
-659 = {  #Leichardt 2
+659 = {  #Claremont
 	holding = auto
 }
 
 # d_irrara
 ### c_south_culgoa
-670 = {  #South Culgoa
+670 = {  #Malgoolie
 	culture = murrawarrian
 	religion = tersian
 	holding = auto
 }
 
-671 = {  #South Culgoa 1
+671 = {  #Weilmoringle
 	holding = auto
 }
 
-672 = {  #South Culgoa 2
+672 = {  #Ledknapper
 	holding = auto
 }
 
 ### c_gunderbooka
-673 = {  #Gunderbooka
+673 = {  #North Bourke
 	culture = murrawarrian
 	religion = tersian
 	holding = auto
 }
 
-674 = {  #Gunderbooka 1
+674 = {  #Bullaroon
 	holding = auto
 }
 
 ### c_irrara
-675 = {  #Irrara
+675 = {  #Kerribree
 	culture = murrawarrian
 	religion = tersian
 	holding = auto
 }
 
-676 = {  #Irrara 1
+676 = {  #Irrara
 	holding = auto
 }
 
-677 = {  #Irrara 2
+677 = {  #Willara
 	holding = auto
 }
 
-678 = {  #Irrara 3
+678 = {  #Manatoo
 	holding = auto
 }
 
 ### c_barrona
-679 = {  #Barrona
+679 = {  #Nocoleche
 	culture = murrawarrian
 	religion = tersian
 	holding = auto
 }
 
-680 = {  #Barrona 1
+680 = {  #Round Hill
 	holding = auto
 }
 
 ### c_landsborough
-710 = {  #Landsborough
+710 = {  #Carney
 	culture = baakan
 	religion = tersian
 	holding = auto
 }
 
-711 = {  #Landsborough 1
+711 = {  #Toorale
 	holding = auto
 }
 
 # d_clyde
 ### c_yanda
-712 = {  #Yanda
+712 = {  #Elutha
 	culture = wamboolian
 	religion = tersian
 	holding = auto
 }
 
-713 = {  #Yanda 1
+713 = {  #Gundabooka
 	holding = auto
 }
 
 ### c_cowper
-714 = {  #Cowper
+714 = {  #Nidgery
 	culture = murrawarrian
 	religion = tersian
 	holding = auto
 }
 
-715 = {  #Cowper 1
+715 = {  #Garfield
 	holding = auto
 }
 
-716 = {  #Cowper 2
+716 = {  #Tarcoon
 	holding = auto
 }
 
-717 = {  #Cowper 3
+717 = {  #Bourke
 	holding = auto
 }
 
-718 = {  #Cowper 4
+718 = {  #Coolabah
 	holding = auto
 }
 
 ### c_clyde
-719 = {  #Clyde
+719 = {  #Barwon Bogan
 	culture = murrawarrian
 	religion = tersian
 	holding = auto
 }
 
-720 = {  #Clyde 1
+720 = {  #Uki
 	holding = auto
 }
 
-721 = {  #Clyde 2
+721 = {  #Ginghet
 	holding = auto
 }
 
 ### c_gregory
-722 = {  #Gregory
+722 = {  #Dryburgh
 	culture = wamboolian
 	religion = tersian
 	holding = auto
 }
 
-723 = {  #Gregory 1
+723 = {  #Quambone
 	holding = auto
 }
 
-724 = {  #Gregory 2
+724 = {  #Murrawombie
 	holding = auto
 }
 
 ### c_canbelego
-727 = {  #Canbelego
+727 = {  #Muriel
 	culture = wamboolian
 	religion = tersian
 	holding = auto
 }
 
-728 = {  #Canbelego 1
+728 = {  #Nyngan
 	holding = auto
 }
 
 # k_mourewenmar
 # d_lincoln
-### c_lincoln
-606 = {  #Lincoln
+### c_dubbo
+606 = {  #Geurie
 	culture = wamboolian
 	religion = tersian
 	holding = auto
 }
 
-607 = {  #Lincoln 1
+607 = {  #Goonoo
 	holding = auto
 }
 
-608 = {  #Lincoln 2
+608 = {  #Dubbo
 	holding = auto
 }
 
 ### c_gordon
-609 = {  #Gordon
+609 = {  #Cumnock
 	culture = wamboolian
 	religion = tersian
 	holding = auto
 }
 
-610 = {  #Gordon 1
+610 = {  #Yeoval
 	holding = auto
 }
 
 ### c_ashburnham
-611 = {  #Ashburnham
+611 = {  #Cuda
 	culture = wamboolian
 	religion = tersian
 	holding = auto
 }
 
-612 = {  #Ashburnham 1
+612 = {  #Manildra
 	holding = auto
 }
 
-613 = {  #Ashburnham 2
+613 = {  #Forbes
 	holding = auto
 }
 
-614 = {  #Ashburnham 3
+614 = {  #Parkes
 	holding = auto
 }
 
 # d_ewenmar
 ### c_cunningham
-639 = {  #Cunningham
+639 = {  #Trundle
 	culture = wamboolian
 	religion = tersian
 	holding = auto
 }
 
-640 = {  #Cunningham 1
+640 = {  #Woggoon
 	holding = auto
 }
 
 ### c_kennedy
-641 = {  #Kennedy
+641 = {  #Tullamore
 	culture = wamboolian
 	religion = tersian
 	holding = auto
 }
 
-642 = {  #Kennedy 1
+642 = {  #Tottenham
 	holding = auto
 }
 
 ### c_narromine
-643 = {  #Narromine
+643 = {  #Peak Hill
 	culture = wamboolian
 	religion = tersian
 	holding = auto
 }
 
-644 = {  #Narromine 1
+644 = {  #Narromine
 	holding = auto
 }
 
-645 = {  #Narromine 2
+645 = {  #Trangie
 	holding = auto
 }
 
 ### c_ewenmar
-646 = {  #Ewenmar
+646 = {  #Gilgandra
 	culture = wamboolian
 	religion = tersian
 	holding = auto
 }
 
-647 = {  #Ewenmar 1
+647 = {  #Warren
 	holding = auto
 }
 
-648 = {  #Ewenmar 2
+648 = {  #Gulargambone
 	holding = auto
 }
 
@@ -2138,223 +2143,223 @@
 	holding = auto
 }
 
-730 = {  #Robinson 1
+730 = {  #Coronga
 	holding = auto
 }
 
-731 = {  #Robinson 2
+731 = {  #Cobar
 	holding = auto
 }
 
 ### c_booroondarra
-732 = {  #Booroondarra
+732 = {  #Paddington
 	culture = wamboolian
 	religion = tersian
 	holding = auto
 }
 
-733 = {  #Booroondarra 1
+733 = {  #Euchara
 	holding = auto
 }
 
 ### c_rankin
-734 = {  #Rankin
+734 = {  #Deniehy
 	culture = baakan
 	religion = tersian
 	holding = auto
 }
 
-735 = {  #Rankin 1
+735 = {  #Thourumble
 	holding = auto
 }
 
-736 = {  #Rankin 2
+736 = {  #Budda
 	holding = auto
 }
 
 ### c_woore
-755 = {  #Woore
+755 = {  #Barcham
 	culture = wamboolian
 	religion = tersian
 	holding = auto
 }
 
-756 = {  #Woore 1
+756 = {  #Emerald Plain
 	holding = auto
 }
 
-757 = {  #Woore 2
+757 = {  #Hay Shire
 	holding = auto
 }
 
 ### c_mossgiel
-758 = {  #Mossgiel
+758 = {  #Trida
 	culture = wamboolian
 	religion = tersian
 	holding = auto
 }
 
-759 = {  #Mossgiel 1
+759 = {  #Yathong
 	holding = auto
 }
 
-760 = {  #Mossgiel 2
+760 = {  #Pingunnia
 	holding = auto
 }
 
-761 = {  #Mossgiel 3
+761 = {  #Ivanhoe
 	holding = auto
 }
 
 ### c_blaxland
-762 = {  #Blaxland
+762 = {  #Lachlan Valley
 	culture = wamboolian
 	religion = tersian
 	holding = auto
 }
 
-763 = {  #Blaxland 1
+763 = {  #Mount Hope
 	holding = auto
 }
 
-764 = {  #Blaxland 2
+764 = {  #Burthong
 	holding = auto
 }
 
-765 = {  #Blaxland 3
+765 = {  #Nombinnie
 	holding = auto
 }
 
 ### c_mouramba
-766 = {  #Mouramba
+766 = {  #Nymagee
 	culture = wamboolian
 	religion = tersian
 	holding = auto
 }
 
-767 = {  #Mouramba 1
+767 = {  #Restdown
 	holding = auto
 }
 
-768 = {  #Mouramba 2
+768 = {  #Ellerslie
 	holding = auto
 }
 
 # k_riverina
 # d_hilltops
 ### c_forbes
-615 = {  #Forbes
+615 = {  #Cowra
 	culture = wamboolian
 	religion = tersian
 	holding = auto
 }
 
-616 = {  #Forbes 1
+616 = {  #Pullabooka
 	holding = auto
 }
 
 ### c_monteagle
-617 = {  #Monteagle
+617 = {  #Young
 	culture = alpine
 	religion = tersian
 	holding = auto
 }
 
-618 = {  #Monteagle 1
+618 = {  #Grenfell
 	holding = auto
 }
 
 ### c_bland
-633 = {  #Bland
+633 = {  #Bribbaree
 	culture = wamboolian
 	religion = tersian
 	holding = auto
 }
 
-634 = {  #Bland 1
+634 = {  #Temora
 	holding = auto
 }
 
-635 = {  #Bland 2
+635 = {  #West Wyalong
 	holding = auto
 }
 
 ### c_gipps
-636 = {  #Gipps
+636 = {  #Hiawatha
 	culture = wamboolian
 	religion = tersian
 	holding = auto
 }
 
-637 = {  #Gipps 1
+637 = {  #Gum Swamp
 	holding = auto
 }
 
-638 = {  #Gipps 2
+638 = {  #Condobolin
 	holding = auto
 }
 
 # d_coolamon
 ### c_dowling
-769 = {  #Dowling
+769 = {  #Lake Cargelligo
 	culture = wamboolian
 	religion = tersian
 	holding = auto
 }
 
-770 = {  #Dowling 1
+770 = {  #Brewser
 	holding = auto
 }
 
 ### c_nicholson
-771 = {  #Nicholson
+771 = {  #Goolgowi
 	culture = murrumbidgeen
 	religion = tersian
 	holding = auto
 }
 
-772 = {  #Nicholson 1
+772 = {  #Hillston
 	holding = auto
 }
 
 ### c_sturt
-805 = {  #Sturt
+805 = {  #Griffith
 	culture = murrumbidgeen
 	religion = tersian
 	holding = auto
 }
 
-806 = {  #Sturt 1
+806 = {  #Carrathool
 	holding = auto
 }
 
 ### c_boyd
-807 = {  #Boyd
+807 = {  #Coleambaly
 	culture = murrumbidgeen
 	religion = tersian
 	holding = auto
 }
 
-808 = {  #Boyd 1
+808 = {  #Oolambeyan
 	holding = auto
 }
 
 ### c_cooper
-809 = {  #Cooper
+809 = {  #Leeton
 	culture = murrumbidgeen
 	religion = tersian
 	holding = auto
 }
 
-810 = {  #Cooper 1
+810 = {  #Wallandry
 	holding = auto
 }
 
-811 = {  #Cooper 2
+811 = {  #Darlington Point
 	holding = auto
 }
 
-812 = {  #Cooper 3
+812 = {  #Barellan
 	holding = auto
 }
 
@@ -2367,229 +2372,229 @@
 }
 
 ### c_waljeers
-774 = {  #Waljeers
+774 = {  #Abbotsford
 	culture = murrumbidgeen
 	religion = tersian
 	holding = auto
 }
 
-775 = {  #Waljeers 1
+775 = {  #Booligal
 	holding = auto
 }
 
 ### c_kilfera
-794 = {  #Kilfera
+794 = {  #Hatfield
 	culture = murrumbidgeen
 	religion = tersian
 	holding = auto
 }
 
-795 = {  #Kilfera 1
+795 = {  #Bomarthong
 	holding = auto
 }
 
-796 = {  #Kilfera 2
+796 = {  #Willibah
 	holding = auto
 }
 
 ### c_caira
-797 = {  #Caira
+797 = {  #Great Cumbungi
 	culture = muruwari
 	religion = tersian
 	holding = auto
 }
 
-798 = {  #Caira 1
+798 = {  #Budgerie
 	holding = auto
 }
 
-799 = {  #Caira 2
+799 = {  #Yanga
 	holding = auto
 }
 
-800 = {  #Caira 3
+800 = {  #Balranald
 	holding = auto
 }
 
 ### c_waradgery
-801 = {  #Waradgery
+801 = {  #Hay
 	culture = murrumbidgeen
 	religion = tersian
 	holding = auto
 }
 
-802 = {  #Waradgery 1
+802 = {  #Kalyarr
 	holding = auto
 }
 
-803 = {  #Waradgery 2
+803 = {  #Wyoming
 	holding = auto
 }
 
-804 = {  #Waradgery 3
+804 = {  #Ilginbah
 	holding = auto
 }
 
 # d_the_rock
 ### c_the_rock
-813 = {  #The Rock
+813 = {  #Collingullie
 	culture = murrumbidgeen
 	religion = tersian
 	holding = auto
 }
 
-814 = {  #The Rock 1
+814 = {  #The Rock
 	holding = auto
 }
 
-815 = {  #The Rock 2
+815 = {  #Narrandera
 	holding = auto
 }
 
 ### c_burke
-816 = {  #Burke
+816 = {  #Coolamon
 	culture = murrumbidgeen
 	religion = tersian
 	holding = auto
 }
 
-817 = {  #Burke 1
+817 = {  #Grong Grong
 	holding = auto
 }
 
-818 = {  #Burke 2
+818 = {  #Ardlethan
 	holding = auto
 }
 
 # d_greater_hume
 ### c_hume
-822 = {  #Hume
+822 = {  #Albury
 	culture = muruwari
 	religion = tersian
 	holding = auto
 }
 
-823 = {  #Hume 1
+823 = {  #Daysdale
 	holding = auto
 }
 
-824 = {  #Hume 2
+824 = {  #Henty
 	holding = auto
 }
 
 ### c_urana
-825 = {  #Urana
+825 = {  #Oaklands
 	culture = muruwari
 	religion = tersian
 	holding = auto
 }
 
-826 = {  #Urana 1
+826 = {  #Lockhart
 	holding = auto
 }
 
-827 = {  #Urana 2
+827 = {  #Urana
 	holding = auto
 }
 
-828 = {  #Urana 3
+828 = {  #Jerilderie
 	holding = auto
 }
 
 ### c_denison
-829 = {  #Denison
+829 = {  #Mulwala
 	culture = muruwari
 	religion = tersian
 	holding = auto
 }
 
-830 = {  #Denison 1
+830 = {  #Berrigan
 	holding = auto
 }
 
-831 = {  #Denison 2
+831 = {  #Tocumwal
 	holding = auto
 }
 
 # d_wakool
 ### c_townsend
-832 = {  #Townsend
+832 = {  #Wonnue
 	culture = muruwari
 	religion = tersian
 	holding = auto
 }
 
-833 = {  #Townsend 1
+833 = {  #Gulpa Island
 	holding = auto
 }
 
-834 = {  #Townsend 2
+834 = {  #Hartwood
 	holding = auto
 }
 
-835 = {  #Townsend 3
+835 = {  #Deniliquin
 	holding = auto
 }
 
-836 = {  #Townsend 4
+836 = {  #Palmer
 	holding = auto
 }
 
 ### c_cadell
-837 = {  #Cadell
+837 = {  #Moama
 	culture = muruwari
 	religion = tersian
 	holding = auto
 }
 
-838 = {  #Cadell 1
+838 = {  #Mathoura
 	holding = auto
 }
 
-839 = {  #Cadell 2
+839 = {  #Caldwell
 	holding = auto
 }
 
 ### c_wakool
-840 = {  #Wakool
+840 = {  #North Barham
 	culture = muruwari
 	religion = tersian
 	holding = auto
 }
 
-841 = {  #Wakool 1
+841 = {  #Wakool
 	holding = auto
 }
 
-842 = {  #Wakool 2
+842 = {  #Moulamein
 	holding = auto
 }
 
-843 = {  #Wakool 3
+843 = {  #Tooleybuc
 	holding = auto
 }
 
 # k_far_west
 # d_ularara
 ### c_thoulcanna
-681 = {  #Thoulcanna
+681 = {  #Kerrininna
 	culture = baakan
 	religion = tersian
 	holding = auto
 }
 
-682 = {  #Thoulcanna 1
+682 = {  #Waverley
 	holding = auto
 }
 
 ### c_ularara
-683 = {  #Ularara
+683 = {  #Urisino
 	culture = baakan
 	religion = tersian
 	holding = auto
 }
 
-684 = {  #Ularara 1
+684 = {  #Narumerpy
 	holding = auto
 }
 
@@ -2601,29 +2606,29 @@
 }
 
 ### c_yantara
-688 = {  #Yantara
+688 = {  #Banjah
 	culture = baakan
 	religion = tersian
 	holding = auto
 }
 
-689 = {  #Yantara 1
+689 = {  #Booligurra
 	holding = auto
 }
 
-690 = {  #Yantara 2
+690 = {  #Yantara
 	holding = auto
 }
 
 # d_evlyn
 ### c_tongowoko
-686 = {  #Tongowoko
+686 = {  #Narriearra
 	culture = baakan
 	religion = tersian
 	holding = auto
 }
 
-687 = {  #Tongowoko 1
+687 = {  #Tibooburra
 	holding = auto
 }
 
@@ -2634,155 +2639,155 @@
 	holding = auto
 }
 
-692 = {  #Poole 1
+692 = {  #Whitecatch
 	holding = auto
 }
 
 ### c_evlyn
-693 = {  #Evlyn
+693 = {  #Whitty
 	culture = baakan
 	religion = tersian
 	holding = auto
 }
 
-694 = {  #Evlyn 1
+694 = {  #Mount Blackwood
 	holding = auto
 }
 
-695 = {  #Evlyn 2
+695 = {  #Milparinka
 	holding = auto
 }
 
 ### c_farnell
-696 = {  #Farnell
+696 = {  #Dering
 	culture = baakan
 	religion = tersian
 	holding = auto
 }
 
-697 = {  #Farnell 1
+697 = {  #Yowahro
 	holding = auto
 }
 
-698 = {  #Farnell 2
+698 = {  #Fowlers Gap
 	holding = auto
 }
 
 ### c_mootwingee
-699 = {  #Mootwingee
+699 = {  #Acacia Downs
 	culture = baakan
 	religion = tersian
 	holding = auto
 }
 
-700 = {  #Mootwingee 1
+700 = {  #Wonnaminta
 	holding = auto
 }
 
-701 = {  #Mootwingee 2
+701 = {  #Mutawintji
 	holding = auto
 }
 
 # d_killara
 ### c_yungnulgra
-702 = {  #Yungnulgra
+702 = {  #Coona Coona
 	culture = baakan
 	religion = tersian
 	holding = auto
 }
 
-703 = {  #Yungnulgra 1
+703 = {  #Yungnulgra
 	holding = auto
 }
 
-704 = {  #Yungnulgra 2
+704 = {  #White Cliffs
 	holding = auto
 }
 
-### c_fitzgerlald
-705 = {  #Fitzgerlald
+### c_fitzgerald
+705 = {  #Fitzgerald
 	culture = baakan
 	religion = tersian
 	holding = auto
 }
 
-706 = {  #Fitzgerlald 1
+706 = {  #Noonamah
 	holding = auto
 }
 
 ### c_killara
-707 = {  #Killara
+707 = {  #Paroo Darling
 	culture = baakan
 	religion = tersian
 	holding = auto
 }
 
-708 = {  #Killara 1
+708 = {  #Bonny
 	holding = auto
 }
 
-709 = {  #Killara 2
+709 = {  #Tutty
 	holding = auto
 }
 
 # d_tandora
 ### c_werunda
-737 = {  #Werunda
+737 = {  #Ringrose
 	culture = baakan
 	religion = tersian
 	holding = auto
 }
 
-738 = {  #Werunda 1
+738 = {  #Poopelloe
 	holding = auto
 }
 
-739 = {  #Werunda 2
+739 = {  #Wilcannia
 	holding = auto
 }
 
 ### c_young
-740 = {  #Young
+740 = {  #Mulyenery
 	culture = baakan
 	religion = tersian
 	holding = auto
 }
 
-741 = {  #Young 1
+741 = {  #Blumenthal
 	holding = auto
 }
 
-742 = {  #Young 2
+742 = {  #Waltragalda
 	holding = auto
 }
 
-743 = {  #Young 3
+743 = {  #Wilandra
 	holding = auto
 }
 
 ### c_tandora
-744 = {  #Tandora
+744 = {  #Pamamaroo
 	culture = murrumbidgeen
 	religion = tersian
 	holding = auto
 }
 
-745 = {  #Tandora 1
+745 = {  #Topar
 	holding = auto
 }
 
-746 = {  #Tandora 2
+746 = {  #North Menindee
 	holding = auto
 }
 
 ### c_yancowinna
-747 = {  #Yancowinna
+747 = {  #Broken Hill
 	culture = murrumbidgeen
 	religion = tersian
 	holding = auto
 }
 
-748 = {  #Yancowinna 1
+748 = {  #Burns
 	holding = auto
 }
 
@@ -2793,57 +2798,57 @@
 	holding = auto
 }
 
-750 = {  #Menindee 1
+750 = {  #Buckalow
 	holding = auto
 }
 
 ### c_livingstone
-751 = {  #Livingstone
+751 = {  #Ratcatcher
 	culture = murrumbidgeen
 	religion = tersian
 	holding = auto
 }
 
-752 = {  #Livingstone 1
+752 = {  #Arlington
 	holding = auto
 }
 
-753 = {  #Livingstone 2
+753 = {  #Haribel
 	holding = auto
 }
 
-754 = {  #Livingstone 3
+754 = {  #Blenheim
 	holding = auto
 }
 
 # d_wentworth
 ### c_manara
-776 = {  #Manara
+776 = {  #Matheson
 	culture = murrumbidgeen
 	religion = tersian
 	holding = auto
 }
 
-777 = {  #Manara 1
+777 = {  #Eildon
 	holding = auto
 }
 
-778 = {  #Manara 2
+778 = {  #Oberwells
 	holding = auto
 }
 
 ### c_perry
-779 = {  #Perry
+779 = {  #Kandra
 	culture = murrumbidgeen
 	religion = tersian
 	holding = auto
 }
 
-780 = {  #Perry 1
+780 = {  #Garnpang
 	holding = auto
 }
 
-781 = {  #Perry 2
+781 = {  #Barrara
 	holding = auto
 }
 
@@ -2854,56 +2859,56 @@
 	holding = auto
 }
 
-783 = {  #Windeyer 1
+783 = {  #Spinifex
 	holding = auto
 }
 
-784 = {  #Windeyer 2
+784 = {  #Ginkgo
 	holding = auto
 }
 
 ### c_tarawi
-785 = {  #Tarawi
+785 = {  #Huntingfield
 	culture = muruwari
 	religion = tersian
 	holding = auto
 }
 
-786 = {  #Tarawi 1
+786 = {  #Tarawi
 	holding = auto
 }
 
-787 = {  #Tarawi 2
+787 = {  #Pine Camp
 	holding = auto
 }
 
 ### c_wentworth
-788 = {  #Wentworth
+788 = {  #Lake Mungo
 	culture = muruwari
 	religion = tersian
 	holding = auto
 }
 
-789 = {  #Wentworth 1
+789 = {  #Milkengay
 	holding = auto
 }
 
-790 = {  #Wentworth 2
+790 = {  #Wentworth
 	holding = auto
 }
 
 ### c_taila
-791 = {  #Taila
+791 = {  #Maniette
 	culture = muruwari
 	religion = tersian
 	holding = auto
 }
 
-792 = {  #Taila 1
+792 = {  #Euston
 	holding = auto
 }
 
-793 = {  #Taila 2
+793 = {  #Bunchie
 	holding = auto
 }
 
@@ -2911,75 +2916,75 @@
 # k_adelaide
 # d_limestone_coast
 ### c_mount_gambier
-844 = {  #Mount Gambier
+844 = {  #Penola
 	culture = aussie
 	religion = tersian
 	holding = auto
 }
 
-845 = {  #Mount Gambier 1
+845 = {  #Beachport
 	holding = auto
 }
 
-846 = {  #Mount Gambier 2
+846 = {  #Mount Gambier
 	holding = auto
 }
 
 ### c_naracoorte
-847 = {  #Naracoorte
+847 = {  #Kingston
 	culture = aussie
 	religion = tersian
 	holding = auto
 }
 
-848 = {  #Naracoorte 1
+848 = {  #Robe
 	holding = auto
 }
 
-849 = {  #Naracoorte 2
+849 = {  #Naracoorte
 	holding = auto
 }
 
 ### c_bordertown
-850 = {  #Bordertown
+850 = {  #Ngarkat
 	culture = aussie
 	religion = tersian
 	holding = auto
 }
 
-851 = {  #Bordertown 1
+851 = {  #Tintinara
 	holding = auto
 }
 
-852 = {  #Bordertown 2
+852 = {  #Keith
 	holding = auto
 }
 
-853 = {  #Bordertown 3
+853 = {  #Bordertown
 	holding = auto
 }
 
 # d_adelaide
 ### c_murray_bridge
-854 = {  #Murray Bridge
+854 = {  #Pomong
 	culture = aussie
 	religion = tersian
 	holding = auto
 }
 
-855 = {  #Murray Bridge 1
+855 = {  #Karoonda
 	holding = auto
 }
 
-856 = {  #Murray Bridge 2
+856 = {  #Murray Bridge
 	holding = auto
 }
 
-857 = {  #Murray Bridge 3
+857 = {  #Milang
 	holding = auto
 }
 
-858 = {  #Murray Bridge 4
+858 = {  #Coonalpyn
 	holding = auto
 }
 
@@ -2990,61 +2995,61 @@
 	holding = auto
 }
 
-868 = {  #Adelaide 1
+868 = {  #Woodside
 	holding = auto
 }
 
-869 = {  #Adelaide 2
+869 = {  #McLaren Vale
 	holding = auto
 }
 
-870 = {  #Adelaide 3
+870 = {  #Normanville
 	holding = auto
 }
 
-871 = {  #Adelaide 4
+871 = {  #Victor Harbor
 	holding = auto
 }
 
 ### c_adelaide_plains
-875 = {  #Adelaide Plains
+875 = {  #Owen
 	culture = aussie
 	religion = tersian
 	holding = auto
 }
 
-876 = {  #Adelaide Plains 1
+876 = {  #Kapunda
 	holding = auto
 }
 
-877 = {  #Adelaide Plains 2
+877 = {  #Tununda
 	holding = auto
 }
 
-878 = {  #Adelaide Plains 3
+878 = {  #Gawler
 	holding = auto
 }
 
-879 = {  #Adelaide Plains 4
+879 = {  #Williamstown
 	holding = auto
 }
 
 ### c_ludunda
-880 = {  #Ludunda
+880 = {  #Spalding
 	culture = aussie
 	religion = tersian
 	holding = auto
 }
 
-881 = {  #Ludunda 1
+881 = {  #Clareville
 	holding = auto
 }
 
-882 = {  #Ludunda 2
+882 = {  #Averton
 	holding = auto
 }
 
-883 = {  #Ludunda 3
+883 = {  #Ludunda
 	holding = auto
 }
 
@@ -3056,61 +3061,61 @@
 	holding = auto
 }
 
-860 = {  #Barmera 1
+860 = {  #Loxton
 	holding = auto
 }
 
-861 = {  #Barmera 2
+861 = {  #Alawoona
 	holding = auto
 }
 
-862 = {  #Barmera 3
+862 = {  #Billiatt
 	holding = auto
 }
 
 ### c_waikerie
-863 = {  #Waikerie
+863 = {  #Morganton
 	culture = aussie
 	religion = tersian
 	holding = auto
 }
 
-864 = {  #Waikerie 1
+864 = {  #Waikerie
 	holding = auto
 }
 
-865 = {  #Waikerie 2
+865 = {  #Maggea
 	holding = auto
 }
 
-866 = {  #Waikerie 3
+866 = {  #Swan Reach
 	holding = auto
 }
 
 ### c_burra
-964 = {  #Burra
+964 = {  #Fords Lagoon
 	culture = aussie
 	religion = tersian
 	holding = auto
 }
 
-965 = {  #Burra 1
+965 = {  #Burra
 	holding = auto
 }
 
-966 = {  #Burra 2
+966 = {  #Birdsong
 	holding = auto
 }
 
 # d_kangaroo_island
 ### c_kingscote
-872 = {  #Kingscote
+872 = {  #Penneshaw
 	culture = aussie
 	religion = tersian
 	holding = auto
 }
 
-873 = {  #Kingscote 1
+873 = {  #Kingscote
 	holding = auto
 }
 
@@ -3129,133 +3134,133 @@
 	holding = auto
 }
 
-885 = {  #Port Pirie 1
+885 = {  #Snowtown
 	holding = auto
 }
 
-886 = {  #Port Pirie 2
+886 = {  #Blyth
 	holding = auto
 }
 
-887 = {  #Port Pirie 3
+887 = {  #Balaklava
 	holding = auto
 }
 
 ### c_moonta
-888 = {  #Moonta
+888 = {  #Kadina
 	culture = aussie
 	religion = tersian
 	holding = auto
 }
 
-889 = {  #Moonta 1
+889 = {  #Moonta
 	holding = auto
 }
 
-890 = {  #Moonta 2
+890 = {  #Ardrossan
 	holding = auto
 }
 
 ### c_yorketown
-891 = {  #Yorketown
+891 = {  #Miniaton
 	culture = aussie
 	religion = tersian
 	holding = auto
 }
 
-892 = {  #Yorketown 1
+892 = {  #Yorketown
 	holding = auto
 }
 
-893 = {  #Yorketown 2
+893 = {  #Stenhouse Bay
 	holding = auto
 }
 
 # d_filnders_ranges
 ### c_jamestown
-894 = {  #Jamestown
+894 = {  #Franklyn
 	culture = aussie
 	religion = tersian
 	holding = auto
 }
 
-895 = {  #Jamestown 1
+895 = {  #Terowae
 	holding = auto
 }
 
-896 = {  #Jamestown 2
+896 = {  #Jamestown
 	holding = auto
 }
 
 ### c_peterborough
-897 = {  #Peterborough
+897 = {  #Orroroo
 	culture = aussie
 	religion = tersian
 	holding = auto
 }
 
-898 = {  #Peterborough 1
+898 = {  #Boola Wirra
 	holding = auto
 }
 
-899 = {  #Peterborough 2
+899 = {  #Peterborough
 	holding = auto
 }
 
 ### c_boolero
-900 = {  #Boolero
+900 = {  #Wilmington
 	culture = aussie
 	religion = tersian
 	holding = auto
 }
 
-901 = {  #Boolero 1
+901 = {  #Boolero
 	holding = auto
 }
 
-902 = {  #Boolero 2
+902 = {  #Port Gernein
 	holding = auto
 }
 
-903 = {  #Boolero 3
+903 = {  #Napperby Laura
 	holding = auto
 }
 
-904 = {  #Boolero 4
+904 = {  #Gladston
 	holding = auto
 }
 
 ### c_quorn
-905 = {  #Quorn
+905 = {  #Nauroodia
 	culture = aussie
 	religion = tersian
 	holding = auto
 }
 
-906 = {  #Quorn 1
+906 = {  #Hawker
 	holding = auto
 }
 
-907 = {  #Quorn 2
+907 = {  #Quorn
 	holding = auto
 }
 
-908 = {  #Quorn 3
+908 = {  #Carrieton
 	holding = auto
 }
 
 ### c_baratta
-909 = {  #Baratta
+909 = {  #Martins Well
 	culture = aussie
 	religion = tersian
 	holding = auto
 }
 
-910 = {  #Baratta 1
+910 = {  #Baratta
 	holding = auto
 }
 
-911 = {  #Baratta 2
+911 = {  #Minburra
 	holding = auto
 }
 
@@ -3267,11 +3272,11 @@
 	holding = auto
 }
 
-917 = {  #Port Augusta 1
+917 = {  #Iron Knob
 	holding = auto
 }
 
-918 = {  #Port Augusta 2
+918 = {  #Roopena
 	holding = auto
 }
 
@@ -3284,15 +3289,15 @@
 	holding = auto
 }
 
-913 = {  #Leigh Creek 1
+913 = {  #Torrens
 	holding = auto
 }
 
-914 = {  #Leigh Creek 2
+914 = {  #Angorichina
 	holding = auto
 }
 
-915 = {  #Leigh Creek 3
+915 = {  #Wilpera
 	holding = auto
 }
 
@@ -3417,126 +3422,126 @@
 	holding = auto
 }
 
-920 = {  #Whyalla 1
+920 = {  #Midgee
 	holding = auto
 }
 
-921 = {  #Whyalla 2
+921 = {  #Cowell
 	holding = auto
 }
 
 ### c_cleve
-922 = {  #Cleve
+922 = {  #Caralub
 	culture = aussie
 	religion = tersian
 	holding = auto
 }
 
-923 = {  #Cleve 1
+923 = {  #Hambridge
 	holding = auto
 }
 
-924 = {  #Cleve 2
+924 = {  #Cleve
 	holding = auto
 }
 
-925 = {  #Cleve 3
+925 = {  #Rudall
 	holding = auto
 }
 
 ### c_tumby_bay
-926 = {  #Tumby Bay
+926 = {  #Murdloga
 	culture = aussie
 	religion = tersian
 	holding = auto
 }
 
-927 = {  #Tumby Bay 1
+927 = {  #Toolgie
 	holding = auto
 }
 
-928 = {  #Tumby Bay 2
+928 = {  #Wharminda
 	holding = auto
 }
 
-929 = {  #Tumby Bay 3
+929 = {  #Port Neill
 	holding = auto
 }
 
-930 = {  #Tumby Bay 4
+930 = {  #Tumby Bay
 	holding = auto
 }
 
 ### c_port_lincoln
-931 = {  #Port Lincoln
+931 = {  #Cummins
 	culture = aussie
 	religion = tersian
 	holding = auto
 }
 
-932 = {  #Port Lincoln 1
+932 = {  #Coffin Bay
 	holding = auto
 }
 
-933 = {  #Port Lincoln 2
+933 = {  #Port Lincoln
 	holding = auto
 }
 
 # d_gawler
 ### c_elliston
-934 = {  #Elliston
+934 = {  #Talia
 	culture = aussie
 	religion = tersian
 	holding = auto
 }
 
-935 = {  #Elliston 1
+935 = {  #Kopi
 	holding = auto
 }
 
-936 = {  #Elliston 2
+936 = {  #Elliston
 	holding = auto
 }
 
-937 = {  #Elliston 3
+937 = {  #Bascombe
 	holding = auto
 }
 
 ### c_streaky_bay
-938 = {  #Streaky Bay
+938 = {  #Poochera
 	culture = aussie
 	religion = tersian
 	holding = auto
 }
 
-939 = {  #Streaky Bay 1
+939 = {  #Streaky Bay
 	holding = auto
 }
 
-940 = {  #Streaky Bay 2
+940 = {  #Poldinna
 	holding = auto
 }
 
-941 = {  #Streaky Bay 3
+941 = {  #Baird Bay
 	holding = auto
 }
 
 ### c_wirrulla
-942 = {  #Wirrulla
+942 = {  #Kondoolkit
 	culture = aussie
 	religion = tersian
 	holding = auto
 }
 
-943 = {  #Wirrulla 1
+943 = {  #Nunjikompita
 	holding = auto
 }
 
-944 = {  #Wirrulla 2
+944 = {  #Wirrulla
 	holding = auto
 }
 
-945 = {  #Wirrulla 3
+945 = {  #Cungena
 	holding = auto
 }
 
@@ -3572,63 +3577,63 @@
 
 # d_ceduna
 ### c_ceduna
-946 = {  #Ceduna
+946 = {  #Starfield
 	culture = aussie
 	religion = tersian
 	holding = auto
 }
 
-947 = {  #Ceduna 1
+947 = {  #Maitee
 	holding = auto
 }
 
-948 = {  #Ceduna 2
+948 = {  #Ceduna
 	holding = auto
 }
 
-949 = {  #Ceduna 3
+949 = {  #Mudamuckla
 	holding = auto
 }
 
 ### c_port_le_hunt
-950 = {  #Port Le Hunt
+950 = {  #Singletree
 	culture = aussie
 	religion = tersian
 	holding = auto
 }
 
-951 = {  #Port Le Hunt 1
+951 = {  #Ardland
 	holding = auto
 }
 
-952 = {  #Port Le Hunt 2
+952 = {  #Vermin
 	holding = auto
 }
 
-953 = {  #Port Le Hunt 3
+953 = {  #Port Le Hunt
 	holding = auto
 }
 
 ### c_fowlers_bay
-954 = {  #Fowlers Bay
+954 = {  #Owlturn
 	culture = aussie
 	religion = tersian
 	holding = auto
 }
 
-955 = {  #Fowlers Bay 1
+955 = {  #Yalata
 	holding = auto
 }
 
-956 = {  #Fowlers Bay 2
+956 = {  #Nundree
 	holding = auto
 }
 
-957 = {  #Fowlers Bay 3
+957 = {  #Boree
 	holding = auto
 }
 
-958 = {  #Fowlers Bay 4
+958 = {  #Fowlers Bay
 	holding = auto
 }
 
@@ -3965,7 +3970,7 @@
 	holding = auto
 }
 
-1581 = {  #Red River 1
+1581 = {  #Dagworth
 	holding = auto
 }
 
@@ -3976,7 +3981,7 @@
 	holding = auto
 }
 
-1583 = {  #Vanrook 1
+1583 = {  #Miranda Downs
 	holding = auto
 }
 
@@ -3995,13 +4000,13 @@
 }
 
 ### c_blackdown
-1588 = {  #Blackdown
+1588 = {  #Gamboola
 	culture = aussie
 	religion = tersian
 	holding = auto
 }
 
-1589 = {  #Blackdown 1
+1589 = {  #Blackdown
 	holding = auto
 }
 
@@ -4020,45 +4025,45 @@
 	holding = auto
 }
 
-1605 = {  #Kowanyama 1
+1605 = {  #Oykangand
 	holding = auto
 }
 
 ### c_pormpuraaw
-1606 = {  #Pormpuraaw
+1606 = {  #Holroyd
 	culture = aussie
 	religion = tersian
 	holding = auto
 }
 
-1607 = {  #Pormpuraaw 1
+1607 = {  #Pormpuraaw
 	holding = auto
 }
 
 # d_reeflands
 ### c_dixie
-1608 = {  #Dixie
+1608 = {  #Yarradend
 	culture = aussie
 	religion = tersian
 	holding = auto
 }
 
-1609 = {  #Dixie 1
+1609 = {  #Musgrave
 	holding = auto
 }
 
-1610 = {  #Dixie 2
+1610 = {  #Dixie
 	holding = auto
 }
 
 ### c_lakefield
-1611 = {  #Lakefield
+1611 = {  #Marina
 	culture = aussie
 	religion = tersian
 	holding = auto
 }
 
-1612 = {  #Lakefield 1
+1612 = {  #Lakefield
 	holding = auto
 }
 
@@ -4069,49 +4074,49 @@
 	holding = auto
 }
 
-1614 = {  #Cape Melville 1
+1614 = {  #Lily
 	holding = auto
 }
 
 ### c_cooktown
-1615 = {  #Cooktown
+1615 = {  #Cape Flaterry
 	culture = aussie
 	religion = tersian
 	holding = auto
 }
 
-1616 = {  #Cooktown 1
+1616 = {  #Cooktown
 	holding = auto
 }
 
-1617 = {  #Cooktown 2
+1617 = {  #Little Laura
 	holding = auto
 }
 
 ### c_coen
-1618 = {  #Coen
+1618 = {  #Coralview
 	culture = aussie
 	religion = tersian
 	holding = auto
 }
 
-1619 = {  #Coen 1
+1619 = {  #Coen
 	holding = auto
 }
 
-1620 = {  #Coen 2
+1620 = {  #Benyo
 	holding = auto
 }
 
 # d_mungkan_kandju
 ### c_archer_river
-1621 = {  #Archer River
+1621 = {  #Cape Sidmouth
 	culture = aussie
 	religion = tersian
 	holding = auto
 }
 
-1622 = {  #Archer River 1
+1622 = {  #Archer River
 	holding = auto
 }
 
@@ -4345,7 +4350,7 @@
 	holding = auto
 }
 
-1098 = {  #Dunkeld
+1098 = {  #Springfield
 	holding = auto
 }
 
@@ -4371,11 +4376,11 @@
 	holding = auto
 }
 
-1123 = {  #Surat 1
+1123 = {  #Glenmorgan
 	holding = auto
 }
 
-1124 = {  #Surat 2
+1124 = {  #Glenmore
 	holding = auto
 }
 
@@ -4386,7 +4391,7 @@
 	holding = auto
 }
 
-1146 = {  #Forest Vale 1
+1146 = {  #Cornwall
 	holding = auto
 }
 
@@ -4437,21 +4442,21 @@
 }
 
 ### c_chinchilla
-1118 = {  #Chinchilla
+1118 = {  #Alfred Creek
 	culture = aussie
 	religion = tersian
 	holding = auto
 }
 
-1119 = {  #Chinchilla 1
+1119 = {  #Durong
 	holding = auto
 }
 
-1120 = {  #Chinchilla 2
+1120 = {  #Columboola
 	holding = auto
 }
 
-1121 = {  #Chinchilla 3
+1121 = {  #Chinchilla
 	holding = auto
 }
 
@@ -4472,59 +4477,59 @@
 }
 
 ### c_sunshine_coast
-1125 = {  #Sunshine Coast
+1125 = {  #Tiaro
 	culture = aussie
 	religion = tersian
 	holding = auto
 }
 
-1126 = {  #Sunshine Coast 1
+1126 = {  #Tin Can
 	holding = auto
 }
 
-1127 = {  #Sunshine Coast 2
+1127 = {  #Killuvan
 	holding = auto
 }
 
-1128 = {  #Sunshine Coast 3
+1128 = {  #Gymple
 	holding = auto
 }
 
-1129 = {  #Sunshine Coast 4
+1129 = {  #Noosa Heads
 	holding = auto
 }
 
 ### c_maryborough
-1130 = {  #Maryborough
+1130 = {  #Fraser Island
 	culture = aussie
 	religion = tersian
 	holding = auto
 }
 
-1131 = {  #Maryborough 1
+1131 = {  #Hervey Bay
 	holding = auto
 }
 
-1132 = {  #Maryborough 2
+1132 = {  #Maryborough
 	holding = auto
 }
 
-1133 = {  #Maryborough 3
+1133 = {  #Biggenden
 	holding = auto
 }
 
-1134 = {  #Maryborough 4
+1134 = {  #Gayndah
 	holding = auto
 }
 
 ### c_mundubbera
-1135 = {  #Mundubbera
+1135 = {  #Eidsvold
 	culture = aussie
 	religion = tersian
 	holding = auto
 }
 
-1136 = {  #Mundubbera 1
+1136 = {  #Mundubbera
 	holding = auto
 }
 
@@ -4536,69 +4541,69 @@
 	holding = auto
 }
 
-1138 = {  #Taroom 1
+1138 = {  #Cockatoo
 	holding = auto
 }
 
-1139 = {  #Taroom 2
+1139 = {  #Bungaban
 	holding = auto
 }
 
-1140 = {  #Taroom 3
+1140 = {  #Bundi
 	holding = auto
 }
 
 ### c_injune
-1141 = {  #Injune
+1141 = {  #Barbondah
 	culture = aussie
 	religion = tersian
 	holding = auto
 }
 
-1142 = {  #Injune 1
+1142 = {  #Eurombah
 	holding = auto
 }
 
-1143 = {  #Injune 2
+1143 = {  #Injune
 	holding = auto
 }
 
-1144 = {  #Injune 3
+1144 = {  #Waikola
 	holding = auto
 }
 
 ### c_theodore
-1195 = {  #Theodore
+1195 = {  #Palmgrove
 	culture = aussie
 	religion = tersian
 	holding = auto
 }
 
-1196 = {  #Theodore 1
+1196 = {  #Theodore
 	holding = auto
 }
 
-1197 = {  #Theodore 2
+1197 = {  #Isla Gorge
 	holding = auto
 }
 
-1198 = {  #Theodore 3
+1198 = {  #Glenhaughton
 	holding = auto
 }
 
 # d_north_burnett
 ### c_dawson_park
-1199 = {  #Dawson Park
+1199 = {  #Cania Gorge
 	culture = aussie
 	religion = tersian
 	holding = auto
 }
 
-1200 = {  #Dawson Park 1
+1200 = {  #Dawson Park
 	holding = auto
 }
 
-1201 = {  #Dawson Park 2
+1201 = {  #Cracow
 	holding = auto
 }
 
@@ -4609,184 +4614,184 @@
 	holding = auto
 }
 
-1203 = {  #Monto 1
+1203 = {  #Gin Gin
 	holding = auto
 }
 
-1204 = {  #Monto 2
+1204 = {  #Mt Perry
 	holding = auto
 }
 
-1205 = {  #Monto 3
+1205 = {  #Byrnestown
 	holding = auto
 }
 
 ### c_bundaberg
-1206 = {  #Bundaberg
+1206 = {  #Agnes Water
 	culture = aussie
 	religion = tersian
 	holding = auto
 }
 
-1207 = {  #Bundaberg 1
+1207 = {  #Miriam Vale
 	holding = auto
 }
 
-1208 = {  #Bundaberg 2
+1208 = {  #Bundaberg
 	holding = auto
 }
 
 ### c_gladstone
-1209 = {  #Gladstone
+1209 = {  #Mt Larcom
 	culture = aussie
 	religion = tersian
 	holding = auto
 }
 
-1210 = {  #Gladstone 1
+1210 = {  #Gladstone
 	holding = auto
 }
 
-1211 = {  #Gladstone 2
+1211 = {  #Calliope
 	holding = auto
 }
 
-1212 = {  #Gladstone 3
+1212 = {  #Mary Peaks
 	holding = auto
 }
 
 ### c_biloela
-1213 = {  #Biloela
+1213 = {  #Kroombit Tops
 	culture = aussie
 	religion = tersian
 	holding = auto
 }
 
-1214 = {  #Biloela 1
+1214 = {  #Biloela
 	holding = auto
 }
 
-1215 = {  #Biloela 2
+1215 = {  #Banana
 	holding = auto
 }
 
 # k_fitzroy
 # d_carnarvon
 ### c_hillside_forest
-1187 = {  #Hillside Forest
+1187 = {  #Lorna
 	culture = aussie
 	religion = tersian
 	holding = auto
 }
 
-1188 = {  #Hillside Forest 1
+1188 = {  #Hillside Forest
 	holding = auto
 }
 
 ### c_oak_vale
-1189 = {  #Oak Vale
+1189 = {  #Carnarvon Gorge
 	culture = aussie
 	religion = tersian
 	holding = auto
 }
 
-1190 = {  #Oak Vale 1
+1190 = {  #Westgrove
 	holding = auto
 }
 
-1191 = {  #Oak Vale 2
+1191 = {  #Oak Vale
 	holding = auto
 }
 
 ### c_expedition
-1192 = {  #Expedition
+1192 = {  #Purbrook
 	culture = aussie
 	religion = tersian
 	holding = auto
 }
 
-1193 = {  #Expedition 1
+1193 = {  #Moolayemler
 	holding = auto
 }
 
-1194 = {  #Expedition 2
+1194 = {  #Expedition
 	holding = auto
 }
 
 ### c_carnarvon
-1224 = {  #Carnarvon
+1224 = {  #Deepdale
 	culture = aussie
 	religion = tersian
 	holding = auto
 }
 
-1225 = {  #Carnarvon 1
+1225 = {  #Ka Ka Mundi
 	holding = auto
 }
 
-1226 = {  #Carnarvon 2
+1226 = {  #Salvator Rosa
 	holding = auto
 }
 
-1227 = {  #Carnarvon 3
+1227 = {  #Caldervale
 	holding = auto
 }
 
-1228 = {  #Carnarvon 4
+1228 = {  #Mt King
 	holding = auto
 }
 
 # d_central_highlands
 ### c_moura
-1216 = {  #Moura
+1216 = {  #Baralba
 	culture = aussie
 	religion = tersian
 	holding = auto
 }
 
-1217 = {  #Moura 1
+1217 = {  #Goormaly
 	holding = auto
 }
 
-1218 = {  #Moura 2
+1218 = {  #Basalt Creek
 	holding = auto
 }
 
-1219 = {  #Moura 3
+1219 = {  #Bauhinla
 	holding = auto
 }
 
-1220 = {  #Moura 4
+1220 = {  #Moura
 	holding = auto
 }
 
 ### c_rolleston
-1221 = {  #Rolleston
+1221 = {  #Somerby
 	culture = aussie
 	religion = tersian
 	holding = auto
 }
 
-1222 = {  #Rolleston 1
+1222 = {  #Rolleston
 	holding = auto
 }
 
-1223 = {  #Rolleston 2
+1223 = {  #Kareela
 	holding = auto
 }
 
 ### c_mantuan_downs
-1276 = {  #Mantuan Downs
+1276 = {  #Willows
 	culture = aussie
 	religion = tersian
 	holding = auto
 }
 
-1277 = {  #Mantuan Downs 1
+1277 = {  #Snake Range
 	holding = auto
 }
 
-1278 = {  #Mantuan Downs 2
+1278 = {  #Mantuan Downs
 	holding = auto
 }
 
@@ -4797,85 +4802,85 @@
 	holding = auto
 }
 
-1285 = {  #Blackwater 1
+1285 = {  #Duaringa
 	holding = auto
 }
 
-1286 = {  #Blackwater 2
+1286 = {  #Blackland
 	holding = auto
 }
 
-1287 = {  #Blackwater 3
+1287 = {  #Woorabinda
 	holding = auto
 }
 
 ### c_emerald
-1288 = {  #Emerald
+1288 = {  #Tieri
 	culture = aussie
 	religion = tersian
 	holding = auto
 }
 
-1289 = {  #Emerald 1
+1289 = {  #Capella
 	holding = auto
 }
 
-1290 = {  #Emerald 2
+1290 = {  #Sapphire
 	holding = auto
 }
 
-1291 = {  #Emerald 3
+1291 = {  #Emerald
 	holding = auto
 }
 
-1292 = {  #Emerald 4
+1292 = {  #Springsure
 	holding = auto
 }
 
 # d_torilla
 ### c_rockhampton
-1279 = {  #Rockhampton
+1279 = {  #Keppel  Sands
 	culture = aussie
 	religion = tersian
 	holding = auto
 }
 
-1280 = {  #Rockhampton 1
+1280 = {  #Rockhampton
 	holding = auto
 }
 
-1281 = {  #Rockhampton 2
+1281 = {  #Morgan
 	holding = auto
 }
 
-1282 = {  #Rockhampton 3
+1282 = {  #Gogango
 	holding = auto
 }
 
-1283 = {  #Rockhampton 4
+1283 = {  #Jambin
 	holding = auto
 }
 
 ### c_yeppoon
-1349 = {  #Yeppoon
+1349 = {  #Torilla
 	culture = aussie
 	religion = tersian
 	holding = auto
 }
 
-1350 = {  #Yeppoon 1
+1350 = {  #Byfield
 	holding = auto
 }
 
-1351 = {  #Yeppoon 2
+1351 = {  #Marlborough
 	holding = auto
 }
 
-1352 = {  #Yeppoon 3
+1352 = {  #Yeppoon
 	holding = auto
 }
 
-1353 = {  #Yeppoon 4
+1353 = {  #The Caves
 	holding = auto
 }
 
@@ -4886,57 +4891,57 @@
 	holding = auto
 }
 
-1355 = {  #Middlemount 1
+1355 = {  #Royles
 	holding = auto
 }
 
-1356 = {  #Middlemount 2
+1356 = {  #Goodedulla
 	holding = auto
 }
 
 # d_clermont
 ### c_alpha
-1293 = {  #Alpha
+1293 = {  #Redrock
 	culture = aussie
 	religion = tersian
 	holding = auto
 }
 
-1294 = {  #Alpha 1
+1294 = {  #Bogantungan
 	holding = auto
 }
 
-1295 = {  #Alpha 2
+1295 = {  #Alpha
 	holding = auto
 }
 
 ### c_surbiton
-1346 = {  #Surbiton
+1346 = {  #Beresford
 	culture = aussie
 	religion = tersian
 	holding = auto
 }
 
-1347 = {  #Surbiton 1
+1347 = {  #Narrien Range
 	holding = auto
 }
 
-1348 = {  #Surbiton 2
+1348 = {  #Surbiton
 	holding = auto
 }
 
 ### c_clermont
-1363 = {  #Clermont
+1363 = {  #Peak Downs
 	culture = aussie
 	religion = tersian
 	holding = auto
 }
 
-1364 = {  #Clermont 1
+1364 = {  #Norwich Park
 	holding = auto
 }
 
-1365 = {  #Clermont 2
+1365 = {  #Clermont
 	holding = auto
 }
 
@@ -4948,37 +4953,37 @@
 	holding = auto
 }
 
-1358 = {  #Carmila 1
+1358 = {  #Clairview
 	holding = auto
 }
 
-1359 = {  #Carmila 2
+1359 = {  #St Lawrence
 	holding = auto
 }
 
 ### c_dysart
-1360 = {  #Dysart
+1360 = {  #Coppabella
 	culture = aussie
 	religion = tersian
 	holding = auto
 }
 
-1361 = {  #Dysart 1
+1361 = {  #Dipperu
 	holding = auto
 }
 
-1362 = {  #Dysart 2
+1362 = {  #Dysart
 	holding = auto
 }
 
 ### c_moranbah
-1445 = {  #Moranbah
+1445 = {  #Goonyella
 	culture = aussie
 	religion = tersian
 	holding = auto
 }
 
-1446 = {  #Moranbah 1
+1446 = {  #Moranbah
 	holding = auto
 }
 
@@ -4989,34 +4994,34 @@
 	holding = auto
 }
 
-1450 = {  #Mackay 1
+1450 = {  #Marian
 	holding = auto
 }
 
-1451 = {  #Mackay 2
+1451 = {  #Homevale
 	holding = auto
 }
 
-1452 = {  #Mackay 3
+1452 = {  #Sarina
 	holding = auto
 }
 
-1453 = {  #Mackay 4
+1453 = {  #Nobo
 	holding = auto
 }
 
 ### c_glenden
-1454 = {  #Glenden
+1454 = {  #Yalboroo
 	culture = aussie
 	religion = tersian
 	holding = auto
 }
 
-1455 = {  #Glenden 1
+1455 = {  #Eungella
 	holding = auto
 }
 
-1456 = {  #Glenden 2
+1456 = {  #Glenden
 	holding = auto
 }
 
@@ -5028,22 +5033,22 @@
 	holding = auto
 }
 
-1367 = {  #Mount Coolon 1
+1367 = {  #Avon Downs
 	holding = auto
 }
 
-1368 = {  #Mount Coolon 2
+1368 = {  #Frankfield
 	holding = auto
 }
 
 ### c_willandspey
-1437 = {  #Willandspey
+1437 = {  #Spindle
 	culture = aussie
 	religion = tersian
 	holding = auto
 }
 
-1438 = {  #Willandspey 1
+1438 = {  #Willandspey
 	holding = auto
 }
 
@@ -5054,53 +5059,53 @@
 	holding = auto
 }
 
-1440 = {  #Natal Downs 1
+1440 = {  #Blackwood Park
 	holding = auto
 }
 
 # d_galilee
 ### c_laglan
-1369 = {  #Laglan
+1369 = {  #Eastmere
 	culture = aussie
 	religion = tersian
 	holding = auto
 }
 
-1370 = {  #Laglan 1
+1370 = {  #Laglan
 	holding = auto
 }
 
-1371 = {  #Laglan 2
+1371 = {  #Dunrobin
 	holding = auto
 }
 
 ### c_galilee
-1372 = {  #Galilee
+1372 = {  #Forest Den
 	culture = aussie
 	religion = tersian
 	holding = auto
 }
 
-1373 = {  #Galilee 1
+1373 = {  #Galilee
 	holding = auto
 }
 
-1374 = {  #Galilee 2
+1374 = {  #Dunn
 	holding = auto
 }
 
 ### c_buchanan
-1432 = {  #Buchanan
+1432 = {  #Yarromere
 	culture = aussie
 	religion = tersian
 	holding = auto
 }
 
-1433 = {  #Buchanan 1
+1433 = {  #Buchanan
 	holding = auto
 }
 
-1434 = {  #Buchanan 2
+1434 = {  #Kyong
 	holding = auto
 }
 
@@ -5111,30 +5116,30 @@
 	holding = auto
 }
 
-1436 = {  #Doongmabulla 1
+1436 = {  #Shuttleworth
 	holding = auto
 }
 
 # d_brigalow
 ### c_dalrymple
-1443 = {  #Dalrymple
+1443 = {  #Mount Cooper
 	culture = aussie
 	religion = tersian
 	holding = auto
 }
 
-1444 = {  #Dalrymple 1
+1444 = {  #Dalrymple
 	holding = auto
 }
 
 ### c_newlands
-1447 = {  #Newlands
+1447 = {  #Sphinx
 	culture = aussie
 	religion = tersian
 	holding = auto
 }
 
-1448 = {  #Newlands 1
+1448 = {  #Newlands
 	holding = auto
 }
 
@@ -5145,30 +5150,30 @@
 	holding = auto
 }
 
-1458 = {  #Bowen 1
+1458 = {  #Airlie Beach
 	holding = auto
 }
 
-1459 = {  #Bowen 2
+1459 = {  #Proserpine
 	holding = auto
 }
 
 ### c_collinsville
-1460 = {  #Collinsville
+1460 = {  #Mount Aberdeen
 	culture = aussie
 	religion = tersian
 	holding = auto
 }
 
-1461 = {  #Collinsville 1
+1461 = {  #Dalbog
 	holding = auto
 }
 
-1462 = {  #Collinsville 2
+1462 = {  #Collinsville
 	holding = auto
 }
 
-1463 = {  #Collinsville 3
+1463 = {  #Heidelberg
 	holding = auto
 }
 
@@ -5179,15 +5184,15 @@
 	holding = auto
 }
 
-1465 = {  #Ayr 1
+1465 = {  #Home Hill
 	holding = auto
 }
 
-1466 = {  #Ayr 2
+1466 = {  #Guthalungra
 	holding = auto
 }
 
-1467 = {  #Ayr 3
+1467 = {  #Millaroo
 	holding = auto
 }
 
@@ -5200,48 +5205,48 @@
 	holding = auto
 }
 
-1442 = {  #Corea Plains 1
+1442 = {  #Longton
 	holding = auto
 }
 
 ### c_charters_towers
-1473 = {  #Charters Towers
+1473 = {  #Mingelia
 	culture = aussie
 	religion = tersian
 	holding = auto
 }
 
-1474 = {  #Charters Towers 1
+1474 = {  #Charters Towers
 	holding = auto
 }
 
-1475 = {  #Charters Towers 2
+1475 = {  #Barrington
 	holding = auto
 }
 
-1476 = {  #Charters Towers 3
+1476 = {  #Mungunbrra
 	holding = auto
 }
 
 ### c_pentland
-1477 = {  #Pentland
+1477 = {  #White Mountains
 	culture = aussie
 	religion = tersian
 	holding = auto
 }
 
-1478 = {  #Pentland 1
+1478 = {  #Pentland
 	holding = auto
 }
 
 ### c_basalt
-1547 = {  #Basalt
+1547 = {  #Battery
 	culture = aussie
 	religion = tersian
 	holding = auto
 }
 
-1548 = {  #Basalt 1
+1548 = {  #Basalt
 	holding = auto
 }
 
@@ -5253,19 +5258,19 @@
 	holding = auto
 }
 
-1469 = {  #Townsville 1
+1469 = {  #Giru
 	holding = auto
 }
 
-1470 = {  #Townsville 2
+1470 = {  #Barringha
 	holding = auto
 }
 
-1471 = {  #Townsville 3
+1471 = {  #Dodswood
 	holding = auto
 }
 
-1472 = {  #Townsville 4
+1472 = {  #Ravenswood
 	holding = auto
 }
 
@@ -5276,57 +5281,57 @@
 	holding = auto
 }
 
-1550 = {  #Greenvale 1
+1550 = {  #Clarke River
 	holding = auto
 }
 
 ### c_ingham
-1551 = {  #Ingham
+1551 = {  #Lucinda
 	culture = aussie
 	religion = tersian
 	holding = auto
 }
 
-1552 = {  #Ingham 1
+1552 = {  #Ingham
 	holding = auto
 }
 
-1553 = {  #Ingham 2
+1553 = {  #Helens Hill
 	holding = auto
 }
 
-1554 = {  #Ingham 3
+1554 = {  #Bluewater
 	holding = auto
 }
 
 ### c_cardwell
-1555 = {  #Cardwell
+1555 = {  #Meadowbank
 	culture = aussie
 	religion = tersian
 	holding = auto
 }
 
-1556 = {  #Cardwell 1
+1556 = {  #Cardwell
 	holding = auto
 }
 
-1557 = {  #Cardwell 2
+1557 = {  #Albergowrie
 	holding = auto
 }
 
-1558 = {  #Cardwell 3
+1558 = {  #Valley of Lagoons
 	holding = auto
 }
 
 # d_blackbraes
 ### c_blackbraes
-1543 = {  #Blackbraes
+1543 = {  #Kidston
 	culture = aussie
 	religion = tersian
 	holding = auto
 }
 
-1544 = {  #Blackbraes 1
+1544 = {  #Blackbraes
 	holding = auto
 }
 
@@ -5337,38 +5342,38 @@
 	holding = auto
 }
 
-1546 = {  #Gregory Springs 1
+1546 = {  #Reedy
 	holding = auto
 }
 
 # d_einaslynd
 ### c_undara
-1559 = {  #Undara
+1559 = {  #Mount Surprise
 	culture = aussie
 	religion = tersian
 	holding = auto
 }
 
-1560 = {  #Undara 1
+1560 = {  #Undara
 	holding = auto
 }
 
-1561 = {  #Undara 2
+1561 = {  #Oasis Lynd
 	holding = auto
 }
 
 ### c_georgetown
-1562 = {  #Georgetown
+1562 = {  #Ironhurst
 	culture = aussie
 	religion = tersian
 	holding = auto
 }
 
-1563 = {  #Georgetown 1
+1563 = {  #Georgetown
 	holding = auto
 }
 
-1564 = {  #Georgetown 2
+1564 = {  #Forsayth
 	holding = auto
 }
 
@@ -5379,7 +5384,7 @@
 	holding = auto
 }
 
-1579 = {  #Bolwarra 1
+1579 = {  #Nulleringa
 	holding = auto
 }
 
@@ -5391,38 +5396,38 @@
 	holding = auto
 }
 
-1566 = {  #Innisfail 1
+1566 = {  #Mission Beach
 	holding = auto
 }
 
-1567 = {  #Innisfail 2
+1567 = {  #Tully
 	holding = auto
 }
 
-1568 = {  #Innisfail 3
+1568 = {  #Koombooloomba
 	holding = auto
 }
 
 ### c_cairns
-1569 = {  #Cairns
+1569 = {  #Kuranda
 	culture = aussie
 	religion = tersian
 	holding = auto
 }
 
-1570 = {  #Cairns 1
+1570 = {  #Cairns
 	holding = auto
 }
 
-1571 = {  #Cairns 2
+1571 = {  #Gordonvale
 	holding = auto
 }
 
-1572 = {  #Cairns 3
+1572 = {  #Babinda
 	holding = auto
 }
 
-1573 = {  #Cairns 4
+1573 = {  #Malanda
 	holding = auto
 }
 
@@ -5433,15 +5438,15 @@
 	holding = auto
 }
 
-1575 = {  #Atherton 1
+1575 = {  #Ravenshoe
 	holding = auto
 }
 
-1576 = {  #Atherton 2
+1576 = {  #Mount Garnet
 	holding = auto
 }
 
-1577 = {  #Atherton 3
+1577 = {  #Lyndbrook
 	holding = auto
 }
 
@@ -5452,11 +5457,11 @@
 	holding = auto
 }
 
-1592 = {  #Mareeba 1
+1592 = {  #Dimbula
 	holding = auto
 }
 
-1593 = {  #Mareeba 2
+1593 = {  #Chillagoe Mungana
 	holding = auto
 }
 
@@ -5469,36 +5474,36 @@
 }
 
 ### c_port_douglas
-1594 = {  #Port Douglas
+1594 = {  #Kalkajaka
 	culture = aussie
 	religion = tersian
 	holding = auto
 }
 
-1595 = {  #Port Douglas 1
+1595 = {  #Lakeland
 	holding = auto
 }
 
-1596 = {  #Port Douglas 2
+1596 = {  #Daintree
 	holding = auto
 }
 
-1597 = {  #Port Douglas 3
+1597 = {  #Port Douglas
 	holding = auto
 }
 
 ### c_palmer
-1598 = {  #Palmer
+1598 = {  #Fairview
 	culture = aussie
 	religion = tersian
 	holding = auto
 }
 
-1599 = {  #Palmer 1
+1599 = {  #Palmersville
 	holding = auto
 }
 
-1600 = {  #Palmer 2
+1600 = {  #Maytown
 	holding = auto
 }
 
@@ -5509,7 +5514,7 @@
 	holding = auto
 }
 
-1602 = {  #Killarney 1
+1602 = {  #King Junction
 	holding = auto
 }
 
@@ -5860,11 +5865,11 @@
 	holding = auto
 }
 
-1156 = {  #Cheepie 1
+1156 = {  #Winbin
 	holding = auto
 }
 
-1157 = {  #Cheepie 2
+1157 = {  #Doobiba
 	holding = auto
 }
 
@@ -5941,47 +5946,47 @@
 }
 
 ### c_quilpie
-1158 = {  #Quilpie
+1158 = {  #Como
 	culture = aussie
 	religion = tersian
 	holding = auto
 }
 
-1159 = {  #Quilpie 1
+1159 = {  #Quilpie
 	holding = auto
 }
 
-1160 = {  #Quilpie 2
+1160 = {  #Mobie
 	holding = auto
 }
 
 ### c_eromanga
-1161 = {  #Eromanga
+1161 = {  #Yambutta
 	culture = aussie
 	religion = tersian
 	holding = auto
 }
 
-1162 = {  #Eromanga 1
+1162 = {  #Eromanga
 	holding = auto
 }
 
-1163 = {  #Eromanga 2
+1163 = {  #Congie
 	holding = auto
 }
 
 ### c_lynwood
-1173 = {  #Lynwood
+1173 = {  #Cliffton
 	culture = aussie
 	religion = tersian
 	holding = auto
 }
 
-1174 = {  #Lynwood 1
+1174 = {  #Keeroongooroo
 	holding = auto
 }
 
-1175 = {  #Lynwood 2
+1175 = {  #Kyabra
 	holding = auto
 }
 
@@ -5998,51 +6003,51 @@
 }
 
 ### c_morven
-1147 = {  #Morven
+1147 = {  #Chesterton
 	culture = aussie
 	religion = tersian
 	holding = auto
 }
 
-1148 = {  #Morven 1
+1148 = {  #Morven
 	holding = auto
 }
 
-1149 = {  #Morven 2
+1149 = {  #Mungallala
 	holding = auto
 }
 
-1150 = {  #Morven 3
+1150 = {  #Amboola
 	holding = auto
 }
 
 ### c_charleville
-1151 = {  #Charleville
+1151 = {  #Lumea
 	culture = aussie
 	religion = tersian
 	holding = auto
 }
 
-1152 = {  #Charleville 1
+1152 = {  #Charleville
 	holding = auto
 }
 
-1153 = {  #Charleville 2
+1153 = {  #Coothalla
 	holding = auto
 }
 
-1154 = {  #Charleville 3
+1154 = {  #Cooladdi
 	holding = auto
 }
 
 ### c_augathella
-1185 = {  #Augathella
+1185 = {  #Barfold
 	culture = aussie
 	religion = tersian
 	holding = auto
 }
 
-1186 = {  #Augathella 1
+1186 = {  #Augathella
 	holding = auto
 }
 
@@ -6054,11 +6059,11 @@
 	holding = auto
 }
 
-1177 = {  #Hell Hole Gorge 1
+1177 = {  #Milo
 	holding = auto
 }
 
-1178 = {  #Hell Hole Gorge 2
+1178 = {  #Ray
 	holding = auto
 }
 
@@ -6069,69 +6074,69 @@
 	holding = auto
 }
 
-1180 = {  #Adavale 1
+1180 = {  #Oakleigh
 	holding = auto
 }
 
-1181 = {  #Adavale 2
+1181 = {  #Mariala
 	holding = auto
 }
 
 ### c_scrubby_creek
-1182 = {  #Scrubby Creek
+1182 = {  #Listowel Downs
 	culture = aussie
 	religion = tersian
 	holding = auto
 }
 
-1183 = {  #Scrubby Creek 1
+1183 = {  #Lumeah
 	holding = auto
 }
 
-1184 = {  #Scrubby Creek 2
+1184 = {  #Bronte
 	holding = auto
 }
 
 ### c_idalia
-1232 = {  #Idalia
+1232 = {  #Emmet
 	culture = aussie
 	religion = tersian
 	holding = auto
 }
 
-1233 = {  #Idalia 1
+1233 = {  #Idalia
 	holding = auto
 }
 
-1234 = {  #Idalia 2
+1234 = {  #Wakes Lagoon
 	holding = auto
 }
 
 # k_channels
 # d_munga_thirri
 ### c_east_simpson_desert
-1164 = {  #East Simpson Desert
+1164 = {  #Ongunna
 	culture = aussie
 	religion = tersian
 	holding = auto
 }
 
-1165 = {  #East Simpson Desert 1
+1165 = {  #Poeppel
 	holding = auto
 }
 
 ### c_birdsville
-1166 = {  #Birdsville
+1166 = {  #Carcory
 	culture = aussie
 	religion = tersian
 	holding = auto
 }
 
-1167 = {  #Birdsville 1
+1167 = {  #Nappanerica
 	holding = auto
 }
 
-1168 = {  #Birdsville 2
+1168 = {  #Birdsville
 	holding = auto
 }
 
@@ -6142,7 +6147,7 @@
 	holding = auto
 }
 
-1250 = {  #Bedourie 1
+1250 = {  #Glengyle
 	holding = auto
 }
 
@@ -6153,98 +6158,98 @@
 	holding = auto
 }
 
-1252 = {  #Ethabuka 1
+1252 = {  #Sandringham
 	holding = auto
 }
 
 # d_claypan
 ### c_durn
-1169 = {  #Durn
+1169 = {  #Birdsville 1
 	culture = aussie
 	religion = tersian
 	holding = auto
 }
 
-1170 = {  #Durn 1
+1170 = {  #Durn
 	holding = auto
 }
 
 ### c_mooraberree
-1247 = {  #Mooraberree
+1247 = {  #Monildra
 	culture = aussie
 	religion = tersian
 	holding = auto
 }
 
-1248 = {  #Mooraberree 1
+1248 = {  #Mooraberree
 	holding = auto
 }
 
 ### c_breadalbane
-1253 = {  #Breadalbane
+1253 = {  #North Breadalbane
 	culture = aussie
 	religion = tersian
 	holding = auto
 }
 
-1254 = {  #Breadalbane 1
+1254 = {  #South Breadalbane
 	holding = auto
 }
 
 # d_barcoo
 ### c_south_galway
-1171 = {  #South Galway
+1171 = {  #Morney
 	culture = aussie
 	religion = tersian
 	holding = auto
 }
 
-1172 = {  #South Galway 1
+1172 = {  #South Galway
 	holding = auto
 }
 
 ### c_windorah
-1238 = {  #Windorah
+1238 = {  #Carranya
 	culture = aussie
 	religion = tersian
 	holding = auto
 }
 
-1239 = {  #Windorah 1
+1239 = {  #Hammond Downs
 	holding = auto
 }
 
-1240 = {  #Windorah 2
+1240 = {  #Windorah
 	holding = auto
 }
 
 ### c_jundah
-1241 = {  #Jundah
+1241 = {  #Flodden Hills
 	culture = aussie
 	religion = tersian
 	holding = auto
 }
 
-1242 = {  #Jundah 1
+1242 = {  #Jundah
 	holding = auto
 }
 
-1243 = {  #Jundah 2
+1243 = {  #Lina Glen
 	holding = auto
 }
 
 ### c_palpararah
-1244 = {  #Palpararah
+1244 = {  #Kurran
 	culture = aussie
 	religion = tersian
 	holding = auto
 }
 
-1245 = {  #Palpararah 1
+1245 = {  #Palpararah
 	holding = auto
 }
 
-1246 = {  #Palpararah 2
+1246 = {  #Currawilla
 	holding = auto
 }
 
@@ -6255,80 +6260,80 @@
 	holding = auto
 }
 
-1261 = {  #Diamantina 1
+1261 = {  #Astreila
 	holding = auto
 }
 
 # d_welford
 ### c_welford
-1235 = {  #Welford
+1235 = {  #Yaraka
 	culture = aussie
 	religion = tersian
 	holding = auto
 }
 
-1236 = {  #Welford 1
+1236 = {  #Welford
 	holding = auto
 }
 
-1237 = {  #Welford 2
+1237 = {  #Oakham
 	holding = auto
 }
 
 ### c_stonehenge
-1265 = {  #Stonehenge
+1265 = {  #Warbreccan
 	culture = aussie
 	religion = tersian
 	holding = auto
 }
 
-1266 = {  #Stonehenge 1
+1266 = {  #Stonehenge
 	holding = auto
 }
 
 ### c_lochern
-1306 = {  #Lochern
+1306 = {  #Eureka
 	culture = aussie
 	religion = tersian
 	holding = auto
 }
 
-1307 = {  #Lochern 1
+1307 = {  #Westland
 	holding = auto
 }
 
-1308 = {  #Lochern 2
+1308 = {  #Lochern
 	holding = auto
 }
 
 ### c_fermoy
-1311 = {  #Fermoy
+1311 = {  #Warnambool Downs
 	culture = aussie
 	religion = tersian
 	holding = auto
 }
 
-1312 = {  #Fermoy 1
+1312 = {  #Fermoy
 	holding = auto
 }
 
-1313 = {  #Fermoy 2
+1313 = {  #Vergemont
 	holding = auto
 }
 
 # d_boulia
 ### c_cravens_peak
-1255 = {  #Cravens Peak
+1255 = {  #Glenomiston
 	culture = aussie
 	religion = tersian
 	holding = auto
 }
 
-1256 = {  #Cravens Peak 1
+1256 = {  #Cravens Peak
 	holding = auto
 }
 
-1257 = {  #Cravens Peak 2
+1257 = {  #Marlon Downs
 	holding = auto
 }
 
@@ -6339,7 +6344,7 @@
 	holding = auto
 }
 
-1259 = {  #Canary 1
+1259 = {  #Coorabuka
 	holding = auto
 }
 
@@ -6350,7 +6355,7 @@
 	holding = auto
 }
 
-1319 = {  #Lucknow 1
+1319 = {  #Warra
 	holding = auto
 }
 
@@ -6361,23 +6366,23 @@
 	holding = auto
 }
 
-1321 = {  #Boulia 1
+1321 = {  #Westward
 	holding = auto
 }
 
 # d_middletonia
 ### c_goneaway
-1262 = {  #Goneaway
+1262 = {  #Brighton Downs
 	culture = aussie
 	religion = tersian
 	holding = auto
 }
 
-1263 = {  #Goneaway 1
+1263 = {  #Goneaway
 	holding = auto
 }
 
-1264 = {  #Goneaway 2
+1264 = {  #Connemara
 	holding = auto
 }
 
@@ -6388,40 +6393,40 @@
 	holding = auto
 }
 
-1315 = {  #Cork 1
+1315 = {  #Happy Valley
 	holding = auto
 }
 
 ### c_verdun_valley
-1316 = {  #Verdun Valley
+1316 = {  #Chiltem Hills
 	culture = aussie
 	religion = tersian
 	holding = auto
 }
 
-1317 = {  #Verdun Valley 1
+1317 = {  #Verdun Valley
 	holding = auto
 }
 
 ### c_middleton
-1332 = {  #Middleton
+1332 = {  #Ranges Valley
 	culture = aussie
 	religion = tersian
 	holding = auto
 }
 
-1333 = {  #Middleton 1
+1333 = {  #Middleton
 	holding = auto
 }
 
 ### c_kalkadooh
-1336 = {  #Kalkadooh
+1336 = {  #Cathedral Hill
 	culture = aussie
 	religion = tersian
 	holding = auto
 }
 
-1337 = {  #Kalkadooh 1
+1337 = {  #Kalkadooh
 	holding = auto
 }
 
@@ -6440,7 +6445,7 @@
 	holding = auto
 }
 
-1324 = {  #Linda Downs 1
+1324 = {  #Roxburgh Downs
 	holding = auto
 }
 
@@ -6451,22 +6456,22 @@
 	holding = auto
 }
 
-1394 = {  #Urandangi 1
+1394 = {  #Kallala
 	holding = auto
 }
 
 ### c_barkly
-1395 = {  #Barkly
+1395 = {  #Arcadia
 	culture = aussie
 	religion = tersian
 	holding = auto
 }
 
-1396 = {  #Barkly 1
+1396 = {  #Oban
 	holding = auto
 }
 
-1397 = {  #Barkly 2
+1397 = {  #Hoadingy
 	holding = auto
 }
 
@@ -6477,7 +6482,7 @@
 	holding = auto
 }
 
-1399 = {  #Duchess 1
+1399 = {  #Dajarra
 	holding = auto
 }
 
@@ -6490,59 +6495,59 @@
 }
 
 ### c_monument
-1326 = {  #Monument
+1326 = {  #Selwyn
 	culture = aussie
 	religion = tersian
 	holding = auto
 }
 
-1327 = {  #Monument 1
+1327 = {  #Monument
 	holding = auto
 }
 
-1328 = {  #Monument 2
+1328 = {  #Buckingham Downs
 	holding = auto
 }
 
 ### c_brackenburgh
-1329 = {  #Brackenburgh
+1329 = {  #Burnham
 	culture = aussie
 	religion = tersian
 	holding = auto
 }
 
-1330 = {  #Brackenburgh 1
+1330 = {  #Brackenburgh
 	holding = auto
 }
 
-1331 = {  #Brackenburgh 2
+1331 = {  #Polygammon
 	holding = auto
 }
 
 # d_clonlay
 ### c_answer
-1334 = {  #Answer
+1334 = {  #Kuridala
 	culture = aussie
 	religion = tersian
 	holding = auto
 }
 
-1335 = {  #Answer 1
+1335 = {  #Answer
 	holding = auto
 }
 
 ### c_mckinlay
-1387 = {  #McKinlay
+1387 = {  #Rutchilo
 	culture = aussie
 	religion = tersian
 	holding = auto
 }
 
-1388 = {  #McKinlay 1
+1388 = {  #McKinlay
 	holding = auto
 }
 
-1389 = {  #McKinlay 2
+1389 = {  #Kynuna
 	holding = auto
 }
 
@@ -6553,11 +6558,11 @@
 	holding = auto
 }
 
-1406 = {  #Cloncurry 1
+1406 = {  #Pymurra
 	holding = auto
 }
 
-1407 = {  #Cloncurry 2
+1407 = {  #Maibon
 	holding = auto
 }
 
@@ -6570,41 +6575,41 @@
 	holding = auto
 }
 
-1230 = {  #Tambo 1
+1230 = {  #Summervale
 	holding = auto
 }
 
-1231 = {  #Tambo 2
+1231 = {  #Coolabri
 	holding = auto
 }
 
 ### c_isisford
-1267 = {  #Isisford
+1267 = {  #Amor Downs
 	culture = aussie
 	religion = tersian
 	holding = auto
 }
 
-1268 = {  #Isisford 1
+1268 = {  #Avington
 	holding = auto
 }
 
-1269 = {  #Isisford 2
+1269 = {  #Isisford
 	holding = auto
 }
 
 ### c_blackall
-1270 = {  #Blackall
+1270 = {  #Yalleroi
 	culture = aussie
 	religion = tersian
 	holding = auto
 }
 
-1271 = {  #Blackall 1
+1271 = {  #Blackall
 	holding = auto
 }
 
-1272 = {  #Blackall 2
+1272 = {  #Bloomfield
 	holding = auto
 }
 
@@ -6615,73 +6620,73 @@
 	holding = auto
 }
 
-1274 = {  #Sedgeford 1
+1274 = {  #Cheshire
 	holding = auto
 }
 
-1275 = {  #Sedgeford 2
+1275 = {  #Kelpum
 	holding = auto
 }
 
 # d_barcaldine
 ### c_jericho
-1296 = {  #Jericho
+1296 = {  #Hobartville
 	culture = aussie
 	religion = tersian
 	holding = auto
 }
 
-1297 = {  #Jericho 1
+1297 = {  #Jericho
 	holding = auto
 }
 
-1298 = {  #Jericho 2
+1298 = {  #Lanceyvale
 	holding = auto
 }
 
 ### c_barcaldine
-1299 = {  #Barcaldine
+1299 = {  #Stirling
 	culture = aussie
 	religion = tersian
 	holding = auto
 }
 
-1300 = {  #Barcaldine 1
+1300 = {  #Busthinia
 	holding = auto
 }
 
-1301 = {  #Barcaldine 2
+1301 = {  #Barcaldine
 	holding = auto
 }
 
-1302 = {  #Barcaldine 3
+1302 = {  #Jubilee Park
 	holding = auto
 }
 
 ### c_aramac
-1344 = {  #Aramac
+1344 = {  #Cudmore
 	culture = aussie
 	religion = tersian
 	holding = auto
 }
 
-1345 = {  #Aramac 1
+1345 = {  #Aramac
 	holding = auto
 }
 
 # d_dryland
 ### c_longreach
-1303 = {  #Longreach
+1303 = {  #Brixton
 	culture = aussie
 	religion = tersian
 	holding = auto
 }
 
-1304 = {  #Longreach 1
+1304 = {  #Ilfracombe
 	holding = auto
 }
 
-1305 = {  #Longreach 2
+1305 = {  #Longreach
 	holding = auto
 }
 
@@ -6692,7 +6697,7 @@
 	holding = auto
 }
 
-1310 = {  #Clanagh 1
+1310 = {  #Maneroo
 	holding = auto
 }
 
@@ -6703,7 +6708,7 @@
 	holding = auto
 }
 
-1343 = {  #Muttaburra 1
+1343 = {  #Rodney Downs
 	holding = auto
 }
 
@@ -6714,42 +6719,42 @@
 	holding = auto
 }
 
-1376 = {  #Caledonia 1
+1376 = {  #Bowen Downs
 	holding = auto
 }
 
 ### c_kensington
-1377 = {  #Kensington
+1377 = {  #Eskdale
 	culture = aussie
 	religion = tersian
 	holding = auto
 }
 
-1378 = {  #Kensington 1
+1378 = {  #Llona
 	holding = auto
 }
 
-1379 = {  #Kensington 2
+1379 = {  #Kensington
 	holding = auto
 }
 
 # d_winton
 ### c_winton
-1338 = {  #Winton
+1338 = {  #Lana
 	culture = aussie
 	religion = tersian
 	holding = auto
 }
 
-1339 = {  #Winton 1
+1339 = {  #Winton
 	holding = auto
 }
 
-1340 = {  #Winton 2
+1340 = {  #Drumlion
 	holding = auto
 }
 
-1341 = {  #Winton 3
+1341 = {  #Bladensburg
 	holding = auto
 }
 
@@ -6760,33 +6765,33 @@
 	holding = auto
 }
 
-1381 = {  #Tangorin 1
+1381 = {  #Erayo
 	holding = auto
 }
 
-1382 = {  #Tangorin 2
+1382 = {  #Kywong
 	holding = auto
 }
 
 ### c_corfield
-1383 = {  #Corfield
+1383 = {  #Wetherby
 	culture = aussie
 	religion = tersian
 	holding = auto
 }
 
-1384 = {  #Corfield 1
+1384 = {  #Corfield
 	holding = auto
 }
 
 ### c_werna
-1385 = {  #Werna
+1385 = {  #East Werna
 	culture = aussie
 	religion = tersian
 	holding = auto
 }
 
-1386 = {  #Werna 1
+1386 = {  #West Werna
 	holding = auto
 }
 
@@ -6798,11 +6803,11 @@
 	holding = auto
 }
 
-1391 = {  #Tarbrax 1
+1391 = {  #Dundee
 	holding = auto
 }
 
-1392 = {  #Tarbrax 2
+1392 = {  #Clarendon
 	holding = auto
 }
 
@@ -6813,7 +6818,7 @@
 	holding = auto
 }
 
-1409 = {  #Sedan Dip 1
+1409 = {  #Oorindi
 	holding = auto
 }
 
@@ -6824,57 +6829,57 @@
 	holding = auto
 }
 
-1411 = {  #Bunda Bunda 1
+1411 = {  #Lara
 	holding = auto
 }
 
 ### c_julia_creek
-1412 = {  #Julia Creek
+1412 = {  #Lindfield
 	culture = aussie
 	religion = tersian
 	holding = auto
 }
 
-1413 = {  #Julia Creek 1
+1413 = {  #Nella
 	holding = auto
 }
 
-1414 = {  #Julia Creek 2
+1414 = {  #Quarella
 	holding = auto
 }
 
-1415 = {  #Julia Creek 3
+1415 = {  #Julia Creek
 	holding = auto
 }
 
 ### c_maxwellon
-1416 = {  #Maxwellon
+1416 = {  #Saxby Downs
 	culture = aussie
 	religion = tersian
 	holding = auto
 }
 
-1417 = {  #Maxwellon 1
+1417 = {  #Maxwellon
 	holding = auto
 }
 
-1418 = {  #Maxwellon 2
+1418 = {  #Olive
 	holding = auto
 }
 
 # d_dutton
 ### c_richmond
-1419 = {  #Richmond
+1419 = {  #Waikonge
 	culture = aussie
 	religion = tersian
 	holding = auto
 }
 
-1420 = {  #Richmond 1
+1420 = {  #Richmond
 	holding = auto
 }
 
-1421 = {  #Richmond 2
+1421 = {  #Gilmore
 	holding = auto
 }
 
@@ -6894,69 +6899,69 @@
 
 # d_dinosauria
 ### c_exmoor
-1422 = {  #Exmoor
+1422 = {  #Tammworth
 	culture = aussie
 	religion = tersian
 	holding = auto
 }
 
-1423 = {  #Exmoor 1
+1423 = {  #Exmoor
 	holding = auto
 }
 
-1424 = {  #Exmoor 2
+1424 = {  #Stamford
 	holding = auto
 }
 
 ### c_katandra
-1425 = {  #Katandra
+1425 = {  #Cameron Downs
 	culture = aussie
 	religion = tersian
 	holding = auto
 }
 
-1426 = {  #Katandra 1
+1426 = {  #Whitewood
 	holding = auto
 }
 
 ### c_bannockburn
-1427 = {  #Bannockburn
+1427 = {  #Banjoura
 	culture = aussie
 	religion = tersian
 	holding = auto
 }
 
-1428 = {  #Bannockburn 1
+1428 = {  #Bannockburn
 	holding = auto
 }
 
 ### c_moorrinya
-1429 = {  #Moorrinya
+1429 = {  #Oakley
 	culture = aussie
 	religion = tersian
 	holding = auto
 }
 
-1430 = {  #Moorrinya 1
+1430 = {  #Moorrinya
 	holding = auto
 }
 
-1431 = {  #Moorrinya 2
+1431 = {  #Mundoo Bluff
 	holding = auto
 }
 
 ### c_hughenden
-1479 = {  #Hughenden
+1479 = {  #Wongalee
 	culture = aussie
 	religion = tersian
 	holding = auto
 }
 
-1480 = {  #Hughenden 1
+1480 = {  #Torrens Creek
 	holding = auto
 }
 
-1481 = {  #Hughenden 2
+1481 = {  #Hughenden
 	holding = auto
 }
 
@@ -6969,7 +6974,7 @@
 	holding = auto
 }
 
-1401 = {  #Wooroona 1
+1401 = {  #Old May
 	holding = auto
 }
 
@@ -6980,41 +6985,41 @@
 	holding = auto
 }
 
-1403 = {  #Mount Isa 1
+1403 = {  #Toby Creek
 	holding = auto
 }
 
-1404 = {  #Mount Isa 2
+1404 = {  #Guide
 	holding = auto
 }
 
 ### c_three_rivers
-1499 = {  #Three Rivers
+1499 = {  #Split Rock
 	culture = aussie
 	religion = tersian
 	holding = auto
 }
 
-1500 = {  #Three Rivers 1
+1500 = {  #Kajabbi
 	holding = auto
 }
 
-1501 = {  #Three Rivers 2
+1501 = {  #Yelverfolt
 	holding = auto
 }
 
 ### c_camooweal
-1502 = {  #Camooweal
+1502 = {  #Morstone
 	culture = aussie
 	religion = tersian
 	holding = auto
 }
 
-1503 = {  #Camooweal 1
+1503 = {  #Camooweal
 	holding = auto
 }
 
-1504 = {  #Camooweal 2
+1504 = {  #Don
 	holding = auto
 }
 
@@ -7026,7 +7031,7 @@
 	holding = auto
 }
 
-1485 = {  #Strathpark 1
+1485 = {  #Welshbrook
 	holding = auto
 }
 
@@ -7037,7 +7042,7 @@
 	holding = auto
 }
 
-1488 = {  #Woodstock 1
+1488 = {  #Saxonvale
 	holding = auto
 }
 
@@ -7049,29 +7054,29 @@
 }
 
 ### c_iona
-1541 = {  #Iona
+1541 = {  #Malacura
 	culture = aussie
 	religion = tersian
 	holding = auto
 }
 
-1542 = {  #Iona 1
+1542 = {  #Iona
 	holding = auto
 }
 
 # d_norman_plains
 ### c_savannah
-1489 = {  #Savannah
+1489 = {  #Claraville
 	culture = aussie
 	religion = tersian
 	holding = auto
 }
 
-1490 = {  #Savannah 1
+1490 = {  #Prospect
 	holding = auto
 }
 
-1491 = {  #Savannah 2
+1491 = {  #Savannah
 	holding = auto
 }
 
@@ -7082,45 +7087,45 @@
 	holding = auto
 }
 
-1493 = {  #Vena Park 1
+1493 = {  #Arizona
 	holding = auto
 }
 
 ### c_normanton
-1532 = {  #Normanton
+1532 = {  #Maggieville
 	culture = aussie
 	religion = tersian
 	holding = auto
 }
 
-1533 = {  #Normanton 1
+1533 = {  #Normanton
 	holding = auto
 }
 
-1534 = {  #Normanton 2
+1534 = {  #Blackbull
 	holding = auto
 }
 
-1535 = {  #Normanton 3
+1535 = {  #Gum Creek
 	holding = auto
 }
 
-1536 = {  #Normanton 4
+1536 = {  #Milgarra
 	holding = auto
 }
 
 ### c_croydon
-1537 = {  #Croydon
+1537 = {  #Gilbert River
 	culture = aussie
 	religion = tersian
 	holding = auto
 }
 
-1538 = {  #Croydon 1
+1538 = {  #Croydon
 	holding = auto
 }
 
-1539 = {  #Croydon 2
+1539 = {  #Mittagong
 	holding = auto
 }
 
@@ -7132,64 +7137,64 @@
 	holding = auto
 }
 
-1495 = {  #Burke and Wills 1
+1495 = {  #Canobie
 	holding = auto
 }
 
 ### c_granada
-1496 = {  #Granada
+1496 = {  #Kamileroi
 	culture = aussie
 	religion = tersian
 	holding = auto
 }
 
-1497 = {  #Granada 1
+1497 = {  #Granada
 	holding = auto
 }
 
-1498 = {  #Granada 2
+1498 = {  #Quamby
 	holding = auto
 }
 
 ### c_gregory_downs
-1513 = {  #Gregory Downs
+1513 = {  #Augustus
 	culture = aussie
 	religion = tersian
 	holding = auto
 }
 
-1514 = {  #Gregory Downs 1
+1514 = {  #Gregory Downs
 	holding = auto
 }
 
-1515 = {  #Gregory Downs 2
+1515 = {  #Myaty
 	holding = auto
 }
 
 ### c_bang_bang
-1516 = {  #Bang Bang
+1516 = {  #Wernadinga
 	culture = aussie
 	religion = tersian
 	holding = auto
 }
 
-1517 = {  #Bang Bang 1
+1517 = {  #Bang Bang
 	holding = auto
 }
 
 # d_lawn_hill
 ### c_gunpowder
-1505 = {  #Gunpowder
+1505 = {  #Thomlonia
 	culture = aussie
 	religion = tersian
 	holding = auto
 }
 
-1506 = {  #Gunpowder 1
+1506 = {  #Undilla
 	holding = auto
 }
 
-1507 = {  #Gunpowder 2
+1507 = {  #Gunpowder
 	holding = auto
 }
 
@@ -7200,22 +7205,22 @@
 	holding = auto
 }
 
-1509 = {  #Old Herbert Vale 1
+1509 = {  #Sosenby
 	holding = auto
 }
 
 ### c_boodjamulla
-1510 = {  #Boodjamulla
+1510 = {  #Lawn Hill
 	culture = aussie
 	religion = tersian
 	holding = auto
 }
 
-1511 = {  #Boodjamulla 1
+1511 = {  #Boodjamulla
 	holding = auto
 }
 
-1512 = {  #Boodjamulla 2
+1512 = {  #Riverleigh
 	holding = auto
 }
 
@@ -7227,53 +7232,53 @@
 	holding = auto
 }
 
-1519 = {  #Corinda Ruins 1
+1519 = {  #Bowthorn
 	holding = auto
 }
 
 ### c_punjaub
-1520 = {  #Punjaub
+1520 = {  #Tiranna
 	culture = aussie
 	religion = tersian
 	holding = auto
 }
 
-1521 = {  #Punjaub 1
+1521 = {  #Punjaub
 	holding = auto
 }
 
-1522 = {  #Punjaub 2
+1522 = {  #Leichhardt Falls
 	holding = auto
 }
 
 ### c_gangalidda
-1523 = {  #Gangalidda
+1523 = {  #Mornington Island
 	culture = aussie
 	religion = tersian
 	holding = auto
 }
 
-1524 = {  #Gangalidda 1
+1524 = {  #Bentinck Island
 	holding = auto
 }
 
-1525 = {  #Gangalidda 2
+1525 = {  #Gangalidda
 	holding = auto
 }
 
 # d_gulf_savannah
 ### c_burketown
-1526 = {  #Burketown
+1526 = {  #Yarrant Point
 	culture = aussie
 	religion = tersian
 	holding = auto
 }
 
-1527 = {  #Burketown 1
+1527 = {  #Finucane
 	holding = auto
 }
 
-1528 = {  #Burketown 2
+1528 = {  #Burketown
 	holding = auto
 }
 
@@ -7284,22 +7289,22 @@
 	holding = auto
 }
 
-1530 = {  #Karumba 1
+1530 = {  #Magowra
 	holding = auto
 }
 
-1531 = {  #Karumba 2
+1531 = {  #Inverleigh
 	holding = auto
 }
 
 ### c_yangoo
-1584 = {  #Yangoo
+1584 = {  #Inkerman
 	culture = aussie
 	religion = tersian
 	holding = auto
 }
 
-1585 = {  #Yangoo 1
+1585 = {  #Yangoo
 	holding = auto
 }
 

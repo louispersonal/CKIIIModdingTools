@@ -295,17 +295,9 @@ c_grant = {
 	}
 }
 
-c_dalhousie = {
+c_melbourne = {
 	2660.1.1 = {
-		holder = 8
-		government = "feudal_government"
-	}
-}
-
-c_bourke = {
-	2660.1.1 = {
-		holder = 3
-		government = "feudal_government"
+		holder = 0
 	}
 }
 
@@ -326,6 +318,20 @@ c_ripon = {
 c_dundas = {
 	2660.1.1 = {
 		holder = 4
+		government = "feudal_government"
+	}
+}
+
+d_goulburn = {
+	2660.1.1 = {
+		holder = 9
+		government = "feudal_government"
+	}
+}
+
+c_dalhousie = {
+	2660.1.1 = {
+		holder = 8
 		government = "feudal_government"
 	}
 }
@@ -602,31 +608,21 @@ d_south_coast = {
 	}
 }
 
-c_auckland = {
+c_merimbula = {
 	2660.1.1 = {
-		holder = 9
-		government = "feudal_government"
+		holder = 0
 	}
 }
 
-c_wellesley = {
+c_bombala = {
 	2660.1.1 = {
-		holder = 9
-		government = "feudal_government"
+		holder = 0
 	}
 }
 
-c_beresford = {
+c_narooma = {
 	2660.1.1 = {
-		holder = 9
-		government = "feudal_government"
-	}
-}
-
-c_dampier = {
-	2660.1.1 = {
-		holder = 9
-		government = "feudal_government"
+		holder = 0
 	}
 }
 
@@ -638,6 +634,13 @@ d_snowy_mountains = {
 }
 
 c_wallace = {
+	2660.1.1 = {
+		holder = 9
+		government = "feudal_government"
+	}
+}
+
+c_beresford = {
 	2660.1.1 = {
 		holder = 9
 		government = "feudal_government"
@@ -658,10 +661,9 @@ c_selwyn = {
 	}
 }
 
-c_wynyard = {
+c_wagga_wagga = {
 	2660.1.1 = {
-		holder = 9
-		government = "feudal_government"
+		holder = 0
 	}
 }
 
@@ -707,17 +709,16 @@ c_clarendon = {
 	}
 }
 
-d_goulburn = {
+d_alps = {
 	2660.1.1 = {
-		holder = 9
+		holder = 8
 		government = "feudal_government"
 	}
 }
 
-c_goulburn = {
+c_jindera = {
 	2660.1.1 = {
-		holder = 9
-		government = "feudal_government"
+		holder = 0
 	}
 }
 
@@ -742,9 +743,9 @@ c_murray = {
 	}
 }
 
-c_argyle = {
+c_goulburn = {
 	2660.1.1 = {
-		holder = 10
+		holder = 9
 		government = "feudal_government"
 	}
 }
@@ -777,30 +778,27 @@ d_sydney = {
 	}
 }
 
-c_st_vincent = {
+c_nowra = {
 	2660.1.1 = {
-		holder = 10
-		government = "feudal_government"
+		holder = 0
 	}
 }
 
-c_camden = {
+c_wollongong = {
 	2660.1.1 = {
-		holder = 10
-		government = "feudal_government"
+		holder = 0
 	}
 }
 
-c_cumberland = {
+c_sydney = {
 	2660.1.1 = {
-		holder = 10
-		government = "feudal_government"
+		holder = 0
 	}
 }
 
-c_northumberland = {
+c_newcastle = {
 	2660.1.1 = {
-		holder = 10
+		holder = 17
 		government = "feudal_government"
 	}
 }
@@ -826,10 +824,9 @@ c_cook = {
 	}
 }
 
-c_hunter = {
+c_wollemi = {
 	2660.1.1 = {
-		holder = 10
-		government = "feudal_government"
+		holder = 0
 	}
 }
 
@@ -854,10 +851,9 @@ c_roxburgh = {
 	}
 }
 
-c_phillip = {
+c_gulgong = {
 	2660.1.1 = {
-		holder = 10
-		government = "feudal_government"
+		holder = 0
 	}
 }
 
@@ -889,10 +885,9 @@ c_muswellbrook = {
 	}
 }
 
-c_gloucester = {
+c_forster = {
 	2660.1.1 = {
-		holder = 10
-		government = "feudal_government"
+		holder = 0
 	}
 }
 
@@ -910,10 +905,9 @@ d_portharbour = {
 	}
 }
 
-c_macquarie = {
+c_port_macquarie = {
 	2660.1.1 = {
-		holder = 11
-		government = "feudal_government"
+		holder = 0
 	}
 }
 
@@ -924,17 +918,15 @@ c_dudley = {
 	}
 }
 
-c_raleigh = {
+c_nambucca_heads = {
 	2660.1.1 = {
-		holder = 11
-		government = "feudal_government"
+		holder = 0
 	}
 }
 
-c_fitzroy = {
+c_coffs_harbour = {
 	2660.1.1 = {
-		holder = 11
-		government = "feudal_government"
+		holder = 0
 	}
 }
 
@@ -952,17 +944,15 @@ c_hawes = {
 	}
 }
 
-c_vernon = {
+c_walcha = {
 	2660.1.1 = {
-		holder = 11
-		government = "feudal_government"
+		holder = 0
 	}
 }
 
-c_sandon = {
+c_armidale = {
 	2660.1.1 = {
-		holder = 11
-		government = "feudal_government"
+		holder = 0
 	}
 }
 
@@ -987,17 +977,15 @@ c_gresham = {
 	}
 }
 
-c_clive = {
+c_tenterfield = {
 	2660.1.1 = {
-		holder = 11
-		government = "feudal_government"
+		holder = 0
 	}
 }
 
-c_gough = {
+c_glen_innes = {
 	2660.1.1 = {
-		holder = 11
-		government = "feudal_government"
+		holder = 0
 	}
 }
 
@@ -1036,17 +1024,15 @@ c_clarence = {
 	}
 }
 
-c_richmond_valley = {
+c_casino = {
 	2660.1.1 = {
-		holder = 11
-		government = "feudal_government"
+		holder = 0
 	}
 }
 
-c_rous = {
+c_lismore = {
 	2660.1.1 = {
-		holder = 11
-		government = "feudal_government"
+		holder = 0
 	}
 }
 
@@ -1106,17 +1092,15 @@ c_inglis = {
 	}
 }
 
-c_parry = {
+c_tamworth = {
 	2660.1.1 = {
-		holder = 11
-		government = "feudal_government"
+		holder = 0
 	}
 }
 
-c_buckland = {
+c_carroll = {
 	2660.1.1 = {
-		holder = 11
-		government = "feudal_government"
+		holder = 0
 	}
 }
 
@@ -1344,10 +1328,9 @@ d_lincoln = {
 	}
 }
 
-c_lincoln = {
+c_dubbo = {
 	2660.1.1 = {
-		holder = 13
-		government = "feudal_government"
+		holder = 0
 	}
 }
 
@@ -1771,10 +1754,9 @@ c_yungnulgra = {
 	}
 }
 
-c_fitzgerlald = {
+c_fitzgerald = {
 	2660.1.1 = {
-		holder = 15
-		government = "feudal_government"
+		holder = 0
 	}
 }
 
