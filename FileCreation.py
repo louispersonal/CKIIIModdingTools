@@ -492,7 +492,7 @@ def write_landed_titles_file(landed_titles):
 
 
 def write_titles_localization(landed_titles):
-    f = open("localization/titles_l_english.yml", "w")
+    f = open("localization/titles_l_english.yml", "w", encoding="utf8")
 
     f.write(
         "l_english:\n TITLE_NAME:0 \"$NAME$\"\n TITLE_TIERED_NAME:0 \"$TIER|U$ of $NAME$\"\n TITLE_CLAN_TIERED_NAME"
@@ -500,17 +500,82 @@ def write_titles_localization(landed_titles):
         "of $BASE_NAME$) #!\"\n TITLE_TIER_AS_NAME:0 \"$TIER|U$\"\n\n\n")
 
     for empire in landed_titles.empires:
-        f.write(" " + empire.name + ":0 \"" + empire.localized_name + "\"\n")
+        if empire.name == "e_murrurnitja":
+            f.write(" " + empire.name + ":0 \"" + localize_murrurnitja_name(empire.localized_name) + "\"\n")
+        else:
+            f.write(" " + empire.name + ":0 \"" + empire.localized_name + "\"\n")
         for kingdom in empire.kingdoms:
-            f.write(" " + kingdom.name + ":0 \"" + kingdom.localized_name + "\"\n")
+            if empire.name == "e_murrurnitja":
+                f.write(" " + kingdom.name + ":0 \"" + localize_murrurnitja_name(kingdom.localized_name) + "\"\n")
+            else:
+                f.write(" " + kingdom.name + ":0 \"" + kingdom.localized_name + "\"\n")
             for duchy in kingdom.duchies:
-                f.write(" " + duchy.name + ":0 \"" + duchy.localized_name + "\"\n")
+                if empire.name == "e_murrurnitja":
+                    f.write(" " + duchy.name + ":0 \"" + localize_murrurnitja_name(duchy.localized_name) + "\"\n")
+                else:
+                    f.write(" " + duchy.name + ":0 \"" + duchy.localized_name + "\"\n")
                 for county in duchy.counties:
-                    f.write(" " + county.name + ":0 \"" + county.localized_name + "\"\n")
+                    if empire.name == "e_murrurnitja":
+                        f.write(" " + county.name + ":0 \"" + localize_murrurnitja_name(county.localized_name) + "\"\n")
+                    else:
+                        f.write(" " + county.name + ":0 \"" + county.localized_name + "\"\n")
                     for barony in county.baronies:
-                        f.write(" " + barony.name + ":0 \"" + barony.localized_name + "\"\n")
+                        if empire.name == "e_murrurnitja":
+                            f.write(" " + barony.name + ":0 \"" + localize_murrurnitja_name(barony.localized_name) + "\"\n")
+                        else:
+                            f.write(" " + barony.name + ":0 \"" + barony.localized_name + "\"\n")
 
     f.close()
+
+
+def localize_murrurnitja_name(m_name):
+    word = m_name.lower()
+    new_word = [""]
+    for letter in word:
+        if letter == "d" or letter == "t":
+            new_word.append("đ")
+        elif letter == "j":
+            new_word[-1] = "ĵ"
+        elif letter == "y":
+            if new_word[-1] == "n":
+                new_word[-1] = "ņ"
+            elif new_word[-1] == "l":
+                new_word[-1] = "ŀ"
+            else:
+                new_word.append(letter)
+        elif letter == "g":
+            if new_word[-1] == "n":
+                new_word[-1] = "ŋ"
+            else:
+                new_word.append(letter)
+        elif letter == "l":
+            if new_word[-1] == "r":
+                new_word[-1] = "ļ"
+            else:
+                new_word.append(letter)
+        elif letter == "r":
+            if new_word[-1] == "r":
+                new_word[-1] = "ř"
+            else:
+                new_word.append(letter)
+        elif letter == "o":
+            if new_word[-1] == "o":
+                new_word[-1] = "u"
+            else:
+                new_word.append(letter)
+        elif letter == "a":
+            if new_word[-1] == "a":
+                new_word[-1] = "ā"
+            else:
+                new_word.append(letter)
+        else:
+            new_word.append(letter)
+
+    new_word_string = ""
+    for item in new_word:
+        new_word_string = new_word_string + item
+
+    return new_word_string.capitalize()
 
 
 def write_province_history(landed_titles):
@@ -842,5 +907,8 @@ if __name__ == '__main__':
 
     # write title history
     write_title_history(titles)
+
+    # localization
+    write_titles_localization(titles)
 
     # initialize_title_character_list(titles)

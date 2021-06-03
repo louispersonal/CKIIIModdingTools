@@ -1,3 +1,9 @@
+e_gippsmania = {
+	2660.1.1 = {
+		holder = 0
+	}
+}
+
 k_tasmania = {
 	2660.1.1 = {
 		holder = 1
@@ -218,66 +224,9 @@ c_furneaux = {
 	}
 }
 
-d_great_ocean = {
+k_gippsland = {
 	2660.1.1 = {
-		holder = 2
-		government = "feudal_government"
-	}
-}
-
-c_follett = {
-	2660.1.1 = {
-		holder = 2
-		government = "feudal_government"
-	}
-}
-
-c_normanby = {
-	2660.1.1 = {
-		holder = 2
-		government = "feudal_government"
-	}
-}
-
-c_villiers = {
-	2660.1.1 = {
-		holder = 2
-		government = "feudal_government"
-	}
-}
-
-c_heytesbury = {
-	2660.1.1 = {
-		holder = 2
-		government = "feudal_government"
-	}
-}
-
-d_apollo = {
-	2660.1.1 = {
-		holder = 3
-		government = "feudal_government"
-	}
-}
-
-c_polwarth = {
-	2660.1.1 = {
-		holder = 3
-		government = "feudal_government"
-	}
-}
-
-c_grenville = {
-	2660.1.1 = {
-		holder = 3
-		government = "feudal_government"
-	}
-}
-
-c_hampden = {
-	2660.1.1 = {
-		holder = 3
-		government = "feudal_government"
+		holder = 0
 	}
 }
 
@@ -301,41 +250,6 @@ c_melbourne = {
 	}
 }
 
-d_grampians = {
-	2660.1.1 = {
-		holder = 8
-		government = "feudal_government"
-	}
-}
-
-c_ripon = {
-	2660.1.1 = {
-		holder = 4
-		government = "feudal_government"
-	}
-}
-
-c_dundas = {
-	2660.1.1 = {
-		holder = 4
-		government = "feudal_government"
-	}
-}
-
-d_goulburn = {
-	2660.1.1 = {
-		holder = 9
-		government = "feudal_government"
-	}
-}
-
-c_dalhousie = {
-	2660.1.1 = {
-		holder = 8
-		government = "feudal_government"
-	}
-}
-
 d_yarra_valley = {
 	2660.1.1 = {
 		holder = 4
@@ -353,27 +267,6 @@ c_mornington = {
 c_evelyn = {
 	2660.1.1 = {
 		holder = 4
-		government = "feudal_government"
-	}
-}
-
-d_high_country = {
-	2660.1.1 = {
-		holder = 8
-		government = "feudal_government"
-	}
-}
-
-c_anglesey = {
-	2660.1.1 = {
-		holder = 5
-		government = "feudal_government"
-	}
-}
-
-c_wonnangatta = {
-	2660.1.1 = {
-		holder = 5
 		government = "feudal_government"
 	}
 }
@@ -427,135 +320,9 @@ c_buln_buln = {
 	}
 }
 
-k_victoria = {
-	2660.1.1 = {
-		holder = 8
-		government = "feudal_government"
-	}
-}
-
-d_grampians = {
-	2660.1.1 = {
-		holder = 8
-		government = "feudal_government"
-	}
-}
-
-c_lowan = {
-	2660.1.1 = {
-		holder = 8
-		government = "feudal_government"
-	}
-}
-
-c_borung = {
-	2660.1.1 = {
-		holder = 8
-		government = "feudal_government"
-	}
-}
-
-d_mallee = {
-	2660.1.1 = {
-		holder = 8
-		government = "feudal_government"
-	}
-}
-
-c_weeah = {
-	2660.1.1 = {
-		holder = 8
-		government = "feudal_government"
-	}
-}
-
-c_millewa = {
-	2660.1.1 = {
-		holder = 8
-		government = "feudal_government"
-	}
-}
-
-c_karkarooc = {
-	2660.1.1 = {
-		holder = 8
-		government = "feudal_government"
-	}
-}
-
-d_goldplain = {
+k_alps = {
 	2660.1.1 = {
 		holder = 0
-	}
-}
-
-c_kara_kara = {
-	2660.1.1 = {
-		holder = 8
-		government = "feudal_government"
-	}
-}
-
-c_wedderburn = {
-	2660.1.1 = {
-		holder = 8
-		government = "feudal_government"
-	}
-}
-
-c_talbot = {
-	2660.1.1 = {
-		holder = 8
-		government = "feudal_government"
-	}
-}
-
-c_bendigo = {
-	2660.1.1 = {
-		holder = 8
-		government = "feudal_government"
-	}
-}
-
-d_loddon = {
-	2660.1.1 = {
-		holder = 8
-		government = "feudal_government"
-	}
-}
-
-c_tatchera = {
-	2660.1.1 = {
-		holder = 8
-		government = "feudal_government"
-	}
-}
-
-c_gunbower = {
-	2660.1.1 = {
-		holder = 8
-		government = "feudal_government"
-	}
-}
-
-d_goulburn = {
-	2660.1.1 = {
-		holder = 9
-		government = "feudal_government"
-	}
-}
-
-c_rodney = {
-	2660.1.1 = {
-		holder = 8
-		government = "feudal_government"
-	}
-}
-
-c_moira = {
-	2660.1.1 = {
-		holder = 8
-		government = "feudal_government"
 	}
 }
 
@@ -566,9 +333,23 @@ d_high_country = {
 	}
 }
 
+c_anglesey = {
+	2660.1.1 = {
+		holder = 5
+		government = "feudal_government"
+	}
+}
+
 c_delatite = {
 	2660.1.1 = {
 		holder = 8
+		government = "feudal_government"
+	}
+}
+
+c_wonnangatta = {
+	2660.1.1 = {
+		holder = 5
 		government = "feudal_government"
 	}
 }
@@ -594,33 +375,7 @@ c_benambra = {
 	}
 }
 
-k_canberra = {
-	2660.1.1 = {
-		holder = 9
-		government = "feudal_government"
-	}
-}
-
-d_south_coast = {
-	2660.1.1 = {
-		holder = 9
-		government = "feudal_government"
-	}
-}
-
-c_merimbula = {
-	2660.1.1 = {
-		holder = 0
-	}
-}
-
-c_bombala = {
-	2660.1.1 = {
-		holder = 0
-	}
-}
-
-c_narooma = {
+c_jindera = {
 	2660.1.1 = {
 		holder = 0
 	}
@@ -667,27 +422,6 @@ c_wagga_wagga = {
 	}
 }
 
-d_capital_territory = {
-	2660.1.1 = {
-		holder = 9
-		government = "feudal_government"
-	}
-}
-
-c_cowley = {
-	2660.1.1 = {
-		holder = 9
-		government = "feudal_government"
-	}
-}
-
-c_canberra = {
-	2660.1.1 = {
-		holder = 9
-		government = "feudal_government"
-	}
-}
-
 d_harendon = {
 	2660.1.1 = {
 		holder = 9
@@ -709,22 +443,119 @@ c_clarendon = {
 	}
 }
 
-d_alps = {
-	2660.1.1 = {
-		holder = 8
-		government = "feudal_government"
-	}
-}
-
-c_jindera = {
+k_sydney = {
 	2660.1.1 = {
 		holder = 0
 	}
 }
 
-k_nineteen_counties = {
+d_south_coast = {
+	2660.1.1 = {
+		holder = 9
+		government = "feudal_government"
+	}
+}
+
+c_merimbula = {
+	2660.1.1 = {
+		holder = 0
+	}
+}
+
+c_bombala = {
+	2660.1.1 = {
+		holder = 0
+	}
+}
+
+c_narooma = {
+	2660.1.1 = {
+		holder = 0
+	}
+}
+
+d_sydney = {
 	2660.1.1 = {
 		holder = 10
+		government = "feudal_government"
+	}
+}
+
+c_nowra = {
+	2660.1.1 = {
+		holder = 0
+	}
+}
+
+c_wollongong = {
+	2660.1.1 = {
+		holder = 0
+	}
+}
+
+c_sydney = {
+	2660.1.1 = {
+		holder = 0
+	}
+}
+
+c_newcastle = {
+	2660.1.1 = {
+		holder = 17
+		government = "feudal_government"
+	}
+}
+
+d_hunter = {
+	2660.1.1 = {
+		holder = 10
+		government = "feudal_government"
+	}
+}
+
+c_scone = {
+	2660.1.1 = {
+		holder = 10
+		government = "feudal_government"
+	}
+}
+
+c_muswellbrook = {
+	2660.1.1 = {
+		holder = 10
+		government = "feudal_government"
+	}
+}
+
+c_forster = {
+	2660.1.1 = {
+		holder = 0
+	}
+}
+
+k_blue_mountains = {
+	2660.1.1 = {
+		holder = 0
+	}
+}
+
+d_capital_territory = {
+	2660.1.1 = {
+		holder = 9
+		government = "feudal_government"
+	}
+}
+
+c_cowley = {
+	2660.1.1 = {
+		holder = 9
+		government = "feudal_government"
+	}
+}
+
+c_canberra = {
+	2660.1.1 = {
+		holder = 9
 		government = "feudal_government"
 	}
 }
@@ -771,38 +602,6 @@ c_bathurst = {
 	}
 }
 
-d_sydney = {
-	2660.1.1 = {
-		holder = 10
-		government = "feudal_government"
-	}
-}
-
-c_nowra = {
-	2660.1.1 = {
-		holder = 0
-	}
-}
-
-c_wollongong = {
-	2660.1.1 = {
-		holder = 0
-	}
-}
-
-c_sydney = {
-	2660.1.1 = {
-		holder = 0
-	}
-}
-
-c_newcastle = {
-	2660.1.1 = {
-		holder = 17
-		government = "feudal_government"
-	}
-}
-
 d_blue_mountains = {
 	2660.1.1 = {
 		holder = 10
@@ -825,6 +624,714 @@ c_cook = {
 }
 
 c_wollemi = {
+	2660.1.1 = {
+		holder = 0
+	}
+}
+
+e_promitia = {
+	2660.1.1 = {
+		holder = 0
+	}
+}
+
+k_wimmera = {
+	2660.1.1 = {
+		holder = 0
+	}
+}
+
+d_limestone_coast = {
+	2660.1.1 = {
+		holder = 16
+		government = "feudal_government"
+	}
+}
+
+c_follett = {
+	2660.1.1 = {
+		holder = 2
+		government = "feudal_government"
+	}
+}
+
+c_normanby = {
+	2660.1.1 = {
+		holder = 2
+		government = "feudal_government"
+	}
+}
+
+c_villiers = {
+	2660.1.1 = {
+		holder = 2
+		government = "feudal_government"
+	}
+}
+
+c_mount_gambier = {
+	2660.1.1 = {
+		holder = 0
+	}
+}
+
+c_naracoorte = {
+	2660.1.1 = {
+		holder = 0
+	}
+}
+
+d_apollo = {
+	2660.1.1 = {
+		holder = 3
+		government = "feudal_government"
+	}
+}
+
+c_heytesbury = {
+	2660.1.1 = {
+		holder = 2
+		government = "feudal_government"
+	}
+}
+
+c_polwarth = {
+	2660.1.1 = {
+		holder = 3
+		government = "feudal_government"
+	}
+}
+
+c_grenville = {
+	2660.1.1 = {
+		holder = 3
+		government = "feudal_government"
+	}
+}
+
+c_hampden = {
+	2660.1.1 = {
+		holder = 3
+		government = "feudal_government"
+	}
+}
+
+d_grampians = {
+	2660.1.1 = {
+		holder = 8
+		government = "feudal_government"
+	}
+}
+
+c_ripon = {
+	2660.1.1 = {
+		holder = 4
+		government = "feudal_government"
+	}
+}
+
+c_dundas = {
+	2660.1.1 = {
+		holder = 4
+		government = "feudal_government"
+	}
+}
+
+c_lowan = {
+	2660.1.1 = {
+		holder = 8
+		government = "feudal_government"
+	}
+}
+
+c_borung = {
+	2660.1.1 = {
+		holder = 8
+		government = "feudal_government"
+	}
+}
+
+c_bordertown = {
+	2660.1.1 = {
+		holder = 0
+	}
+}
+
+d_goldplain = {
+	2660.1.1 = {
+		holder = 0
+	}
+}
+
+c_kara_kara = {
+	2660.1.1 = {
+		holder = 8
+		government = "feudal_government"
+	}
+}
+
+c_wedderburn = {
+	2660.1.1 = {
+		holder = 8
+		government = "feudal_government"
+	}
+}
+
+c_talbot = {
+	2660.1.1 = {
+		holder = 8
+		government = "feudal_government"
+	}
+}
+
+c_bendigo = {
+	2660.1.1 = {
+		holder = 8
+		government = "feudal_government"
+	}
+}
+
+k_adelaide = {
+	2660.1.1 = {
+		holder = 0
+	}
+}
+
+d_riverland = {
+	2660.1.1 = {
+		holder = 0
+	}
+}
+
+c_weeah = {
+	2660.1.1 = {
+		holder = 8
+		government = "feudal_government"
+	}
+}
+
+c_millewa = {
+	2660.1.1 = {
+		holder = 8
+		government = "feudal_government"
+	}
+}
+
+c_barmera = {
+	2660.1.1 = {
+		holder = 0
+	}
+}
+
+c_waikerie = {
+	2660.1.1 = {
+		holder = 0
+	}
+}
+
+c_burra = {
+	2660.1.1 = {
+		holder = 17
+		government = "feudal_government"
+	}
+}
+
+d_adelaide = {
+	2660.1.1 = {
+		holder = 17
+		government = "feudal_government"
+	}
+}
+
+c_murray_bridge = {
+	2660.1.1 = {
+		holder = 17
+		government = "feudal_government"
+	}
+}
+
+c_adelaide = {
+	2660.1.1 = {
+		holder = 17
+		government = "feudal_government"
+	}
+}
+
+c_adelaide_plains = {
+	2660.1.1 = {
+		holder = 0
+	}
+}
+
+c_ludunda = {
+	2660.1.1 = {
+		holder = 0
+	}
+}
+
+d_kangaroo_island = {
+	2660.1.1 = {
+		holder = 0
+	}
+}
+
+c_kingscote = {
+	2660.1.1 = {
+		holder = 0
+	}
+}
+
+c_rocky = {
+	2660.1.1 = {
+		holder = 0
+	}
+}
+
+d_spencer = {
+	2660.1.1 = {
+		holder = 0
+	}
+}
+
+c_port_pirie = {
+	2660.1.1 = {
+		holder = 0
+	}
+}
+
+c_moonta = {
+	2660.1.1 = {
+		holder = 0
+	}
+}
+
+c_yorketown = {
+	2660.1.1 = {
+		holder = 0
+	}
+}
+
+k_flinders = {
+	2660.1.1 = {
+		holder = 0
+	}
+}
+
+d_evlyn = {
+	2660.1.1 = {
+		holder = 15
+		government = "feudal_government"
+	}
+}
+
+c_poole = {
+	2660.1.1 = {
+		holder = 15
+		government = "feudal_government"
+	}
+}
+
+c_evlyn = {
+	2660.1.1 = {
+		holder = 15
+		government = "feudal_government"
+	}
+}
+
+c_farnell = {
+	2660.1.1 = {
+		holder = 15
+		government = "feudal_government"
+	}
+}
+
+c_mootwingee = {
+	2660.1.1 = {
+		holder = 15
+		government = "feudal_government"
+	}
+}
+
+c_mulyungarie = {
+	2660.1.1 = {
+		holder = 16
+		government = "feudal_government"
+	}
+}
+
+c_callabonna = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+d_filnders_ranges = {
+	2660.1.1 = {
+		holder = 0
+	}
+}
+
+c_jamestown = {
+	2660.1.1 = {
+		holder = 0
+	}
+}
+
+c_peterborough = {
+	2660.1.1 = {
+		holder = 0
+	}
+}
+
+c_boolero = {
+	2660.1.1 = {
+		holder = 0
+	}
+}
+
+c_quorn = {
+	2660.1.1 = {
+		holder = 0
+	}
+}
+
+c_baratta = {
+	2660.1.1 = {
+		holder = 0
+	}
+}
+
+d_torrens = {
+	2660.1.1 = {
+		holder = 0
+	}
+}
+
+c_leigh_creek = {
+	2660.1.1 = {
+		holder = 0
+	}
+}
+
+c_marree = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+c_vulkathunha = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+d_flinders_ranges = {
+	2660.1.1 = {
+		holder = 16
+		government = "feudal_government"
+	}
+}
+
+c_port_augusta = {
+	2660.1.1 = {
+		holder = 0
+	}
+}
+
+d_frome = {
+	2660.1.1 = {
+		holder = 0
+	}
+}
+
+c_ikara = {
+	2660.1.1 = {
+		holder = 16
+		government = "feudal_government"
+	}
+}
+
+c_yunta = {
+	2660.1.1 = {
+		holder = 16
+		government = "feudal_government"
+	}
+}
+
+c_cockburn = {
+	2660.1.1 = {
+		holder = 16
+		government = "feudal_government"
+	}
+}
+
+c_parnaroo = {
+	2660.1.1 = {
+		holder = 16
+		government = "feudal_government"
+	}
+}
+
+c_danggali = {
+	2660.1.1 = {
+		holder = 16
+		government = "feudal_government"
+	}
+}
+
+d_strzelecki = {
+	2660.1.1 = {
+		holder = 0
+	}
+}
+
+c_bollards_lagoon = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+c_strzelecki = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+c_tirari_desert = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+e_riverina = {
+	2660.1.1 = {
+		holder = 0
+	}
+}
+
+k_murrayvale = {
+	2660.1.1 = {
+		holder = 0
+	}
+}
+
+d_loddon = {
+	2660.1.1 = {
+		holder = 8
+		government = "feudal_government"
+	}
+}
+
+c_karkarooc = {
+	2660.1.1 = {
+		holder = 8
+		government = "feudal_government"
+	}
+}
+
+c_tatchera = {
+	2660.1.1 = {
+		holder = 8
+		government = "feudal_government"
+	}
+}
+
+c_gunbower = {
+	2660.1.1 = {
+		holder = 8
+		government = "feudal_government"
+	}
+}
+
+d_goulburn = {
+	2660.1.1 = {
+		holder = 9
+		government = "feudal_government"
+	}
+}
+
+c_rodney = {
+	2660.1.1 = {
+		holder = 8
+		government = "feudal_government"
+	}
+}
+
+c_dalhousie = {
+	2660.1.1 = {
+		holder = 8
+		government = "feudal_government"
+	}
+}
+
+c_moira = {
+	2660.1.1 = {
+		holder = 8
+		government = "feudal_government"
+	}
+}
+
+d_hilltops = {
+	2660.1.1 = {
+		holder = 14
+		government = "feudal_government"
+	}
+}
+
+c_forbes = {
+	2660.1.1 = {
+		holder = 14
+		government = "feudal_government"
+	}
+}
+
+c_monteagle = {
+	2660.1.1 = {
+		holder = 14
+		government = "feudal_government"
+	}
+}
+
+c_bland = {
+	2660.1.1 = {
+		holder = 14
+		government = "feudal_government"
+	}
+}
+
+c_gipps = {
+	2660.1.1 = {
+		holder = 14
+		government = "feudal_government"
+	}
+}
+
+d_coolamon = {
+	2660.1.1 = {
+		holder = 14
+		government = "feudal_government"
+	}
+}
+
+c_dowling = {
+	2660.1.1 = {
+		holder = 14
+		government = "feudal_government"
+	}
+}
+
+c_nicholson = {
+	2660.1.1 = {
+		holder = 14
+		government = "feudal_government"
+	}
+}
+
+c_sturt = {
+	2660.1.1 = {
+		holder = 14
+		government = "feudal_government"
+	}
+}
+
+c_boyd = {
+	2660.1.1 = {
+		holder = 14
+		government = "feudal_government"
+	}
+}
+
+c_cooper = {
+	2660.1.1 = {
+		holder = 14
+		government = "feudal_government"
+	}
+}
+
+d_the_rock = {
+	2660.1.1 = {
+		holder = 14
+		government = "feudal_government"
+	}
+}
+
+c_the_rock = {
+	2660.1.1 = {
+		holder = 14
+		government = "feudal_government"
+	}
+}
+
+c_burke = {
+	2660.1.1 = {
+		holder = 14
+		government = "feudal_government"
+	}
+}
+
+d_greater_hume = {
+	2660.1.1 = {
+		holder = 14
+		government = "feudal_government"
+	}
+}
+
+c_hume = {
+	2660.1.1 = {
+		holder = 14
+		government = "feudal_government"
+	}
+}
+
+c_urana = {
+	2660.1.1 = {
+		holder = 14
+		government = "feudal_government"
+	}
+}
+
+c_denison = {
+	2660.1.1 = {
+		holder = 14
+		government = "feudal_government"
+	}
+}
+
+d_wakool = {
+	2660.1.1 = {
+		holder = 14
+		government = "feudal_government"
+	}
+}
+
+c_townsend = {
+	2660.1.1 = {
+		holder = 14
+		government = "feudal_government"
+	}
+}
+
+c_cadell = {
+	2660.1.1 = {
+		holder = 14
+		government = "feudal_government"
+	}
+}
+
+c_wakool = {
+	2660.1.1 = {
+		holder = 14
+		government = "feudal_government"
+	}
+}
+
+k_dubbo = {
 	2660.1.1 = {
 		holder = 0
 	}
@@ -864,37 +1371,633 @@ c_bligh = {
 	}
 }
 
-d_hunter = {
+d_tamworth = {
 	2660.1.1 = {
-		holder = 10
+		holder = 11
 		government = "feudal_government"
 	}
 }
 
-c_scone = {
+c_inglis = {
 	2660.1.1 = {
-		holder = 10
+		holder = 11
 		government = "feudal_government"
 	}
 }
 
-c_muswellbrook = {
-	2660.1.1 = {
-		holder = 10
-		government = "feudal_government"
-	}
-}
-
-c_forster = {
+c_tamworth = {
 	2660.1.1 = {
 		holder = 0
 	}
 }
 
-k_new_england = {
+c_carroll = {
+	2660.1.1 = {
+		holder = 0
+	}
+}
+
+c_pottinger = {
 	2660.1.1 = {
 		holder = 11
 		government = "feudal_government"
+	}
+}
+
+d_leichardt = {
+	2660.1.1 = {
+		holder = 12
+		government = "feudal_government"
+	}
+}
+
+c_white = {
+	2660.1.1 = {
+		holder = 12
+		government = "feudal_government"
+	}
+}
+
+c_napier = {
+	2660.1.1 = {
+		holder = 12
+		government = "feudal_government"
+	}
+}
+
+c_gowen = {
+	2660.1.1 = {
+		holder = 12
+		government = "feudal_government"
+	}
+}
+
+c_baradine = {
+	2660.1.1 = {
+		holder = 12
+		government = "feudal_government"
+	}
+}
+
+c_leichardt = {
+	2660.1.1 = {
+		holder = 12
+		government = "feudal_government"
+	}
+}
+
+d_lincoln = {
+	2660.1.1 = {
+		holder = 13
+		government = "feudal_government"
+	}
+}
+
+c_dubbo = {
+	2660.1.1 = {
+		holder = 0
+	}
+}
+
+c_gordon = {
+	2660.1.1 = {
+		holder = 13
+		government = "feudal_government"
+	}
+}
+
+c_ashburnham = {
+	2660.1.1 = {
+		holder = 13
+		government = "feudal_government"
+	}
+}
+
+d_ewenmar = {
+	2660.1.1 = {
+		holder = 13
+		government = "feudal_government"
+	}
+}
+
+c_cunningham = {
+	2660.1.1 = {
+		holder = 13
+		government = "feudal_government"
+	}
+}
+
+c_kennedy = {
+	2660.1.1 = {
+		holder = 13
+		government = "feudal_government"
+	}
+}
+
+c_narromine = {
+	2660.1.1 = {
+		holder = 13
+		government = "feudal_government"
+	}
+}
+
+c_ewenmar = {
+	2660.1.1 = {
+		holder = 13
+		government = "feudal_government"
+	}
+}
+
+c_oxley = {
+	2660.1.1 = {
+		holder = 13
+		government = "feudal_government"
+	}
+}
+
+k_orana = {
+	2660.1.1 = {
+		holder = 12
+		government = "feudal_government"
+	}
+}
+
+d_moonie = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+c_benarba = {
+	2660.1.1 = {
+		holder = 12
+		government = "feudal_government"
+	}
+}
+
+c_st_george = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+c_weengallon = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+c_southwood = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+d_orana = {
+	2660.1.1 = {
+		holder = 12
+		government = "feudal_government"
+	}
+}
+
+c_denham = {
+	2660.1.1 = {
+		holder = 12
+		government = "feudal_government"
+	}
+}
+
+c_finch = {
+	2660.1.1 = {
+		holder = 12
+		government = "feudal_government"
+	}
+}
+
+c_narran = {
+	2660.1.1 = {
+		holder = 12
+		government = "feudal_government"
+	}
+}
+
+d_paroo = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+c_south_culgoa = {
+	2660.1.1 = {
+		holder = 12
+		government = "feudal_government"
+	}
+}
+
+c_wooroorooka = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+c_cunnamulla = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+c_culgoa = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+d_irrara = {
+	2660.1.1 = {
+		holder = 12
+		government = "feudal_government"
+	}
+}
+
+c_gunderbooka = {
+	2660.1.1 = {
+		holder = 12
+		government = "feudal_government"
+	}
+}
+
+c_irrara = {
+	2660.1.1 = {
+		holder = 12
+		government = "feudal_government"
+	}
+}
+
+c_barrona = {
+	2660.1.1 = {
+		holder = 12
+		government = "feudal_government"
+	}
+}
+
+c_thoulcanna = {
+	2660.1.1 = {
+		holder = 15
+		government = "feudal_government"
+	}
+}
+
+c_kilcowera = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+c_currawinya = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+d_dirranbandi = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+c_dirranbandi = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+c_bollon = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+c_linden = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+c_begonia = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+k_darling = {
+	2660.1.1 = {
+		holder = 0
+	}
+}
+
+d_killara = {
+	2660.1.1 = {
+		holder = 15
+		government = "feudal_government"
+	}
+}
+
+c_yungnulgra = {
+	2660.1.1 = {
+		holder = 15
+		government = "feudal_government"
+	}
+}
+
+c_fitzgerald = {
+	2660.1.1 = {
+		holder = 0
+	}
+}
+
+c_killara = {
+	2660.1.1 = {
+		holder = 15
+		government = "feudal_government"
+	}
+}
+
+d_clyde = {
+	2660.1.1 = {
+		holder = 12
+		government = "feudal_government"
+	}
+}
+
+c_landsborough = {
+	2660.1.1 = {
+		holder = 12
+		government = "feudal_government"
+	}
+}
+
+c_yanda = {
+	2660.1.1 = {
+		holder = 12
+		government = "feudal_government"
+	}
+}
+
+c_cowper = {
+	2660.1.1 = {
+		holder = 12
+		government = "feudal_government"
+	}
+}
+
+c_clyde = {
+	2660.1.1 = {
+		holder = 12
+		government = "feudal_government"
+	}
+}
+
+c_gregory = {
+	2660.1.1 = {
+		holder = 12
+		government = "feudal_government"
+	}
+}
+
+c_canbelego = {
+	2660.1.1 = {
+		holder = 12
+		government = "feudal_government"
+	}
+}
+
+d_mouramba = {
+	2660.1.1 = {
+		holder = 13
+		government = "feudal_government"
+	}
+}
+
+c_flinders = {
+	2660.1.1 = {
+		holder = 13
+		government = "feudal_government"
+	}
+}
+
+c_robinson = {
+	2660.1.1 = {
+		holder = 13
+		government = "feudal_government"
+	}
+}
+
+c_booroondarra = {
+	2660.1.1 = {
+		holder = 13
+		government = "feudal_government"
+	}
+}
+
+c_rankin = {
+	2660.1.1 = {
+		holder = 13
+		government = "feudal_government"
+	}
+}
+
+c_woore = {
+	2660.1.1 = {
+		holder = 13
+		government = "feudal_government"
+	}
+}
+
+c_mossgiel = {
+	2660.1.1 = {
+		holder = 13
+		government = "feudal_government"
+	}
+}
+
+c_blaxland = {
+	2660.1.1 = {
+		holder = 13
+		government = "feudal_government"
+	}
+}
+
+c_mouramba = {
+	2660.1.1 = {
+		holder = 13
+		government = "feudal_government"
+	}
+}
+
+d_tandora = {
+	2660.1.1 = {
+		holder = 15
+		government = "feudal_government"
+	}
+}
+
+c_werunda = {
+	2660.1.1 = {
+		holder = 15
+		government = "feudal_government"
+	}
+}
+
+c_young = {
+	2660.1.1 = {
+		holder = 15
+		government = "feudal_government"
+	}
+}
+
+c_tandora = {
+	2660.1.1 = {
+		holder = 15
+		government = "feudal_government"
+	}
+}
+
+c_yancowinna = {
+	2660.1.1 = {
+		holder = 15
+		government = "feudal_government"
+	}
+}
+
+c_menindee = {
+	2660.1.1 = {
+		holder = 15
+		government = "feudal_government"
+	}
+}
+
+c_livingstone = {
+	2660.1.1 = {
+		holder = 15
+		government = "feudal_government"
+	}
+}
+
+d_carrathool = {
+	2660.1.1 = {
+		holder = 14
+		government = "feudal_government"
+	}
+}
+
+c_franklin = {
+	2660.1.1 = {
+		holder = 14
+		government = "feudal_government"
+	}
+}
+
+c_waljeers = {
+	2660.1.1 = {
+		holder = 14
+		government = "feudal_government"
+	}
+}
+
+c_kilfera = {
+	2660.1.1 = {
+		holder = 14
+		government = "feudal_government"
+	}
+}
+
+c_caira = {
+	2660.1.1 = {
+		holder = 14
+		government = "feudal_government"
+	}
+}
+
+c_waradgery = {
+	2660.1.1 = {
+		holder = 14
+		government = "feudal_government"
+	}
+}
+
+d_wentworth = {
+	2660.1.1 = {
+		holder = 15
+		government = "feudal_government"
+	}
+}
+
+c_manara = {
+	2660.1.1 = {
+		holder = 15
+		government = "feudal_government"
+	}
+}
+
+c_perry = {
+	2660.1.1 = {
+		holder = 15
+		government = "feudal_government"
+	}
+}
+
+c_windeyer = {
+	2660.1.1 = {
+		holder = 15
+		government = "feudal_government"
+	}
+}
+
+c_tarawi = {
+	2660.1.1 = {
+		holder = 15
+		government = "feudal_government"
+	}
+}
+
+c_wentworth = {
+	2660.1.1 = {
+		holder = 15
+		government = "feudal_government"
+	}
+}
+
+c_taila = {
+	2660.1.1 = {
+		holder = 15
+		government = "feudal_government"
+	}
+}
+
+e_maconia = {
+	2660.1.1 = {
+		holder = 0
+	}
+}
+
+k_northcoast = {
+	2660.1.1 = {
+		holder = 0
 	}
 }
 
@@ -925,6 +2028,38 @@ c_nambucca_heads = {
 }
 
 c_coffs_harbour = {
+	2660.1.1 = {
+		holder = 0
+	}
+}
+
+d_lowlands = {
+	2660.1.1 = {
+		holder = 11
+		government = "feudal_government"
+	}
+}
+
+c_clarence = {
+	2660.1.1 = {
+		holder = 11
+		government = "feudal_government"
+	}
+}
+
+c_casino = {
+	2660.1.1 = {
+		holder = 0
+	}
+}
+
+c_lismore = {
+	2660.1.1 = {
+		holder = 0
+	}
+}
+
+k_tablelands = {
 	2660.1.1 = {
 		holder = 0
 	}
@@ -1010,32 +2145,6 @@ c_buller = {
 	}
 }
 
-d_lowlands = {
-	2660.1.1 = {
-		holder = 11
-		government = "feudal_government"
-	}
-}
-
-c_clarence = {
-	2660.1.1 = {
-		holder = 11
-		government = "feudal_government"
-	}
-}
-
-c_casino = {
-	2660.1.1 = {
-		holder = 0
-	}
-}
-
-c_lismore = {
-	2660.1.1 = {
-		holder = 0
-	}
-}
-
 d_nandewar = {
 	2660.1.1 = {
 		holder = 11
@@ -1078,36 +2187,9 @@ c_jamison = {
 	}
 }
 
-d_tamworth = {
-	2660.1.1 = {
-		holder = 11
-		government = "feudal_government"
-	}
-}
-
-c_inglis = {
-	2660.1.1 = {
-		holder = 11
-		government = "feudal_government"
-	}
-}
-
-c_tamworth = {
+k_paradise = {
 	2660.1.1 = {
 		holder = 0
-	}
-}
-
-c_carroll = {
-	2660.1.1 = {
-		holder = 0
-	}
-}
-
-c_pottinger = {
-	2660.1.1 = {
-		holder = 11
-		government = "feudal_government"
 	}
 }
 
@@ -1146,531 +2228,390 @@ c_courallie = {
 	}
 }
 
-k_orana = {
+d_goondiwindi = {
 	2660.1.1 = {
-		holder = 12
+		holder = 19
 		government = "feudal_government"
 	}
 }
 
-d_orana = {
+c_goondiwindi = {
 	2660.1.1 = {
-		holder = 12
+		holder = 19
 		government = "feudal_government"
 	}
 }
 
-c_benarba = {
+c_inglewood = {
 	2660.1.1 = {
-		holder = 12
+		holder = 19
 		government = "feudal_government"
 	}
 }
 
-c_denham = {
+c_texas = {
 	2660.1.1 = {
-		holder = 12
+		holder = 19
 		government = "feudal_government"
 	}
 }
 
-c_finch = {
+c_warwick = {
 	2660.1.1 = {
-		holder = 12
+		holder = 19
 		government = "feudal_government"
 	}
 }
 
-c_narran = {
+c_millmerran = {
 	2660.1.1 = {
-		holder = 12
+		holder = 19
 		government = "feudal_government"
 	}
 }
 
-d_leichardt = {
+d_brisbane = {
 	2660.1.1 = {
-		holder = 12
+		holder = 19
 		government = "feudal_government"
 	}
 }
 
-c_white = {
+c_boonah = {
 	2660.1.1 = {
-		holder = 12
+		holder = 19
 		government = "feudal_government"
 	}
 }
 
-c_napier = {
+c_surfers_paradise = {
 	2660.1.1 = {
-		holder = 12
+		holder = 19
 		government = "feudal_government"
 	}
 }
 
-c_gowen = {
+c_brisbane = {
 	2660.1.1 = {
-		holder = 12
+		holder = 19
 		government = "feudal_government"
 	}
 }
 
-c_baradine = {
+c_toowoomba = {
 	2660.1.1 = {
-		holder = 12
+		holder = 19
 		government = "feudal_government"
 	}
 }
 
-c_leichardt = {
+c_maroochydore = {
 	2660.1.1 = {
-		holder = 12
+		holder = 19
 		government = "feudal_government"
 	}
 }
 
-d_irrara = {
+d_western_downs = {
 	2660.1.1 = {
-		holder = 12
+		holder = 19
 		government = "feudal_government"
 	}
 }
 
-c_south_culgoa = {
+c_miles = {
 	2660.1.1 = {
-		holder = 12
+		holder = 19
 		government = "feudal_government"
 	}
 }
 
-c_gunderbooka = {
+c_tara = {
 	2660.1.1 = {
-		holder = 12
+		holder = 19
 		government = "feudal_government"
 	}
 }
 
-c_irrara = {
+c_dalby = {
 	2660.1.1 = {
-		holder = 12
+		holder = 19
 		government = "feudal_government"
 	}
 }
 
-c_barrona = {
+c_chinchilla = {
 	2660.1.1 = {
-		holder = 12
+		holder = 19
 		government = "feudal_government"
 	}
 }
 
-c_landsborough = {
+d_sunshine = {
 	2660.1.1 = {
-		holder = 12
+		holder = 19
 		government = "feudal_government"
 	}
 }
 
-d_clyde = {
+c_kingaroy = {
 	2660.1.1 = {
-		holder = 12
+		holder = 19
 		government = "feudal_government"
 	}
 }
 
-c_yanda = {
+c_sunshine_coast = {
 	2660.1.1 = {
-		holder = 12
+		holder = 19
 		government = "feudal_government"
 	}
 }
 
-c_cowper = {
+c_maryborough = {
 	2660.1.1 = {
-		holder = 12
+		holder = 19
 		government = "feudal_government"
 	}
 }
 
-c_clyde = {
+c_mundubbera = {
 	2660.1.1 = {
-		holder = 12
+		holder = 19
 		government = "feudal_government"
 	}
 }
 
-c_gregory = {
+k_fitzroy = {
 	2660.1.1 = {
-		holder = 12
+		holder = 19
 		government = "feudal_government"
 	}
 }
 
-c_canbelego = {
+d_maranoa = {
 	2660.1.1 = {
-		holder = 12
+		holder = 19
 		government = "feudal_government"
 	}
 }
 
-k_mourewenmar = {
+c_mitchell = {
 	2660.1.1 = {
-		holder = 13
+		holder = 19
 		government = "feudal_government"
 	}
 }
 
-d_lincoln = {
+c_roma = {
 	2660.1.1 = {
-		holder = 13
+		holder = 19
 		government = "feudal_government"
 	}
 }
 
-c_dubbo = {
+c_surat = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+c_forest_vale = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+d_banana = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+c_taroom = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+c_injune = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+c_theodore = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+d_carnarvon = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+c_hillside_forest = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+c_oak_vale = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+c_expedition = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+c_carnarvon = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+d_north_burnett = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+c_dawson_park = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+c_monto = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+c_bundaberg = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+c_gladstone = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+c_biloela = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+d_central_highlands = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+c_moura = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+c_rolleston = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+c_mantuan_downs = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+c_blackwater = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+c_emerald = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+d_torilla = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+c_rockhampton = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+c_yeppoon = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+c_middlemount = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+e_outback = {
 	2660.1.1 = {
 		holder = 0
 	}
 }
 
-c_gordon = {
+k_desertina = {
 	2660.1.1 = {
-		holder = 13
-		government = "feudal_government"
-	}
-}
-
-c_ashburnham = {
-	2660.1.1 = {
-		holder = 13
-		government = "feudal_government"
-	}
-}
-
-d_ewenmar = {
-	2660.1.1 = {
-		holder = 13
-		government = "feudal_government"
-	}
-}
-
-c_cunningham = {
-	2660.1.1 = {
-		holder = 13
-		government = "feudal_government"
-	}
-}
-
-c_kennedy = {
-	2660.1.1 = {
-		holder = 13
-		government = "feudal_government"
-	}
-}
-
-c_narromine = {
-	2660.1.1 = {
-		holder = 13
-		government = "feudal_government"
-	}
-}
-
-c_ewenmar = {
-	2660.1.1 = {
-		holder = 13
-		government = "feudal_government"
-	}
-}
-
-c_oxley = {
-	2660.1.1 = {
-		holder = 13
-		government = "feudal_government"
-	}
-}
-
-d_mouramba = {
-	2660.1.1 = {
-		holder = 13
-		government = "feudal_government"
-	}
-}
-
-c_flinders = {
-	2660.1.1 = {
-		holder = 13
-		government = "feudal_government"
-	}
-}
-
-c_robinson = {
-	2660.1.1 = {
-		holder = 13
-		government = "feudal_government"
-	}
-}
-
-c_booroondarra = {
-	2660.1.1 = {
-		holder = 13
-		government = "feudal_government"
-	}
-}
-
-c_rankin = {
-	2660.1.1 = {
-		holder = 13
-		government = "feudal_government"
-	}
-}
-
-c_woore = {
-	2660.1.1 = {
-		holder = 13
-		government = "feudal_government"
-	}
-}
-
-c_mossgiel = {
-	2660.1.1 = {
-		holder = 13
-		government = "feudal_government"
-	}
-}
-
-c_blaxland = {
-	2660.1.1 = {
-		holder = 13
-		government = "feudal_government"
-	}
-}
-
-c_mouramba = {
-	2660.1.1 = {
-		holder = 13
-		government = "feudal_government"
-	}
-}
-
-k_riverina = {
-	2660.1.1 = {
-		holder = 14
-		government = "feudal_government"
-	}
-}
-
-d_hilltops = {
-	2660.1.1 = {
-		holder = 14
-		government = "feudal_government"
-	}
-}
-
-c_forbes = {
-	2660.1.1 = {
-		holder = 14
-		government = "feudal_government"
-	}
-}
-
-c_monteagle = {
-	2660.1.1 = {
-		holder = 14
-		government = "feudal_government"
-	}
-}
-
-c_bland = {
-	2660.1.1 = {
-		holder = 14
-		government = "feudal_government"
-	}
-}
-
-c_gipps = {
-	2660.1.1 = {
-		holder = 14
-		government = "feudal_government"
-	}
-}
-
-d_coolamon = {
-	2660.1.1 = {
-		holder = 14
-		government = "feudal_government"
-	}
-}
-
-c_dowling = {
-	2660.1.1 = {
-		holder = 14
-		government = "feudal_government"
-	}
-}
-
-c_nicholson = {
-	2660.1.1 = {
-		holder = 14
-		government = "feudal_government"
-	}
-}
-
-c_sturt = {
-	2660.1.1 = {
-		holder = 14
-		government = "feudal_government"
-	}
-}
-
-c_boyd = {
-	2660.1.1 = {
-		holder = 14
-		government = "feudal_government"
-	}
-}
-
-c_cooper = {
-	2660.1.1 = {
-		holder = 14
-		government = "feudal_government"
-	}
-}
-
-d_carrathool = {
-	2660.1.1 = {
-		holder = 14
-		government = "feudal_government"
-	}
-}
-
-c_franklin = {
-	2660.1.1 = {
-		holder = 14
-		government = "feudal_government"
-	}
-}
-
-c_waljeers = {
-	2660.1.1 = {
-		holder = 14
-		government = "feudal_government"
-	}
-}
-
-c_kilfera = {
-	2660.1.1 = {
-		holder = 14
-		government = "feudal_government"
-	}
-}
-
-c_caira = {
-	2660.1.1 = {
-		holder = 14
-		government = "feudal_government"
-	}
-}
-
-c_waradgery = {
-	2660.1.1 = {
-		holder = 14
-		government = "feudal_government"
-	}
-}
-
-d_the_rock = {
-	2660.1.1 = {
-		holder = 14
-		government = "feudal_government"
-	}
-}
-
-c_the_rock = {
-	2660.1.1 = {
-		holder = 14
-		government = "feudal_government"
-	}
-}
-
-c_burke = {
-	2660.1.1 = {
-		holder = 14
-		government = "feudal_government"
-	}
-}
-
-d_greater_hume = {
-	2660.1.1 = {
-		holder = 14
-		government = "feudal_government"
-	}
-}
-
-c_hume = {
-	2660.1.1 = {
-		holder = 14
-		government = "feudal_government"
-	}
-}
-
-c_urana = {
-	2660.1.1 = {
-		holder = 14
-		government = "feudal_government"
-	}
-}
-
-c_denison = {
-	2660.1.1 = {
-		holder = 14
-		government = "feudal_government"
-	}
-}
-
-d_wakool = {
-	2660.1.1 = {
-		holder = 14
-		government = "feudal_government"
-	}
-}
-
-c_townsend = {
-	2660.1.1 = {
-		holder = 14
-		government = "feudal_government"
-	}
-}
-
-c_cadell = {
-	2660.1.1 = {
-		holder = 14
-		government = "feudal_government"
-	}
-}
-
-c_wakool = {
-	2660.1.1 = {
-		holder = 14
-		government = "feudal_government"
-	}
-}
-
-k_far_west = {
-	2660.1.1 = {
-		holder = 15
-		government = "feudal_government"
+		holder = 0
 	}
 }
 
 d_ularara = {
-	2660.1.1 = {
-		holder = 15
-		government = "feudal_government"
-	}
-}
-
-c_thoulcanna = {
 	2660.1.1 = {
 		holder = 15
 		government = "feudal_government"
@@ -1691,20 +2632,6 @@ c_delalah = {
 	}
 }
 
-c_yantara = {
-	2660.1.1 = {
-		holder = 15
-		government = "feudal_government"
-	}
-}
-
-d_evlyn = {
-	2660.1.1 = {
-		holder = 15
-		government = "feudal_government"
-	}
-}
-
 c_tongowoko = {
 	2660.1.1 = {
 		holder = 15
@@ -1712,399 +2639,209 @@ c_tongowoko = {
 	}
 }
 
-c_poole = {
+c_yantara = {
 	2660.1.1 = {
 		holder = 15
 		government = "feudal_government"
 	}
 }
 
-c_evlyn = {
-	2660.1.1 = {
-		holder = 15
-		government = "feudal_government"
-	}
-}
-
-c_farnell = {
-	2660.1.1 = {
-		holder = 15
-		government = "feudal_government"
-	}
-}
-
-c_mootwingee = {
-	2660.1.1 = {
-		holder = 15
-		government = "feudal_government"
-	}
-}
-
-d_killara = {
-	2660.1.1 = {
-		holder = 15
-		government = "feudal_government"
-	}
-}
-
-c_yungnulgra = {
-	2660.1.1 = {
-		holder = 15
-		government = "feudal_government"
-	}
-}
-
-c_fitzgerald = {
-	2660.1.1 = {
-		holder = 0
-	}
-}
-
-c_killara = {
-	2660.1.1 = {
-		holder = 15
-		government = "feudal_government"
-	}
-}
-
-d_tandora = {
-	2660.1.1 = {
-		holder = 15
-		government = "feudal_government"
-	}
-}
-
-c_werunda = {
-	2660.1.1 = {
-		holder = 15
-		government = "feudal_government"
-	}
-}
-
-c_young = {
-	2660.1.1 = {
-		holder = 15
-		government = "feudal_government"
-	}
-}
-
-c_tandora = {
-	2660.1.1 = {
-		holder = 15
-		government = "feudal_government"
-	}
-}
-
-c_yancowinna = {
-	2660.1.1 = {
-		holder = 15
-		government = "feudal_government"
-	}
-}
-
-c_menindee = {
-	2660.1.1 = {
-		holder = 15
-		government = "feudal_government"
-	}
-}
-
-c_livingstone = {
-	2660.1.1 = {
-		holder = 15
-		government = "feudal_government"
-	}
-}
-
-d_wentworth = {
-	2660.1.1 = {
-		holder = 15
-		government = "feudal_government"
-	}
-}
-
-c_manara = {
-	2660.1.1 = {
-		holder = 15
-		government = "feudal_government"
-	}
-}
-
-c_perry = {
-	2660.1.1 = {
-		holder = 15
-		government = "feudal_government"
-	}
-}
-
-c_windeyer = {
-	2660.1.1 = {
-		holder = 15
-		government = "feudal_government"
-	}
-}
-
-c_tarawi = {
-	2660.1.1 = {
-		holder = 15
-		government = "feudal_government"
-	}
-}
-
-c_wentworth = {
-	2660.1.1 = {
-		holder = 15
-		government = "feudal_government"
-	}
-}
-
-c_taila = {
-	2660.1.1 = {
-		holder = 15
-		government = "feudal_government"
-	}
-}
-
-k_adelaide = {
-	2660.1.1 = {
-		holder = 0
-	}
-}
-
-d_limestone_coast = {
-	2660.1.1 = {
-		holder = 16
-		government = "feudal_government"
-	}
-}
-
-c_mount_gambier = {
-	2660.1.1 = {
-		holder = 0
-	}
-}
-
-c_naracoorte = {
-	2660.1.1 = {
-		holder = 0
-	}
-}
-
-c_bordertown = {
-	2660.1.1 = {
-		holder = 0
-	}
-}
-
-d_adelaide = {
-	2660.1.1 = {
-		holder = 17
-		government = "feudal_government"
-	}
-}
-
-c_murray_bridge = {
-	2660.1.1 = {
-		holder = 17
-		government = "feudal_government"
-	}
-}
-
-c_adelaide = {
-	2660.1.1 = {
-		holder = 17
-		government = "feudal_government"
-	}
-}
-
-c_adelaide_plains = {
-	2660.1.1 = {
-		holder = 0
-	}
-}
-
-c_ludunda = {
-	2660.1.1 = {
-		holder = 0
-	}
-}
-
-d_riverland = {
-	2660.1.1 = {
-		holder = 0
-	}
-}
-
-c_barmera = {
-	2660.1.1 = {
-		holder = 0
-	}
-}
-
-c_waikerie = {
-	2660.1.1 = {
-		holder = 0
-	}
-}
-
-c_burra = {
-	2660.1.1 = {
-		holder = 17
-		government = "feudal_government"
-	}
-}
-
-d_kangaroo_island = {
-	2660.1.1 = {
-		holder = 0
-	}
-}
-
-c_kingscote = {
-	2660.1.1 = {
-		holder = 0
-	}
-}
-
-c_rocky = {
-	2660.1.1 = {
-		holder = 0
-	}
-}
-
-d_spencer = {
-	2660.1.1 = {
-		holder = 0
-	}
-}
-
-c_port_pirie = {
-	2660.1.1 = {
-		holder = 0
-	}
-}
-
-c_moonta = {
-	2660.1.1 = {
-		holder = 0
-	}
-}
-
-c_yorketown = {
-	2660.1.1 = {
-		holder = 0
-	}
-}
-
-d_filnders_ranges = {
-	2660.1.1 = {
-		holder = 0
-	}
-}
-
-c_jamestown = {
-	2660.1.1 = {
-		holder = 0
-	}
-}
-
-c_peterborough = {
-	2660.1.1 = {
-		holder = 0
-	}
-}
-
-c_boolero = {
-	2660.1.1 = {
-		holder = 0
-	}
-}
-
-c_quorn = {
-	2660.1.1 = {
-		holder = 0
-	}
-}
-
-c_baratta = {
-	2660.1.1 = {
-		holder = 0
-	}
-}
-
-d_flinders_ranges = {
-	2660.1.1 = {
-		holder = 16
-		government = "feudal_government"
-	}
-}
-
-c_port_augusta = {
-	2660.1.1 = {
-		holder = 0
-	}
-}
-
-k_desertina = {
-	2660.1.1 = {
-		holder = 0
-	}
-}
-
-d_torrens = {
-	2660.1.1 = {
-		holder = 0
-	}
-}
-
-c_leigh_creek = {
-	2660.1.1 = {
-		holder = 0
-	}
-}
-
-c_marree = {
+c_bulloo_downs = {
 	2660.1.1 = {
 		holder = 19
 		government = "feudal_government"
 	}
 }
 
-c_vulkathunha = {
+d_bulloo_dunefields = {
 	2660.1.1 = {
 		holder = 19
 		government = "feudal_government"
 	}
 }
 
-d_strzelecki = {
+c_great_southern_cross = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+c_warri_gate = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+c_nockatunga = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+c_orientos = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+c_cooper_creek = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+c_innamincka = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+d_yamma_yamma = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+c_durham = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+c_mount_howitt = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+c_quilpie = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+c_eromanga = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+c_lynwood = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+d_munga_thirri = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+c_east_simpson_desert = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+c_birdsville = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+c_bedourie = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+c_ethabuka = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+d_claypan = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+c_durri = {
 	2660.1.1 = {
 		holder = 0
 	}
 }
 
-c_callabonna = {
+c_mooraberree = {
 	2660.1.1 = {
 		holder = 19
 		government = "feudal_government"
 	}
 }
 
-c_bollards_lagoon = {
+c_breadalbane = {
 	2660.1.1 = {
 		holder = 19
 		government = "feudal_government"
 	}
 }
 
-c_strzelecki = {
+d_barcoo = {
 	2660.1.1 = {
 		holder = 19
 		government = "feudal_government"
 	}
 }
 
-c_tirari_desert = {
+c_south_galway = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+c_windorah = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+c_jundah = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+c_palpararah = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+c_diamantina = {
 	2660.1.1 = {
 		holder = 19
 		government = "feudal_government"
@@ -2114,13 +2851,6 @@ c_tirari_desert = {
 d_stony_desert = {
 	2660.1.1 = {
 		holder = 0
-	}
-}
-
-c_innamincka = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
 	}
 }
 
@@ -2142,6 +2872,827 @@ c_kalamurina = {
 	2660.1.1 = {
 		holder = 19
 		government = "feudal_government"
+	}
+}
+
+k_murweh = {
+	2660.1.1 = {
+		holder = 0
+	}
+}
+
+d_opal = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+c_wyandra = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+c_eulo = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+c_yowah = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+c_big_creek = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+c_cheepie = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+d_thargomindah = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+c_thargomindah = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+c_mount_margaret = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+c_ardoch = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+c_toompine = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+d_murweh = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+c_boatman = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+c_morven = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+c_charleville = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+c_augathella = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+d_hell = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+c_hell_hole_gorge = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+c_adavale = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+c_scrubby_creek = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+c_idalia = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+k_barcaldine = {
+	2660.1.1 = {
+		holder = 0
+	}
+}
+
+d_blackall_tambo = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+c_tambo = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+c_isisford = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+c_blackall = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+c_sedgeford = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+d_welford = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+c_welford = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+c_stonehenge = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+c_lochern = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+c_fermoy = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+d_barcaldine = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+c_jericho = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+c_barcaldine = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+c_aramac = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+d_dryland = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+c_longreach = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+c_clanagh = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+c_muttaburra = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+c_caledonia = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+c_kensington = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+d_galilee = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+c_laglan = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+c_galilee = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+c_buchanan = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+c_doongmabulla = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+k_barkly = {
+	2660.1.1 = {
+		holder = 0
+	}
+}
+
+d_boulia = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+c_cravens_peak = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+c_canary = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+c_lucknow = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+c_boulia = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+d_middletonia = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+c_goneaway = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+c_cork = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+c_verdun_valley = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+c_middleton = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+c_kalkadooh = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+d_barkly_tableland = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+c_tobermorey = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+c_linda_downs = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+c_urandangi = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+c_barkly = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+c_duchess = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+c_alpurrurulam = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+d_minelands = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+c_aiderley = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+c_monument = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+c_brackenburgh = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+d_andegerebenha = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+c_bularnu = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+c_alewatyerre = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+c_aywerte = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+c_yerrampe = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+k_isa = {
+	2660.1.1 = {
+		holder = 0
+	}
+}
+
+d_clonlay = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+c_answer = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+c_mckinlay = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+c_cloncurry = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+d_julia_creek = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+c_tarbrax = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+c_sedan_dip = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+c_bunda_bunda = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+c_julia_creek = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+c_maxwellon = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+d_overlanders = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+c_wooroona = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+c_mount_isa = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+c_three_rivers = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+c_camooweal = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+k_downlands = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+d_winton = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+c_winton = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+c_tangorin = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+c_corfield = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+c_werna = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+d_dutton = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+c_richmond = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+c_dutton_river = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+c_mount_norman = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+d_dinosauria = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+c_exmoor = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+c_katandra = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+c_bannockburn = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+c_moorrinya = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+c_hughenden = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+d_blackbraes = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+c_mount_sturgeon = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+c_blackbraes = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+c_gregory_springs = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+d_gemfields = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+c_strathpark = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+c_woodstock = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+c_frog_creek = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+c_iona = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+e_bightlandia = {
+	2660.1.1 = {
+		holder = 0
 	}
 }
 
@@ -2257,51 +3808,204 @@ c_east_yellabinna = {
 	}
 }
 
-d_frome = {
+k_nullarbor = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+d_bights_end = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+c_matheus = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+c_pondama = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+c_woorlba = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+c_nuytsland = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+d_lime = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+c_carston = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+c_rawlinna = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+c_dortmund = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+c_plumridge = {
 	2660.1.1 = {
 		holder = 0
 	}
 }
 
-c_ikara = {
+c_premier = {
 	2660.1.1 = {
-		holder = 16
+		holder = 19
 		government = "feudal_government"
 	}
 }
 
-c_mulyungarie = {
+d_nullarbor_plain = {
 	2660.1.1 = {
-		holder = 16
+		holder = 19
 		government = "feudal_government"
 	}
 }
 
-c_yunta = {
+c_tysonia = {
 	2660.1.1 = {
-		holder = 16
+		holder = 19
 		government = "feudal_government"
 	}
 }
 
-c_cockburn = {
+c_sleeper_camp = {
 	2660.1.1 = {
-		holder = 16
+		holder = 19
 		government = "feudal_government"
 	}
 }
 
-c_parnaroo = {
+c_south_victoria_desert = {
 	2660.1.1 = {
-		holder = 16
+		holder = 19
 		government = "feudal_government"
 	}
 }
 
-c_danggali = {
+c_huron = {
 	2660.1.1 = {
-		holder = 16
+		holder = 19
 		government = "feudal_government"
+	}
+}
+
+d_praeceps = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+c_marvin = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+c_eucla = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+c_cook_station = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+c_west_yellabinna = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+c_nullarbor_cliffs = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+d_south_roe = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+c_cocklebiddy = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+c_kybo = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+c_madura = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+c_mundrabilla = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+k_salina = {
+	2660.1.1 = {
+		holder = 0
 	}
 }
 
@@ -2427,17 +4131,15 @@ c_witjira = {
 	}
 }
 
-e_great_barrier = {
+e_reef = {
 	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
+		holder = 0
 	}
 }
 
-k_cape = {
+k_york = {
 	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
+		holder = 0
 	}
 }
 
@@ -2469,48 +4171,6 @@ c_mapoon = {
 	}
 }
 
-d_kunjen = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_red_river = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_vanrook = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_dunbar = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_staaten_river = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_blackdown = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
 d_wik = {
 	2660.1.1 = {
 		holder = 19
@@ -2533,48 +4193,6 @@ c_kowanyama = {
 }
 
 c_pormpuraaw = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-d_reeflands = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_dixie = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_lakefield = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_cape_melville = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_cooktown = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_coen = {
 	2660.1.1 = {
 		holder = 19
 		government = "feudal_government"
@@ -2616,381 +4234,9 @@ c_weipa = {
 	}
 }
 
-k_gold_coast = {
+k_tropicania = {
 	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-d_goondiwindi = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_goondiwindi = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_inglewood = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_texas = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_warwick = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_millmerran = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-d_brisbane = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_boonah = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_surfers_paradise = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_brisbane = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_toowoomba = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_maroochydore = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-d_maranoa = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_mitchell = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_roma = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_surat = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_forest_vale = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-d_western_downs = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_miles = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_tara = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_dalby = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_chinchilla = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-d_sunshine = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_kingaroy = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_sunshine_coast = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_maryborough = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_mundubbera = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-d_banana = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_taroom = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_injune = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_theodore = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-d_north_burnett = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_dawson_park = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_monto = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_bundaberg = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_gladstone = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_biloela = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-k_fitzroy = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-d_carnarvon = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_hillside_forest = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_oak_vale = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_expedition = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_carnarvon = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-d_central_highlands = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_moura = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_rolleston = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_mantuan_downs = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_blackwater = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_emerald = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-d_torilla = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_rockhampton = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_yeppoon = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_middlemount = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
+		holder = 0
 	}
 }
 
@@ -3092,35 +4338,35 @@ c_natal_downs = {
 	}
 }
 
-d_galilee = {
+d_charters = {
 	2660.1.1 = {
 		holder = 19
 		government = "feudal_government"
 	}
 }
 
-c_laglan = {
+c_corea_plains = {
 	2660.1.1 = {
 		holder = 19
 		government = "feudal_government"
 	}
 }
 
-c_galilee = {
+c_charters_towers = {
 	2660.1.1 = {
 		holder = 19
 		government = "feudal_government"
 	}
 }
 
-c_buchanan = {
+c_pentland = {
 	2660.1.1 = {
 		holder = 19
 		government = "feudal_government"
 	}
 }
 
-c_doongmabulla = {
+c_basalt = {
 	2660.1.1 = {
 		holder = 19
 		government = "feudal_government"
@@ -3169,48 +4415,6 @@ c_ayr = {
 	}
 }
 
-k_troppers = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-d_charters = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_corea_plains = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_charters_towers = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_pentland = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_basalt = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
 d_paluma = {
 	2660.1.1 = {
 		holder = 19
@@ -3246,24 +4450,9 @@ c_cardwell = {
 	}
 }
 
-d_blackbraes = {
+k_kaenz = {
 	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_blackbraes = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_gregory_springs = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
+		holder = 0
 	}
 }
 
@@ -3365,6 +4554,48 @@ c_killarney = {
 	}
 }
 
+d_reeflands = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+c_dixie = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+c_lakefield = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+c_cape_melville = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+c_cooktown = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+c_coen = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
 e_terra_nullius = {
 	2660.1.1 = {
 		holder = 0
@@ -3389,1022 +4620,13 @@ c_terra_nullius = {
 	}
 }
 
-e_inner_queensland = {
+e_pama-nyungan = {
 	2660.1.1 = {
-		holder = 18
-		government = "feudal_government"
-	}
-}
-
-k_mulga = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-d_bulloo_dunefields = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_great_southern_cross = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_warri_gate = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_nockatunga = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_orientos = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_cooper_creek = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-d_currawinya = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_bulloo_downs = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_kilcowera = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_currawinya = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-d_paroo = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_wooroorooka = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_cunnamulla = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_culgoa = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_linden = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-d_dirranbandi = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_dirranbandi = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_bollon = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_begonia = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-d_moonie = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_st_george = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_weengallon = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_southwood = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-d_opal = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_wyandra = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_eulo = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_yowah = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_big_creek = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_cheepie = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-d_thargomindah = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_thargomindah = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_mount_margaret = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_ardoch = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_toompine = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-d_yamma_yamma = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_durham = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_mount_howitt = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_quilpie = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_eromanga = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_lynwood = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-d_murweh = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_boatman = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_morven = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_charleville = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_augathella = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-d_hell = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_hell_hole_gorge = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_adavale = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_scrubby_creek = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_idalia = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-k_channels = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-d_munga_thirri = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_east_simpson_desert = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_birdsville = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_bedourie = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_ethabuka = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-d_claypan = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_durn = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_mooraberree = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_breadalbane = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-d_barcoo = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_south_galway = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_windorah = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_jundah = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_palpararah = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_diamantina = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-d_welford = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_welford = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_stonehenge = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_lochern = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_fermoy = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-d_boulia = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_cravens_peak = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_canary = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_lucknow = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_boulia = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-d_middletonia = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_goneaway = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_cork = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_verdun_valley = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_middleton = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_kalkadooh = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-d_barkly_tableland = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_tobermorey = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_linda_downs = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_urandangi = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_barkly = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_duchess = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-d_minelands = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_aiderley = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_monument = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_brackenburgh = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-d_clonlay = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_answer = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_mckinlay = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_cloncurry = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-k_downlands = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-d_blackall_tambo = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_tambo = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_isisford = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_blackall = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_sedgeford = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-d_barcaldine = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_jericho = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_barcaldine = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_aramac = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-d_dryland = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_longreach = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_clanagh = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_muttaburra = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_caledonia = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_kensington = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-d_winton = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_winton = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_tangorin = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_corfield = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_werna = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-d_julia_creek = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_tarbrax = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_sedan_dip = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_bunda_bunda = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_julia_creek = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_maxwellon = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-d_dutton = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_richmond = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_dutton_river = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_mount_norman = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-d_dinosauria = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_exmoor = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_katandra = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_bannockburn = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_moorrinya = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_hughenden = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
+		holder = 0
 	}
 }
 
 k_savannah = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-d_overlanders = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_wooroona = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_mount_isa = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_three_rivers = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_camooweal = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-d_gemfields = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_strathpark = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_woodstock = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_frog_creek = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_iona = {
 	2660.1.1 = {
 		holder = 19
 		government = "feudal_government"
@@ -4509,6 +4731,13 @@ c_boodjamulla = {
 	}
 }
 
+c_carrara = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
 d_doomadgee = {
 	2660.1.1 = {
 		holder = 19
@@ -4531,6 +4760,20 @@ c_punjaub = {
 }
 
 c_gangalidda = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+c_garawa = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+c_echo_gorge = {
 	2660.1.1 = {
 		holder = 19
 		government = "feudal_government"
@@ -4565,784 +4808,42 @@ c_yangoo = {
 	}
 }
 
-k_troppers = {
+d_kunjen = {
 	2660.1.1 = {
 		holder = 19
 		government = "feudal_government"
 	}
 }
 
-d_blackbraes = {
+c_red_river = {
 	2660.1.1 = {
 		holder = 19
 		government = "feudal_government"
 	}
 }
 
-c_mount_sturgeon = {
+c_vanrook = {
 	2660.1.1 = {
 		holder = 19
 		government = "feudal_government"
 	}
 }
 
-e_pama_nyungan = {
+c_dunbar = {
 	2660.1.1 = {
 		holder = 19
 		government = "feudal_government"
 	}
 }
 
-k_darnhem = {
+c_staaten_river = {
 	2660.1.1 = {
 		holder = 19
 		government = "feudal_government"
 	}
 }
 
-d_darwin = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_tiwi = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_darwin = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_litchfield = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_pine_creek = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_nauiyu = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-d_kakadu = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_swim_creek = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_jabiru = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_kakadu = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_nitmiluk = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-d_arnhem = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_ = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_waldaboonar = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_maningrida = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_warddeken = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-d_yolngu = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_ramingining = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_marthakal = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_nhulunbuy = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_nurnbulwar = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_ngalkbun = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-d_dangbon = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_bulman = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_arnhem_plateau = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_urapunga = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-d_carpentaria = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_st_vidgeon = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_angurugu = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-k_gunwinjguan = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-d_daly = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_peppimenarti = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_wagiman = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_giwining = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_yambarran_range = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_gorrie = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-d_sturt = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_katherine = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_daly_waters = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-d_alawa = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_minyerri = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_alawa = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_limmen = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_tanumbirina = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_billengarah = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-d_keep_river = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_keep_river = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_nagurunguru = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_judbarra = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_timber_creek = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_yarralin = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-d_mudburra = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_hidden_valley = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_dirrjirrina = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_wampana = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_daguragu = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-d_jingili_ngandji = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_marlinja = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_mungabroom = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_mambaliya = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_renner_springs = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-k_kimberley = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-d_cambridge_gulf = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_kununurra = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_lake_argyle = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_horne_valley = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_oombulgurri = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-d_timoria = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_carson_river = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_kalumburu = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_drysdale = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_couchman = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_admiralty = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-d_prince_regent = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_prince_regent = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_marunbabdi = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_kunmunya = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_pantijan = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_synnot = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-d_gibb_valley = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_maitland = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_ngallagunda = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_mount_barnett = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_kupungari = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_narrie_range = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-d_worla = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_doon_doon = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_violet_valley = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_bedford_downs = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_halls_creek = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-d_kija = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_darfu_darfu = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_purnululu = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_marella_gorge = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_sturt_creek = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_kundat_djaru = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-d_margaret = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_mueller_ranges = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_mimbi_caves = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_fitzroy_crossing = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-d_leopold_ranges = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_leopold_downs = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_noonkanbah = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_devonian_reef = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_point_tormet = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_kimbolton = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-e_red_centre = {
+c_blackdown = {
 	2660.1.1 = {
 		holder = 19
 		government = "feudal_government"
@@ -5370,13 +4871,6 @@ c_yanyuwa = {
 	}
 }
 
-c_garawa = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
 c_coxco_valley = {
 	2660.1.1 = {
 		holder = 19
@@ -5385,13 +4879,6 @@ c_coxco_valley = {
 }
 
 c_mungoobada = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_echo_gorge = {
 	2660.1.1 = {
 		holder = 19
 		government = "feudal_government"
@@ -5413,13 +4900,6 @@ c_cresswell_downs = {
 }
 
 c_ganalaga_mindibirrina = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_carrara = {
 	2660.1.1 = {
 		holder = 19
 		government = "feudal_government"
@@ -5566,48 +5046,6 @@ c_boolanboo_corner = {
 	}
 }
 
-d_andegerebenha = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_alpurrurulam = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_bularnu = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_alewatyerre = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_aywerte = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_yerrampe = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
 k_tanami = {
 	2660.1.1 = {
 		holder = 19
@@ -5636,10 +5074,9 @@ c_karlantijpa_north = {
 	}
 }
 
-c_mirirriyuhgu = {
+c_mirirriyungu = {
 	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
+		holder = 0
 	}
 }
 
@@ -5678,7 +5115,35 @@ c_pinja = {
 	}
 }
 
+d_kija = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
 c_yingualyalya = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+c_marella_gorge = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+c_sturt_creek = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+c_kundat_djaru = {
 	2660.1.1 = {
 		holder = 19
 		government = "feudal_government"
@@ -6091,843 +5556,1465 @@ c_kulgera = {
 	}
 }
 
-e_bokaam = {
+d_cambridge_gulf = {
 	2660.1.1 = {
 		holder = 19
 		government = "feudal_government"
 	}
 }
 
-k_homtep = {
+c_kununurra = {
 	2660.1.1 = {
 		holder = 19
 		government = "feudal_government"
 	}
 }
 
-d_ghoar = {
+c_lake_argyle = {
 	2660.1.1 = {
 		holder = 19
 		government = "feudal_government"
 	}
 }
 
-c_ghodash = {
+c_horne_valley = {
 	2660.1.1 = {
 		holder = 19
 		government = "feudal_government"
 	}
 }
 
-c_daduht = {
+c_oombulgurri = {
 	2660.1.1 = {
 		holder = 19
 		government = "feudal_government"
 	}
 }
 
-c_kadakmukbom = {
+e_great_worrorra = {
 	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
+		holder = 0
 	}
 }
 
-c_purbomhomom = {
+k_darnhem = {
 	2660.1.1 = {
 		holder = 19
 		government = "feudal_government"
 	}
 }
 
-c_amhul = {
+d_darwin = {
 	2660.1.1 = {
 		holder = 19
 		government = "feudal_government"
 	}
 }
 
-d_kadad = {
+c_tiwi = {
 	2660.1.1 = {
 		holder = 19
 		government = "feudal_government"
 	}
 }
 
-c_pahtian = {
+c_darwin = {
 	2660.1.1 = {
 		holder = 19
 		government = "feudal_government"
 	}
 }
 
-c_emem = {
+c_litchfield = {
 	2660.1.1 = {
 		holder = 19
 		government = "feudal_government"
 	}
 }
 
-c_omsaffshidma = {
+c_pine_creek = {
 	2660.1.1 = {
 		holder = 19
 		government = "feudal_government"
 	}
 }
 
-d_robemag = {
+c_nauiyu = {
 	2660.1.1 = {
 		holder = 19
 		government = "feudal_government"
 	}
 }
 
-c_mashtepkiche = {
+d_kakadu = {
 	2660.1.1 = {
 		holder = 19
 		government = "feudal_government"
 	}
 }
 
-c_jasarki = {
+c_swim_creek = {
 	2660.1.1 = {
 		holder = 19
 		government = "feudal_government"
 	}
 }
 
-c_elhdadhul = {
+c_north_kakadu = {
 	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
+		holder = 0
 	}
 }
 
-c_ghodadal = {
+c_south_kakadu = {
 	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
+		holder = 0
 	}
 }
 
-d_purjerad = {
+c_nitmiluk = {
 	2660.1.1 = {
 		holder = 19
 		government = "feudal_government"
 	}
 }
 
-c_hamsaff = {
+d_arnhem = {
 	2660.1.1 = {
 		holder = 19
 		government = "feudal_government"
 	}
 }
 
-c_kasher = {
+c_garig_gunak_barlu = {
 	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
+		holder = 0
 	}
 }
 
-c_sherushalem = {
+c_waldaboonar = {
 	2660.1.1 = {
 		holder = 19
 		government = "feudal_government"
 	}
 }
 
-c_dashkisho = {
+c_maningrida = {
 	2660.1.1 = {
 		holder = 19
 		government = "feudal_government"
 	}
 }
 
-d_tephulam = {
+c_warddeken = {
 	2660.1.1 = {
 		holder = 19
 		government = "feudal_government"
 	}
 }
 
-c_rafsephmashra = {
+d_yolngu = {
 	2660.1.1 = {
 		holder = 19
 		government = "feudal_government"
 	}
 }
 
-c_emalsaffra = {
+c_ramingining = {
 	2660.1.1 = {
 		holder = 19
 		government = "feudal_government"
 	}
 }
 
-c_raal = {
+c_marthakal = {
 	2660.1.1 = {
 		holder = 19
 		government = "feudal_government"
 	}
 }
 
-c_teppursherjer = {
+c_nhulunbuy = {
 	2660.1.1 = {
 		holder = 19
 		government = "feudal_government"
 	}
 }
 
-d_oshtepghal = {
+c_nurnbulwar = {
 	2660.1.1 = {
 		holder = 19
 		government = "feudal_government"
 	}
 }
 
-c_mukkaosh = {
+c_ngalkbun = {
 	2660.1.1 = {
 		holder = 19
 		government = "feudal_government"
 	}
 }
 
-c_huhrsher = {
+d_dangbon = {
 	2660.1.1 = {
 		holder = 19
 		government = "feudal_government"
 	}
 }
 
-c_shashtepehrgho = {
+c_bulman = {
 	2660.1.1 = {
 		holder = 19
 		government = "feudal_government"
 	}
 }
 
-c_pammar = {
+c_arnhem_plateau = {
 	2660.1.1 = {
 		holder = 19
 		government = "feudal_government"
 	}
 }
 
-c_pashdadianduhr = {
+c_urapunga = {
 	2660.1.1 = {
 		holder = 19
 		government = "feudal_government"
 	}
 }
 
-d_ahham = {
+d_carpentaria = {
 	2660.1.1 = {
 		holder = 19
 		government = "feudal_government"
 	}
 }
 
-c_elhshid = {
+c_st_vidgeon = {
 	2660.1.1 = {
 		holder = 19
 		government = "feudal_government"
 	}
 }
 
-c_banam = {
+c_angurugu = {
 	2660.1.1 = {
 		holder = 19
 		government = "feudal_government"
 	}
 }
 
-c_oshazommar = {
+k_gunwinjguan = {
 	2660.1.1 = {
 		holder = 19
 		government = "feudal_government"
 	}
 }
 
-c_ghalka = {
+d_daly = {
 	2660.1.1 = {
 		holder = 19
 		government = "feudal_government"
 	}
 }
 
-k_ushbansaff = {
+c_peppimenarti = {
 	2660.1.1 = {
 		holder = 19
 		government = "feudal_government"
 	}
 }
 
-d_chejertughin = {
+c_wagiman = {
 	2660.1.1 = {
 		holder = 19
 		government = "feudal_government"
 	}
 }
 
-c_oshghinad = {
+c_giwining = {
 	2660.1.1 = {
 		holder = 19
 		government = "feudal_government"
 	}
 }
 
-c_shobomosh = {
+c_yambarran_range = {
 	2660.1.1 = {
 		holder = 19
 		government = "feudal_government"
 	}
 }
 
-c_tepsher = {
+c_gorrie = {
 	2660.1.1 = {
 		holder = 19
 		government = "feudal_government"
 	}
 }
 
-c_empash = {
+d_sturt = {
 	2660.1.1 = {
 		holder = 19
 		government = "feudal_government"
 	}
 }
 
-c_bopahtdinghal = {
+c_katherine = {
 	2660.1.1 = {
 		holder = 19
 		government = "feudal_government"
 	}
 }
 
-d_matep = {
+c_daly_waters = {
 	2660.1.1 = {
 		holder = 19
 		government = "feudal_government"
 	}
 }
 
-c_mashashar = {
+d_alawa = {
 	2660.1.1 = {
 		holder = 19
 		government = "feudal_government"
 	}
 }
 
-c_razzal = {
+c_minyerri = {
 	2660.1.1 = {
 		holder = 19
 		government = "feudal_government"
 	}
 }
 
-c_mashkaushka = {
+c_alawa = {
 	2660.1.1 = {
 		holder = 19
 		government = "feudal_government"
 	}
 }
 
-c_tupash = {
+c_limmen = {
 	2660.1.1 = {
 		holder = 19
 		government = "feudal_government"
 	}
 }
 
-c_aldinpashhul = {
+c_tanumbirina = {
 	2660.1.1 = {
 		holder = 19
 		government = "feudal_government"
 	}
 }
 
-d_emmash = {
+c_billengarah = {
 	2660.1.1 = {
 		holder = 19
 		government = "feudal_government"
 	}
 }
 
-c_ghohom = {
+d_cambridge_gulf = {
 	2660.1.1 = {
 		holder = 19
 		government = "feudal_government"
 	}
 }
 
-c_tughuhr = {
+c_keep_river = {
 	2660.1.1 = {
 		holder = 19
 		government = "feudal_government"
 	}
 }
 
-c_mashban = {
+d_keep_river = {
 	2660.1.1 = {
 		holder = 19
 		government = "feudal_government"
 	}
 }
 
-c_ushtep = {
+c_nagurunguru = {
 	2660.1.1 = {
 		holder = 19
 		government = "feudal_government"
 	}
 }
 
-d_jasduhrpash = {
+c_judbarra = {
 	2660.1.1 = {
 		holder = 19
 		government = "feudal_government"
 	}
 }
 
-c_homturaf = {
+c_timber_creek = {
 	2660.1.1 = {
 		holder = 19
 		government = "feudal_government"
 	}
 }
 
-c_ramash = {
+c_yarralin = {
 	2660.1.1 = {
 		holder = 19
 		government = "feudal_government"
 	}
 }
 
-c_uhtdinghin = {
+c_darfu_darfu = {
 	2660.1.1 = {
 		holder = 19
 		government = "feudal_government"
 	}
 }
 
-c_hulpur = {
+d_mudburra = {
 	2660.1.1 = {
 		holder = 19
 		government = "feudal_government"
 	}
 }
 
-c_boamsaffsaff = {
+c_hidden_valley = {
 	2660.1.1 = {
 		holder = 19
 		government = "feudal_government"
 	}
 }
 
-d_agpahthul = {
+c_dirrjirrina = {
 	2660.1.1 = {
 		holder = 19
 		government = "feudal_government"
 	}
 }
 
-c_dashrafkijer = {
+c_wampana = {
 	2660.1.1 = {
 		holder = 19
 		government = "feudal_government"
 	}
 }
 
-c_mapush = {
+c_daguragu = {
 	2660.1.1 = {
 		holder = 19
 		government = "feudal_government"
 	}
 }
 
-c_purraf = {
+d_jingili_ngandji = {
 	2660.1.1 = {
 		holder = 19
 		government = "feudal_government"
 	}
 }
 
-c_jerjasjeram = {
+c_marlinja = {
 	2660.1.1 = {
 		holder = 19
 		government = "feudal_government"
 	}
 }
 
-c_purtepelhtep = {
+c_mungabroom = {
 	2660.1.1 = {
 		holder = 19
 		government = "feudal_government"
 	}
 }
 
-k_arboham = {
+c_mambaliya = {
 	2660.1.1 = {
 		holder = 19
 		government = "feudal_government"
 	}
 }
 
-d_tuias = {
+c_renner_springs = {
 	2660.1.1 = {
 		holder = 19
 		government = "feudal_government"
 	}
 }
 
-c_rafpurdash = {
+k_kimberley = {
 	2660.1.1 = {
 		holder = 19
 		government = "feudal_government"
 	}
 }
 
-c_ghuradhuhr = {
+d_timoria = {
 	2660.1.1 = {
 		holder = 19
 		government = "feudal_government"
 	}
 }
 
-c_marghalcheaz = {
+c_carson_river = {
 	2660.1.1 = {
 		holder = 19
 		government = "feudal_government"
 	}
 }
 
-d_kiaram = {
+c_kalumburu = {
 	2660.1.1 = {
 		holder = 19
 		government = "feudal_government"
 	}
 }
 
-c_tepmarsaff = {
+c_drysdale = {
 	2660.1.1 = {
 		holder = 19
 		government = "feudal_government"
 	}
 }
 
-c_banghuremka = {
+c_couchman = {
 	2660.1.1 = {
 		holder = 19
 		government = "feudal_government"
 	}
 }
 
-c_dadpurhamom = {
+c_admiralty = {
 	2660.1.1 = {
 		holder = 19
 		government = "feudal_government"
 	}
 }
 
-c_oshdadjer = {
+d_prince_regent = {
 	2660.1.1 = {
 		holder = 19
 		government = "feudal_government"
 	}
 }
 
-c_emghal = {
+c_prince_regent = {
 	2660.1.1 = {
 		holder = 19
 		government = "feudal_government"
 	}
 }
 
-d_elhuhtdashian = {
+c_marunbabdi = {
 	2660.1.1 = {
 		holder = 19
 		government = "feudal_government"
 	}
 }
 
-c_mashpambom = {
+c_kunmunya = {
 	2660.1.1 = {
 		holder = 19
 		government = "feudal_government"
 	}
 }
 
-c_uhtmaposh = {
+c_pantijan = {
 	2660.1.1 = {
 		holder = 19
 		government = "feudal_government"
 	}
 }
 
-c_uhtmukkishash = {
+c_synnot = {
 	2660.1.1 = {
 		holder = 19
 		government = "feudal_government"
 	}
 }
 
-c_kighur = {
+d_gibb_valley = {
 	2660.1.1 = {
 		holder = 19
 		government = "feudal_government"
 	}
 }
 
-c_azshid = {
+c_maitland = {
 	2660.1.1 = {
 		holder = 19
 		government = "feudal_government"
 	}
 }
 
-d_ehrehradseph = {
+c_ngallagunda = {
 	2660.1.1 = {
 		holder = 19
 		government = "feudal_government"
 	}
 }
 
-c_kimashpaht = {
+c_mt_barnett = {
 	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
+		holder = 0
 	}
 }
 
-c_muksheffsher = {
+c_kupungari = {
 	2660.1.1 = {
 		holder = 19
 		government = "feudal_government"
 	}
 }
 
-c_puremjerham = {
+c_narrie_range = {
 	2660.1.1 = {
 		holder = 19
 		government = "feudal_government"
 	}
 }
 
-d_alhul = {
+d_worla = {
 	2660.1.1 = {
 		holder = 19
 		government = "feudal_government"
 	}
 }
 
-c_ghuralom = {
+c_doon_doon = {
 	2660.1.1 = {
 		holder = 19
 		government = "feudal_government"
 	}
 }
 
-c_azush = {
+c_violet_valley = {
 	2660.1.1 = {
 		holder = 19
 		government = "feudal_government"
 	}
 }
 
-c_iangho = {
+c_bedford_downs = {
 	2660.1.1 = {
 		holder = 19
 		government = "feudal_government"
 	}
 }
 
-k_ghomash = {
+c_halls_creek = {
 	2660.1.1 = {
 		holder = 19
 		government = "feudal_government"
 	}
 }
 
-d_pamarham = {
+c_purnululu = {
 	2660.1.1 = {
 		holder = 19
 		government = "feudal_government"
 	}
 }
 
-c_pahtseph = {
+d_margaret = {
 	2660.1.1 = {
 		holder = 19
 		government = "feudal_government"
 	}
 }
 
-c_uhtehr = {
+c_mueller_ranges = {
 	2660.1.1 = {
 		holder = 19
 		government = "feudal_government"
 	}
 }
 
-c_tepchema = {
+c_mimbi_caves = {
 	2660.1.1 = {
 		holder = 19
 		government = "feudal_government"
 	}
 }
 
-c_addin = {
+c_fitzroy_crossing = {
 	2660.1.1 = {
 		holder = 19
 		government = "feudal_government"
 	}
 }
 
-c_hamhuhr = {
+d_leopold_ranges = {
 	2660.1.1 = {
 		holder = 19
 		government = "feudal_government"
 	}
 }
 
-d_pamehl = {
+c_leopold_downs = {
 	2660.1.1 = {
 		holder = 19
 		government = "feudal_government"
 	}
 }
 
-c_tuuhtghal = {
+c_noonkanbah = {
 	2660.1.1 = {
 		holder = 19
 		government = "feudal_government"
 	}
 }
 
-c_pahstaff = {
+c_devonian_reef = {
 	2660.1.1 = {
 		holder = 19
 		government = "feudal_government"
 	}
 }
 
-c_saffrobra = {
+c_point_tormet = {
 	2660.1.1 = {
 		holder = 19
 		government = "feudal_government"
 	}
 }
 
-c_pamtuian = {
+c_kimbolton = {
 	2660.1.1 = {
 		holder = 19
 		government = "feudal_government"
 	}
 }
 
-c_agalshid = {
+k_kenetjaa = {
 	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
+		holder = 0
 	}
 }
 
-d_sherag = {
+d_bangadaanyo = {
 	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
+		holder = 0
 	}
 }
 
-c_agma = {
+c_ngarngaa = {
 	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
+		holder = 0
 	}
 }
 
-c_robsephki = {
+e_murrurnitja = {
 	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
+		holder = 0
 	}
 }
 
-c_hamehrshidad = {
+k_kany = {
 	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
+		holder = 0
 	}
 }
 
-c_ghoamsho = {
+d_djoorroyoon = {
 	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
+		holder = 0
 	}
 }
 
-c_ushcheoshra = {
+c_ngepaw = {
 	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
+		holder = 0
 	}
 }
 
-d_jermatu = {
+c_yoorroniny = {
 	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
+		holder = 0
 	}
 }
 
-c_uhthuhrom = {
+c_yabengaak = {
 	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
+		holder = 0
 	}
 }
 
-c_homamduhr = {
+c_nyookookil = {
 	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
+		holder = 0
 	}
 }
 
-c_jasra = {
+c_baartelyoorre = {
 	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
+		holder = 0
 	}
 }
 
-k_kaehrtuom = {
+d_ngaadjo = {
 	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
+		holder = 0
 	}
 }
 
-d_huhrelhaz = {
+c_raadjaarra = {
 	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
+		holder = 0
 	}
 }
 
-c_arjasian = {
+c_ngotjiwet = {
 	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
+		holder = 0
 	}
 }
 
-c_ghalham = {
+c_yodjam = {
 	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
+		holder = 0
+	}
+}
+
+d_wootjernong = {
+	2660.1.1 = {
+		holder = 0
+	}
+}
+
+c_djotjoonyenyoo = {
+	2660.1.1 = {
+		holder = 0
+	}
+}
+
+c_yamortaany = {
+	2660.1.1 = {
+		holder = 0
+	}
+}
+
+c_bernamodjiny = {
+	2660.1.1 = {
+		holder = 0
+	}
+}
+
+c_kooyeyoto = {
+	2660.1.1 = {
+		holder = 0
+	}
+}
+
+d_roobaa = {
+	2660.1.1 = {
+		holder = 0
+	}
+}
+
+c_dop = {
+	2660.1.1 = {
+		holder = 0
+	}
+}
+
+c_djel = {
+	2660.1.1 = {
+		holder = 0
+	}
+}
+
+c_yoortong = {
+	2660.1.1 = {
+		holder = 0
+	}
+}
+
+c_djetongaarlomaa = {
+	2660.1.1 = {
+		holder = 0
+	}
+}
+
+d_noorternam = {
+	2660.1.1 = {
+		holder = 0
+	}
+}
+
+c_kil = {
+	2660.1.1 = {
+		holder = 0
+	}
+}
+
+c_ngooli = {
+	2660.1.1 = {
+		holder = 0
+	}
+}
+
+c_nap = {
+	2660.1.1 = {
+		holder = 0
+	}
+}
+
+c_niyitaanyookaa = {
+	2660.1.1 = {
+		holder = 0
+	}
+}
+
+d_diberinyipi = {
+	2660.1.1 = {
+		holder = 0
+	}
+}
+
+c_matj = {
+	2660.1.1 = {
+		holder = 0
+	}
+}
+
+c_bor = {
+	2660.1.1 = {
+		holder = 0
+	}
+}
+
+c_ngarnolyaam = {
+	2660.1.1 = {
+		holder = 0
+	}
+}
+
+c_kaarloor = {
+	2660.1.1 = {
+		holder = 0
+	}
+}
+
+c_nyiponilyan = {
+	2660.1.1 = {
+		holder = 0
+	}
+}
+
+d_nyedook = {
+	2660.1.1 = {
+		holder = 0
+	}
+}
+
+c_djang = {
+	2660.1.1 = {
+		holder = 0
+	}
+}
+
+c_yolirnaardetoo = {
+	2660.1.1 = {
+		holder = 0
+	}
+}
+
+c_djerling = {
+	2660.1.1 = {
+		holder = 0
+	}
+}
+
+c_dardoodjaa = {
+	2660.1.1 = {
+		holder = 0
+	}
+}
+
+k_kenetjaa = {
+	2660.1.1 = {
+		holder = 0
+	}
+}
+
+d_yertaangimo = {
+	2660.1.1 = {
+		holder = 0
+	}
+}
+
+c_roordool = {
+	2660.1.1 = {
+		holder = 0
+	}
+}
+
+c_ningirdideny = {
+	2660.1.1 = {
+		holder = 0
+	}
+}
+
+c_yayong = {
+	2660.1.1 = {
+		holder = 0
+	}
+}
+
+c_mootjirdedjeng = {
+	2660.1.1 = {
+		holder = 0
+	}
+}
+
+c_baardemirriri = {
+	2660.1.1 = {
+		holder = 0
+	}
+}
+
+d_morlaabalyoo = {
+	2660.1.1 = {
+		holder = 0
+	}
+}
+
+c_yaayemiboo = {
+	2660.1.1 = {
+		holder = 0
+	}
+}
+
+c_yibakiw = {
+	2660.1.1 = {
+		holder = 0
+	}
+}
+
+c_wingotj = {
+	2660.1.1 = {
+		holder = 0
+	}
+}
+
+c_ngon = {
+	2660.1.1 = {
+		holder = 0
+	}
+}
+
+c_wara = {
+	2660.1.1 = {
+		holder = 0
+	}
+}
+
+d_yootjoorloorra = {
+	2660.1.1 = {
+		holder = 0
+	}
+}
+
+c_ngorlany = {
+	2660.1.1 = {
+		holder = 0
+	}
+}
+
+c_dookinaayoo = {
+	2660.1.1 = {
+		holder = 0
+	}
+}
+
+c_nony = {
+	2660.1.1 = {
+		holder = 0
+	}
+}
+
+c_woordootj = {
+	2660.1.1 = {
+		holder = 0
+	}
+}
+
+d_bangadaanyo = {
+	2660.1.1 = {
+		holder = 0
+	}
+}
+
+c_yatjiyepon = {
+	2660.1.1 = {
+		holder = 0
+	}
+}
+
+c_namok = {
+	2660.1.1 = {
+		holder = 0
+	}
+}
+
+c_ratj = {
+	2660.1.1 = {
+		holder = 0
+	}
+}
+
+c_roorlerloodjip = {
+	2660.1.1 = {
+		holder = 0
+	}
+}
+
+d_nyaaronorlong = {
+	2660.1.1 = {
+		holder = 0
+	}
+}
+
+c_metarnadjadaa = {
+	2660.1.1 = {
+		holder = 0
+	}
+}
+
+c_ronyipoom = {
+	2660.1.1 = {
+		holder = 0
+	}
+}
+
+c_korlaanyiw = {
+	2660.1.1 = {
+		holder = 0
+	}
+}
+
+c_kedirlo = {
+	2660.1.1 = {
+		holder = 0
+	}
+}
+
+c_noorrordaaw = {
+	2660.1.1 = {
+		holder = 0
+	}
+}
+
+k_danoort = {
+	2660.1.1 = {
+		holder = 0
+	}
+}
+
+d_dinyangerroo = {
+	2660.1.1 = {
+		holder = 0
+	}
+}
+
+c_maardony = {
+	2660.1.1 = {
+		holder = 0
+	}
+}
+
+c_roorlatetooro = {
+	2660.1.1 = {
+		holder = 0
+	}
+}
+
+c_yonyi = {
+	2660.1.1 = {
+		holder = 0
+	}
+}
+
+d_rer = {
+	2660.1.1 = {
+		holder = 0
+	}
+}
+
+c_ngirtenye = {
+	2660.1.1 = {
+		holder = 0
+	}
+}
+
+c_rirnapipaang = {
+	2660.1.1 = {
+		holder = 0
+	}
+}
+
+c_djinoot = {
+	2660.1.1 = {
+		holder = 0
+	}
+}
+
+c_relyotoorraarlo = {
+	2660.1.1 = {
+		holder = 0
+	}
+}
+
+c_baanooralyang = {
+	2660.1.1 = {
+		holder = 0
+	}
+}
+
+d_noodjodaa = {
+	2660.1.1 = {
+		holder = 0
+	}
+}
+
+c_boopoo = {
+	2660.1.1 = {
+		holder = 0
+	}
+}
+
+c_kit = {
+	2660.1.1 = {
+		holder = 0
+	}
+}
+
+c_nyit = {
+	2660.1.1 = {
+		holder = 0
+	}
+}
+
+c_daawordibe = {
+	2660.1.1 = {
+		holder = 0
+	}
+}
+
+c_dolyornero = {
+	2660.1.1 = {
+		holder = 0
+	}
+}
+
+d_yepomaarroom = {
+	2660.1.1 = {
+		holder = 0
+	}
+}
+
+c_rangernemerta = {
+	2660.1.1 = {
+		holder = 0
+	}
+}
+
+c_wanaanyaa = {
+	2660.1.1 = {
+		holder = 0
+	}
+}
+
+c_kaarlong = {
+	2660.1.1 = {
+		holder = 0
+	}
+}
+
+d_bebow = {
+	2660.1.1 = {
+		holder = 0
+	}
+}
+
+c_djinyoongaatjinaa = {
+	2660.1.1 = {
+		holder = 0
+	}
+}
+
+c_maat = {
+	2660.1.1 = {
+		holder = 0
+	}
+}
+
+c_din = {
+	2660.1.1 = {
+		holder = 0
+	}
+}
+
+k_waarrawa = {
+	2660.1.1 = {
+		holder = 0
+	}
+}
+
+d_nyodjaanyoorimi = {
+	2660.1.1 = {
+		holder = 0
+	}
+}
+
+c_naakaarroyi = {
+	2660.1.1 = {
+		holder = 0
+	}
+}
+
+c_baaron = {
+	2660.1.1 = {
+		holder = 0
+	}
+}
+
+c_dirne = {
+	2660.1.1 = {
+		holder = 0
+	}
+}
+
+c_nyert = {
+	2660.1.1 = {
+		holder = 0
+	}
+}
+
+c_ngoorgogjoodalya = {
+	2660.1.1 = {
+		holder = 0
+	}
+}
+
+d_yokil = {
+	2660.1.1 = {
+		holder = 0
+	}
+}
+
+c_wengiw = {
+	2660.1.1 = {
+		holder = 0
+	}
+}
+
+c_nyootaarro = {
+	2660.1.1 = {
+		holder = 0
+	}
+}
+
+c_nyowilying = {
+	2660.1.1 = {
+		holder = 0
+	}
+}
+
+c_waapele = {
+	2660.1.1 = {
+		holder = 0
+	}
+}
+
+c_mayotje = {
+	2660.1.1 = {
+		holder = 0
+	}
+}
+
+d_wonganengirne = {
+	2660.1.1 = {
+		holder = 0
+	}
+}
+
+c_nelyoorraadjiny = {
+	2660.1.1 = {
+		holder = 0
+	}
+}
+
+c_detatjopaarle = {
+	2660.1.1 = {
+		holder = 0
+	}
+}
+
+c_dangertano = {
+	2660.1.1 = {
+		holder = 0
+	}
+}
+
+c_baadjaa = {
+	2660.1.1 = {
+		holder = 0
+	}
+}
+
+c_kirtonga = {
+	2660.1.1 = {
+		holder = 0
+	}
+}
+
+d_bewelyalyadje = {
+	2660.1.1 = {
+		holder = 0
+	}
+}
+
+c_nyertoorlonyaa = {
+	2660.1.1 = {
+		holder = 0
+	}
+}
+
+c_boonerrertaang = {
+	2660.1.1 = {
+		holder = 0
+	}
+}
+
+c_nyidarlilap = {
+	2660.1.1 = {
+		holder = 0
+	}
+}
+
+k_ngirrol = {
+	2660.1.1 = {
+		holder = 0
+	}
+}
+
+d_mingoke = {
+	2660.1.1 = {
+		holder = 0
+	}
+}
+
+c_kanitanyo = {
+	2660.1.1 = {
+		holder = 0
+	}
+}
+
+c_romirawoo = {
+	2660.1.1 = {
+		holder = 0
 	}
 }
 
@@ -6938,122 +7025,105 @@ c_jaskiushdad = {
 	}
 }
 
-c_huhrianpush = {
+c_ring = {
 	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
+		holder = 0
 	}
 }
 
-d_dinmarbo = {
+d_rela = {
 	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
+		holder = 0
 	}
 }
 
-c_agche = {
+c_noodamaatote = {
 	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
+		holder = 0
 	}
 }
 
-c_jashulsaff = {
+c_kornaatjaarnoyi = {
 	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
+		holder = 0
 	}
 }
 
-c_ghopam = {
+c_kartelyetjo = {
 	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
+		holder = 0
 	}
 }
 
-c_shidtep = {
+c_raanong = {
 	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
+		holder = 0
 	}
 }
 
-c_tephulampur = {
+c_didjapootjeny = {
 	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
+		holder = 0
 	}
 }
 
-d_kaalki = {
+d_dolyoolyeko = {
 	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
+		holder = 0
 	}
 }
 
-c_rafpushkihuhr = {
+c_kobedjorromaa = {
 	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
+		holder = 0
 	}
 }
 
-c_mukshohamag = {
+c_nem = {
 	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
+		holder = 0
 	}
 }
 
-c_robchepur = {
+c_bewawebet = {
 	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
+		holder = 0
 	}
 }
 
-c_pashalhulgho = {
+c_rapina = {
 	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
+		holder = 0
 	}
 }
 
-d_kisaffshidehr = {
+d_ngirliw = {
 	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
+		holder = 0
 	}
 }
 
-c_marshidad = {
+c_nert = {
 	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
+		holder = 0
 	}
 }
 
-c_sephmash = {
+c_kortelyitotj = {
 	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
+		holder = 0
 	}
 }
 
-c_huldinom = {
+c_den = {
 	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
+		holder = 0
 	}
 }
 
-c_jermar = {
+c_barlanyetjotjaa = {
 	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
+		holder = 0
 	}
 }
 
@@ -7406,10 +7476,9 @@ c_kennedy_range = {
 	}
 }
 
-c_clifford = {
+c_gifford = {
 	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
+		holder = 0
 	}
 }
 
@@ -7497,10 +7566,9 @@ c_pinegrove = {
 	}
 }
 
-k_mid_west = {
+k_midwest = {
 	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
+		holder = 0
 	}
 }
 
@@ -7623,10 +7691,9 @@ d_weld = {
 	}
 }
 
-c_mount_wittenoom = {
+c_mt_wittenoom = {
 	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
+		holder = 0
 	}
 }
 
@@ -7651,10 +7718,9 @@ c_cogla = {
 	}
 }
 
-c_wondimong = {
+c_wondinong = {
 	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
+		holder = 0
 	}
 }
 
@@ -7679,10 +7745,9 @@ c_north_pool = {
 	}
 }
 
-c_mount_keith_mine = {
+c_keith = {
 	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
+		holder = 0
 	}
 }
 
@@ -7700,7 +7765,255 @@ c_mount_goode = {
 	}
 }
 
-e_golden_wheat = {
+k_goldoria = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+d_thundelarra = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+c_yalgoo = {
+	2660.1.1 = {
+		holder = 0
+	}
+}
+
+c_mount_magnet = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+c_thundelarra = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+c_paynes_find = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+d_karroun = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+c_windsor = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+c_lake_barlee = {
+	2660.1.1 = {
+		holder = 0
+	}
+}
+
+c_karroun_hill = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+c_bonnie_rock = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+d_leinster = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+c_leinster = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+c_little_mill = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+c_cosmo_newberry = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+c_leonora = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+c_adelong = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+d_laverton = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+c_laverton = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+c_yundamindera = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+c_yurila = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+c_pinjin = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+c_queen_victoria_spring = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+d_kalgoorlie = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+c_mt_manning = {
+	2660.1.1 = {
+		holder = 0
+	}
+}
+
+c_davyhurst = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+c_canegrass = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+c_koolyanobbing = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+c_boorabbin = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+c_kalgoorlie_boulder = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+d_timberland = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+c_gindalbie = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+c_kambalda = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+c_chifley = {
+	2660.1.1 = {
+		holder = 0
+	}
+}
+
+c_madpoona = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+c_zanthus = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal_government"
+	}
+}
+
+e_perthia = {
 	2660.1.1 = {
 		holder = 19
 		government = "feudal_government"
@@ -7721,10 +8034,9 @@ d_zuytdorp = {
 	}
 }
 
-c_ex_carrarang = {
+c_carrarang = {
 	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
+		holder = 0
 	}
 }
 
@@ -7945,10 +8257,9 @@ c_kojonup = {
 	}
 }
 
-c_mount_barker = {
+c_mt_barker = {
 	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
+		holder = 0
 	}
 }
 
@@ -8022,255 +8333,9 @@ c_dunn_rock = {
 	}
 }
 
-k_goldoria = {
+k_esperance = {
 	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-d_thundelarra = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_wurarga = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_mount_magnet = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_thundelarra = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_paynes_find = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-d_karroun = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_windsor = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_lake_barloo = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_karroun_hill = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_bonnie_rock = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-d_leinster = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_leinster = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_little_mill = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_cosmo_newberry = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_leonora = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_adelong = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-d_laverton = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_laverton = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_yundamindera = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_yurila = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_pinjin = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_queen_victoria_spring = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-d_kalgoorlie = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_mount_manning = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_davyhurst = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_canegrass = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_koolyanobbing = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_boorabbin = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_kalgoorlie_boulder = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-d_timberland = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_gindalbie = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_kambalda = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_chiffey = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_madpoona = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_zanthus = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
+		holder = 0
 	}
 }
 
@@ -8401,209 +8466,6 @@ c_demposte = {
 }
 
 c_cape_arid = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-e_nullarbor = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-k_nullarbor = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-d_bights_end = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_matheus = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_pondama = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_woorlba = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_nuytsland = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-d_lime = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_carston = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_rawlinna = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_dortmund = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_plimridge = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_premier = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-d_nullarbor_plain = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_tysonia = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_sleeper_camp = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_south_victoria_desert = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_marvin = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_huron = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-d_south_roe = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_cocklebiddy = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_kybo = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_madura = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_mundrabilla = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_eucla = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-d_praeceps = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_cook_station = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_west_yellabinna = {
-	2660.1.1 = {
-		holder = 19
-		government = "feudal_government"
-	}
-}
-
-c_nullarbor_cliffs = {
 	2660.1.1 = {
 		holder = 19
 		government = "feudal_government"
