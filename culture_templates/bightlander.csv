@@ -1,0 +1,57 @@
+Parameter,Value
+name_of_culture_group,bightlander_group
+mercenary_names,"""mercenary_company_cliff_walkers"" ""mercenary_company_windswept_band"""
+group_coa,western_coa_gfx
+group_building,western_building_gfx
+group_clothing,western_clothing_gfx
+group_unit,western_unit_gfx
+culture_name,nullarborite
+culture_coa,western_coa_gfx
+mercenary_names,"""mercenary_company_cliff_walkers"" ""mercenary_company_windswept_band"""
+color,52 180 235
+character_modifier,x
+male_names,Gus Vito Stanton Forest Harold Javier Nathan Elden Brendon Bryce Shelton Ted Phil Allen Trenton Gerald Lloyd Cristobal Emerson Harley Jeramy Angel James Josue Mary Chad Alberto Colin Jermaine Son Stewart Don Steven Trent Ezequiel Len Ramon Nicolas Jarod Miles Alan Tommy Anthony Aurelio Dane Darrell Toney Arnold Howard Hilario
+female_names,Ivelisse Kyung Miesha Marjory Ernestina Celena Beckie Linn Porsha Asuncion Arnette Treva Lynell Nelda Shella Vicenta Marth Valery Brigitte Keli Martina Debrah Lelia Elda Nery Britney Kacey Lawana Paola Jene Kristan Yang Pam Lenna Willodean Sharee Melany Kemberly Lyn Nathalie Margie Jung Jeneva Toshia Versie Tawna Carmel Altha Jacqueline Reatha
+cadet_dynasty_names,Acacia Triodia Creek Streamsip Python Pebblemound Ningaui Hamersley Hobbes Nankeen Harrier Mulga Budgerigar Gregs Regent Shale Sandy Burnback Gorger Dales Dealy Feeny Shade Buck Robe Roberts Redrock Baobab Hunter Speary Criggle Mantle Fortescue Gadge Roy Chichester Millstream Mills Dampier Pilfer Lortle Grazer Munch Woodside Woodburn Cowshead Hedland Boodarie Lambert Anketell
+dynasty_names,Acacia Triodia Creek Streamsip Python Pebblemound Ningaui Hamersley Hobbes Nankeen Harrier Mulga Budgerigar Gregs Regent Shale Sandy Burnback Gorger Dales Dealy Feeny Shade Buck Robe Roberts Redrock Baobab Hunter Speary Criggle Mantle Fortescue Gadge Roy Chichester Millstream Mills Dampier Pilfer Lortle Grazer Munch Woodside Woodburn Cowshead Hedland Boodarie Lambert Anketell
+dynasty_of_location_prefix,of
+pat_grf_name_chance,33
+mat_grf_name_chance,33
+father_name_chance,33
+pat_grm_name_chance,33
+mat_grm_name_chance,33
+mother_name_chance,33
+patronym_prefix_male,x
+patronym_prefix_male_vowel,x
+patronym_prefix_female,x
+patronym_prefix_female_vowel,x
+patronym_suffix_male,x
+patronym_suffix_female,x
+always_use_patronym,no
+african,x
+arab,x
+east_african,x
+slavic_blond,x
+slavic_ginger,x
+slavic_brown_hair,x
+slavic_dark_hair,x
+circumpolar_dark_hair,x
+circumpolar_brown_hair,x
+circumpolar_blonde_hair,x
+caucasian_northern_blond,10
+caucasian_northern_ginger,10
+caucasian_northern_brown_hair,30
+caucasian_northern_dark_hair,50
+caucasian_blond,x
+caucasian_ginger,x
+caucasian_brown_hair,x
+caucasian_dark_hair,x
+asian,x
+indian,x
+mediterranean_byzantine,x
+south_indian,x
+slavic_northern_blond,x
+slavic_northern_ginger,x
+slavic_northern_brown_hair,x
+slavic_northern_dark_hair,x
+mediterranean,x

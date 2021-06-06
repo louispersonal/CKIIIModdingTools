@@ -1,0 +1,639 @@
+desertian_group = {
+
+	mercenary_names = {
+		{ name = "mercenary_company_anamarra_band" }
+		{ name = "mercenary_company_spears_of_tjidoolyaa" }
+	}
+
+	graphical_cultures = {
+		west_african_group_coa_gfx
+		indian_building_gfx
+		african_clothing_gfx
+		sub_sahran_unit_gfx
+	}
+
+	Kaayangi = {
+		graphical_cultures = {
+			west_african_group_coa_gfx
+		}
+
+		mercenary_names = {
+			{ name = "mercenary_company_anamarra_band" }
+			{ name = "mercenary_company_spears_of_tjidoolyaa" }
+		}
+
+		color = { 216 61 0 }
+
+		male_names = {
+			Naatitji Djebanyotji Rerdorrotji Nyerlaatji Kenyernootji Baangootji Maartootji Dootji Djirretji Koyaalyootji Rooyaarootji Waraatji Koodetji Ngetji Kimarnatji Doomitji Raanyatji Djitji Djoolyootji Kitji Djatji Yetjertaatji Wirotji Djakotji Yaanotji Orliwerd Nowa Djak Liyo Djarli Wirlyam Lookadj Djayim Domaa Erlayida Enrri Liyam Ooddjon Lewayi Okaar Mayidjon Loklin Arrdji Oonder Diyodor Mak Looka Arwi Longan Aridjon
+		}
+		female_names = {
+			Naatika Djebanyoka Rerdorroka Nyerlaaka Kenyernooka Baangooka Maartooka Dooka Djirreka Koyaalyooka Rooyaarooka Waraaka Koodeka Ngeka Kimarnaka Doomika Raanyaka Djika Djoolyooka Kika Djaka Yetjertaaka Wiroka Djakoka YaanokaIlyaa Ilyaa Oliwia Miyaa Djarrlod Aiwa Amerlia Kraidj Ella Madilda Idjawella Sowi Klowi Wilo Eweliny Arrer Iwi Djowi Djowiya Roowi Aaiwi Emilyi Mila Loorly Djiyengaa Aana
+		}
+		cadet_dynasty_names = {
+			"dynn_Anamarra"
+			"dynn_Kanparrka"
+			"dynn_Kartilyka"
+			"dynn_Kintingka"
+			"dynn_Kiwinyi"
+			"dynn_Minga"
+			"dynn_Tjintilyka"
+			"dynn_Tjinykura"
+			"dynn_Wanatarnpa"
+			"dynn_Irnura"
+			"dynn_Kamulpa"
+			"dynn_Karrpitji"
+			"dynn_Patupirri"
+			"dynn_Kuniya"
+			"dynn_Ngalamirra"
+			"dynn_Papanymaru"
+			"dynn_Kakalangu"
+			"dynn_Kuwirrkura"
+			"dynn_Nyiinyii"
+			"dynn_Yoomp"
+			"dynn_Nolka"
+			"dynn_Bila"
+			"dynn_Nyola"
+			"dynn_Malkar"
+			"dynn_Moorditj"
+			"dynn_Bibdjool"
+			"dynn_Kalari"
+			"dynn_Kelang"
+			"dynn_Bilya"
+			"dynn_Moyootj"
+			"dynn_Kwangkan"
+			"dynn_Djardak"
+			"dynn_Djendal"
+			"dynn_Moorn"
+			"dynn_Mirda"
+			"dynn_Yoont"
+			"dynn_Boorn"
+			"dynn_Djimbarl"
+			"dynn_Wan"
+			"dynn_Koondj"
+			"dynn_Kitj"
+			"dynn_Djoona"
+			"dynn_Mirr"
+			"dynn_Woonda"
+			"dynn_Kerl"
+			"dynn_Kotj"
+			"dynn_Kewtj"
+			"dynn_Doodjarak"
+			"dynn_Warangka"
+			"dynn_Koondarm"
+			"dynn_Karla"
+			"dynn_Bilying"
+			"dynn_Naariny"
+			"dynn_Booyi"
+			"dynn_Daaliny"
+		}
+
+		dynasty_names = {
+			"dynn_Anamarra"
+			"dynn_Kanparrka"
+			"dynn_Kartilyka"
+			"dynn_Kintingka"
+			"dynn_Kiwinyi"
+			"dynn_Minga"
+			"dynn_Tjintilyka"
+			"dynn_Tjinykura"
+			"dynn_Wanatarnpa"
+			"dynn_Irnura"
+			"dynn_Kamulpa"
+			"dynn_Karrpitji"
+			"dynn_Patupirri"
+			"dynn_Kuniya"
+			"dynn_Ngalamirra"
+			"dynn_Papanymaru"
+			"dynn_Kakalangu"
+			"dynn_Kuwirrkura"
+			"dynn_Nyiinyii"
+			"dynn_Yoomp"
+			"dynn_Nolka"
+			"dynn_Bila"
+			"dynn_Nyola"
+			"dynn_Malkar"
+			"dynn_Moorditj"
+			"dynn_Bibdjool"
+			"dynn_Kalari"
+			"dynn_Kelang"
+			"dynn_Bilya"
+			"dynn_Moyootj"
+			"dynn_Kwangkan"
+			"dynn_Djardak"
+			"dynn_Djendal"
+			"dynn_Moorn"
+			"dynn_Mirda"
+			"dynn_Yoont"
+			"dynn_Boorn"
+			"dynn_Djimbarl"
+			"dynn_Wan"
+			"dynn_Koondj"
+			"dynn_Kitj"
+			"dynn_Djoona"
+			"dynn_Mirr"
+			"dynn_Woonda"
+			"dynn_Kerl"
+			"dynn_Kotj"
+			"dynn_Kewtj"
+			"dynn_Doodjarak"
+			"dynn_Warangka"
+			"dynn_Koondarm"
+			"dynn_Karla"
+			"dynn_Bilying"
+			"dynn_Naariny"
+			"dynn_Booyi"
+			"dynn_Daaliny"
+		}
+
+		dynasty_of_location_prefix = "dynnp_ngaa"
+
+		pat_grf_name_chance = 60
+		mat_grf_name_chance = 20
+		father_name_chance = 20
+		pat_grm_name_chance = 60
+		mat_grm_name_chance = 20
+		mother_name_chance = 20
+		always_use_patronym = no
+
+		ethnicities = {
+			african = 35
+			arab = 35
+			caucasian_blond = 5
+			caucasian_ginger = 5
+			caucasian_brown_hair = 5
+			caucasian_dark_hair = 5
+			10 = mediterranean
+		}
+
+	}
+
+	Barladj = {
+		graphical_cultures = {
+			west_african_group_coa_gfx
+		}
+
+		mercenary_names = {
+			{ name = "mercenary_company_anamarra_band" }
+			{ name = "mercenary_company_spears_of_tjidoolyaa" }
+		}
+
+		color = { 216 47 0 }
+
+		male_names = {
+			Naatitji Djebanyotji Rerdorrotji Nyerlaatji Kenyernootji Baangootji Maartootji Dootji Djirretji Koyaalyootji Rooyaarootji Waraatji Koodetji Ngetji Kimarnatji Doomitji Raanyatji Djitji Djoolyootji Kitji Djatji Yetjertaatji Wirotji Djakotji Yaanotji Orliwerd Nowa Djak Liyo Djarli Wirlyam Lookadj Djayim Domaa Erlayida Enrri Liyam Ooddjon Lewayi Okaar Mayidjon Loklin Arrdji Oonder Diyodor Mak Looka Arwi Longan Aridjon
+		}
+		female_names = {
+			Naatika Djebanyoka Rerdorroka Nyerlaaka Kenyernooka Baangooka Maartooka Dooka Djirreka Koyaalyooka Rooyaarooka Waraaka Koodeka Ngeka Kimarnaka Doomika Raanyaka Djika Djoolyooka Kika Djaka Yetjertaaka Wiroka Djakoka YaanokaIlyaa Ilyaa Oliwia Miyaa Djarrlod Aiwa Amerlia Kraidj Ella Madilda Idjawella Sowi Klowi Wilo Eweliny Arrer Iwi Djowi Djowiya Roowi Aaiwi Emilyi Mila Loorly Djiyengaa Aana
+		}
+		cadet_dynasty_names = {
+			"dynn_Anamarra"
+			"dynn_Kanparrka"
+			"dynn_Kartilyka"
+			"dynn_Kintingka"
+			"dynn_Kiwinyi"
+			"dynn_Minga"
+			"dynn_Tjintilyka"
+			"dynn_Tjinykura"
+			"dynn_Wanatarnpa"
+			"dynn_Irnura"
+			"dynn_Kamulpa"
+			"dynn_Karrpitji"
+			"dynn_Patupirri"
+			"dynn_Kuniya"
+			"dynn_Ngalamirra"
+			"dynn_Papanymaru"
+			"dynn_Kakalangu"
+			"dynn_Kuwirrkura"
+			"dynn_Nyiinyii"
+			"dynn_Yoomp"
+			"dynn_Nolka"
+			"dynn_Bila"
+			"dynn_Nyola"
+			"dynn_Malkar"
+			"dynn_Moorditj"
+			"dynn_Bibdjool"
+			"dynn_Kalari"
+			"dynn_Kelang"
+			"dynn_Bilya"
+			"dynn_Moyootj"
+			"dynn_Kwangkan"
+			"dynn_Djardak"
+			"dynn_Djendal"
+			"dynn_Moorn"
+			"dynn_Mirda"
+			"dynn_Yoont"
+			"dynn_Boorn"
+			"dynn_Djimbarl"
+			"dynn_Wan"
+			"dynn_Koondj"
+			"dynn_Kitj"
+			"dynn_Djoona"
+			"dynn_Mirr"
+			"dynn_Woonda"
+			"dynn_Kerl"
+			"dynn_Kotj"
+			"dynn_Kewtj"
+			"dynn_Doodjarak"
+			"dynn_Warangka"
+			"dynn_Koondarm"
+			"dynn_Karla"
+			"dynn_Bilying"
+			"dynn_Naariny"
+			"dynn_Booyi"
+			"dynn_Daaliny"
+		}
+
+		dynasty_names = {
+			"dynn_Anamarra"
+			"dynn_Kanparrka"
+			"dynn_Kartilyka"
+			"dynn_Kintingka"
+			"dynn_Kiwinyi"
+			"dynn_Minga"
+			"dynn_Tjintilyka"
+			"dynn_Tjinykura"
+			"dynn_Wanatarnpa"
+			"dynn_Irnura"
+			"dynn_Kamulpa"
+			"dynn_Karrpitji"
+			"dynn_Patupirri"
+			"dynn_Kuniya"
+			"dynn_Ngalamirra"
+			"dynn_Papanymaru"
+			"dynn_Kakalangu"
+			"dynn_Kuwirrkura"
+			"dynn_Nyiinyii"
+			"dynn_Yoomp"
+			"dynn_Nolka"
+			"dynn_Bila"
+			"dynn_Nyola"
+			"dynn_Malkar"
+			"dynn_Moorditj"
+			"dynn_Bibdjool"
+			"dynn_Kalari"
+			"dynn_Kelang"
+			"dynn_Bilya"
+			"dynn_Moyootj"
+			"dynn_Kwangkan"
+			"dynn_Djardak"
+			"dynn_Djendal"
+			"dynn_Moorn"
+			"dynn_Mirda"
+			"dynn_Yoont"
+			"dynn_Boorn"
+			"dynn_Djimbarl"
+			"dynn_Wan"
+			"dynn_Koondj"
+			"dynn_Kitj"
+			"dynn_Djoona"
+			"dynn_Mirr"
+			"dynn_Woonda"
+			"dynn_Kerl"
+			"dynn_Kotj"
+			"dynn_Kewtj"
+			"dynn_Doodjarak"
+			"dynn_Warangka"
+			"dynn_Koondarm"
+			"dynn_Karla"
+			"dynn_Bilying"
+			"dynn_Naariny"
+			"dynn_Booyi"
+			"dynn_Daaliny"
+		}
+
+		dynasty_of_location_prefix = "dynnp_ngaa"
+
+		pat_grf_name_chance = 60
+		mat_grf_name_chance = 20
+		father_name_chance = 20
+		pat_grm_name_chance = 60
+		mat_grm_name_chance = 20
+		mother_name_chance = 20
+		always_use_patronym = no
+
+		ethnicities = {
+			african = 35
+			arab = 35
+			caucasian_blond = 5
+			caucasian_ginger = 5
+			caucasian_brown_hair = 5
+			caucasian_dark_hair = 5
+			10 = mediterranean
+		}
+
+	}
+
+	Bowanga = {
+		graphical_cultures = {
+			west_african_group_coa_gfx
+		}
+
+		mercenary_names = {
+			{ name = "mercenary_company_anamarra_band" }
+			{ name = "mercenary_company_spears_of_tjidoolyaa" }
+		}
+
+		color = { 216 30 0 }
+
+		male_names = {
+			Naatitji Djebanyotji Rerdorrotji Nyerlaatji Kenyernootji Baangootji Maartootji Dootji Djirretji Koyaalyootji Rooyaarootji Waraatji Koodetji Ngetji Kimarnatji Doomitji Raanyatji Djitji Djoolyootji Kitji Djatji Yetjertaatji Wirotji Djakotji Yaanotji Orliwerd Nowa Djak Liyo Djarli Wirlyam Lookadj Djayim Domaa Erlayida Enrri Liyam Ooddjon Lewayi Okaar Mayidjon Loklin Arrdji Oonder Diyodor Mak Looka Arwi Longan Aridjon
+		}
+		female_names = {
+			Naatika Djebanyoka Rerdorroka Nyerlaaka Kenyernooka Baangooka Maartooka Dooka Djirreka Koyaalyooka Rooyaarooka Waraaka Koodeka Ngeka Kimarnaka Doomika Raanyaka Djika Djoolyooka Kika Djaka Yetjertaaka Wiroka Djakoka YaanokaIlyaa Ilyaa Oliwia Miyaa Djarrlod Aiwa Amerlia Kraidj Ella Madilda Idjawella Sowi Klowi Wilo Eweliny Arrer Iwi Djowi Djowiya Roowi Aaiwi Emilyi Mila Loorly Djiyengaa Aana
+		}
+		cadet_dynasty_names = {
+			"dynn_Anamarra"
+			"dynn_Kanparrka"
+			"dynn_Kartilyka"
+			"dynn_Kintingka"
+			"dynn_Kiwinyi"
+			"dynn_Minga"
+			"dynn_Tjintilyka"
+			"dynn_Tjinykura"
+			"dynn_Wanatarnpa"
+			"dynn_Irnura"
+			"dynn_Kamulpa"
+			"dynn_Karrpitji"
+			"dynn_Patupirri"
+			"dynn_Kuniya"
+			"dynn_Ngalamirra"
+			"dynn_Papanymaru"
+			"dynn_Kakalangu"
+			"dynn_Kuwirrkura"
+			"dynn_Nyiinyii"
+			"dynn_Yoomp"
+			"dynn_Nolka"
+			"dynn_Bila"
+			"dynn_Nyola"
+			"dynn_Malkar"
+			"dynn_Moorditj"
+			"dynn_Bibdjool"
+			"dynn_Kalari"
+			"dynn_Kelang"
+			"dynn_Bilya"
+			"dynn_Moyootj"
+			"dynn_Kwangkan"
+			"dynn_Djardak"
+			"dynn_Djendal"
+			"dynn_Moorn"
+			"dynn_Mirda"
+			"dynn_Yoont"
+			"dynn_Boorn"
+			"dynn_Djimbarl"
+			"dynn_Wan"
+			"dynn_Koondj"
+			"dynn_Kitj"
+			"dynn_Djoona"
+			"dynn_Mirr"
+			"dynn_Woonda"
+			"dynn_Kerl"
+			"dynn_Kotj"
+			"dynn_Kewtj"
+			"dynn_Doodjarak"
+			"dynn_Warangka"
+			"dynn_Koondarm"
+			"dynn_Karla"
+			"dynn_Bilying"
+			"dynn_Naariny"
+			"dynn_Booyi"
+			"dynn_Daaliny"
+		}
+
+		dynasty_names = {
+			"dynn_Anamarra"
+			"dynn_Kanparrka"
+			"dynn_Kartilyka"
+			"dynn_Kintingka"
+			"dynn_Kiwinyi"
+			"dynn_Minga"
+			"dynn_Tjintilyka"
+			"dynn_Tjinykura"
+			"dynn_Wanatarnpa"
+			"dynn_Irnura"
+			"dynn_Kamulpa"
+			"dynn_Karrpitji"
+			"dynn_Patupirri"
+			"dynn_Kuniya"
+			"dynn_Ngalamirra"
+			"dynn_Papanymaru"
+			"dynn_Kakalangu"
+			"dynn_Kuwirrkura"
+			"dynn_Nyiinyii"
+			"dynn_Yoomp"
+			"dynn_Nolka"
+			"dynn_Bila"
+			"dynn_Nyola"
+			"dynn_Malkar"
+			"dynn_Moorditj"
+			"dynn_Bibdjool"
+			"dynn_Kalari"
+			"dynn_Kelang"
+			"dynn_Bilya"
+			"dynn_Moyootj"
+			"dynn_Kwangkan"
+			"dynn_Djardak"
+			"dynn_Djendal"
+			"dynn_Moorn"
+			"dynn_Mirda"
+			"dynn_Yoont"
+			"dynn_Boorn"
+			"dynn_Djimbarl"
+			"dynn_Wan"
+			"dynn_Koondj"
+			"dynn_Kitj"
+			"dynn_Djoona"
+			"dynn_Mirr"
+			"dynn_Woonda"
+			"dynn_Kerl"
+			"dynn_Kotj"
+			"dynn_Kewtj"
+			"dynn_Doodjarak"
+			"dynn_Warangka"
+			"dynn_Koondarm"
+			"dynn_Karla"
+			"dynn_Bilying"
+			"dynn_Naariny"
+			"dynn_Booyi"
+			"dynn_Daaliny"
+		}
+
+		dynasty_of_location_prefix = "dynnp_ngaa"
+
+		pat_grf_name_chance = 60
+		mat_grf_name_chance = 20
+		father_name_chance = 20
+		pat_grm_name_chance = 60
+		mat_grm_name_chance = 20
+		mother_name_chance = 20
+		always_use_patronym = no
+
+		ethnicities = {
+			african = 35
+			arab = 35
+			caucasian_blond = 5
+			caucasian_ginger = 5
+			caucasian_brown_hair = 5
+			caucasian_dark_hair = 5
+			10 = mediterranean
+		}
+
+	}
+
+	Nyarranga = {
+		graphical_cultures = {
+			west_african_group_coa_gfx
+		}
+
+		mercenary_names = {
+			{ name = "mercenary_company_anamarra_band" }
+			{ name = "mercenary_company_spears_of_tjidoolyaa" }
+		}
+
+		color = { 216 20 0 }
+
+		male_names = {
+			Naatitji Djebanyotji Rerdorrotji Nyerlaatji Kenyernootji Baangootji Maartootji Dootji Djirretji Koyaalyootji Rooyaarootji Waraatji Koodetji Ngetji Kimarnatji Doomitji Raanyatji Djitji Djoolyootji Kitji Djatji Yetjertaatji Wirotji Djakotji Yaanotji Orliwerd Nowa Djak Liyo Djarli Wirlyam Lookadj Djayim Domaa Erlayida Enrri Liyam Ooddjon Lewayi Okaar Mayidjon Loklin Arrdji Oonder Diyodor Mak Looka Arwi Longan Aridjon
+		}
+		female_names = {
+			Naatika Djebanyoka Rerdorroka Nyerlaaka Kenyernooka Baangooka Maartooka Dooka Djirreka Koyaalyooka Rooyaarooka Waraaka Koodeka Ngeka Kimarnaka Doomika Raanyaka Djika Djoolyooka Kika Djaka Yetjertaaka Wiroka Djakoka YaanokaIlyaa Ilyaa Oliwia Miyaa Djarrlod Aiwa Amerlia Kraidj Ella Madilda Idjawella Sowi Klowi Wilo Eweliny Arrer Iwi Djowi Djowiya Roowi Aaiwi Emilyi Mila Loorly Djiyengaa Aana
+		}
+		cadet_dynasty_names = {
+			"dynn_Anamarra"
+			"dynn_Kanparrka"
+			"dynn_Kartilyka"
+			"dynn_Kintingka"
+			"dynn_Kiwinyi"
+			"dynn_Minga"
+			"dynn_Tjintilyka"
+			"dynn_Tjinykura"
+			"dynn_Wanatarnpa"
+			"dynn_Irnura"
+			"dynn_Kamulpa"
+			"dynn_Karrpitji"
+			"dynn_Patupirri"
+			"dynn_Kuniya"
+			"dynn_Ngalamirra"
+			"dynn_Papanymaru"
+			"dynn_Kakalangu"
+			"dynn_Kuwirrkura"
+			"dynn_Nyiinyii"
+			"dynn_Yoomp"
+			"dynn_Nolka"
+			"dynn_Bila"
+			"dynn_Nyola"
+			"dynn_Malkar"
+			"dynn_Moorditj"
+			"dynn_Bibdjool"
+			"dynn_Kalari"
+			"dynn_Kelang"
+			"dynn_Bilya"
+			"dynn_Moyootj"
+			"dynn_Kwangkan"
+			"dynn_Djardak"
+			"dynn_Djendal"
+			"dynn_Moorn"
+			"dynn_Mirda"
+			"dynn_Yoont"
+			"dynn_Boorn"
+			"dynn_Djimbarl"
+			"dynn_Wan"
+			"dynn_Koondj"
+			"dynn_Kitj"
+			"dynn_Djoona"
+			"dynn_Mirr"
+			"dynn_Woonda"
+			"dynn_Kerl"
+			"dynn_Kotj"
+			"dynn_Kewtj"
+			"dynn_Doodjarak"
+			"dynn_Warangka"
+			"dynn_Koondarm"
+			"dynn_Karla"
+			"dynn_Bilying"
+			"dynn_Naariny"
+			"dynn_Booyi"
+			"dynn_Daaliny"
+		}
+
+		dynasty_names = {
+			"dynn_Anamarra"
+			"dynn_Kanparrka"
+			"dynn_Kartilyka"
+			"dynn_Kintingka"
+			"dynn_Kiwinyi"
+			"dynn_Minga"
+			"dynn_Tjintilyka"
+			"dynn_Tjinykura"
+			"dynn_Wanatarnpa"
+			"dynn_Irnura"
+			"dynn_Kamulpa"
+			"dynn_Karrpitji"
+			"dynn_Patupirri"
+			"dynn_Kuniya"
+			"dynn_Ngalamirra"
+			"dynn_Papanymaru"
+			"dynn_Kakalangu"
+			"dynn_Kuwirrkura"
+			"dynn_Nyiinyii"
+			"dynn_Yoomp"
+			"dynn_Nolka"
+			"dynn_Bila"
+			"dynn_Nyola"
+			"dynn_Malkar"
+			"dynn_Moorditj"
+			"dynn_Bibdjool"
+			"dynn_Kalari"
+			"dynn_Kelang"
+			"dynn_Bilya"
+			"dynn_Moyootj"
+			"dynn_Kwangkan"
+			"dynn_Djardak"
+			"dynn_Djendal"
+			"dynn_Moorn"
+			"dynn_Mirda"
+			"dynn_Yoont"
+			"dynn_Boorn"
+			"dynn_Djimbarl"
+			"dynn_Wan"
+			"dynn_Koondj"
+			"dynn_Kitj"
+			"dynn_Djoona"
+			"dynn_Mirr"
+			"dynn_Woonda"
+			"dynn_Kerl"
+			"dynn_Kotj"
+			"dynn_Kewtj"
+			"dynn_Doodjarak"
+			"dynn_Warangka"
+			"dynn_Koondarm"
+			"dynn_Karla"
+			"dynn_Bilying"
+			"dynn_Naariny"
+			"dynn_Booyi"
+			"dynn_Daaliny"
+		}
+
+		dynasty_of_location_prefix = "dynnp_ngaa"
+
+		pat_grf_name_chance = 60
+		mat_grf_name_chance = 20
+		father_name_chance = 20
+		pat_grm_name_chance = 60
+		mat_grm_name_chance = 20
+		mother_name_chance = 20
+		always_use_patronym = no
+
+		ethnicities = {
+			african = 35
+			arab = 35
+			caucasian_blond = 5
+			caucasian_ginger = 5
+			caucasian_brown_hair = 5
+			caucasian_dark_hair = 5
+			10 = mediterranean
+		}
+
+	}
+
+}

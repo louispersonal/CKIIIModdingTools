@@ -1,0 +1,458 @@
+southwest_group = {
+
+	mercenary_names = {
+		{ name = "mercenary_company_golden_legion" }
+	}
+
+	graphical_cultures = {
+		western_coa_gfx
+		western_building_gfx
+		western_clothing_gfx
+		western_unit_gfx
+	}
+
+	wheatbelter = {
+		graphical_cultures = {
+			western_coa_gfx
+		}
+
+		mercenary_names = {
+			{ name = "mercenary_company_purple_brothers" }
+		}
+
+		color = { 201 56 165 }
+
+		male_names = {
+			Oliver Noah Jack Leo Charlie William Lucas James Thomas Elijah Henry Liam Hudson Levi Oscar Mason Lachlan Archie Hunter Theodore Max Luca Harvey Logan Harrison Xavier Aelfgar Aethelbert Aethelric Bada Beorhtric Ceadda Cenric Deorwine Edmund Edgar Hrothulf Beowulf Osmund Osgar Wynnstan Louis
+		}
+		female_names = {
+			Isla Olivia Mia Charlotte Ava Amelia Grace Ella Matilda Isabella Sophie Chloe Willow Evelyn Harper Evie Zoe Sophia Ruby Ivy Emily Mia Lucy Sienna Hannah Ellie Alice Lily Ethelflad Cyneburg Eadburg Eoforhild Frithuswith Godgifu Godiva Hilda Wassa Wilburg Wulfrun
+		}
+		cadet_dynasty_names = {
+			"dynn_Honeypossum"
+			"dynn_Wallaby"
+			"dynn_Quokka"
+			"dynn_Mallee"
+			"dynn_Kwongan"
+			"dynn_Eucalyptus"
+			"dynn_Sundew"
+			"dynn_Smith"
+			"dynn_Jones"
+			"dynn_Brown"
+			"dynn_Williams"
+			"dynn_Taylor"
+			"dynn_Wilson"
+			"dynn_Johnson"
+			"dynn_Martin"
+			"dynn_Lee"
+			"dynn_Anderson"
+			"dynn_Thompson"
+			"dynn_Thomas"
+			"dynn_White"
+			"dynn_Davies"
+			"dynn_Walker"
+			"dynn_Edwards"
+			"dynn_Harris"
+			"dynn_Nguyen"
+			"dynn_Scott"
+			"dynn_Wright"
+			"dynn_Tisnal"
+			"dynn_Gunning"
+			"dynn_Milyeannup"
+			"dynn_Blackwood"
+			"dynn_Jarrahwood"
+			"dynn_Beedelup"
+			"dynn_Beade"
+			"dynn_Northcliffe"
+			"dynn_Shannon"
+			"dynn_Augusta"
+			"dynn_Leeuwin"
+			"dynn_Naturaliste"
+			"dynn_Pemberton"
+			"dynn_Manjimup"
+			"dynn_Tran"
+			"dynn_Nannup"
+			"dynn_Baudin"
+			"dynn_Lobster"
+			"dynn_Peterson"
+			"dynn_Bindoon"
+			"dynn_Yanchep"
+			"dynn_Caraban"
+			"dynn_Julimar"
+		}
+
+		dynasty_names = {
+			"dynn_Honeypossum"
+			"dynn_Wallaby"
+			"dynn_Quokka"
+			"dynn_Mallee"
+			"dynn_Kwongan"
+			"dynn_Eucalyptus"
+			"dynn_Sundew"
+			"dynn_Smith"
+			"dynn_Jones"
+			"dynn_Brown"
+			"dynn_Williams"
+			"dynn_Taylor"
+			"dynn_Wilson"
+			"dynn_Johnson"
+			"dynn_Martin"
+			"dynn_Lee"
+			"dynn_Anderson"
+			"dynn_Thompson"
+			"dynn_Thomas"
+			"dynn_White"
+			"dynn_Davies"
+			"dynn_Walker"
+			"dynn_Edwards"
+			"dynn_Harris"
+			"dynn_Nguyen"
+			"dynn_Scott"
+			"dynn_Wright"
+			"dynn_Tisnal"
+			"dynn_Gunning"
+			"dynn_Milyeannup"
+			"dynn_Blackwood"
+			"dynn_Jarrahwood"
+			"dynn_Beedelup"
+			"dynn_Beade"
+			"dynn_Northcliffe"
+			"dynn_Shannon"
+			"dynn_Augusta"
+			"dynn_Leeuwin"
+			"dynn_Naturaliste"
+			"dynn_Pemberton"
+			"dynn_Manjimup"
+			"dynn_Tran"
+			"dynn_Nannup"
+			"dynn_Baudin"
+			"dynn_Lobster"
+			"dynn_Peterson"
+			"dynn_Bindoon"
+			"dynn_Yanchep"
+			"dynn_Caraban"
+			"dynn_Julimar"
+		}
+
+		dynasty_of_location_prefix = "dynnp_of"
+
+		pat_grf_name_chance = 33
+		mat_grf_name_chance = 33
+		father_name_chance = 33
+		pat_grm_name_chance = 33
+		mat_grm_name_chance = 33
+		mother_name_chance = 33
+		always_use_patronym = no
+
+		ethnicities = {
+			african = 1
+			arab = 3
+			caucasian_blond = 20
+			caucasian_ginger = 8
+			caucasian_brown_hair = 20
+			caucasian_dark_hair = 20
+			asian = 12
+			indian = 4
+			mediterranean_byzantine = 2
+			10 = mediterranean
+		}
+
+	}
+
+	metropolitan = {
+		graphical_cultures = {
+			western_coa_gfx
+		}
+
+		mercenary_names = {
+			{ name = "mercenary_company_perthian_legion" }
+		}
+
+		color = { 168 56 201 }
+
+		male_names = {
+			Oliver Noah Jack Leo Charlie William Lucas James Thomas Elijah Henry Liam Hudson Levi Oscar Mason Lachlan Archie Hunter Theodore Max Luca Harvey Logan Harrison Xavier Aelfgar Aethelbert Aethelric Bada Beorhtric Ceadda Cenric Deorwine Edmund Edgar Hrothulf Beowulf Osmund Osgar Wynnstan Louis
+		}
+		female_names = {
+			Isla Olivia Mia Charlotte Ava Amelia Grace Ella Matilda Isabella Sophie Chloe Willow Evelyn Harper Evie Zoe Sophia Ruby Ivy Emily Mia Lucy Sienna Hannah Ellie Alice Lily Ethelflad Cyneburg Eadburg Eoforhild Frithuswith Godgifu Godiva Hilda Wassa Wilburg Wulfrun
+		}
+		cadet_dynasty_names = {
+			"dynn_Honeypossum"
+			"dynn_Wallaby"
+			"dynn_Quokka"
+			"dynn_Mallee"
+			"dynn_Kwongan"
+			"dynn_Eucalyptus"
+			"dynn_Sundew"
+			"dynn_Smith"
+			"dynn_Jones"
+			"dynn_Brown"
+			"dynn_Williams"
+			"dynn_Taylor"
+			"dynn_Wilson"
+			"dynn_Johnson"
+			"dynn_Martin"
+			"dynn_Lee"
+			"dynn_Anderson"
+			"dynn_Thompson"
+			"dynn_Thomas"
+			"dynn_White"
+			"dynn_Davies"
+			"dynn_Walker"
+			"dynn_Edwards"
+			"dynn_Harris"
+			"dynn_Nguyen"
+			"dynn_Scott"
+			"dynn_Wright"
+			"dynn_Tisnal"
+			"dynn_Gunning"
+			"dynn_Milyeannup"
+			"dynn_Blackwood"
+			"dynn_Jarrahwood"
+			"dynn_Beedelup"
+			"dynn_Beade"
+			"dynn_Northcliffe"
+			"dynn_Shannon"
+			"dynn_Augusta"
+			"dynn_Leeuwin"
+			"dynn_Naturaliste"
+			"dynn_Pemberton"
+			"dynn_Manjimup"
+			"dynn_Tran"
+			"dynn_Nannup"
+			"dynn_Baudin"
+			"dynn_Lobster"
+			"dynn_Peterson"
+			"dynn_Bindoon"
+			"dynn_Yanchep"
+			"dynn_Caraban"
+			"dynn_Julimar"
+		}
+
+		dynasty_names = {
+			"dynn_Honeypossum"
+			"dynn_Wallaby"
+			"dynn_Quokka"
+			"dynn_Mallee"
+			"dynn_Kwongan"
+			"dynn_Eucalyptus"
+			"dynn_Sundew"
+			"dynn_Smith"
+			"dynn_Jones"
+			"dynn_Brown"
+			"dynn_Williams"
+			"dynn_Taylor"
+			"dynn_Wilson"
+			"dynn_Johnson"
+			"dynn_Martin"
+			"dynn_Lee"
+			"dynn_Anderson"
+			"dynn_Thompson"
+			"dynn_Thomas"
+			"dynn_White"
+			"dynn_Davies"
+			"dynn_Walker"
+			"dynn_Edwards"
+			"dynn_Harris"
+			"dynn_Nguyen"
+			"dynn_Scott"
+			"dynn_Wright"
+			"dynn_Tisnal"
+			"dynn_Gunning"
+			"dynn_Milyeannup"
+			"dynn_Blackwood"
+			"dynn_Jarrahwood"
+			"dynn_Beedelup"
+			"dynn_Beade"
+			"dynn_Northcliffe"
+			"dynn_Shannon"
+			"dynn_Augusta"
+			"dynn_Leeuwin"
+			"dynn_Naturaliste"
+			"dynn_Pemberton"
+			"dynn_Manjimup"
+			"dynn_Tran"
+			"dynn_Nannup"
+			"dynn_Baudin"
+			"dynn_Lobster"
+			"dynn_Peterson"
+			"dynn_Bindoon"
+			"dynn_Yanchep"
+			"dynn_Caraban"
+			"dynn_Julimar"
+		}
+
+		dynasty_of_location_prefix = "dynnp_of"
+
+		pat_grf_name_chance = 33
+		mat_grf_name_chance = 33
+		father_name_chance = 33
+		pat_grm_name_chance = 33
+		mat_grm_name_chance = 33
+		mother_name_chance = 33
+		always_use_patronym = no
+
+		ethnicities = {
+			african = 1
+			arab = 3
+			caucasian_blond = 20
+			caucasian_ginger = 8
+			caucasian_brown_hair = 20
+			caucasian_dark_hair = 20
+			asian = 12
+			indian = 4
+			mediterranean_byzantine = 2
+			10 = mediterranean
+		}
+
+	}
+
+	esperentian = {
+		graphical_cultures = {
+			western_coa_gfx
+		}
+
+		mercenary_names = {
+			{ name = "mercenary_company_swords_of_esperance" }
+		}
+
+		color = { 124 63 143 }
+
+		male_names = {
+			Oliver Noah Jack Leo Charlie William Lucas James Thomas Elijah Henry Liam Hudson Levi Oscar Mason Lachlan Archie Hunter Theodore Max Luca Harvey Logan Harrison Xavier Aelfgar Aethelbert Aethelric Bada Beorhtric Ceadda Cenric Deorwine Edmund Edgar Hrothulf Beowulf Osmund Osgar Wynnstan Louis
+		}
+		female_names = {
+			Isla Olivia Mia Charlotte Ava Amelia Grace Ella Matilda Isabella Sophie Chloe Willow Evelyn Harper Evie Zoe Sophia Ruby Ivy Emily Mia Lucy Sienna Hannah Ellie Alice Lily Ethelflad Cyneburg Eadburg Eoforhild Frithuswith Godgifu Godiva Hilda Wassa Wilburg Wulfrun
+		}
+		cadet_dynasty_names = {
+			"dynn_Honeypossum"
+			"dynn_Wallaby"
+			"dynn_Quokka"
+			"dynn_Mallee"
+			"dynn_Kwongan"
+			"dynn_Eucalyptus"
+			"dynn_Sundew"
+			"dynn_Smith"
+			"dynn_Jones"
+			"dynn_Brown"
+			"dynn_Williams"
+			"dynn_Taylor"
+			"dynn_Wilson"
+			"dynn_Johnson"
+			"dynn_Martin"
+			"dynn_Lee"
+			"dynn_Anderson"
+			"dynn_Thompson"
+			"dynn_Thomas"
+			"dynn_White"
+			"dynn_Davies"
+			"dynn_Walker"
+			"dynn_Edwards"
+			"dynn_Harris"
+			"dynn_Nguyen"
+			"dynn_Scott"
+			"dynn_Wright"
+			"dynn_Tisnal"
+			"dynn_Gunning"
+			"dynn_Milyeannup"
+			"dynn_Blackwood"
+			"dynn_Jarrahwood"
+			"dynn_Beedelup"
+			"dynn_Beade"
+			"dynn_Northcliffe"
+			"dynn_Shannon"
+			"dynn_Augusta"
+			"dynn_Leeuwin"
+			"dynn_Naturaliste"
+			"dynn_Pemberton"
+			"dynn_Manjimup"
+			"dynn_Tran"
+			"dynn_Nannup"
+			"dynn_Baudin"
+			"dynn_Lobster"
+			"dynn_Peterson"
+			"dynn_Bindoon"
+			"dynn_Yanchep"
+			"dynn_Caraban"
+			"dynn_Julimar"
+		}
+
+		dynasty_names = {
+			"dynn_Honeypossum"
+			"dynn_Wallaby"
+			"dynn_Quokka"
+			"dynn_Mallee"
+			"dynn_Kwongan"
+			"dynn_Eucalyptus"
+			"dynn_Sundew"
+			"dynn_Smith"
+			"dynn_Jones"
+			"dynn_Brown"
+			"dynn_Williams"
+			"dynn_Taylor"
+			"dynn_Wilson"
+			"dynn_Johnson"
+			"dynn_Martin"
+			"dynn_Lee"
+			"dynn_Anderson"
+			"dynn_Thompson"
+			"dynn_Thomas"
+			"dynn_White"
+			"dynn_Davies"
+			"dynn_Walker"
+			"dynn_Edwards"
+			"dynn_Harris"
+			"dynn_Nguyen"
+			"dynn_Scott"
+			"dynn_Wright"
+			"dynn_Tisnal"
+			"dynn_Gunning"
+			"dynn_Milyeannup"
+			"dynn_Blackwood"
+			"dynn_Jarrahwood"
+			"dynn_Beedelup"
+			"dynn_Beade"
+			"dynn_Northcliffe"
+			"dynn_Shannon"
+			"dynn_Augusta"
+			"dynn_Leeuwin"
+			"dynn_Naturaliste"
+			"dynn_Pemberton"
+			"dynn_Manjimup"
+			"dynn_Tran"
+			"dynn_Nannup"
+			"dynn_Baudin"
+			"dynn_Lobster"
+			"dynn_Peterson"
+			"dynn_Bindoon"
+			"dynn_Yanchep"
+			"dynn_Caraban"
+			"dynn_Julimar"
+		}
+
+		dynasty_of_location_prefix = "dynnp_of"
+
+		pat_grf_name_chance = 33
+		mat_grf_name_chance = 33
+		father_name_chance = 33
+		pat_grm_name_chance = 33
+		mat_grm_name_chance = 33
+		mother_name_chance = 33
+		always_use_patronym = no
+
+		ethnicities = {
+			african = 1
+			arab = 3
+			caucasian_blond = 20
+			caucasian_ginger = 8
+			caucasian_brown_hair = 20
+			caucasian_dark_hair = 20
+			asian = 12
+			indian = 4
+			mediterranean_byzantine = 2
+			10 = mediterranean
+		}
+
+	}
+
+}

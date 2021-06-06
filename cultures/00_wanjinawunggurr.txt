@@ -1,0 +1,282 @@
+wanjina_wunggurr_group = {
+
+	mercenary_names = {
+		{ name = "mercenary_company_kimberley_band" }
+	}
+
+	graphical_cultures = {
+		west_african_group_coa_gfx
+		african_building_gfx
+		african_clothing_gfx
+		sub_sahran_unit_gfx
+	}
+
+	worrorran = {
+		graphical_cultures = {
+			west_african_group_coa_gfx
+		}
+
+		mercenary_names = {
+			{ name = "mercenary_company_worrorran_band" }
+		}
+
+		color = { 0 173 113 }
+
+		male_names = {
+			Marayumamoya Waawimamoya Wondumoya Rlarlangkarramoya Majalbamoya Ngalarramamoya Wurrkulamamoya Bimbinalbamoya Kulumoya Mangubamoya Jirrkalimamoya Mirijimoya Amolbamoya Kumbarrumamoya Joornimoya Kabalbamoya Karnmernmoya Barnjamoya Dalorrmoya Rdakulamamoya Rlaardmoya Maarnduwalbamoya Balaayumamoya Jungurimoya Bunjumamoya Jinkarmamoya Kroomamoya Jurlwun Wankaleena Koyoya Irlarlangkarra Kariyali Juluwarra Kanangkurri Arroli Karnamarri
+		}
+		female_names = {
+			Marayumamonya Waawimamonya Wondumonya Rlarlangkarramonya Majalbamonya Ngalarramamonya Wurrkulamamonya Bimbinalbamonya Kulumonya Mangubamonya Jirrkalimamonya Mirijimonya Amolbamonya Kumbarrumamonya Joornimonya Kabalbamonya Karnmernmonya Barnjamonya Dalorrmonya Rdakulamamonya Rlaardmonya Maarnduwalbamonya Balaayumamonya Jungurimonya Bunjumamonya Jinkarmamonya Kroomamonya Warinya Karroninya Balngkoninya Meerrinya Irroninya Rlanonya Kanangkuja Arrolinya Karnamaja
+		}
+		cadet_dynasty_names = {
+			"dynn_Wangalangu"
+			"dynn_Braarru"
+			"dynn_Yulu"
+			"dynn_Dambeema"
+			"dynn_Jijaaya"
+			"dynn_Kumnyenga"
+			"dynn_Wungkurru"
+			"dynn_Jimbirriji"
+			"dynn_Wayurru"
+			"dynn_Kabalba"
+			"dynn_Burlkumba"
+			"dynn_Baarru"
+			"dynn_Kari"
+			"dynn_Arrbareya"
+			"dynn_Jada"
+			"dynn_Arrbarreya"
+			"dynn_Arra"
+			"dynn_Ngardu"
+			"dynn_Jardi"
+			"dynn_Wari"
+			"dynn_Warli"
+			"dynn_Blaai"
+			"dynn_Karlikarli"
+			"dynn_Ngurnba"
+			"dynn_Mangarri"
+			"dynn_Imanja"
+			"dynn_Malandum"
+			"dynn_Kulnmerrba"
+			"dynn_Wulurrku"
+			"dynn_Igrarlya"
+			"dynn_Jinalya"
+			"dynn_Iyarnda"
+			"dynn_Mamurr"
+			"dynn_Nguma"
+			"dynn_Belang"
+			"dynn_Karra"
+			"dynn_Arrloo"
+			"dynn_Liya"
+			"dynn_Wurnbangku"
+			"dynn_Nyimalan"
+			"dynn_Iwa"
+			"dynn_Arrbalarriya"
+			"dynn_Arrwunarriya"
+			"dynn_Anjoldirdaka"
+			"dynn_Rdaarreya"
+			"dynn_Iwulku"
+			"dynn_Nyimbulkunya"
+		}
+
+		dynasty_names = {
+			"dynn_Wangalangu"
+			"dynn_Braarru"
+			"dynn_Yulu"
+			"dynn_Dambeema"
+			"dynn_Jijaaya"
+			"dynn_Kumnyenga"
+			"dynn_Wungkurru"
+			"dynn_Jimbirriji"
+			"dynn_Wayurru"
+			"dynn_Kabalba"
+			"dynn_Burlkumba"
+			"dynn_Baarru"
+			"dynn_Kari"
+			"dynn_Arrbareya"
+			"dynn_Jada"
+			"dynn_Arrbarreya"
+			"dynn_Arra"
+			"dynn_Ngardu"
+			"dynn_Jardi"
+			"dynn_Wari"
+			"dynn_Warli"
+			"dynn_Blaai"
+			"dynn_Karlikarli"
+			"dynn_Ngurnba"
+			"dynn_Mangarri"
+			"dynn_Imanja"
+			"dynn_Malandum"
+			"dynn_Kulnmerrba"
+			"dynn_Wulurrku"
+			"dynn_Igrarlya"
+			"dynn_Jinalya"
+			"dynn_Iyarnda"
+			"dynn_Mamurr"
+			"dynn_Nguma"
+			"dynn_Belang"
+			"dynn_Karra"
+			"dynn_Arrloo"
+			"dynn_Liya"
+			"dynn_Wurnbangku"
+			"dynn_Nyimalan"
+			"dynn_Iwa"
+			"dynn_Arrbalarriya"
+			"dynn_Arrwunarriya"
+			"dynn_Anjoldirdaka"
+			"dynn_Rdaarreya"
+			"dynn_Iwulku"
+			"dynn_Nyimbulkunya"
+		}
+
+		dynasty_of_location_prefix = "dynnp_ya"
+
+		pat_grf_name_chance = 33
+		mat_grf_name_chance = 33
+		father_name_chance = 33
+		pat_grm_name_chance = 33
+		mat_grm_name_chance = 33
+		mother_name_chance = 33
+		always_use_patronym = no
+
+		ethnicities = {
+			african = 90
+			east_african = 10
+		}
+
+	}
+
+	wunambal = {
+		graphical_cultures = {
+			west_african_group_coa_gfx
+		}
+
+		mercenary_names = {
+			{ name = "mercenary_company_wunambal_brothers" }
+		}
+
+		color = { 21 138 97 }
+
+		male_names = {
+			Marayumamoya Waawimamoya Wondumoya Rlarlangkarramoya Majalbamoya Ngalarramamoya Wurrkulamamoya Bimbinalbamoya Kulumoya Mangubamoya Jirrkalimamoya Mirijimoya Amolbamoya Kumbarrumamoya Joornimoya Kabalbamoya Karnmernmoya Barnjamoya Dalorrmoya Rdakulamamoya Rlaardmoya Maarnduwalbamoya Balaayumamoya Jungurimoya Bunjumamoya Jinkarmamoya Kroomamoya Jurlwun Wankaleena Koyoya Irlarlangkarra Kariyali Juluwarra Kanangkurri Arroli Karnamarri
+		}
+		female_names = {
+			Marayumamonya Waawimamonya Wondumonya Rlarlangkarramonya Majalbamonya Ngalarramamonya Wurrkulamamonya Bimbinalbamonya Kulumonya Mangubamonya Jirrkalimamonya Mirijimonya Amolbamonya Kumbarrumamonya Joornimonya Kabalbamonya Karnmernmonya Barnjamonya Dalorrmonya Rdakulamamonya Rlaardmonya Maarnduwalbamonya Balaayumamonya Jungurimonya Bunjumamonya Jinkarmamonya Kroomamonya Warinya Karroninya Balngkoninya Meerrinya Irroninya Rlanonya Kanangkuja Arrolinya Karnamaja
+		}
+		cadet_dynasty_names = {
+			"dynn_Wangalangu"
+			"dynn_Braarru"
+			"dynn_Yulu"
+			"dynn_Dambeema"
+			"dynn_Jijaaya"
+			"dynn_Kumnyenga"
+			"dynn_Wungkurru"
+			"dynn_Jimbirriji"
+			"dynn_Wayurru"
+			"dynn_Kabalba"
+			"dynn_Burlkumba"
+			"dynn_Baarru"
+			"dynn_Kari"
+			"dynn_Arrbareya"
+			"dynn_Jada"
+			"dynn_Arrbarreya"
+			"dynn_Arra"
+			"dynn_Ngardu"
+			"dynn_Jardi"
+			"dynn_Wari"
+			"dynn_Warli"
+			"dynn_Blaai"
+			"dynn_Karlikarli"
+			"dynn_Ngurnba"
+			"dynn_Mangarri"
+			"dynn_Imanja"
+			"dynn_Malandum"
+			"dynn_Kulnmerrba"
+			"dynn_Wulurrku"
+			"dynn_Igrarlya"
+			"dynn_Jinalya"
+			"dynn_Iyarnda"
+			"dynn_Mamurr"
+			"dynn_Nguma"
+			"dynn_Belang"
+			"dynn_Karra"
+			"dynn_Arrloo"
+			"dynn_Liya"
+			"dynn_Wurnbangku"
+			"dynn_Nyimalan"
+			"dynn_Iwa"
+			"dynn_Arrbalarriya"
+			"dynn_Arrwunarriya"
+			"dynn_Anjoldirdaka"
+			"dynn_Rdaarreya"
+			"dynn_Iwulku"
+			"dynn_Nyimbulkunya"
+		}
+
+		dynasty_names = {
+			"dynn_Wangalangu"
+			"dynn_Braarru"
+			"dynn_Yulu"
+			"dynn_Dambeema"
+			"dynn_Jijaaya"
+			"dynn_Kumnyenga"
+			"dynn_Wungkurru"
+			"dynn_Jimbirriji"
+			"dynn_Wayurru"
+			"dynn_Kabalba"
+			"dynn_Burlkumba"
+			"dynn_Baarru"
+			"dynn_Kari"
+			"dynn_Arrbareya"
+			"dynn_Jada"
+			"dynn_Arrbarreya"
+			"dynn_Arra"
+			"dynn_Ngardu"
+			"dynn_Jardi"
+			"dynn_Wari"
+			"dynn_Warli"
+			"dynn_Blaai"
+			"dynn_Karlikarli"
+			"dynn_Ngurnba"
+			"dynn_Mangarri"
+			"dynn_Imanja"
+			"dynn_Malandum"
+			"dynn_Kulnmerrba"
+			"dynn_Wulurrku"
+			"dynn_Igrarlya"
+			"dynn_Jinalya"
+			"dynn_Iyarnda"
+			"dynn_Mamurr"
+			"dynn_Nguma"
+			"dynn_Belang"
+			"dynn_Karra"
+			"dynn_Arrloo"
+			"dynn_Liya"
+			"dynn_Wurnbangku"
+			"dynn_Nyimalan"
+			"dynn_Iwa"
+			"dynn_Arrbalarriya"
+			"dynn_Arrwunarriya"
+			"dynn_Anjoldirdaka"
+			"dynn_Rdaarreya"
+			"dynn_Iwulku"
+			"dynn_Nyimbulkunya"
+		}
+
+		dynasty_of_location_prefix = "dynnp_ya"
+
+		pat_grf_name_chance = 33
+		mat_grf_name_chance = 33
+		father_name_chance = 33
+		pat_grm_name_chance = 33
+		mat_grm_name_chance = 33
+		mother_name_chance = 33
+		always_use_patronym = no
+
+		ethnicities = {
+			african = 90
+			east_african = 10
+		}
+
+	}
+
+}

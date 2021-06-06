@@ -1,0 +1,107 @@
+Parameter,Example
+name_of_culture_group,ranger_group
+mercenary_names,frosty_band
+group_coa,western_coa_gfx
+group_building,western_building_gfx
+group_clothing,western_clothing_gfx
+group_unit,western_unit_gfx
+culture_name,alpine
+culture_coa,western_coa_gfx
+mercenary_names,alpine_band
+color,216 229 235
+character_modifier,x
+male_names,Thomas Matthew Jack Joseph Joshua James Daniel Samuel Callum Adam Alexander William Luke Benjamin Harry Oliver Lewis Ryan David Liam Ben Kyle Aaron Bradley Louis Christopher Max Jake Brandon Owen Edward Jacob Robert Nathan Michael Charles Ethan Connor George Jonathan Harvey Reuben Andrew Isaac Oscar Morgan Declan Nicholas Jimmy Tom John Alex Sean Eoin Tadhg Enda Dhruv Amar Sana Kostas Damon Eryx Ahmed Muhammad Asem Liu Chen Yang Huang Zhao Wang Li Keyang Mateo Angelo
+female_names,Keila Alesia Bennie Mirabelle Marlowe Tristen Deana Mallow Tyra Deandra Telsa Elizabeth Michaela Nikki Lisha Jane Lesley Kelby Katy Meagan Charlene Cleo Allison Amberley Leigh Phoenix Loreen Primrose Alice Sophie Renae Catherine Chloe Zoe Lenora Lucille Josalyn Kaylin Mandy Alyssa Mei Chen Ehuang Fan Aisha Gameel Warda Antonina Stergiani Ruhi Megana Erin Siofra Saoirse
+cadet_dynasty_names,Wallis Auburn Chatswood Eureka Ryde Wtheril Prairiewood Mosman Manly Brookvale French English Irish Welsh Castle Botany Quaker Hornsby Warriewood Druitt Drury Maroubra Randwick Kosciuszko Goulburn Williams Farrell Primrose Carroll Macquarie Werribee Cariston Emerald Cockatoo Macclesfield Burwood Camberwell Malvern Brighton Altona Laverton Essendon Footscray Greensborough Preston Brunswick Tarsly Pellegrine Silvia Chen Tran Nguyen Li Lee Zhao Avon Stratt Nodder Hepburn
+dynasty_names,Wallis Auburn Chatswood Eureka Ryde Wtheril Prairiewood Mosman Manly Brookvale French English Irish Welsh Castle Botany Quaker Hornsby Warriewood Druitt Drury Maroubra Randwick Kosciuszko Goulburn Williams Farrell Primrose Carroll Macquarie Werribee Cariston Emerald Cockatoo Macclesfield Burwood Camberwell Malvern Brighton Altona Laverton Essendon Footscray Greensborough Preston Brunswick Tarsly Pellegrine Silvia Chen Tran Nguyen Li Lee Zhao Avon Stratt Nodder Hepburn
+dynasty_of_location_prefix,of
+pat_grf_name_chance,33
+mat_grf_name_chance,33
+father_name_chance,33
+pat_grm_name_chance,33
+mat_grm_name_chance,33
+mother_name_chance,33
+patronym_prefix_male,x
+patronym_prefix_male_vowel,x
+patronym_prefix_female,x
+patronym_prefix_female_vowel,x
+patronym_suffix_male,x
+patronym_suffix_female,x
+always_use_patronym,no
+african,1
+arab,3
+east_african,x
+slavic_blond,x
+slavic_ginger,x
+slavic_brown_hair,x
+slavic_dark_hair,x
+circumpolar_dark_hair,x
+circumpolar_brown_hair,x
+circumpolar_blonde_hair,x
+caucasian_northern_blond,x
+caucasian_northern_ginger,x
+caucasian_northern_brown_hair,x
+caucasian_northern_dark_hair,x
+caucasian_blond,20
+caucasian_ginger,8
+caucasian_brown_hair,20
+caucasian_dark_hair,20
+asian,12
+indian,4
+mediterranean_byzantine,2
+south_indian,x
+slavic_northern_blond,x
+slavic_northern_ginger,x
+slavic_northern_brown_hair,x
+slavic_northern_dark_hair,x
+mediterranean,10
+culture_name,new_english
+culture_coa,western_coa_gfx
+mercenary_names,alpine_band
+color,193 216 227
+character_modifier,x
+male_names,Thomas Matthew Jack Joseph Joshua James Daniel Samuel Callum Adam Alexander William Luke Benjamin Harry Oliver Lewis Ryan David Liam Ben Kyle Aaron Bradley Louis Christopher Max Jake Brandon Owen Edward Jacob Robert Nathan Michael Charles Ethan Connor George Jonathan Harvey Reuben Andrew Isaac Oscar Morgan Declan Nicholas Jimmy Tom John Alex Sean Eoin Tadhg Enda Dhruv Amar Sana Kostas Damon Eryx Ahmed Muhammad Asem Liu Chen Yang Huang Zhao Wang Li Keyang Mateo Angelo
+female_names,Keila Alesia Bennie Mirabelle Marlowe Tristen Deana Mallow Tyra Deandra Telsa Elizabeth Michaela Nikki Lisha Jane Lesley Kelby Katy Meagan Charlene Cleo Allison Amberley Leigh Phoenix Loreen Primrose Alice Sophie Renae Catherine Chloe Zoe Lenora Lucille Josalyn Kaylin Mandy Alyssa Mei Chen Ehuang Fan Aisha Gameel Warda Antonina Stergiani Ruhi Megana Erin Siofra Saoirse
+cadet_dynasty_names,Wallis Auburn Chatswood Eureka Ryde Wtheril Prairiewood Mosman Manly Brookvale French English Irish Welsh Castle Botany Quaker Hornsby Warriewood Druitt Drury Maroubra Randwick Kosciuszko Goulburn Williams Farrell Primrose Carroll Macquarie Werribee Cariston Emerald Cockatoo Macclesfield Burwood Camberwell Malvern Brighton Altona Laverton Essendon Footscray Greensborough Preston Brunswick Tarsly Pellegrine Silvia Chen Tran Nguyen Li Lee Zhao Avon Stratt Nodder Hepburn
+dynasty_names,Wallis Auburn Chatswood Eureka Ryde Wtheril Prairiewood Mosman Manly Brookvale French English Irish Welsh Castle Botany Quaker Hornsby Warriewood Druitt Drury Maroubra Randwick Kosciuszko Goulburn Williams Farrell Primrose Carroll Macquarie Werribee Cariston Emerald Cockatoo Macclesfield Burwood Camberwell Malvern Brighton Altona Laverton Essendon Footscray Greensborough Preston Brunswick Tarsly Pellegrine Silvia Chen Tran Nguyen Li Lee Zhao Avon Stratt Nodder Hepburn
+dynasty_of_location_prefix,of
+pat_grf_name_chance,33
+mat_grf_name_chance,33
+father_name_chance,33
+pat_grm_name_chance,33
+mat_grm_name_chance,33
+mother_name_chance,33
+patronym_prefix_male,x
+patronym_prefix_male_vowel,x
+patronym_prefix_female,x
+patronym_prefix_female_vowel,x
+patronym_suffix_male,x
+patronym_suffix_female,x
+always_use_patronym,no
+african,1
+arab,3
+east_african,x
+slavic_blond,x
+slavic_ginger,x
+slavic_brown_hair,x
+slavic_dark_hair,x
+circumpolar_dark_hair,x
+circumpolar_brown_hair,x
+circumpolar_blonde_hair,x
+caucasian_northern_blond,x
+caucasian_northern_ginger,x
+caucasian_northern_brown_hair,x
+caucasian_northern_dark_hair,x
+caucasian_blond,20
+caucasian_ginger,8
+caucasian_brown_hair,20
+caucasian_dark_hair,20
+asian,12
+indian,4
+mediterranean_byzantine,2
+south_indian,x
+slavic_northern_blond,x
+slavic_northern_ginger,x
+slavic_northern_brown_hair,x
+slavic_northern_dark_hair,x
+mediterranean,10

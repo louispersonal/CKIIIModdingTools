@@ -1,0 +1,398 @@
+reefian = {
+
+	mercenary_names = {
+		{ name = "mercenary_company_soppin_wet_band" }
+	}
+
+	graphical_cultures = {
+		western_coa_gfx
+		western_building_gfx
+		western_clothing_gfx
+		western_unit_gfx
+	}
+
+	corallite = {
+		graphical_cultures = {
+			western_coa_gfx
+		}
+
+		mercenary_names = {
+			{ name = "mercenary_company_men_of_the_rainforest" }
+		}
+
+		color = { 0 240 80 }
+
+		male_names = {
+			Aide Alexanda Alfie Angus Archa Archie Ari Ari Arlo Arry Artha Arve Asher Asho Auss Beau Benji Billy Blake Brax Caleb Carta Charlie Chaz Connor Coopa Danno Darce Edzo Eli Ethan Ezra Felix Finn Fletch Flynn Fredders Gabe George Grays Hamish Henry Huddie Hugo Hunta Isaac Jacka Jackers Jacob Jaimo Jasp Jaxon Jayzer Joey Jordo Josh Kai Lennox Leo Levi Lewis Liam Lijah Link Locke Louis Luca Lucas Luka Luke Maso Mattie Mav Max Mich Nardo Nate Noah Olly Osca Owen Paddy Parker Phoenix Riley River Ryan Ryder Sammo Seb Sonny Spence Tedzo Theo Tommo Tyler Vinno Will Wyatt Xavier
+		}
+		female_names = {
+			Aaliyah Abs Addie Alice Aria Aubrey Aud Ava Ayla Bell Bella Billie Bonnie Brooks Carly Charlie Chelsea Chloe Claire Clara Daisy Delilah Elena Eliza Ella Ellie Ells Eloise Elsie Em Emilia Emma Ev Eva Evie Flo Fran Freya Georgia Gracie Hallie Hannah Happa Harlie Harriet Hayley Hazel Holly Imogen Indie Isla Ivy Izz Jaz Layla Lills Lilly Lily Lina Livia Lizzo Lola Lucy Luna Macky Maddie Maggie Mel Mia Mila Millie Nabs Olive Paige Pennie Peyton Phia Phoebs Piper Pippa Poppy Quinn Remi Rora Rose Rosie Ruby Sadie Sav Sienna Sofia Soph Stella Summer Thea Tild Vio Willow Zara Zoe
+		}
+		cadet_dynasty_names = {
+			"dynn_Canetoad"
+			"dynn_Kingfisher"
+			"dynn_Wompoo"
+			"dynn_Marsh"
+			"dynn_Swamper"
+			"dynn_Keelback"
+			"dynn_Pythonback"
+			"dynn_Snaketongue"
+			"dynn_Gecko"
+			"dynn_Croctooth"
+			"dynn_Ferns"
+			"dynn_Ginger"
+			"dynn_Satinash"
+			"dynn_Palmshade"
+			"dynn_Monamona"
+			"dynn_Kuranda"
+			"dynn_Koah"
+			"dynn_Biboohra"
+			"dynn_Mareeba"
+			"dynn_Gadgarra"
+			"dynn_Wooroo"
+			"dynn_Snapper"
+			"dynn_Tidal"
+			"dynn_Coralia"
+			"dynn_Turtle"
+			"dynn_Mollusc"
+			"dynn_Greenwood"
+			"dynn_Saplicker"
+			"dynn_Suckler"
+			"dynn_Wavers"
+			"dynn_Seafoam"
+			"dynn_Koala"
+			"dynn_Cassowary"
+			"dynn_Quoli"
+			"dynn_Roo"
+			"dynn_Azure"
+			"dynn_Treefrog"
+			"dynn_Fruitdove"
+			"dynn_Mango"
+			"dynn_Pawpaw"
+			"dynn_Dragonfruit"
+			"dynn_Sapote"
+		}
+
+		dynasty_names = {
+			"dynn_Canetoad"
+			"dynn_Kingfisher"
+			"dynn_Wompoo"
+			"dynn_Marsh"
+			"dynn_Swamper"
+			"dynn_Keelback"
+			"dynn_Pythonback"
+			"dynn_Snaketongue"
+			"dynn_Gecko"
+			"dynn_Croctooth"
+			"dynn_Ferns"
+			"dynn_Ginger"
+			"dynn_Satinash"
+			"dynn_Palmshade"
+			"dynn_Monamona"
+			"dynn_Kuranda"
+			"dynn_Koah"
+			"dynn_Biboohra"
+			"dynn_Mareeba"
+			"dynn_Gadgarra"
+			"dynn_Wooroo"
+			"dynn_Snapper"
+			"dynn_Tidal"
+			"dynn_Coralia"
+			"dynn_Turtle"
+			"dynn_Mollusc"
+			"dynn_Greenwood"
+			"dynn_Saplicker"
+			"dynn_Suckler"
+			"dynn_Wavers"
+			"dynn_Seafoam"
+			"dynn_Koala"
+			"dynn_Cassowary"
+			"dynn_Quoli"
+			"dynn_Roo"
+			"dynn_Azure"
+			"dynn_Treefrog"
+			"dynn_Fruitdove"
+			"dynn_Mango"
+			"dynn_Pawpaw"
+			"dynn_Dragonfruit"
+			"dynn_Sapote"
+		}
+
+		dynasty_of_location_prefix = "dynnp_of"
+
+		pat_grf_name_chance = 33
+		mat_grf_name_chance = 33
+		father_name_chance = 33
+		pat_grm_name_chance = 33
+		mat_grm_name_chance = 33
+		mother_name_chance = 33
+		always_use_patronym = no
+
+		ethnicities = {
+			african = 10
+			caucasian_blond = 10
+			caucasian_ginger = 10
+			caucasian_brown_hair = 30
+			caucasian_dark_hair = 30
+			asian = 10
+		}
+
+	}
+
+	mackayan = {
+		graphical_cultures = {
+			western_coa_gfx
+		}
+
+		mercenary_names = {
+			{ name = "mercenary_company_mackay_band" }
+		}
+
+		color = { 4 191 66 }
+
+		male_names = {
+			Aide Alexanda Alfie Angus Archa Archie Ari Ari Arlo Arry Artha Arve Asher Asho Auss Beau Benji Billy Blake Brax Caleb Carta Charlie Chaz Connor Coopa Danno Darce Edzo Eli Ethan Ezra Felix Finn Fletch Flynn Fredders Gabe George Grays Hamish Henry Huddie Hugo Hunta Isaac Jacka Jackers Jacob Jaimo Jasp Jaxon Jayzer Joey Jordo Josh Kai Lennox Leo Levi Lewis Liam Lijah Link Locke Louis Luca Lucas Luka Luke Maso Mattie Mav Max Mich Nardo Nate Noah Olly Osca Owen Paddy Parker Phoenix Riley River Ryan Ryder Sammo Seb Sonny Spence Tedzo Theo Tommo Tyler Vinno Will Wyatt Xavier
+		}
+		female_names = {
+			Aaliyah Abs Addie Alice Aria Aubrey Aud Ava Ayla Bell Bella Billie Bonnie Brooks Carly Charlie Chelsea Chloe Claire Clara Daisy Delilah Elena Eliza Ella Ellie Ells Eloise Elsie Em Emilia Emma Ev Eva Evie Flo Fran Freya Georgia Gracie Hallie Hannah Happa Harlie Harriet Hayley Hazel Holly Imogen Indie Isla Ivy Izz Jaz Layla Lills Lilly Lily Lina Livia Lizzo Lola Lucy Luna Macky Maddie Maggie Mel Mia Mila Millie Nabs Olive Paige Pennie Peyton Phia Phoebs Piper Pippa Poppy Quinn Remi Rora Rose Rosie Ruby Sadie Sav Sienna Sofia Soph Stella Summer Thea Tild Vio Willow Zara Zoe
+		}
+		cadet_dynasty_names = {
+			"dynn_Canetoad"
+			"dynn_Kingfisher"
+			"dynn_Wompoo"
+			"dynn_Marsh"
+			"dynn_Swamper"
+			"dynn_Keelback"
+			"dynn_Pythonback"
+			"dynn_Snaketongue"
+			"dynn_Gecko"
+			"dynn_Croctooth"
+			"dynn_Ferns"
+			"dynn_Ginger"
+			"dynn_Satinash"
+			"dynn_Palmshade"
+			"dynn_Monamona"
+			"dynn_Kuranda"
+			"dynn_Koah"
+			"dynn_Biboohra"
+			"dynn_Mareeba"
+			"dynn_Gadgarra"
+			"dynn_Wooroo"
+			"dynn_Snapper"
+			"dynn_Tidal"
+			"dynn_Coralia"
+			"dynn_Turtle"
+			"dynn_Mollusc"
+			"dynn_Greenwood"
+			"dynn_Saplicker"
+			"dynn_Suckler"
+			"dynn_Wavers"
+			"dynn_Seafoam"
+			"dynn_Koala"
+			"dynn_Cassowary"
+			"dynn_Quoli"
+			"dynn_Roo"
+			"dynn_Azure"
+			"dynn_Treefrog"
+			"dynn_Fruitdove"
+			"dynn_Mango"
+			"dynn_Pawpaw"
+			"dynn_Dragonfruit"
+			"dynn_Sapote"
+		}
+
+		dynasty_names = {
+			"dynn_Canetoad"
+			"dynn_Kingfisher"
+			"dynn_Wompoo"
+			"dynn_Marsh"
+			"dynn_Swamper"
+			"dynn_Keelback"
+			"dynn_Pythonback"
+			"dynn_Snaketongue"
+			"dynn_Gecko"
+			"dynn_Croctooth"
+			"dynn_Ferns"
+			"dynn_Ginger"
+			"dynn_Satinash"
+			"dynn_Palmshade"
+			"dynn_Monamona"
+			"dynn_Kuranda"
+			"dynn_Koah"
+			"dynn_Biboohra"
+			"dynn_Mareeba"
+			"dynn_Gadgarra"
+			"dynn_Wooroo"
+			"dynn_Snapper"
+			"dynn_Tidal"
+			"dynn_Coralia"
+			"dynn_Turtle"
+			"dynn_Mollusc"
+			"dynn_Greenwood"
+			"dynn_Saplicker"
+			"dynn_Suckler"
+			"dynn_Wavers"
+			"dynn_Seafoam"
+			"dynn_Koala"
+			"dynn_Cassowary"
+			"dynn_Quoli"
+			"dynn_Roo"
+			"dynn_Azure"
+			"dynn_Treefrog"
+			"dynn_Fruitdove"
+			"dynn_Mango"
+			"dynn_Pawpaw"
+			"dynn_Dragonfruit"
+			"dynn_Sapote"
+		}
+
+		dynasty_of_location_prefix = "dynnp_of"
+
+		pat_grf_name_chance = 33
+		mat_grf_name_chance = 33
+		father_name_chance = 33
+		pat_grm_name_chance = 33
+		mat_grm_name_chance = 33
+		mother_name_chance = 33
+		always_use_patronym = no
+
+		ethnicities = {
+			african = 10
+			caucasian_blond = 10
+			caucasian_ginger = 10
+			caucasian_brown_hair = 30
+			caucasian_dark_hair = 30
+			asian = 10
+		}
+
+	}
+
+	burnettian = {
+		graphical_cultures = {
+			western_coa_gfx
+		}
+
+		mercenary_names = {
+			{ name = "mercenary_company_men_of_the_rainforest" }
+		}
+
+		color = { 16 143 58 }
+
+		male_names = {
+			Aide Alexanda Alfie Angus Archa Archie Ari Ari Arlo Arry Artha Arve Asher Asho Auss Beau Benji Billy Blake Brax Caleb Carta Charlie Chaz Connor Coopa Danno Darce Edzo Eli Ethan Ezra Felix Finn Fletch Flynn Fredders Gabe George Grays Hamish Henry Huddie Hugo Hunta Isaac Jacka Jackers Jacob Jaimo Jasp Jaxon Jayzer Joey Jordo Josh Kai Lennox Leo Levi Lewis Liam Lijah Link Locke Louis Luca Lucas Luka Luke Maso Mattie Mav Max Mich Nardo Nate Noah Olly Osca Owen Paddy Parker Phoenix Riley River Ryan Ryder Sammo Seb Sonny Spence Tedzo Theo Tommo Tyler Vinno Will Wyatt Xavier
+		}
+		female_names = {
+			Aaliyah Abs Addie Alice Aria Aubrey Aud Ava Ayla Bell Bella Billie Bonnie Brooks Carly Charlie Chelsea Chloe Claire Clara Daisy Delilah Elena Eliza Ella Ellie Ells Eloise Elsie Em Emilia Emma Ev Eva Evie Flo Fran Freya Georgia Gracie Hallie Hannah Happa Harlie Harriet Hayley Hazel Holly Imogen Indie Isla Ivy Izz Jaz Layla Lills Lilly Lily Lina Livia Lizzo Lola Lucy Luna Macky Maddie Maggie Mel Mia Mila Millie Nabs Olive Paige Pennie Peyton Phia Phoebs Piper Pippa Poppy Quinn Remi Rora Rose Rosie Ruby Sadie Sav Sienna Sofia Soph Stella Summer Thea Tild Vio Willow Zara Zoe
+		}
+		cadet_dynasty_names = {
+			"dynn_Canetoad"
+			"dynn_Kingfisher"
+			"dynn_Wompoo"
+			"dynn_Marsh"
+			"dynn_Swamper"
+			"dynn_Keelback"
+			"dynn_Pythonback"
+			"dynn_Snaketongue"
+			"dynn_Gecko"
+			"dynn_Croctooth"
+			"dynn_Ferns"
+			"dynn_Ginger"
+			"dynn_Satinash"
+			"dynn_Palmshade"
+			"dynn_Monamona"
+			"dynn_Kuranda"
+			"dynn_Koah"
+			"dynn_Biboohra"
+			"dynn_Mareeba"
+			"dynn_Gadgarra"
+			"dynn_Wooroo"
+			"dynn_Snapper"
+			"dynn_Tidal"
+			"dynn_Coralia"
+			"dynn_Turtle"
+			"dynn_Mollusc"
+			"dynn_Greenwood"
+			"dynn_Saplicker"
+			"dynn_Suckler"
+			"dynn_Wavers"
+			"dynn_Seafoam"
+			"dynn_Koala"
+			"dynn_Cassowary"
+			"dynn_Quoli"
+			"dynn_Roo"
+			"dynn_Azure"
+			"dynn_Treefrog"
+			"dynn_Fruitdove"
+			"dynn_Mango"
+			"dynn_Pawpaw"
+			"dynn_Dragonfruit"
+			"dynn_Sapote"
+		}
+
+		dynasty_names = {
+			"dynn_Canetoad"
+			"dynn_Kingfisher"
+			"dynn_Wompoo"
+			"dynn_Marsh"
+			"dynn_Swamper"
+			"dynn_Keelback"
+			"dynn_Pythonback"
+			"dynn_Snaketongue"
+			"dynn_Gecko"
+			"dynn_Croctooth"
+			"dynn_Ferns"
+			"dynn_Ginger"
+			"dynn_Satinash"
+			"dynn_Palmshade"
+			"dynn_Monamona"
+			"dynn_Kuranda"
+			"dynn_Koah"
+			"dynn_Biboohra"
+			"dynn_Mareeba"
+			"dynn_Gadgarra"
+			"dynn_Wooroo"
+			"dynn_Snapper"
+			"dynn_Tidal"
+			"dynn_Coralia"
+			"dynn_Turtle"
+			"dynn_Mollusc"
+			"dynn_Greenwood"
+			"dynn_Saplicker"
+			"dynn_Suckler"
+			"dynn_Wavers"
+			"dynn_Seafoam"
+			"dynn_Koala"
+			"dynn_Cassowary"
+			"dynn_Quoli"
+			"dynn_Roo"
+			"dynn_Azure"
+			"dynn_Treefrog"
+			"dynn_Fruitdove"
+			"dynn_Mango"
+			"dynn_Pawpaw"
+			"dynn_Dragonfruit"
+			"dynn_Sapote"
+		}
+
+		dynasty_of_location_prefix = "dynnp_of"
+
+		pat_grf_name_chance = 33
+		mat_grf_name_chance = 33
+		father_name_chance = 33
+		pat_grm_name_chance = 33
+		mat_grm_name_chance = 33
+		mother_name_chance = 33
+		always_use_patronym = no
+
+		ethnicities = {
+			african = 10
+			caucasian_blond = 10
+			caucasian_ginger = 10
+			caucasian_brown_hair = 30
+			caucasian_dark_hair = 30
+			asian = 10
+		}
+
+	}
+
+}

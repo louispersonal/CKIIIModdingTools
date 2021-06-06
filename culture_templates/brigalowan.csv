@@ -1,0 +1,157 @@
+Parameter,Example
+name_of_culture_group,brigalowan_group
+mercenary_names,outback_band
+group_coa,western_coa_gfx
+group_building,western_building_gfx
+group_clothing,western_clothing_gfx
+group_unit,western_unit_gfx
+culture_name,bucklandian
+culture_coa,western_coa_gfx
+mercenary_names,outback_band
+color,235 204 52
+character_modifier,x
+male_names,Dave Chaz Trev Kev Kyle Daz Wayno Ecca Baz Larry Zaz Griz Steve Arzo Dongo Buster Jeff Dec Rowland Barry Gibb Phil
+female_names,Liz Lila Lia Lauren Lora Dorzy Stel Amy Mel Yara Lara Becks Regina Zoe Felicity Maz Doris Kristie Scarlet Harriet Ellen Ell Ellie
+cadet_dynasty_names,Jones Smith Wilson Brown Martin Anderson Taylor Robinson Harris Walker Turner King Kelly Ryan Miller Davis jackson Thomas Moore Green Evans Allen Baker Lewis Carter Roberts Campbell Young Mitchell Phillips Hall Wright Hill Scott Nelson Clark Adams Mills Knight Webb Bailey Coleman Fisher Howard Hawkins
+dynasty_names,Jones Smith Wilson Brown Martin Anderson Taylor Robinson Harris Walker Turner King Kelly Ryan Miller Davis jackson Thomas Moore Green Evans Allen Baker Lewis Carter Roberts Campbell Young Mitchell Phillips Hall Wright Hill Scott Nelson Clark Adams Mills Knight Webb Bailey Coleman Fisher Howard Hawkins
+dynasty_of_location_prefix,of
+pat_grf_name_chance,33
+mat_grf_name_chance,33
+father_name_chance,33
+pat_grm_name_chance,33
+mat_grm_name_chance,33
+mother_name_chance,33
+patronym_prefix_male,x
+patronym_prefix_male_vowel,x
+patronym_prefix_female,x
+patronym_prefix_female_vowel,x
+patronym_suffix_male,x
+patronym_suffix_female,x
+always_use_patronym,no
+african,x
+arab,x
+east_african,x
+slavic_blond,x
+slavic_ginger,x
+slavic_brown_hair,x
+slavic_dark_hair,x
+circumpolar_dark_hair,x
+circumpolar_brown_hair,x
+circumpolar_blonde_hair,x
+caucasian_northern_blond,x
+caucasian_northern_ginger,x
+caucasian_northern_brown_hair,x
+caucasian_northern_dark_hair,x
+caucasian_blond,x
+caucasian_ginger,x
+caucasian_brown_hair,x
+caucasian_dark_hair,x
+asian,x
+indian,x
+mediterranean_byzantine,x
+south_indian,x
+slavic_northern_blond,x
+slavic_northern_ginger,x
+slavic_northern_brown_hair,x
+slavic_northern_dark_hair,x
+mediterranean,x
+culture_name,sobelter
+culture_coa,western_coa_gfx
+mercenary_names,outback_band
+color,235 180 52
+character_modifier,x
+male_names,Dave Chaz Trev Kev Kyle Daz Wayno Ecca Baz Larry Zaz Griz Steve Arzo Dongo Buster Jeff Dec Rowland Barry Gibb Phil
+female_names,Liz Lila Lia Lauren Lora Dorzy Stel Amy Mel Yara Lara Becks Regina Zoe Felicity Maz Doris Kristie Scarlet Harriet Ellen Ell Ellie
+cadet_dynasty_names,Jones Smith Wilson Brown Martin Anderson Taylor Robinson Harris Walker Turner King Kelly Ryan Miller Davis jackson Thomas Moore Green Evans Allen Baker Lewis Carter Roberts Campbell Young Mitchell Phillips Hall Wright Hill Scott Nelson Clark Adams Mills Knight Webb Bailey Coleman Fisher Howard Hawkins
+dynasty_names,Jones Smith Wilson Brown Martin Anderson Taylor Robinson Harris Walker Turner King Kelly Ryan Miller Davis jackson Thomas Moore Green Evans Allen Baker Lewis Carter Roberts Campbell Young Mitchell Phillips Hall Wright Hill Scott Nelson Clark Adams Mills Knight Webb Bailey Coleman Fisher Howard Hawkins
+dynasty_of_location_prefix,of
+pat_grf_name_chance,33
+mat_grf_name_chance,33
+father_name_chance,33
+pat_grm_name_chance,33
+mat_grm_name_chance,33
+mother_name_chance,33
+patronym_prefix_male,x
+patronym_prefix_male_vowel,x
+patronym_prefix_female,x
+patronym_prefix_female_vowel,x
+patronym_suffix_male,x
+patronym_suffix_female,x
+always_use_patronym,no
+african,x
+arab,x
+east_african,x
+slavic_blond,x
+slavic_ginger,x
+slavic_brown_hair,x
+slavic_dark_hair,x
+circumpolar_dark_hair,x
+circumpolar_brown_hair,x
+circumpolar_blonde_hair,x
+caucasian_northern_blond,x
+caucasian_northern_ginger,x
+caucasian_northern_brown_hair,x
+caucasian_northern_dark_hair,x
+caucasian_blond,x
+caucasian_ginger,x
+caucasian_brown_hair,x
+caucasian_dark_hair,x
+asian,x
+indian,x
+mediterranean_byzantine,x
+south_indian,x
+slavic_northern_blond,x
+slavic_northern_ginger,x
+slavic_northern_brown_hair,x
+slavic_northern_dark_hair,x
+mediterranean,x
+culture_name,mulgan
+culture_coa,western_coa_gfx
+mercenary_names,outback_band
+color,235 160 52
+character_modifier,x
+male_names,Dave Chaz Trev Kev Kyle Daz Wayno Ecca Baz Larry Zaz Griz Steve Arzo Dongo Buster Jeff Dec Rowland Barry Gibb Phil
+female_names,Liz Lila Lia Lauren Lora Dorzy Stel Amy Mel Yara Lara Becks Regina Zoe Felicity Maz Doris Kristie Scarlet Harriet Ellen Ell Ellie
+cadet_dynasty_names,Jones Smith Wilson Brown Martin Anderson Taylor Robinson Harris Walker Turner King Kelly Ryan Miller Davis jackson Thomas Moore Green Evans Allen Baker Lewis Carter Roberts Campbell Young Mitchell Phillips Hall Wright Hill Scott Nelson Clark Adams Mills Knight Webb Bailey Coleman Fisher Howard Hawkins
+dynasty_names,Jones Smith Wilson Brown Martin Anderson Taylor Robinson Harris Walker Turner King Kelly Ryan Miller Davis jackson Thomas Moore Green Evans Allen Baker Lewis Carter Roberts Campbell Young Mitchell Phillips Hall Wright Hill Scott Nelson Clark Adams Mills Knight Webb Bailey Coleman Fisher Howard Hawkins
+dynasty_of_location_prefix,of
+pat_grf_name_chance,33
+mat_grf_name_chance,33
+father_name_chance,33
+pat_grm_name_chance,33
+mat_grm_name_chance,33
+mother_name_chance,33
+patronym_prefix_male,x
+patronym_prefix_male_vowel,x
+patronym_prefix_female,x
+patronym_prefix_female_vowel,x
+patronym_suffix_male,x
+patronym_suffix_female,x
+always_use_patronym,no
+african,x
+arab,x
+east_african,x
+slavic_blond,x
+slavic_ginger,x
+slavic_brown_hair,x
+slavic_dark_hair,x
+circumpolar_dark_hair,x
+circumpolar_brown_hair,x
+circumpolar_blonde_hair,x
+caucasian_northern_blond,x
+caucasian_northern_ginger,x
+caucasian_northern_brown_hair,x
+caucasian_northern_dark_hair,x
+caucasian_blond,x
+caucasian_ginger,x
+caucasian_brown_hair,x
+caucasian_dark_hair,x
+asian,x
+indian,x
+mediterranean_byzantine,x
+south_indian,x
+slavic_northern_blond,x
+slavic_northern_ginger,x
+slavic_northern_brown_hair,x
+slavic_northern_dark_hair,x
+mediterranean,x

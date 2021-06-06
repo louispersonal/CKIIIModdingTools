@@ -1,0 +1,107 @@
+Parameter,Example
+name_of_culture_group,wanjina_wunggurr_group
+mercenary_names,kimberley_band
+group_coa,west_african_group_coa_gfx
+group_building,african_building_gfx
+group_clothing,african_clothing_gfx
+group_unit,sub_sahran_unit_gfx
+culture_name,worrorran
+culture_coa,west_african_group_coa_gfx
+mercenary_names,worrorran_band
+color,0 173 113
+character_modifier,x
+male_names,Marayumamoya Waawimamoya Wondumoya Rlarlangkarramoya Majalbamoya Ngalarramamoya Wurrkulamamoya Bimbinalbamoya Kulumoya Mangubamoya Jirrkalimamoya Mirijimoya Amolbamoya Kumbarrumamoya Joornimoya Kabalbamoya Karnmernmoya Barnjamoya Dalorrmoya Rdakulamamoya Rlaardmoya Maarnduwalbamoya Balaayumamoya Jungurimoya Bunjumamoya Jinkarmamoya Kroomamoya Jurlwun Wankaleena Koyoya Irlarlangkarra Kariyali Juluwarra Kanangkurri Arroli Karnamarri
+female_names,Marayumamonya Waawimamonya Wondumonya Rlarlangkarramonya Majalbamonya Ngalarramamonya Wurrkulamamonya Bimbinalbamonya Kulumonya Mangubamonya Jirrkalimamonya Mirijimonya Amolbamonya Kumbarrumamonya Joornimonya Kabalbamonya Karnmernmonya Barnjamonya Dalorrmonya Rdakulamamonya Rlaardmonya Maarnduwalbamonya Balaayumamonya Jungurimonya Bunjumamonya Jinkarmamonya Kroomamonya Warinya Karroninya Balngkoninya Meerrinya Irroninya Rlanonya Kanangkuja Arrolinya Karnamaja
+cadet_dynasty_names,Wangalangu Braarru Yulu Dambeema Jijaaya Kumnyenga Wungkurru Jimbirriji Wayurru Kabalba Burlkumba Baarru Kari Arrbareya Jada Arrbarreya Arra Ngardu Jardi Wari Warli Blaai Karlikarli Ngurnba Mangarri Imanja Malandum Kulnmerrba Wulurrku Igrarlya Jinalya Iyarnda Mamurr Nguma Belang Karra Arrloo Liya Wurnbangku Nyimalan Iwa Arrbalarriya Arrwunarriya Anjoldirdaka Rdaarreya Iwulku Nyimbulkunya
+dynasty_names,Wangalangu Braarru Yulu Dambeema Jijaaya Kumnyenga Wungkurru Jimbirriji Wayurru Kabalba Burlkumba Baarru Kari Arrbareya Jada Arrbarreya Arra Ngardu Jardi Wari Warli Blaai Karlikarli Ngurnba Mangarri Imanja Malandum Kulnmerrba Wulurrku Igrarlya Jinalya Iyarnda Mamurr Nguma Belang Karra Arrloo Liya Wurnbangku Nyimalan Iwa Arrbalarriya Arrwunarriya Anjoldirdaka Rdaarreya Iwulku Nyimbulkunya
+dynasty_of_location_prefix,ya
+pat_grf_name_chance,33
+mat_grf_name_chance,33
+father_name_chance,33
+pat_grm_name_chance,33
+mat_grm_name_chance,33
+mother_name_chance,33
+patronym_prefix_male,x
+patronym_prefix_male_vowel,x
+patronym_prefix_female,x
+patronym_prefix_female_vowel,x
+patronym_suffix_male,x
+patronym_suffix_female,x
+always_use_patronym,no
+african,90
+arab,x
+east_african,10
+slavic_blond,x
+slavic_ginger,x
+slavic_brown_hair,x
+slavic_dark_hair,x
+circumpolar_dark_hair,x
+circumpolar_brown_hair,x
+circumpolar_blonde_hair,x
+caucasian_northern_blond,x
+caucasian_northern_ginger,x
+caucasian_northern_brown_hair,x
+caucasian_northern_dark_hair,x
+caucasian_blond,x
+caucasian_ginger,x
+caucasian_brown_hair,x
+caucasian_dark_hair,x
+asian,x
+indian,x
+mediterranean_byzantine,x
+south_indian,x
+slavic_northern_blond,x
+slavic_northern_ginger,x
+slavic_northern_brown_hair,x
+slavic_northern_dark_hair,x
+mediterranean,x
+culture_name,wunambal
+culture_coa,west_african_group_coa_gfx
+mercenary_names,wunambal_brothers
+color,21 138 97
+character_modifier,x
+male_names,Marayumamoya Waawimamoya Wondumoya Rlarlangkarramoya Majalbamoya Ngalarramamoya Wurrkulamamoya Bimbinalbamoya Kulumoya Mangubamoya Jirrkalimamoya Mirijimoya Amolbamoya Kumbarrumamoya Joornimoya Kabalbamoya Karnmernmoya Barnjamoya Dalorrmoya Rdakulamamoya Rlaardmoya Maarnduwalbamoya Balaayumamoya Jungurimoya Bunjumamoya Jinkarmamoya Kroomamoya Jurlwun Wankaleena Koyoya Irlarlangkarra Kariyali Juluwarra Kanangkurri Arroli Karnamarri
+female_names,Marayumamonya Waawimamonya Wondumonya Rlarlangkarramonya Majalbamonya Ngalarramamonya Wurrkulamamonya Bimbinalbamonya Kulumonya Mangubamonya Jirrkalimamonya Mirijimonya Amolbamonya Kumbarrumamonya Joornimonya Kabalbamonya Karnmernmonya Barnjamonya Dalorrmonya Rdakulamamonya Rlaardmonya Maarnduwalbamonya Balaayumamonya Jungurimonya Bunjumamonya Jinkarmamonya Kroomamonya Warinya Karroninya Balngkoninya Meerrinya Irroninya Rlanonya Kanangkuja Arrolinya Karnamaja
+cadet_dynasty_names,Wangalangu Braarru Yulu Dambeema Jijaaya Kumnyenga Wungkurru Jimbirriji Wayurru Kabalba Burlkumba Baarru Kari Arrbareya Jada Arrbarreya Arra Ngardu Jardi Wari Warli Blaai Karlikarli Ngurnba Mangarri Imanja Malandum Kulnmerrba Wulurrku Igrarlya Jinalya Iyarnda Mamurr Nguma Belang Karra Arrloo Liya Wurnbangku Nyimalan Iwa Arrbalarriya Arrwunarriya Anjoldirdaka Rdaarreya Iwulku Nyimbulkunya
+dynasty_names,Wangalangu Braarru Yulu Dambeema Jijaaya Kumnyenga Wungkurru Jimbirriji Wayurru Kabalba Burlkumba Baarru Kari Arrbareya Jada Arrbarreya Arra Ngardu Jardi Wari Warli Blaai Karlikarli Ngurnba Mangarri Imanja Malandum Kulnmerrba Wulurrku Igrarlya Jinalya Iyarnda Mamurr Nguma Belang Karra Arrloo Liya Wurnbangku Nyimalan Iwa Arrbalarriya Arrwunarriya Anjoldirdaka Rdaarreya Iwulku Nyimbulkunya
+dynasty_of_location_prefix,ya
+pat_grf_name_chance,33
+mat_grf_name_chance,33
+father_name_chance,33
+pat_grm_name_chance,33
+mat_grm_name_chance,33
+mother_name_chance,33
+patronym_prefix_male,x
+patronym_prefix_male_vowel,x
+patronym_prefix_female,x
+patronym_prefix_female_vowel,x
+patronym_suffix_male,x
+patronym_suffix_female,x
+always_use_patronym,no
+african,90
+arab,x
+east_african,10
+slavic_blond,x
+slavic_ginger,x
+slavic_brown_hair,x
+slavic_dark_hair,x
+circumpolar_dark_hair,x
+circumpolar_brown_hair,x
+circumpolar_blonde_hair,x
+caucasian_northern_blond,x
+caucasian_northern_ginger,x
+caucasian_northern_brown_hair,x
+caucasian_northern_dark_hair,x
+caucasian_blond,x
+caucasian_ginger,x
+caucasian_brown_hair,x
+caucasian_dark_hair,x
+asian,x
+indian,x
+mediterranean_byzantine,x
+south_indian,x
+slavic_northern_blond,x
+slavic_northern_ginger,x
+slavic_northern_brown_hair,x
+slavic_northern_dark_hair,x
+mediterranean,x

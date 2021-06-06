@@ -1,0 +1,207 @@
+Parameter,Example
+name_of_culture_group,fitzmaurice_group
+mercenary_names,peppimenarti_band nhulunbuy_spears
+group_coa,west_african_group_coa_gfx
+group_building,african_building_gfx
+group_clothing,african_clothing_gfx
+group_unit,sub_sahran_unit_gfx
+culture_name,yolngu
+culture_coa,west_african_group_coa_gfx
+mercenary_names,a_marthakalngu
+color,196 196 16
+character_modifier,x
+male_names,3ama Mayiliny Miku Dhonyin Dja2karr Batji 3urrku Walpurru4gu Djirribi-Djirribi Maa2ga Djayayyun 4anapa Gayuwa2a Djalpurr Gunyambi Bagapaga 1aarra Wa2karra Birrkuku Djaparri Garra5a 4ayakandi Dhurrmuk Ba3balarri Wa2ma4garr Djaatjthi Wokara Bulkaniny Botjulu 1atji Nyin Mandimirr Wirriwirri Garayurru Rurruminy Warrapu2 Yimanhdhi 1aarrtjal Djapa1ayan Ba4ga2a4 Bambalaman Walurru Bikipiki Baal Marrayumba Waymi Wu2kthun 2uthay 1ila1ilaw4gun Mutitj
+female_names,Walarri Matha Baapa4 Burri4i Gawuthal Dhaapan Djewiny Wu5tji Milkum(A) Bati4arra Djaatja Bo2uku Gili4 Gi5 Djambuwal Djana Gabu2ay Galimara Maba2ki Dhukarr Dhawunha4 Garratji 2i2yun 2arrari4u Bembi Bi31ay Gurru4gurr Garrwa4 Gaa31urru 2irrga Barrapirri Nini4gurr Dhamba1iny Djatja Marrwala 1akul Bi2pi2 Gomu Gaa5tjini Batuma4 Djirrkdjirrk Dhurruman 2awarrkwarrk Dhuwarrwarr Yultha Gapuwiyak Gulawu Ma5puna 2arrayi4u 2irrwa
+cadet_dynasty_names,Gumana Dhamarrandji Murruwun Wirrpanda Garrawurra Marika Bukulatjpi Maymuru Munungiritj Munyarryun Galbayunga Gandanu Gurrumbagurrumba Wununmurra Gurruwiwi Marrkula Birritjama Manydjikay Dhurrkay Ganambarr Gumbula Manangaynu Yunupinu Gaykamanu Wanapuynu Wanambi Djuwarrmin Marawili ?urruwutthun Munungurr Burarrwana Djerrkura Bandumul Butjala Garawirrtja Djirrwurkburk Wanybarrna Bikilanydjiwuy
+dynasty_names,Gumana Dhamarrandji Murruwun Wirrpanda Garrawurra Marika Bukulatjpi Maymuru Munungiritj Munyarryun Galbayunga Gandanu Gurrumbagurrumba Wununmurra Gurruwiwi Marrkula Birritjama Manydjikay Dhurrkay Ganambarr Gumbula Manangaynu Yunupinu Gaykamanu Wanapuynu Wanambi Djuwarrmin Marawili ?urruwutthun Munungurr Burarrwana Djerrkura Bandumul Butjala Garawirrtja Djirrwurkburk Wanybarrna Bikilanydjiwuy
+dynasty_of_location_prefix,ngu
+pat_grf_name_chance,33
+mat_grf_name_chance,33
+father_name_chance,33
+pat_grm_name_chance,33
+mat_grm_name_chance,33
+mother_name_chance,33
+patronym_prefix_male,x
+patronym_prefix_male_vowel,x
+patronym_prefix_female,x
+patronym_prefix_female_vowel,x
+patronym_suffix_male,x
+patronym_suffix_female,x
+always_use_patronym,no
+african,90
+arab,x
+east_african,10
+slavic_blond,x
+slavic_ginger,x
+slavic_brown_hair,x
+slavic_dark_hair,x
+circumpolar_dark_hair,x
+circumpolar_brown_hair,x
+circumpolar_blonde_hair,x
+caucasian_northern_blond,x
+caucasian_northern_ginger,x
+caucasian_northern_brown_hair,x
+caucasian_northern_dark_hair,x
+caucasian_blond,x
+caucasian_ginger,x
+caucasian_brown_hair,x
+caucasian_dark_hair,x
+asian,x
+indian,x
+mediterranean_byzantine,x
+south_indian,x
+slavic_northern_blond,x
+slavic_northern_ginger,x
+slavic_northern_brown_hair,x
+slavic_northern_dark_hair,x
+mediterranean,x
+culture_name,wardaman
+culture_coa,west_african_group_coa_gfx
+mercenary_names,a_giwiningnu
+color,196 176 16
+character_modifier,x
+male_names,3ama Mayiliny Miku Dhonyin Dja2karr Batji 3urrku Walpurru4gu Djirribi-Djirribi Maa2ga Djayayyun 4anapa Gayuwa2a Djalpurr Gunyambi Bagapaga 1aarra Wa2karra Birrkuku Djaparri Garra5a 4ayakandi Dhurrmuk Ba3balarri Wa2ma4garr Djaatjthi Wokara Bulkaniny Botjulu 1atji Nyin Mandimirr Wirriwirri Garayurru Rurruminy Warrapu2 Yimanhdhi 1aarrtjal Djapa1ayan Ba4ga2a4 Bambalaman Walurru Bikipiki Baal Marrayumba Waymi Wu2kthun 2uthay 1ila1ilaw4gun Mutitj
+female_names,Walarri Matha Baapa4 Burri4i Gawuthal Dhaapan Djewiny Wu5tji Milkum(A) Bati4arra Djaatja Bo2uku Gili4 Gi5 Djambuwal Djana Gabu2ay Galimara Maba2ki Dhukarr Dhawunha4 Garratji 2i2yun 2arrari4u Bembi Bi31ay Gurru4gurr Garrwa4 Gaa31urru 2irrga Barrapirri Nini4gurr Dhamba1iny Djatja Marrwala 1akul Bi2pi2 Gomu Gaa5tjini Batuma4 Djirrkdjirrk Dhurruman 2awarrkwarrk Dhuwarrwarr Yultha Gapuwiyak Gulawu Ma5puna 2arrayi4u 2irrwa
+cadet_dynasty_names,Gumana Dhamarrandji Murruwun Wirrpanda Garrawurra Marika Bukulatjpi Maymuru Munungiritj Munyarryun Galbayunga Gandanu Gurrumbagurrumba Wununmurra Gurruwiwi Marrkula Birritjama Manydjikay Dhurrkay Ganambarr Gumbula Manangaynu Yunupinu Gaykamanu Wanapuynu Wanambi Djuwarrmin Marawili ?urruwutthun Munungurr Burarrwana Djerrkura Bandumul Butjala Garawirrtja Djirrwurkburk Wanybarrna Bikilanydjiwuy
+dynasty_names,Gumana Dhamarrandji Murruwun Wirrpanda Garrawurra Marika Bukulatjpi Maymuru Munungiritj Munyarryun Galbayunga Gandanu Gurrumbagurrumba Wununmurra Gurruwiwi Marrkula Birritjama Manydjikay Dhurrkay Ganambarr Gumbula Manangaynu Yunupinu Gaykamanu Wanapuynu Wanambi Djuwarrmin Marawili ?urruwutthun Munungurr Burarrwana Djerrkura Bandumul Butjala Garawirrtja Djirrwurkburk Wanybarrna Bikilanydjiwuy
+dynasty_of_location_prefix,ngu
+pat_grf_name_chance,33
+mat_grf_name_chance,33
+father_name_chance,33
+pat_grm_name_chance,33
+mat_grm_name_chance,33
+mother_name_chance,33
+patronym_prefix_male,x
+patronym_prefix_male_vowel,x
+patronym_prefix_female,x
+patronym_prefix_female_vowel,x
+patronym_suffix_male,x
+patronym_suffix_female,x
+always_use_patronym,no
+african,90
+arab,x
+east_african,10
+slavic_blond,x
+slavic_ginger,x
+slavic_brown_hair,x
+slavic_dark_hair,x
+circumpolar_dark_hair,x
+circumpolar_brown_hair,x
+circumpolar_blonde_hair,x
+caucasian_northern_blond,x
+caucasian_northern_ginger,x
+caucasian_northern_brown_hair,x
+caucasian_northern_dark_hair,x
+caucasian_blond,x
+caucasian_ginger,x
+caucasian_brown_hair,x
+caucasian_dark_hair,x
+asian,x
+indian,x
+mediterranean_byzantine,x
+south_indian,x
+slavic_northern_blond,x
+slavic_northern_ginger,x
+slavic_northern_brown_hair,x
+slavic_northern_dark_hair,x
+mediterranean,x
+culture_name,jarrakan
+culture_coa,west_african_group_coa_gfx
+mercenary_names,a_peppeminartingu
+color,196 156 16
+character_modifier,x
+male_names,3ama Mayiliny Miku Dhonyin Dja2karr Batji 3urrku Walpurru4gu Djirribi-Djirribi Maa2ga Djayayyun 4anapa Gayuwa2a Djalpurr Gunyambi Bagapaga 1aarra Wa2karra Birrkuku Djaparri Garra5a 4ayakandi Dhurrmuk Ba3balarri Wa2ma4garr Djaatjthi Wokara Bulkaniny Botjulu 1atji Nyin Mandimirr Wirriwirri Garayurru Rurruminy Warrapu2 Yimanhdhi 1aarrtjal Djapa1ayan Ba4ga2a4 Bambalaman Walurru Bikipiki Baal Marrayumba Waymi Wu2kthun 2uthay 1ila1ilaw4gun Mutitj
+female_names,Walarri Matha Baapa4 Burri4i Gawuthal Dhaapan Djewiny Wu5tji Milkum(A) Bati4arra Djaatja Bo2uku Gili4 Gi5 Djambuwal Djana Gabu2ay Galimara Maba2ki Dhukarr Dhawunha4 Garratji 2i2yun 2arrari4u Bembi Bi31ay Gurru4gurr Garrwa4 Gaa31urru 2irrga Barrapirri Nini4gurr Dhamba1iny Djatja Marrwala 1akul Bi2pi2 Gomu Gaa5tjini Batuma4 Djirrkdjirrk Dhurruman 2awarrkwarrk Dhuwarrwarr Yultha Gapuwiyak Gulawu Ma5puna 2arrayi4u 2irrwa
+cadet_dynasty_names,Gumana Dhamarrandji Murruwun Wirrpanda Garrawurra Marika Bukulatjpi Maymuru Munungiritj Munyarryun Galbayunga Gandanu Gurrumbagurrumba Wununmurra Gurruwiwi Marrkula Birritjama Manydjikay Dhurrkay Ganambarr Gumbula Manangaynu Yunupinu Gaykamanu Wanapuynu Wanambi Djuwarrmin Marawili ?urruwutthun Munungurr Burarrwana Djerrkura Bandumul Butjala Garawirrtja Djirrwurkburk Wanybarrna Bikilanydjiwuy
+dynasty_names,Gumana Dhamarrandji Murruwun Wirrpanda Garrawurra Marika Bukulatjpi Maymuru Munungiritj Munyarryun Galbayunga Gandanu Gurrumbagurrumba Wununmurra Gurruwiwi Marrkula Birritjama Manydjikay Dhurrkay Ganambarr Gumbula Manangaynu Yunupinu Gaykamanu Wanapuynu Wanambi Djuwarrmin Marawili ?urruwutthun Munungurr Burarrwana Djerrkura Bandumul Butjala Garawirrtja Djirrwurkburk Wanybarrna Bikilanydjiwuy
+dynasty_of_location_prefix,ngu
+pat_grf_name_chance,33
+mat_grf_name_chance,33
+father_name_chance,33
+pat_grm_name_chance,33
+mat_grm_name_chance,33
+mother_name_chance,33
+patronym_prefix_male,x
+patronym_prefix_male_vowel,x
+patronym_prefix_female,x
+patronym_prefix_female_vowel,x
+patronym_suffix_male,x
+patronym_suffix_female,x
+always_use_patronym,no
+african,90
+arab,x
+east_african,10
+slavic_blond,x
+slavic_ginger,x
+slavic_brown_hair,x
+slavic_dark_hair,x
+circumpolar_dark_hair,x
+circumpolar_brown_hair,x
+circumpolar_blonde_hair,x
+caucasian_northern_blond,x
+caucasian_northern_ginger,x
+caucasian_northern_brown_hair,x
+caucasian_northern_dark_hair,x
+caucasian_blond,x
+caucasian_ginger,x
+caucasian_brown_hair,x
+caucasian_dark_hair,x
+asian,x
+indian,x
+mediterranean_byzantine,x
+south_indian,x
+slavic_northern_blond,x
+slavic_northern_ginger,x
+slavic_northern_brown_hair,x
+slavic_northern_dark_hair,x
+mediterranean,x
+culture_name,tiwi
+culture_coa,west_african_group_coa_gfx
+mercenary_names,a_tiwingu
+color,196 136 16
+character_modifier,x
+male_names,3ama Mayiliny Miku Dhonyin Dja2karr Batji 3urrku Walpurru4gu Djirribi-Djirribi Maa2ga Djayayyun 4anapa Gayuwa2a Djalpurr Gunyambi Bagapaga 1aarra Wa2karra Birrkuku Djaparri Garra5a 4ayakandi Dhurrmuk Ba3balarri Wa2ma4garr Djaatjthi Wokara Bulkaniny Botjulu 1atji Nyin Mandimirr Wirriwirri Garayurru Rurruminy Warrapu2 Yimanhdhi 1aarrtjal Djapa1ayan Ba4ga2a4 Bambalaman Walurru Bikipiki Baal Marrayumba Waymi Wu2kthun 2uthay 1ila1ilaw4gun Mutitj
+female_names,Walarri Matha Baapa4 Burri4i Gawuthal Dhaapan Djewiny Wu5tji Milkum(A) Bati4arra Djaatja Bo2uku Gili4 Gi5 Djambuwal Djana Gabu2ay Galimara Maba2ki Dhukarr Dhawunha4 Garratji 2i2yun 2arrari4u Bembi Bi31ay Gurru4gurr Garrwa4 Gaa31urru 2irrga Barrapirri Nini4gurr Dhamba1iny Djatja Marrwala 1akul Bi2pi2 Gomu Gaa5tjini Batuma4 Djirrkdjirrk Dhurruman 2awarrkwarrk Dhuwarrwarr Yultha Gapuwiyak Gulawu Ma5puna 2arrayi4u 2irrwa
+cadet_dynasty_names,Gumana Dhamarrandji Murruwun Wirrpanda Garrawurra Marika Bukulatjpi Maymuru Munungiritj Munyarryun Galbayunga Gandanu Gurrumbagurrumba Wununmurra Gurruwiwi Marrkula Birritjama Manydjikay Dhurrkay Ganambarr Gumbula Manangaynu Yunupinu Gaykamanu Wanapuynu Wanambi Djuwarrmin Marawili ?urruwutthun Munungurr Burarrwana Djerrkura Bandumul Butjala Garawirrtja Djirrwurkburk Wanybarrna Bikilanydjiwuy
+dynasty_names,Gumana Dhamarrandji Murruwun Wirrpanda Garrawurra Marika Bukulatjpi Maymuru Munungiritj Munyarryun Galbayunga Gandanu Gurrumbagurrumba Wununmurra Gurruwiwi Marrkula Birritjama Manydjikay Dhurrkay Ganambarr Gumbula Manangaynu Yunupinu Gaykamanu Wanapuynu Wanambi Djuwarrmin Marawili ?urruwutthun Munungurr Burarrwana Djerrkura Bandumul Butjala Garawirrtja Djirrwurkburk Wanybarrna Bikilanydjiwuy
+dynasty_of_location_prefix,ngu
+pat_grf_name_chance,33
+mat_grf_name_chance,33
+father_name_chance,33
+pat_grm_name_chance,33
+mat_grm_name_chance,33
+mother_name_chance,33
+patronym_prefix_male,x
+patronym_prefix_male_vowel,x
+patronym_prefix_female,x
+patronym_prefix_female_vowel,x
+patronym_suffix_male,x
+patronym_suffix_female,x
+always_use_patronym,no
+african,90
+arab,x
+east_african,10
+slavic_blond,x
+slavic_ginger,x
+slavic_brown_hair,x
+slavic_dark_hair,x
+circumpolar_dark_hair,x
+circumpolar_brown_hair,x
+circumpolar_blonde_hair,x
+caucasian_northern_blond,x
+caucasian_northern_ginger,x
+caucasian_northern_brown_hair,x
+caucasian_northern_dark_hair,x
+caucasian_blond,x
+caucasian_ginger,x
+caucasian_brown_hair,x
+caucasian_dark_hair,x
+asian,x
+indian,x
+mediterranean_byzantine,x
+south_indian,x
+slavic_northern_blond,x
+slavic_northern_ginger,x
+slavic_northern_brown_hair,x
+slavic_northern_dark_hair,x
+mediterranean,x

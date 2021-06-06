@@ -1,0 +1,479 @@
+fitzmaurice_group = {
+
+	mercenary_names = {
+		{ name = "mercenary_company_peppimenarti_band" }
+		{ name = "mercenary_company_nhulunbuy_spears" }
+	}
+
+	graphical_cultures = {
+		west_african_group_coa_gfx
+		african_building_gfx
+		african_clothing_gfx
+		sub_sahran_unit_gfx
+	}
+
+	yolngu = {
+		graphical_cultures = {
+			west_african_group_coa_gfx
+		}
+
+		mercenary_names = {
+			{ name = "mercenary_company_a_marthakalngu" }
+		}
+
+		color = { 196 196 16 }
+
+		male_names = {
+			3ama Mayiliny Miku Dhonyin Dja2karr Batji 3urrku Walpurru4gu Djirribi-Djirribi Maa2ga Djayayyun 4anapa Gayuwa2a Djalpurr Gunyambi Bagapaga 1aarra Wa2karra Birrkuku Djaparri Garra5a 4ayakandi Dhurrmuk Ba3balarri Wa2ma4garr Djaatjthi Wokara Bulkaniny Botjulu 1atji Nyin Mandimirr Wirriwirri Garayurru Rurruminy Warrapu2 Yimanhdhi 1aarrtjal Djapa1ayan Ba4ga2a4 Bambalaman Walurru Bikipiki Baal Marrayumba Waymi Wu2kthun 2uthay 1ila1ilaw4gun Mutitj
+		}
+		female_names = {
+			Walarri Matha Baapa4 Burri4i Gawuthal Dhaapan Djewiny Wu5tji Milkum(A) Bati4arra Djaatja Bo2uku Gili4 Gi5 Djambuwal Djana Gabu2ay Galimara Maba2ki Dhukarr Dhawunha4 Garratji 2i2yun 2arrari4u Bembi Bi31ay Gurru4gurr Garrwa4 Gaa31urru 2irrga Barrapirri Nini4gurr Dhamba1iny Djatja Marrwala 1akul Bi2pi2 Gomu Gaa5tjini Batuma4 Djirrkdjirrk Dhurruman 2awarrkwarrk Dhuwarrwarr Yultha Gapuwiyak Gulawu Ma5puna 2arrayi4u 2irrwa
+		}
+		cadet_dynasty_names = {
+			"dynn_Gumana"
+			"dynn_Dhamarrandji"
+			"dynn_Murruwun"
+			"dynn_Wirrpanda"
+			"dynn_Garrawurra"
+			"dynn_Marika"
+			"dynn_Bukulatjpi"
+			"dynn_Maymuru"
+			"dynn_Munungiritj"
+			"dynn_Munyarryun"
+			"dynn_Galbayunga"
+			"dynn_Gandanu"
+			"dynn_Gurrumbagurrumba"
+			"dynn_Wununmurra"
+			"dynn_Gurruwiwi"
+			"dynn_Marrkula"
+			"dynn_Birritjama"
+			"dynn_Manydjikay"
+			"dynn_Dhurrkay"
+			"dynn_Ganambarr"
+			"dynn_Gumbula"
+			"dynn_Manangaynu"
+			"dynn_Yunupinu"
+			"dynn_Gaykamanu"
+			"dynn_Wanapuynu"
+			"dynn_Wanambi"
+			"dynn_Djuwarrmin"
+			"dynn_Marawili"
+			"dynn_?urruwutthun"
+			"dynn_Munungurr"
+			"dynn_Burarrwana"
+			"dynn_Djerrkura"
+			"dynn_Bandumul"
+			"dynn_Butjala"
+			"dynn_Garawirrtja"
+			"dynn_Djirrwurkburk"
+			"dynn_Wanybarrna"
+			"dynn_Bikilanydjiwuy"
+		}
+
+		dynasty_names = {
+			"dynn_Gumana"
+			"dynn_Dhamarrandji"
+			"dynn_Murruwun"
+			"dynn_Wirrpanda"
+			"dynn_Garrawurra"
+			"dynn_Marika"
+			"dynn_Bukulatjpi"
+			"dynn_Maymuru"
+			"dynn_Munungiritj"
+			"dynn_Munyarryun"
+			"dynn_Galbayunga"
+			"dynn_Gandanu"
+			"dynn_Gurrumbagurrumba"
+			"dynn_Wununmurra"
+			"dynn_Gurruwiwi"
+			"dynn_Marrkula"
+			"dynn_Birritjama"
+			"dynn_Manydjikay"
+			"dynn_Dhurrkay"
+			"dynn_Ganambarr"
+			"dynn_Gumbula"
+			"dynn_Manangaynu"
+			"dynn_Yunupinu"
+			"dynn_Gaykamanu"
+			"dynn_Wanapuynu"
+			"dynn_Wanambi"
+			"dynn_Djuwarrmin"
+			"dynn_Marawili"
+			"dynn_?urruwutthun"
+			"dynn_Munungurr"
+			"dynn_Burarrwana"
+			"dynn_Djerrkura"
+			"dynn_Bandumul"
+			"dynn_Butjala"
+			"dynn_Garawirrtja"
+			"dynn_Djirrwurkburk"
+			"dynn_Wanybarrna"
+			"dynn_Bikilanydjiwuy"
+		}
+
+		dynasty_of_location_prefix = "dynnp_ngu"
+
+		pat_grf_name_chance = 33
+		mat_grf_name_chance = 33
+		father_name_chance = 33
+		pat_grm_name_chance = 33
+		mat_grm_name_chance = 33
+		mother_name_chance = 33
+		always_use_patronym = no
+
+		ethnicities = {
+			african = 90
+			east_african = 10
+		}
+
+	}
+
+	wardaman = {
+		graphical_cultures = {
+			west_african_group_coa_gfx
+		}
+
+		mercenary_names = {
+			{ name = "mercenary_company_a_giwiningnu" }
+		}
+
+		color = { 196 176 16 }
+
+		male_names = {
+			3ama Mayiliny Miku Dhonyin Dja2karr Batji 3urrku Walpurru4gu Djirribi-Djirribi Maa2ga Djayayyun 4anapa Gayuwa2a Djalpurr Gunyambi Bagapaga 1aarra Wa2karra Birrkuku Djaparri Garra5a 4ayakandi Dhurrmuk Ba3balarri Wa2ma4garr Djaatjthi Wokara Bulkaniny Botjulu 1atji Nyin Mandimirr Wirriwirri Garayurru Rurruminy Warrapu2 Yimanhdhi 1aarrtjal Djapa1ayan Ba4ga2a4 Bambalaman Walurru Bikipiki Baal Marrayumba Waymi Wu2kthun 2uthay 1ila1ilaw4gun Mutitj
+		}
+		female_names = {
+			Walarri Matha Baapa4 Burri4i Gawuthal Dhaapan Djewiny Wu5tji Milkum(A) Bati4arra Djaatja Bo2uku Gili4 Gi5 Djambuwal Djana Gabu2ay Galimara Maba2ki Dhukarr Dhawunha4 Garratji 2i2yun 2arrari4u Bembi Bi31ay Gurru4gurr Garrwa4 Gaa31urru 2irrga Barrapirri Nini4gurr Dhamba1iny Djatja Marrwala 1akul Bi2pi2 Gomu Gaa5tjini Batuma4 Djirrkdjirrk Dhurruman 2awarrkwarrk Dhuwarrwarr Yultha Gapuwiyak Gulawu Ma5puna 2arrayi4u 2irrwa
+		}
+		cadet_dynasty_names = {
+			"dynn_Gumana"
+			"dynn_Dhamarrandji"
+			"dynn_Murruwun"
+			"dynn_Wirrpanda"
+			"dynn_Garrawurra"
+			"dynn_Marika"
+			"dynn_Bukulatjpi"
+			"dynn_Maymuru"
+			"dynn_Munungiritj"
+			"dynn_Munyarryun"
+			"dynn_Galbayunga"
+			"dynn_Gandanu"
+			"dynn_Gurrumbagurrumba"
+			"dynn_Wununmurra"
+			"dynn_Gurruwiwi"
+			"dynn_Marrkula"
+			"dynn_Birritjama"
+			"dynn_Manydjikay"
+			"dynn_Dhurrkay"
+			"dynn_Ganambarr"
+			"dynn_Gumbula"
+			"dynn_Manangaynu"
+			"dynn_Yunupinu"
+			"dynn_Gaykamanu"
+			"dynn_Wanapuynu"
+			"dynn_Wanambi"
+			"dynn_Djuwarrmin"
+			"dynn_Marawili"
+			"dynn_?urruwutthun"
+			"dynn_Munungurr"
+			"dynn_Burarrwana"
+			"dynn_Djerrkura"
+			"dynn_Bandumul"
+			"dynn_Butjala"
+			"dynn_Garawirrtja"
+			"dynn_Djirrwurkburk"
+			"dynn_Wanybarrna"
+			"dynn_Bikilanydjiwuy"
+		}
+
+		dynasty_names = {
+			"dynn_Gumana"
+			"dynn_Dhamarrandji"
+			"dynn_Murruwun"
+			"dynn_Wirrpanda"
+			"dynn_Garrawurra"
+			"dynn_Marika"
+			"dynn_Bukulatjpi"
+			"dynn_Maymuru"
+			"dynn_Munungiritj"
+			"dynn_Munyarryun"
+			"dynn_Galbayunga"
+			"dynn_Gandanu"
+			"dynn_Gurrumbagurrumba"
+			"dynn_Wununmurra"
+			"dynn_Gurruwiwi"
+			"dynn_Marrkula"
+			"dynn_Birritjama"
+			"dynn_Manydjikay"
+			"dynn_Dhurrkay"
+			"dynn_Ganambarr"
+			"dynn_Gumbula"
+			"dynn_Manangaynu"
+			"dynn_Yunupinu"
+			"dynn_Gaykamanu"
+			"dynn_Wanapuynu"
+			"dynn_Wanambi"
+			"dynn_Djuwarrmin"
+			"dynn_Marawili"
+			"dynn_?urruwutthun"
+			"dynn_Munungurr"
+			"dynn_Burarrwana"
+			"dynn_Djerrkura"
+			"dynn_Bandumul"
+			"dynn_Butjala"
+			"dynn_Garawirrtja"
+			"dynn_Djirrwurkburk"
+			"dynn_Wanybarrna"
+			"dynn_Bikilanydjiwuy"
+		}
+
+		dynasty_of_location_prefix = "dynnp_ngu"
+
+		pat_grf_name_chance = 33
+		mat_grf_name_chance = 33
+		father_name_chance = 33
+		pat_grm_name_chance = 33
+		mat_grm_name_chance = 33
+		mother_name_chance = 33
+		always_use_patronym = no
+
+		ethnicities = {
+			african = 90
+			east_african = 10
+		}
+
+	}
+
+	jarrakan = {
+		graphical_cultures = {
+			west_african_group_coa_gfx
+		}
+
+		mercenary_names = {
+			{ name = "mercenary_company_a_peppeminartingu" }
+		}
+
+		color = { 196 156 16 }
+
+		male_names = {
+			3ama Mayiliny Miku Dhonyin Dja2karr Batji 3urrku Walpurru4gu Djirribi-Djirribi Maa2ga Djayayyun 4anapa Gayuwa2a Djalpurr Gunyambi Bagapaga 1aarra Wa2karra Birrkuku Djaparri Garra5a 4ayakandi Dhurrmuk Ba3balarri Wa2ma4garr Djaatjthi Wokara Bulkaniny Botjulu 1atji Nyin Mandimirr Wirriwirri Garayurru Rurruminy Warrapu2 Yimanhdhi 1aarrtjal Djapa1ayan Ba4ga2a4 Bambalaman Walurru Bikipiki Baal Marrayumba Waymi Wu2kthun 2uthay 1ila1ilaw4gun Mutitj
+		}
+		female_names = {
+			Walarri Matha Baapa4 Burri4i Gawuthal Dhaapan Djewiny Wu5tji Milkum(A) Bati4arra Djaatja Bo2uku Gili4 Gi5 Djambuwal Djana Gabu2ay Galimara Maba2ki Dhukarr Dhawunha4 Garratji 2i2yun 2arrari4u Bembi Bi31ay Gurru4gurr Garrwa4 Gaa31urru 2irrga Barrapirri Nini4gurr Dhamba1iny Djatja Marrwala 1akul Bi2pi2 Gomu Gaa5tjini Batuma4 Djirrkdjirrk Dhurruman 2awarrkwarrk Dhuwarrwarr Yultha Gapuwiyak Gulawu Ma5puna 2arrayi4u 2irrwa
+		}
+		cadet_dynasty_names = {
+			"dynn_Gumana"
+			"dynn_Dhamarrandji"
+			"dynn_Murruwun"
+			"dynn_Wirrpanda"
+			"dynn_Garrawurra"
+			"dynn_Marika"
+			"dynn_Bukulatjpi"
+			"dynn_Maymuru"
+			"dynn_Munungiritj"
+			"dynn_Munyarryun"
+			"dynn_Galbayunga"
+			"dynn_Gandanu"
+			"dynn_Gurrumbagurrumba"
+			"dynn_Wununmurra"
+			"dynn_Gurruwiwi"
+			"dynn_Marrkula"
+			"dynn_Birritjama"
+			"dynn_Manydjikay"
+			"dynn_Dhurrkay"
+			"dynn_Ganambarr"
+			"dynn_Gumbula"
+			"dynn_Manangaynu"
+			"dynn_Yunupinu"
+			"dynn_Gaykamanu"
+			"dynn_Wanapuynu"
+			"dynn_Wanambi"
+			"dynn_Djuwarrmin"
+			"dynn_Marawili"
+			"dynn_?urruwutthun"
+			"dynn_Munungurr"
+			"dynn_Burarrwana"
+			"dynn_Djerrkura"
+			"dynn_Bandumul"
+			"dynn_Butjala"
+			"dynn_Garawirrtja"
+			"dynn_Djirrwurkburk"
+			"dynn_Wanybarrna"
+			"dynn_Bikilanydjiwuy"
+		}
+
+		dynasty_names = {
+			"dynn_Gumana"
+			"dynn_Dhamarrandji"
+			"dynn_Murruwun"
+			"dynn_Wirrpanda"
+			"dynn_Garrawurra"
+			"dynn_Marika"
+			"dynn_Bukulatjpi"
+			"dynn_Maymuru"
+			"dynn_Munungiritj"
+			"dynn_Munyarryun"
+			"dynn_Galbayunga"
+			"dynn_Gandanu"
+			"dynn_Gurrumbagurrumba"
+			"dynn_Wununmurra"
+			"dynn_Gurruwiwi"
+			"dynn_Marrkula"
+			"dynn_Birritjama"
+			"dynn_Manydjikay"
+			"dynn_Dhurrkay"
+			"dynn_Ganambarr"
+			"dynn_Gumbula"
+			"dynn_Manangaynu"
+			"dynn_Yunupinu"
+			"dynn_Gaykamanu"
+			"dynn_Wanapuynu"
+			"dynn_Wanambi"
+			"dynn_Djuwarrmin"
+			"dynn_Marawili"
+			"dynn_?urruwutthun"
+			"dynn_Munungurr"
+			"dynn_Burarrwana"
+			"dynn_Djerrkura"
+			"dynn_Bandumul"
+			"dynn_Butjala"
+			"dynn_Garawirrtja"
+			"dynn_Djirrwurkburk"
+			"dynn_Wanybarrna"
+			"dynn_Bikilanydjiwuy"
+		}
+
+		dynasty_of_location_prefix = "dynnp_ngu"
+
+		pat_grf_name_chance = 33
+		mat_grf_name_chance = 33
+		father_name_chance = 33
+		pat_grm_name_chance = 33
+		mat_grm_name_chance = 33
+		mother_name_chance = 33
+		always_use_patronym = no
+
+		ethnicities = {
+			african = 90
+			east_african = 10
+		}
+
+	}
+
+	tiwi = {
+		graphical_cultures = {
+			west_african_group_coa_gfx
+		}
+
+		mercenary_names = {
+			{ name = "mercenary_company_a_tiwingu" }
+		}
+
+		color = { 196 136 16 }
+
+		male_names = {
+			3ama Mayiliny Miku Dhonyin Dja2karr Batji 3urrku Walpurru4gu Djirribi-Djirribi Maa2ga Djayayyun 4anapa Gayuwa2a Djalpurr Gunyambi Bagapaga 1aarra Wa2karra Birrkuku Djaparri Garra5a 4ayakandi Dhurrmuk Ba3balarri Wa2ma4garr Djaatjthi Wokara Bulkaniny Botjulu 1atji Nyin Mandimirr Wirriwirri Garayurru Rurruminy Warrapu2 Yimanhdhi 1aarrtjal Djapa1ayan Ba4ga2a4 Bambalaman Walurru Bikipiki Baal Marrayumba Waymi Wu2kthun 2uthay 1ila1ilaw4gun Mutitj
+		}
+		female_names = {
+			Walarri Matha Baapa4 Burri4i Gawuthal Dhaapan Djewiny Wu5tji Milkum(A) Bati4arra Djaatja Bo2uku Gili4 Gi5 Djambuwal Djana Gabu2ay Galimara Maba2ki Dhukarr Dhawunha4 Garratji 2i2yun 2arrari4u Bembi Bi31ay Gurru4gurr Garrwa4 Gaa31urru 2irrga Barrapirri Nini4gurr Dhamba1iny Djatja Marrwala 1akul Bi2pi2 Gomu Gaa5tjini Batuma4 Djirrkdjirrk Dhurruman 2awarrkwarrk Dhuwarrwarr Yultha Gapuwiyak Gulawu Ma5puna 2arrayi4u 2irrwa
+		}
+		cadet_dynasty_names = {
+			"dynn_Gumana"
+			"dynn_Dhamarrandji"
+			"dynn_Murruwun"
+			"dynn_Wirrpanda"
+			"dynn_Garrawurra"
+			"dynn_Marika"
+			"dynn_Bukulatjpi"
+			"dynn_Maymuru"
+			"dynn_Munungiritj"
+			"dynn_Munyarryun"
+			"dynn_Galbayunga"
+			"dynn_Gandanu"
+			"dynn_Gurrumbagurrumba"
+			"dynn_Wununmurra"
+			"dynn_Gurruwiwi"
+			"dynn_Marrkula"
+			"dynn_Birritjama"
+			"dynn_Manydjikay"
+			"dynn_Dhurrkay"
+			"dynn_Ganambarr"
+			"dynn_Gumbula"
+			"dynn_Manangaynu"
+			"dynn_Yunupinu"
+			"dynn_Gaykamanu"
+			"dynn_Wanapuynu"
+			"dynn_Wanambi"
+			"dynn_Djuwarrmin"
+			"dynn_Marawili"
+			"dynn_?urruwutthun"
+			"dynn_Munungurr"
+			"dynn_Burarrwana"
+			"dynn_Djerrkura"
+			"dynn_Bandumul"
+			"dynn_Butjala"
+			"dynn_Garawirrtja"
+			"dynn_Djirrwurkburk"
+			"dynn_Wanybarrna"
+			"dynn_Bikilanydjiwuy"
+		}
+
+		dynasty_names = {
+			"dynn_Gumana"
+			"dynn_Dhamarrandji"
+			"dynn_Murruwun"
+			"dynn_Wirrpanda"
+			"dynn_Garrawurra"
+			"dynn_Marika"
+			"dynn_Bukulatjpi"
+			"dynn_Maymuru"
+			"dynn_Munungiritj"
+			"dynn_Munyarryun"
+			"dynn_Galbayunga"
+			"dynn_Gandanu"
+			"dynn_Gurrumbagurrumba"
+			"dynn_Wununmurra"
+			"dynn_Gurruwiwi"
+			"dynn_Marrkula"
+			"dynn_Birritjama"
+			"dynn_Manydjikay"
+			"dynn_Dhurrkay"
+			"dynn_Ganambarr"
+			"dynn_Gumbula"
+			"dynn_Manangaynu"
+			"dynn_Yunupinu"
+			"dynn_Gaykamanu"
+			"dynn_Wanapuynu"
+			"dynn_Wanambi"
+			"dynn_Djuwarrmin"
+			"dynn_Marawili"
+			"dynn_?urruwutthun"
+			"dynn_Munungurr"
+			"dynn_Burarrwana"
+			"dynn_Djerrkura"
+			"dynn_Bandumul"
+			"dynn_Butjala"
+			"dynn_Garawirrtja"
+			"dynn_Djirrwurkburk"
+			"dynn_Wanybarrna"
+			"dynn_Bikilanydjiwuy"
+		}
+
+		dynasty_of_location_prefix = "dynnp_ngu"
+
+		pat_grf_name_chance = 33
+		mat_grf_name_chance = 33
+		father_name_chance = 33
+		pat_grm_name_chance = 33
+		mat_grm_name_chance = 33
+		mother_name_chance = 33
+		always_use_patronym = no
+
+		ethnicities = {
+			african = 90
+			east_african = 10
+		}
+
+	}
+
+}

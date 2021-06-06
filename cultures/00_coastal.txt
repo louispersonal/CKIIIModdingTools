@@ -1,0 +1,512 @@
+coastal_group = {
+
+	mercenary_names = {
+		{ name = "mercenary_company_eastern_band" }
+	}
+
+	graphical_cultures = {
+		western_coa_gfx
+		western_building_gfx
+		western_clothing_gfx
+		western_unit_gfx
+	}
+
+	gippslander = {
+		graphical_cultures = {
+			western_coa_gfx
+		}
+
+		mercenary_names = {
+			{ name = "mercenary_company_melbourne_brothers" }
+		}
+
+		color = { 235 52 88 }
+
+		male_names = {
+			Thomas Matthew Jack Joseph Joshua James Daniel Samuel Callum Adam Alexander William Luke Benjamin Harry Oliver Lewis Ryan David Liam Ben Kyle Aaron Bradley Louis Christopher Max Jake Brandon Owen Edward Jacob Robert Nathan Michael Charles Ethan Connor George Jonathan Harvey Reuben Andrew Isaac Oscar Morgan Declan Nicholas Jimmy Tom John Alex Sean Eoin Tadhg Enda Dhruv Amar Sana Kostas Damon Eryx Ahmed Muhammad Asem Liu Chen Yang Huang Zhao Wang Li Keyang Mateo Angelo
+		}
+		female_names = {
+			Keila Alesia Bennie Mirabelle Marlowe Tristen Deana Mallow Tyra Deandra Telsa Elizabeth Michaela Nikki Lisha Jane Lesley Kelby Katy Meagan Charlene Cleo Allison Amberley Leigh Phoenix Loreen Primrose Alice Sophie Renae Catherine Chloe Zoe Lenora Lucille Josalyn Kaylin Mandy Alyssa Mei Chen Ehuang Fan Aisha Gameel Warda Antonina Stergiani Ruhi Megana Erin Siofra Saoirse
+		}
+		cadet_dynasty_names = {
+			"dynn_Wallis"
+			"dynn_Auburn"
+			"dynn_Chatswood"
+			"dynn_Eureka"
+			"dynn_Ryde"
+			"dynn_Wtheril"
+			"dynn_Prairiewood"
+			"dynn_Mosman"
+			"dynn_Manly"
+			"dynn_Brookvale"
+			"dynn_French"
+			"dynn_English"
+			"dynn_Irish"
+			"dynn_Welsh"
+			"dynn_Castle"
+			"dynn_Botany"
+			"dynn_Quaker"
+			"dynn_Hornsby"
+			"dynn_Warriewood"
+			"dynn_Druitt"
+			"dynn_Drury"
+			"dynn_Maroubra"
+			"dynn_Randwick"
+			"dynn_Kosciuszko"
+			"dynn_Goulburn"
+			"dynn_Williams"
+			"dynn_Farrell"
+			"dynn_Primrose"
+			"dynn_Carroll"
+			"dynn_Macquarie"
+			"dynn_Werribee"
+			"dynn_Cariston"
+			"dynn_Emerald"
+			"dynn_Cockatoo"
+			"dynn_Macclesfield"
+			"dynn_Burwood"
+			"dynn_Camberwell"
+			"dynn_Malvern"
+			"dynn_Brighton"
+			"dynn_Altona"
+			"dynn_Laverton"
+			"dynn_Essendon"
+			"dynn_Footscray"
+			"dynn_Greensborough"
+			"dynn_Preston"
+			"dynn_Brunswick"
+			"dynn_Tarsly"
+			"dynn_Pellegrine"
+			"dynn_Silvia"
+			"dynn_Chen"
+			"dynn_Tran"
+			"dynn_Nguyen"
+			"dynn_Li"
+			"dynn_Lee"
+			"dynn_Zhao"
+			"dynn_Avon"
+			"dynn_Stratt"
+			"dynn_Nodder"
+			"dynn_Hepburn"
+		}
+
+		dynasty_names = {
+			"dynn_Wallis"
+			"dynn_Auburn"
+			"dynn_Chatswood"
+			"dynn_Eureka"
+			"dynn_Ryde"
+			"dynn_Wtheril"
+			"dynn_Prairiewood"
+			"dynn_Mosman"
+			"dynn_Manly"
+			"dynn_Brookvale"
+			"dynn_French"
+			"dynn_English"
+			"dynn_Irish"
+			"dynn_Welsh"
+			"dynn_Castle"
+			"dynn_Botany"
+			"dynn_Quaker"
+			"dynn_Hornsby"
+			"dynn_Warriewood"
+			"dynn_Druitt"
+			"dynn_Drury"
+			"dynn_Maroubra"
+			"dynn_Randwick"
+			"dynn_Kosciuszko"
+			"dynn_Goulburn"
+			"dynn_Williams"
+			"dynn_Farrell"
+			"dynn_Primrose"
+			"dynn_Carroll"
+			"dynn_Macquarie"
+			"dynn_Werribee"
+			"dynn_Cariston"
+			"dynn_Emerald"
+			"dynn_Cockatoo"
+			"dynn_Macclesfield"
+			"dynn_Burwood"
+			"dynn_Camberwell"
+			"dynn_Malvern"
+			"dynn_Brighton"
+			"dynn_Altona"
+			"dynn_Laverton"
+			"dynn_Essendon"
+			"dynn_Footscray"
+			"dynn_Greensborough"
+			"dynn_Preston"
+			"dynn_Brunswick"
+			"dynn_Tarsly"
+			"dynn_Pellegrine"
+			"dynn_Silvia"
+			"dynn_Chen"
+			"dynn_Tran"
+			"dynn_Nguyen"
+			"dynn_Li"
+			"dynn_Lee"
+			"dynn_Zhao"
+			"dynn_Avon"
+			"dynn_Stratt"
+			"dynn_Nodder"
+			"dynn_Hepburn"
+		}
+
+		dynasty_of_location_prefix = "dynnp_of"
+
+		pat_grf_name_chance = 33
+		mat_grf_name_chance = 33
+		father_name_chance = 33
+		pat_grm_name_chance = 33
+		mat_grm_name_chance = 33
+		mother_name_chance = 33
+		always_use_patronym = no
+
+		ethnicities = {
+			african = 1
+			arab = 3
+			caucasian_blond = 20
+			caucasian_ginger = 8
+			caucasian_brown_hair = 20
+			caucasian_dark_hair = 20
+			asian = 12
+			indian = 4
+			mediterranean_byzantine = 2
+			10 = mediterranean
+		}
+
+	}
+
+	sydneyan = {
+		graphical_cultures = {
+			western_coa_gfx
+		}
+
+		mercenary_names = {
+			{ name = "mercenary_company_swords_of_sydney" }
+		}
+
+		color = { 205 52 88 }
+
+		male_names = {
+			Thomas Matthew Jack Joseph Joshua James Daniel Samuel Callum Adam Alexander William Luke Benjamin Harry Oliver Lewis Ryan David Liam Ben Kyle Aaron Bradley Louis Christopher Max Jake Brandon Owen Edward Jacob Robert Nathan Michael Charles Ethan Connor George Jonathan Harvey Reuben Andrew Isaac Oscar Morgan Declan Nicholas Jimmy Tom John Alex Sean Eoin Tadhg Enda Dhruv Amar Sana Kostas Damon Eryx Ahmed Muhammad Asem Liu Chen Yang Huang Zhao Wang Li Keyang Mateo Angelo
+		}
+		female_names = {
+			Keila Alesia Bennie Mirabelle Marlowe Tristen Deana Mallow Tyra Deandra Telsa Elizabeth Michaela Nikki Lisha Jane Lesley Kelby Katy Meagan Charlene Cleo Allison Amberley Leigh Phoenix Loreen Primrose Alice Sophie Renae Catherine Chloe Zoe Lenora Lucille Josalyn Kaylin Mandy Alyssa Mei Chen Ehuang Fan Aisha Gameel Warda Antonina Stergiani Ruhi Megana Erin Siofra Saoirse
+		}
+		cadet_dynasty_names = {
+			"dynn_Wallis"
+			"dynn_Auburn"
+			"dynn_Chatswood"
+			"dynn_Eureka"
+			"dynn_Ryde"
+			"dynn_Wtheril"
+			"dynn_Prairiewood"
+			"dynn_Mosman"
+			"dynn_Manly"
+			"dynn_Brookvale"
+			"dynn_French"
+			"dynn_English"
+			"dynn_Irish"
+			"dynn_Welsh"
+			"dynn_Castle"
+			"dynn_Botany"
+			"dynn_Quaker"
+			"dynn_Hornsby"
+			"dynn_Warriewood"
+			"dynn_Druitt"
+			"dynn_Drury"
+			"dynn_Maroubra"
+			"dynn_Randwick"
+			"dynn_Kosciuszko"
+			"dynn_Goulburn"
+			"dynn_Williams"
+			"dynn_Farrell"
+			"dynn_Primrose"
+			"dynn_Carroll"
+			"dynn_Macquarie"
+			"dynn_Werribee"
+			"dynn_Cariston"
+			"dynn_Emerald"
+			"dynn_Cockatoo"
+			"dynn_Macclesfield"
+			"dynn_Burwood"
+			"dynn_Camberwell"
+			"dynn_Malvern"
+			"dynn_Brighton"
+			"dynn_Altona"
+			"dynn_Laverton"
+			"dynn_Essendon"
+			"dynn_Footscray"
+			"dynn_Greensborough"
+			"dynn_Preston"
+			"dynn_Brunswick"
+			"dynn_Tarsly"
+			"dynn_Pellegrine"
+			"dynn_Silvia"
+			"dynn_Chen"
+			"dynn_Tran"
+			"dynn_Nguyen"
+			"dynn_Li"
+			"dynn_Lee"
+			"dynn_Zhao"
+			"dynn_Avon"
+			"dynn_Stratt"
+			"dynn_Nodder"
+			"dynn_Hepburn"
+		}
+
+		dynasty_names = {
+			"dynn_Wallis"
+			"dynn_Auburn"
+			"dynn_Chatswood"
+			"dynn_Eureka"
+			"dynn_Ryde"
+			"dynn_Wtheril"
+			"dynn_Prairiewood"
+			"dynn_Mosman"
+			"dynn_Manly"
+			"dynn_Brookvale"
+			"dynn_French"
+			"dynn_English"
+			"dynn_Irish"
+			"dynn_Welsh"
+			"dynn_Castle"
+			"dynn_Botany"
+			"dynn_Quaker"
+			"dynn_Hornsby"
+			"dynn_Warriewood"
+			"dynn_Druitt"
+			"dynn_Drury"
+			"dynn_Maroubra"
+			"dynn_Randwick"
+			"dynn_Kosciuszko"
+			"dynn_Goulburn"
+			"dynn_Williams"
+			"dynn_Farrell"
+			"dynn_Primrose"
+			"dynn_Carroll"
+			"dynn_Macquarie"
+			"dynn_Werribee"
+			"dynn_Cariston"
+			"dynn_Emerald"
+			"dynn_Cockatoo"
+			"dynn_Macclesfield"
+			"dynn_Burwood"
+			"dynn_Camberwell"
+			"dynn_Malvern"
+			"dynn_Brighton"
+			"dynn_Altona"
+			"dynn_Laverton"
+			"dynn_Essendon"
+			"dynn_Footscray"
+			"dynn_Greensborough"
+			"dynn_Preston"
+			"dynn_Brunswick"
+			"dynn_Tarsly"
+			"dynn_Pellegrine"
+			"dynn_Silvia"
+			"dynn_Chen"
+			"dynn_Tran"
+			"dynn_Nguyen"
+			"dynn_Li"
+			"dynn_Lee"
+			"dynn_Zhao"
+			"dynn_Avon"
+			"dynn_Stratt"
+			"dynn_Nodder"
+			"dynn_Hepburn"
+		}
+
+		dynasty_of_location_prefix = "dynnp_of"
+
+		pat_grf_name_chance = 33
+		mat_grf_name_chance = 33
+		father_name_chance = 33
+		pat_grm_name_chance = 33
+		mat_grm_name_chance = 33
+		mother_name_chance = 33
+		always_use_patronym = no
+
+		ethnicities = {
+			african = 1
+			arab = 3
+			caucasian_blond = 20
+			caucasian_ginger = 8
+			caucasian_brown_hair = 20
+			caucasian_dark_hair = 20
+			asian = 12
+			indian = 4
+			mediterranean_byzantine = 2
+			10 = mediterranean
+		}
+
+	}
+
+	gold_coastian = {
+		graphical_cultures = {
+			western_coa_gfx
+		}
+
+		mercenary_names = {
+			{ name = "mercenary_company_brisbane_band" }
+		}
+
+		color = { 175 52 88 }
+
+		male_names = {
+			Thomas Matthew Jack Joseph Joshua James Daniel Samuel Callum Adam Alexander William Luke Benjamin Harry Oliver Lewis Ryan David Liam Ben Kyle Aaron Bradley Louis Christopher Max Jake Brandon Owen Edward Jacob Robert Nathan Michael Charles Ethan Connor George Jonathan Harvey Reuben Andrew Isaac Oscar Morgan Declan Nicholas Jimmy Tom John Alex Sean Eoin Tadhg Enda Dhruv Amar Sana Kostas Damon Eryx Ahmed Muhammad Asem Liu Chen Yang Huang Zhao Wang Li Keyang Mateo Angelo
+		}
+		female_names = {
+			Keila Alesia Bennie Mirabelle Marlowe Tristen Deana Mallow Tyra Deandra Telsa Elizabeth Michaela Nikki Lisha Jane Lesley Kelby Katy Meagan Charlene Cleo Allison Amberley Leigh Phoenix Loreen Primrose Alice Sophie Renae Catherine Chloe Zoe Lenora Lucille Josalyn Kaylin Mandy Alyssa Mei Chen Ehuang Fan Aisha Gameel Warda Antonina Stergiani Ruhi Megana Erin Siofra Saoirse
+		}
+		cadet_dynasty_names = {
+			"dynn_Wallis"
+			"dynn_Auburn"
+			"dynn_Chatswood"
+			"dynn_Eureka"
+			"dynn_Ryde"
+			"dynn_Wtheril"
+			"dynn_Prairiewood"
+			"dynn_Mosman"
+			"dynn_Manly"
+			"dynn_Brookvale"
+			"dynn_French"
+			"dynn_English"
+			"dynn_Irish"
+			"dynn_Welsh"
+			"dynn_Castle"
+			"dynn_Botany"
+			"dynn_Quaker"
+			"dynn_Hornsby"
+			"dynn_Warriewood"
+			"dynn_Druitt"
+			"dynn_Drury"
+			"dynn_Maroubra"
+			"dynn_Randwick"
+			"dynn_Kosciuszko"
+			"dynn_Goulburn"
+			"dynn_Williams"
+			"dynn_Farrell"
+			"dynn_Primrose"
+			"dynn_Carroll"
+			"dynn_Macquarie"
+			"dynn_Werribee"
+			"dynn_Cariston"
+			"dynn_Emerald"
+			"dynn_Cockatoo"
+			"dynn_Macclesfield"
+			"dynn_Burwood"
+			"dynn_Camberwell"
+			"dynn_Malvern"
+			"dynn_Brighton"
+			"dynn_Altona"
+			"dynn_Laverton"
+			"dynn_Essendon"
+			"dynn_Footscray"
+			"dynn_Greensborough"
+			"dynn_Preston"
+			"dynn_Brunswick"
+			"dynn_Tarsly"
+			"dynn_Pellegrine"
+			"dynn_Silvia"
+			"dynn_Chen"
+			"dynn_Tran"
+			"dynn_Nguyen"
+			"dynn_Li"
+			"dynn_Lee"
+			"dynn_Zhao"
+			"dynn_Avon"
+			"dynn_Stratt"
+			"dynn_Nodder"
+			"dynn_Hepburn"
+		}
+
+		dynasty_names = {
+			"dynn_Wallis"
+			"dynn_Auburn"
+			"dynn_Chatswood"
+			"dynn_Eureka"
+			"dynn_Ryde"
+			"dynn_Wtheril"
+			"dynn_Prairiewood"
+			"dynn_Mosman"
+			"dynn_Manly"
+			"dynn_Brookvale"
+			"dynn_French"
+			"dynn_English"
+			"dynn_Irish"
+			"dynn_Welsh"
+			"dynn_Castle"
+			"dynn_Botany"
+			"dynn_Quaker"
+			"dynn_Hornsby"
+			"dynn_Warriewood"
+			"dynn_Druitt"
+			"dynn_Drury"
+			"dynn_Maroubra"
+			"dynn_Randwick"
+			"dynn_Kosciuszko"
+			"dynn_Goulburn"
+			"dynn_Williams"
+			"dynn_Farrell"
+			"dynn_Primrose"
+			"dynn_Carroll"
+			"dynn_Macquarie"
+			"dynn_Werribee"
+			"dynn_Cariston"
+			"dynn_Emerald"
+			"dynn_Cockatoo"
+			"dynn_Macclesfield"
+			"dynn_Burwood"
+			"dynn_Camberwell"
+			"dynn_Malvern"
+			"dynn_Brighton"
+			"dynn_Altona"
+			"dynn_Laverton"
+			"dynn_Essendon"
+			"dynn_Footscray"
+			"dynn_Greensborough"
+			"dynn_Preston"
+			"dynn_Brunswick"
+			"dynn_Tarsly"
+			"dynn_Pellegrine"
+			"dynn_Silvia"
+			"dynn_Chen"
+			"dynn_Tran"
+			"dynn_Nguyen"
+			"dynn_Li"
+			"dynn_Lee"
+			"dynn_Zhao"
+			"dynn_Avon"
+			"dynn_Stratt"
+			"dynn_Nodder"
+			"dynn_Hepburn"
+		}
+
+		dynasty_of_location_prefix = "dynnp_of"
+
+		pat_grf_name_chance = 33
+		mat_grf_name_chance = 33
+		father_name_chance = 33
+		pat_grm_name_chance = 33
+		mat_grm_name_chance = 33
+		mother_name_chance = 33
+		always_use_patronym = no
+
+		ethnicities = {
+			african = 1
+			arab = 3
+			caucasian_blond = 20
+			caucasian_ginger = 8
+			caucasian_brown_hair = 20
+			caucasian_dark_hair = 20
+			asian = 12
+			indian = 4
+			mediterranean_byzantine = 2
+			10 = mediterranean
+		}
+
+	}
+
+}

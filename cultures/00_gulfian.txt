@@ -1,0 +1,286 @@
+gulfian_group = {
+
+	mercenary_names = {
+		{ name = "mercenary_company_mankalkakiyi" }
+	}
+
+	graphical_cultures = {
+		west_african_group_coa_gfx
+		african_building_gfx
+		african_clothing_gfx
+		sub_sahran_unit_gfx
+	}
+
+	yanyuwa = {
+		graphical_cultures = {
+			west_african_group_coa_gfx
+		}
+
+		mercenary_names = {
+			{ name = "mercenary_company_kalayakanjirri" }
+		}
+
+		color = { 42 176 120 }
+
+		male_names = {
+			Nidjanganjdji Gadji Gunda Banda Djalu Wagudimba Warrnguna Ruri Ngawamba Bayagada Miguyadji Djuga Yanyu Aadumu Andanyuka Babadama Babarramila Babatharrija Babawurda Bajayi Baju Balanda Barlbaji Barrdula Barrkudukudu Bathamatha Binjalangu Birribiriikama Bunaja Bungkuwakayu Burdi Burrayi Buthaluba Dambulyama Dimunthu Dinkawu Dingkaji Dinthali DIrdiyalma Dungkurramaji Jaalarri Jabarlwulaya Jalangki Jamayila Jambarra Jamarndarrka Jamika Jarrababirli Jawijalma Jawubaluba Jawularriyanba Jungkuridiridi Jurli Jurungujurungu Jurrngi Jurruji Jurrunga Kardawalanji Karrandima Karrijiji Karrmuji Kayangajbarli Kulaburrma Kurrburdu Kurrkurr Lajumba Lirryarri Lithi Lhawulhawu Mabalirri Majala Malwangku Mamudibarrku Mamurriyatha Manaruki Mangayi Marndamarndaariku Marramiki Marrirnkinya Marrkulkardu Mawubulijimayarrikarri Mawurrinya Mundumundumara Munduwalawala Murdtha Murnudu Naluwulwari Namilwirri Narnungawurruwurru Narnuwungkuwungku Nawakin Nayuru Ngajbungajbulama Ngangangayu Nguku Nyilba Rakawurima Rijirrngu Wajamara Wajiramba Walanthumantha Walayungkuma Waliyangkayangka Walungurrungurru Wangkarrawi Wangkirrimaji Wanthawantha Wanumurlayi Warrangkawarrangka Warranthuwa Widamara Wiringmirri Wulbinku Wunakathangu Wundirrwuku Wungunya Wurnkurli Wuruldama Wurrumungkumungku Yabadurru Yabamana Yanjarra Yukajimaji Yulungurri Yungkayiyungka
+		}
+		female_names = {
+			Djura Djibarri Bundai Gugudu Miya Gugulimba Djiguwarra Walidji Mama Djulagi Djamba Yurrngumba Yanyu Aajundu Anthawarramara Aralkara Babajukuwa Bajamalanya Barndubarnduwathari Bayuma Birlimbirlma Birribalanja Bujubirna Bukundumara Dililinyma Diwangkuna Jalirduma Jawathama Jawiburruma Jawirrabaruma Kangkarrija Kanjujamara Karrakayn Kaykalarn Kithibula Larrlya Malandirri Malandumara Mambalwarrka Manamarrilu Manbakuwaku Manankurrmara Muluwamara Muyurrkulmanya Ninganga Ngajarrmara Ngarrikalu Nyamuri Nyilma Walimungku Walwalmara Wabadurna Wanajabi Wantha
+		}
+		cadet_dynasty_names = {
+			"dynn_Mankalka"
+			"dynn_Warriyangalayawu"
+			"dynn_Ngurdungurdu"
+			"dynn_Warnanjawiji"
+			"dynn_Ihangkamulhil"
+			"dynn_Rimi"
+			"dynn_Rabu"
+			"dynn_Muwarda"
+			"dynn_Bayibayi"
+			"dynn_Baliyarra"
+			"dynn_Watha"
+			"dynn_Bawa"
+			"dynn_Ngirlangirla"
+			"dynn_Thubathuba"
+			"dynn_Mirrbundu"
+			"dynn_Wulkangu"
+			"dynn_Mirrimirri"
+			"dynn_Mawurraji"
+			"dynn_Wurrbingani"
+			"dynn_Balangu"
+			"dynn_Warranthangu"
+			"dynn_Wurluwurlu"
+			"dynn_Walma"
+			"dynn_Balamurru"
+			"dynn_Kuyamarra"
+			"dynn_Ngarlika"
+			"dynn_Barruwa"
+			"dynn_Biwali"
+			"dynn_Karnbulanyi"
+			"dynn_Wirrbi"
+			"dynn_Diwurruwurru"
+			"dynn_Mayalungku"
+			"dynn_Ngarrkidikidi"
+			"dynn_Minjirranthu"
+			"dynn_Mingkirrathu"
+			"dynn_Bunarra"
+			"dynn_Birnkili"
+			"dynn_Wirlmurr"
+			"dynn_Wirnmurr"
+			"dynn_Jangani"
+			"dynn_Jaramarra"
+			"dynn_Yalkiyalki"
+			"dynn_Kiyinykiyi"
+			"dynn_Kungkabubu"
+			"dynn_Yurluyurluwiji"
+			"dynn_Jaburriyarra"
+			"dynn_Kuranthulkuranthul"
+			"dynn_Ihukan"
+		}
+
+		dynasty_names = {
+			"dynn_Mankalka"
+			"dynn_Warriyangalayawu"
+			"dynn_Ngurdungurdu"
+			"dynn_Warnanjawiji"
+			"dynn_Ihangkamulhil"
+			"dynn_Rimi"
+			"dynn_Rabu"
+			"dynn_Muwarda"
+			"dynn_Bayibayi"
+			"dynn_Baliyarra"
+			"dynn_Watha"
+			"dynn_Bawa"
+			"dynn_Ngirlangirla"
+			"dynn_Thubathuba"
+			"dynn_Mirrbundu"
+			"dynn_Wulkangu"
+			"dynn_Mirrimirri"
+			"dynn_Mawurraji"
+			"dynn_Wurrbingani"
+			"dynn_Balangu"
+			"dynn_Warranthangu"
+			"dynn_Wurluwurlu"
+			"dynn_Walma"
+			"dynn_Balamurru"
+			"dynn_Kuyamarra"
+			"dynn_Ngarlika"
+			"dynn_Barruwa"
+			"dynn_Biwali"
+			"dynn_Karnbulanyi"
+			"dynn_Wirrbi"
+			"dynn_Diwurruwurru"
+			"dynn_Mayalungku"
+			"dynn_Ngarrkidikidi"
+			"dynn_Minjirranthu"
+			"dynn_Mingkirrathu"
+			"dynn_Bunarra"
+			"dynn_Birnkili"
+			"dynn_Wirlmurr"
+			"dynn_Wirnmurr"
+			"dynn_Jangani"
+			"dynn_Jaramarra"
+			"dynn_Yalkiyalki"
+			"dynn_Kiyinykiyi"
+			"dynn_Kungkabubu"
+			"dynn_Yurluyurluwiji"
+			"dynn_Jaburriyarra"
+			"dynn_Kuranthulkuranthul"
+			"dynn_Ihukan"
+		}
+
+		dynasty_of_location_prefix = "dynnp_jibiya"
+
+		pat_grf_name_chance = 33
+		mat_grf_name_chance = 33
+		father_name_chance = 33
+		pat_grm_name_chance = 33
+		mat_grm_name_chance = 33
+		mother_name_chance = 33
+		always_use_patronym = no
+
+		ethnicities = {
+			african = 90
+			east_african = 10
+		}
+
+	}
+
+	garrwa = {
+		graphical_cultures = {
+			west_african_group_coa_gfx
+		}
+
+		mercenary_names = {
+			{ name = "mercenary_company_kalayakanjirri" }
+		}
+
+		color = { 22 156 100 }
+
+		male_names = {
+			Nidjanganjdji Gadji Gunda Banda Djalu Wagudimba Warrnguna Ruri Ngawamba Bayagada Miguyadji Djuga Yanyu Aadumu Andanyuka Babadama Babarramila Babatharrija Babawurda Bajayi Baju Balanda Barlbaji Barrdula Barrkudukudu Bathamatha Binjalangu Birribiriikama Bunaja Bungkuwakayu Burdi Burrayi Buthaluba Dambulyama Dimunthu Dinkawu Dingkaji Dinthali DIrdiyalma Dungkurramaji Jaalarri Jabarlwulaya Jalangki Jamayila Jambarra Jamarndarrka Jamika Jarrababirli Jawijalma Jawubaluba Jawularriyanba Jungkuridiridi Jurli Jurungujurungu Jurrngi Jurruji Jurrunga Kardawalanji Karrandima Karrijiji Karrmuji Kayangajbarli Kulaburrma Kurrburdu Kurrkurr Lajumba Lirryarri Lithi Lhawulhawu Mabalirri Majala Malwangku Mamudibarrku Mamurriyatha Manaruki Mangayi Marndamarndaariku Marramiki Marrirnkinya Marrkulkardu Mawubulijimayarrikarri Mawurrinya Mundumundumara Munduwalawala Murdtha Murnudu Naluwulwari Namilwirri Narnungawurruwurru Narnuwungkuwungku Nawakin Nayuru Ngajbungajbulama Ngangangayu Nguku Nyilba Rakawurima Rijirrngu Wajamara Wajiramba Walanthumantha Walayungkuma Waliyangkayangka Walungurrungurru Wangkarrawi Wangkirrimaji Wanthawantha Wanumurlayi Warrangkawarrangka Warranthuwa Widamara Wiringmirri Wulbinku Wunakathangu Wundirrwuku Wungunya Wurnkurli Wuruldama Wurrumungkumungku Yabadurru Yabamana Yanjarra Yukajimaji Yulungurri Yungkayiyungka
+		}
+		female_names = {
+			Djura Djibarri Bundai Gugudu Miya Gugulimba Djiguwarra Walidji Mama Djulagi Djamba Yurrngumba Yanyu Aajundu Anthawarramara Aralkara Babajukuwa Bajamalanya Barndubarnduwathari Bayuma Birlimbirlma Birribalanja Bujubirna Bukundumara Dililinyma Diwangkuna Jalirduma Jawathama Jawiburruma Jawirrabaruma Kangkarrija Kanjujamara Karrakayn Kaykalarn Kithibula Larrlya Malandirri Malandumara Mambalwarrka Manamarrilu Manbakuwaku Manankurrmara Muluwamara Muyurrkulmanya Ninganga Ngajarrmara Ngarrikalu Nyamuri Nyilma Walimungku Walwalmara Wabadurna Wanajabi Wantha
+		}
+		cadet_dynasty_names = {
+			"dynn_Mankalka"
+			"dynn_Warriyangalayawu"
+			"dynn_Ngurdungurdu"
+			"dynn_Warnanjawiji"
+			"dynn_Ihangkamulhil"
+			"dynn_Rimi"
+			"dynn_Rabu"
+			"dynn_Muwarda"
+			"dynn_Bayibayi"
+			"dynn_Baliyarra"
+			"dynn_Watha"
+			"dynn_Bawa"
+			"dynn_Ngirlangirla"
+			"dynn_Thubathuba"
+			"dynn_Mirrbundu"
+			"dynn_Wulkangu"
+			"dynn_Mirrimirri"
+			"dynn_Mawurraji"
+			"dynn_Wurrbingani"
+			"dynn_Balangu"
+			"dynn_Warranthangu"
+			"dynn_Wurluwurlu"
+			"dynn_Walma"
+			"dynn_Balamurru"
+			"dynn_Kuyamarra"
+			"dynn_Ngarlika"
+			"dynn_Barruwa"
+			"dynn_Biwali"
+			"dynn_Karnbulanyi"
+			"dynn_Wirrbi"
+			"dynn_Diwurruwurru"
+			"dynn_Mayalungku"
+			"dynn_Ngarrkidikidi"
+			"dynn_Minjirranthu"
+			"dynn_Mingkirrathu"
+			"dynn_Bunarra"
+			"dynn_Birnkili"
+			"dynn_Wirlmurr"
+			"dynn_Wirnmurr"
+			"dynn_Jangani"
+			"dynn_Jaramarra"
+			"dynn_Yalkiyalki"
+			"dynn_Kiyinykiyi"
+			"dynn_Kungkabubu"
+			"dynn_Yurluyurluwiji"
+			"dynn_Jaburriyarra"
+			"dynn_Kuranthulkuranthul"
+			"dynn_Ihukan"
+		}
+
+		dynasty_names = {
+			"dynn_Mankalka"
+			"dynn_Warriyangalayawu"
+			"dynn_Ngurdungurdu"
+			"dynn_Warnanjawiji"
+			"dynn_Ihangkamulhil"
+			"dynn_Rimi"
+			"dynn_Rabu"
+			"dynn_Muwarda"
+			"dynn_Bayibayi"
+			"dynn_Baliyarra"
+			"dynn_Watha"
+			"dynn_Bawa"
+			"dynn_Ngirlangirla"
+			"dynn_Thubathuba"
+			"dynn_Mirrbundu"
+			"dynn_Wulkangu"
+			"dynn_Mirrimirri"
+			"dynn_Mawurraji"
+			"dynn_Wurrbingani"
+			"dynn_Balangu"
+			"dynn_Warranthangu"
+			"dynn_Wurluwurlu"
+			"dynn_Walma"
+			"dynn_Balamurru"
+			"dynn_Kuyamarra"
+			"dynn_Ngarlika"
+			"dynn_Barruwa"
+			"dynn_Biwali"
+			"dynn_Karnbulanyi"
+			"dynn_Wirrbi"
+			"dynn_Diwurruwurru"
+			"dynn_Mayalungku"
+			"dynn_Ngarrkidikidi"
+			"dynn_Minjirranthu"
+			"dynn_Mingkirrathu"
+			"dynn_Bunarra"
+			"dynn_Birnkili"
+			"dynn_Wirlmurr"
+			"dynn_Wirnmurr"
+			"dynn_Jangani"
+			"dynn_Jaramarra"
+			"dynn_Yalkiyalki"
+			"dynn_Kiyinykiyi"
+			"dynn_Kungkabubu"
+			"dynn_Yurluyurluwiji"
+			"dynn_Jaburriyarra"
+			"dynn_Kuranthulkuranthul"
+			"dynn_Ihukan"
+		}
+
+		dynasty_of_location_prefix = "dynnp_jibiya"
+
+		pat_grf_name_chance = 33
+		mat_grf_name_chance = 33
+		father_name_chance = 33
+		pat_grm_name_chance = 33
+		mat_grm_name_chance = 33
+		mother_name_chance = 33
+		always_use_patronym = no
+
+		ethnicities = {
+			african = 90
+			east_african = 10
+		}
+
+	}
+
+}

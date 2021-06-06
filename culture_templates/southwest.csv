@@ -1,0 +1,157 @@
+Parameter,Example
+name_of_culture_group,southwest_group
+mercenary_names,golden_legion
+group_coa,western_coa_gfx
+group_building,western_building_gfx
+group_clothing,western_clothing_gfx
+group_unit,western_unit_gfx
+culture_name,wheatbelter
+culture_coa,western_coa_gfx
+mercenary_names,purple_brothers
+color,201 56 165
+character_modifier,x
+male_names,Oliver Noah Jack Leo Charlie William Lucas James Thomas Elijah Henry Liam Hudson Levi Oscar Mason Lachlan Archie Hunter Theodore Max Luca Harvey Logan Harrison Xavier Aelfgar Aethelbert Aethelric Bada Beorhtric Ceadda Cenric Deorwine Edmund Edgar Hrothulf Beowulf Osmund Osgar Wynnstan Louis
+female_names,Isla Olivia Mia Charlotte Ava Amelia Grace Ella Matilda Isabella Sophie Chloe Willow Evelyn Harper Evie Zoe Sophia Ruby Ivy Emily Mia Lucy Sienna Hannah Ellie Alice Lily Ethelflad Cyneburg Eadburg Eoforhild Frithuswith Godgifu Godiva Hilda Wassa Wilburg Wulfrun
+cadet_dynasty_names,Honeypossum Wallaby Quokka Mallee Kwongan Eucalyptus Sundew Smith Jones Brown Williams Taylor Wilson Johnson Martin Lee Anderson Thompson Thomas White Davies Walker Edwards Harris Nguyen Scott Wright Tisnal Gunning Milyeannup Blackwood Jarrahwood Beedelup Beade Northcliffe Shannon Augusta Leeuwin Naturaliste Pemberton Manjimup Tran Nannup Baudin Lobster Peterson Bindoon Yanchep Caraban Julimar
+dynasty_names,Honeypossum Wallaby Quokka Mallee Kwongan Eucalyptus Sundew Smith Jones Brown Williams Taylor Wilson Johnson Martin Lee Anderson Thompson Thomas White Davies Walker Edwards Harris Nguyen Scott Wright Tisnal Gunning Milyeannup Blackwood Jarrahwood Beedelup Beade Northcliffe Shannon Augusta Leeuwin Naturaliste Pemberton Manjimup Tran Nannup Baudin Lobster Peterson Bindoon Yanchep Caraban Julimar
+dynasty_of_location_prefix,of
+pat_grf_name_chance,33
+mat_grf_name_chance,33
+father_name_chance,33
+pat_grm_name_chance,33
+mat_grm_name_chance,33
+mother_name_chance,33
+patronym_prefix_male,x
+patronym_prefix_male_vowel,x
+patronym_prefix_female,x
+patronym_prefix_female_vowel,x
+patronym_suffix_male,x
+patronym_suffix_female,x
+always_use_patronym,no
+african,1
+arab,3
+east_african,x
+slavic_blond,x
+slavic_ginger,x
+slavic_brown_hair,x
+slavic_dark_hair,x
+circumpolar_dark_hair,x
+circumpolar_brown_hair,x
+circumpolar_blonde_hair,x
+caucasian_northern_blond,x
+caucasian_northern_ginger,x
+caucasian_northern_brown_hair,x
+caucasian_northern_dark_hair,x
+caucasian_blond,20
+caucasian_ginger,8
+caucasian_brown_hair,20
+caucasian_dark_hair,20
+asian,12
+indian,4
+mediterranean_byzantine,2
+south_indian,x
+slavic_northern_blond,x
+slavic_northern_ginger,x
+slavic_northern_brown_hair,x
+slavic_northern_dark_hair,x
+mediterranean,10
+culture_name,metropolitan
+culture_coa,western_coa_gfx
+mercenary_names,perthian_legion
+color,168 56 201
+character_modifier,x
+male_names,Oliver Noah Jack Leo Charlie William Lucas James Thomas Elijah Henry Liam Hudson Levi Oscar Mason Lachlan Archie Hunter Theodore Max Luca Harvey Logan Harrison Xavier Aelfgar Aethelbert Aethelric Bada Beorhtric Ceadda Cenric Deorwine Edmund Edgar Hrothulf Beowulf Osmund Osgar Wynnstan Louis
+female_names,Isla Olivia Mia Charlotte Ava Amelia Grace Ella Matilda Isabella Sophie Chloe Willow Evelyn Harper Evie Zoe Sophia Ruby Ivy Emily Mia Lucy Sienna Hannah Ellie Alice Lily Ethelflad Cyneburg Eadburg Eoforhild Frithuswith Godgifu Godiva Hilda Wassa Wilburg Wulfrun
+cadet_dynasty_names,Honeypossum Wallaby Quokka Mallee Kwongan Eucalyptus Sundew Smith Jones Brown Williams Taylor Wilson Johnson Martin Lee Anderson Thompson Thomas White Davies Walker Edwards Harris Nguyen Scott Wright Tisnal Gunning Milyeannup Blackwood Jarrahwood Beedelup Beade Northcliffe Shannon Augusta Leeuwin Naturaliste Pemberton Manjimup Tran Nannup Baudin Lobster Peterson Bindoon Yanchep Caraban Julimar
+dynasty_names,Honeypossum Wallaby Quokka Mallee Kwongan Eucalyptus Sundew Smith Jones Brown Williams Taylor Wilson Johnson Martin Lee Anderson Thompson Thomas White Davies Walker Edwards Harris Nguyen Scott Wright Tisnal Gunning Milyeannup Blackwood Jarrahwood Beedelup Beade Northcliffe Shannon Augusta Leeuwin Naturaliste Pemberton Manjimup Tran Nannup Baudin Lobster Peterson Bindoon Yanchep Caraban Julimar
+dynasty_of_location_prefix,of
+pat_grf_name_chance,33
+mat_grf_name_chance,33
+father_name_chance,33
+pat_grm_name_chance,33
+mat_grm_name_chance,33
+mother_name_chance,33
+patronym_prefix_male,x
+patronym_prefix_male_vowel,x
+patronym_prefix_female,x
+patronym_prefix_female_vowel,x
+patronym_suffix_male,x
+patronym_suffix_female,x
+always_use_patronym,no
+african,1
+arab,3
+east_african,x
+slavic_blond,x
+slavic_ginger,x
+slavic_brown_hair,x
+slavic_dark_hair,x
+circumpolar_dark_hair,x
+circumpolar_brown_hair,x
+circumpolar_blonde_hair,x
+caucasian_northern_blond,x
+caucasian_northern_ginger,x
+caucasian_northern_brown_hair,x
+caucasian_northern_dark_hair,x
+caucasian_blond,20
+caucasian_ginger,8
+caucasian_brown_hair,20
+caucasian_dark_hair,20
+asian,12
+indian,4
+mediterranean_byzantine,2
+south_indian,x
+slavic_northern_blond,x
+slavic_northern_ginger,x
+slavic_northern_brown_hair,x
+slavic_northern_dark_hair,x
+mediterranean,10
+culture_name,esperentian
+culture_coa,western_coa_gfx
+mercenary_names,swords_of_esperance
+color,124 63 143
+character_modifier,x
+male_names,Oliver Noah Jack Leo Charlie William Lucas James Thomas Elijah Henry Liam Hudson Levi Oscar Mason Lachlan Archie Hunter Theodore Max Luca Harvey Logan Harrison Xavier Aelfgar Aethelbert Aethelric Bada Beorhtric Ceadda Cenric Deorwine Edmund Edgar Hrothulf Beowulf Osmund Osgar Wynnstan Louis
+female_names,Isla Olivia Mia Charlotte Ava Amelia Grace Ella Matilda Isabella Sophie Chloe Willow Evelyn Harper Evie Zoe Sophia Ruby Ivy Emily Mia Lucy Sienna Hannah Ellie Alice Lily Ethelflad Cyneburg Eadburg Eoforhild Frithuswith Godgifu Godiva Hilda Wassa Wilburg Wulfrun
+cadet_dynasty_names,Honeypossum Wallaby Quokka Mallee Kwongan Eucalyptus Sundew Smith Jones Brown Williams Taylor Wilson Johnson Martin Lee Anderson Thompson Thomas White Davies Walker Edwards Harris Nguyen Scott Wright Tisnal Gunning Milyeannup Blackwood Jarrahwood Beedelup Beade Northcliffe Shannon Augusta Leeuwin Naturaliste Pemberton Manjimup Tran Nannup Baudin Lobster Peterson Bindoon Yanchep Caraban Julimar
+dynasty_names,Honeypossum Wallaby Quokka Mallee Kwongan Eucalyptus Sundew Smith Jones Brown Williams Taylor Wilson Johnson Martin Lee Anderson Thompson Thomas White Davies Walker Edwards Harris Nguyen Scott Wright Tisnal Gunning Milyeannup Blackwood Jarrahwood Beedelup Beade Northcliffe Shannon Augusta Leeuwin Naturaliste Pemberton Manjimup Tran Nannup Baudin Lobster Peterson Bindoon Yanchep Caraban Julimar
+dynasty_of_location_prefix,of
+pat_grf_name_chance,33
+mat_grf_name_chance,33
+father_name_chance,33
+pat_grm_name_chance,33
+mat_grm_name_chance,33
+mother_name_chance,33
+patronym_prefix_male,x
+patronym_prefix_male_vowel,x
+patronym_prefix_female,x
+patronym_prefix_female_vowel,x
+patronym_suffix_male,x
+patronym_suffix_female,x
+always_use_patronym,no
+african,1
+arab,3
+east_african,x
+slavic_blond,x
+slavic_ginger,x
+slavic_brown_hair,x
+slavic_dark_hair,x
+circumpolar_dark_hair,x
+circumpolar_brown_hair,x
+circumpolar_blonde_hair,x
+caucasian_northern_blond,x
+caucasian_northern_ginger,x
+caucasian_northern_brown_hair,x
+caucasian_northern_dark_hair,x
+caucasian_blond,20
+caucasian_ginger,8
+caucasian_brown_hair,20
+caucasian_dark_hair,20
+asian,12
+indian,4
+mediterranean_byzantine,2
+south_indian,x
+slavic_northern_blond,x
+slavic_northern_ginger,x
+slavic_northern_brown_hair,x
+slavic_northern_dark_hair,x
+mediterranean,10

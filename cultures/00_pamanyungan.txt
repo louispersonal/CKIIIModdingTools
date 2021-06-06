@@ -1,0 +1,362 @@
+pama_nyungan_group = {
+
+	mercenary_names = {
+		{ name = "mercenary_company_pama_warriors" }
+	}
+
+	graphical_cultures = {
+		west_african_group_coa_gfx
+		african_building_gfx
+		african_clothing_gfx
+		sub_sahran_unit_gfx
+	}
+
+	ngumpin_yapa = {
+		graphical_cultures = {
+			west_african_group_coa_gfx
+		}
+
+		mercenary_names = {
+			{ name = "mercenary_company_tanami_band" }
+		}
+
+		color = { 201 0 0  }
+
+		male_names = {
+			Itethe Amulte Irlpmenye Arethape Antyipere Kwepalpale Thipe Uthnaye Alhwe Mweremwenke Ulhelke Ngkwerne Akurrknge Arteke Aparre Intelyapelyape Atywe Apmere Alkngatherrke Arnperrke Ampe Arrutne Angkulye Angkwene Lhere Angepe Akeke Urnteme Ingwethnele Arlte Aternnge Ulpmernte Irretye Arlpe Kwarte Amake Alknge Alkngarnte Inngerre
+		}
+		female_names = {
+			Tywepmare Ure Alepe Alkngenthe Amenge Ingke Antyetyerre Mpwaltye Arlewatyerre Mwarre Name Iltywiltye Inteltye Atheke Arntwerreme Apere Apwerteke Alte Kaperte Ulthentye Atnware Intyware Ulampulampe Rwelyerwelye Nanthe Warle Angayakwe Ingwele Aherre Parlkenge Ampere Karnemarre Arreme Arrpwere Arrpwere Amiwarre Unyerre Thakwere Arrakerte Ingwe
+		}
+		cadet_dynasty_names = {
+			"dynn_Arrthwarrthwa"
+			"dynn_Alhe"
+			"dynn_Kwetere"
+			"dynn_Alaye"
+			"dynn_Lhwampe"
+			"dynn_Inarlenge"
+			"dynn_Nyemale"
+			"dynn_Thetheke"
+			"dynn_Utyipme"
+			"dynn_Arlpatye"
+			"dynn_Arrwe"
+			"dynn_Artekerre"
+			"dynn_Antulye"
+			"dynn_Ntarne"
+			"dynn_Arrirlpe"
+			"dynn_Mpetyane"
+			"dynn_Angale"
+			"dynn_Pengarte"
+			"dynn_Penangke"
+			"dynn_Alkere"
+			"dynn_Ntyerneke"
+			"dynn_Apmwe"
+			"dynn_Irrtyarte"
+			"dynn_Inurle"
+			"dynn_Aywerte"
+			"dynn_Alyeke"
+			"dynn_Apwerte"
+			"dynn_Artnepwe"
+			"dynn_Alenye"
+			"dynn_Remaye"
+			"dynn_Angkertangkerte"
+			"dynn_Pmwarepmware"
+			"dynn_Kwatye"
+			"dynn_Langkwe"
+			"dynn_Yalke"
+			"dynn_Atwakeye"
+			"dynn_Arrutnenge"
+			"dynn_Irlpmane"
+		}
+
+		dynasty_names = {
+			"dynn_Arrthwarrthwa"
+			"dynn_Alhe"
+			"dynn_Kwetere"
+			"dynn_Alaye"
+			"dynn_Lhwampe"
+			"dynn_Inarlenge"
+			"dynn_Nyemale"
+			"dynn_Thetheke"
+			"dynn_Utyipme"
+			"dynn_Arlpatye"
+			"dynn_Arrwe"
+			"dynn_Artekerre"
+			"dynn_Antulye"
+			"dynn_Ntarne"
+			"dynn_Arrirlpe"
+			"dynn_Mpetyane"
+			"dynn_Angale"
+			"dynn_Pengarte"
+			"dynn_Penangke"
+			"dynn_Alkere"
+			"dynn_Ntyerneke"
+			"dynn_Apmwe"
+			"dynn_Irrtyarte"
+			"dynn_Inurle"
+			"dynn_Aywerte"
+			"dynn_Alyeke"
+			"dynn_Apwerte"
+			"dynn_Artnepwe"
+			"dynn_Alenye"
+			"dynn_Remaye"
+			"dynn_Angkertangkerte"
+			"dynn_Pmwarepmware"
+			"dynn_Kwatye"
+			"dynn_Langkwe"
+			"dynn_Yalke"
+			"dynn_Atwakeye"
+			"dynn_Arrutnenge"
+			"dynn_Irlpmane"
+		}
+
+		dynasty_of_location_prefix = "dynnp_nge"
+
+		pat_grf_name_chance = 33
+		mat_grf_name_chance = 33
+		father_name_chance = 33
+		pat_grm_name_chance = 33
+		mat_grm_name_chance = 33
+		mother_name_chance = 33
+		always_use_patronym = no
+
+		ethnicities = {
+			african = 90
+			east_african = 10
+		}
+
+	}
+
+	arrernte = {
+		graphical_cultures = {
+			west_african_group_coa_gfx
+		}
+
+		mercenary_names = {
+			{ name = "mercenary_company_bularnu_spears" }
+		}
+
+		color = { 180 0 0 }
+
+		male_names = {
+			Itethe Amulte Irlpmenye Arethape Antyipere Kwepalpale Thipe Uthnaye Alhwe Mweremwenke Ulhelke Ngkwerne Akurrknge Arteke Aparre Intelyapelyape Atywe Apmere Alkngatherrke Arnperrke Ampe Arrutne Angkulye Angkwene Lhere Angepe Akeke Urnteme Ingwethnele Arlte Aternnge Ulpmernte Irretye Arlpe Kwarte Amake Alknge Alkngarnte Inngerre
+		}
+		female_names = {
+			Tywepmare Ure Alepe Alkngenthe Amenge Ingke Antyetyerre Mpwaltye Arlewatyerre Mwarre Name Iltywiltye Inteltye Atheke Arntwerreme Apere Apwerteke Alte Kaperte Ulthentye Atnware Intyware Ulampulampe Rwelyerwelye Nanthe Warle Angayakwe Ingwele Aherre Parlkenge Ampere Karnemarre Arreme Arrpwere Arrpwere Amiwarre Unyerre Thakwere Arrakerte Ingwe
+		}
+		cadet_dynasty_names = {
+			"dynn_Arrthwarrthwa"
+			"dynn_Alhe"
+			"dynn_Kwetere"
+			"dynn_Alaye"
+			"dynn_Lhwampe"
+			"dynn_Inarlenge"
+			"dynn_Nyemale"
+			"dynn_Thetheke"
+			"dynn_Utyipme"
+			"dynn_Arlpatye"
+			"dynn_Arrwe"
+			"dynn_Artekerre"
+			"dynn_Antulye"
+			"dynn_Ntarne"
+			"dynn_Arrirlpe"
+			"dynn_Mpetyane"
+			"dynn_Angale"
+			"dynn_Pengarte"
+			"dynn_Penangke"
+			"dynn_Alkere"
+			"dynn_Ntyerneke"
+			"dynn_Apmwe"
+			"dynn_Irrtyarte"
+			"dynn_Inurle"
+			"dynn_Aywerte"
+			"dynn_Alyeke"
+			"dynn_Apwerte"
+			"dynn_Artnepwe"
+			"dynn_Alenye"
+			"dynn_Remaye"
+			"dynn_Angkertangkerte"
+			"dynn_Pmwarepmware"
+			"dynn_Kwatye"
+			"dynn_Langkwe"
+			"dynn_Yalke"
+			"dynn_Atwakeye"
+			"dynn_Arrutnenge"
+			"dynn_Irlpmane"
+		}
+
+		dynasty_names = {
+			"dynn_Arrthwarrthwa"
+			"dynn_Alhe"
+			"dynn_Kwetere"
+			"dynn_Alaye"
+			"dynn_Lhwampe"
+			"dynn_Inarlenge"
+			"dynn_Nyemale"
+			"dynn_Thetheke"
+			"dynn_Utyipme"
+			"dynn_Arlpatye"
+			"dynn_Arrwe"
+			"dynn_Artekerre"
+			"dynn_Antulye"
+			"dynn_Ntarne"
+			"dynn_Arrirlpe"
+			"dynn_Mpetyane"
+			"dynn_Angale"
+			"dynn_Pengarte"
+			"dynn_Penangke"
+			"dynn_Alkere"
+			"dynn_Ntyerneke"
+			"dynn_Apmwe"
+			"dynn_Irrtyarte"
+			"dynn_Inurle"
+			"dynn_Aywerte"
+			"dynn_Alyeke"
+			"dynn_Apwerte"
+			"dynn_Artnepwe"
+			"dynn_Alenye"
+			"dynn_Remaye"
+			"dynn_Angkertangkerte"
+			"dynn_Pmwarepmware"
+			"dynn_Kwatye"
+			"dynn_Langkwe"
+			"dynn_Yalke"
+			"dynn_Atwakeye"
+			"dynn_Arrutnenge"
+			"dynn_Irlpmane"
+		}
+
+		dynasty_of_location_prefix = "dynnp_nge"
+
+		pat_grf_name_chance = 33
+		mat_grf_name_chance = 33
+		father_name_chance = 33
+		pat_grm_name_chance = 33
+		mat_grm_name_chance = 33
+		mother_name_chance = 33
+		always_use_patronym = no
+
+		ethnicities = {
+			african = 90
+			east_african = 10
+		}
+
+	}
+
+	ngarna = {
+		graphical_cultures = {
+			west_african_group_coa_gfx
+		}
+
+		mercenary_names = {
+			{ name = "mercenary_company_ngarna_band" }
+		}
+
+		color = { 150 }
+
+		male_names = {
+			Itethe Amulte Irlpmenye Arethape Antyipere Kwepalpale Thipe Uthnaye Alhwe Mweremwenke Ulhelke Ngkwerne Akurrknge Arteke Aparre Intelyapelyape Atywe Apmere Alkngatherrke Arnperrke Ampe Arrutne Angkulye Angkwene Lhere Angepe Akeke Urnteme Ingwethnele Arlte Aternnge Ulpmernte Irretye Arlpe Kwarte Amake Alknge Alkngarnte Inngerre
+		}
+		female_names = {
+			Tywepmare Ure Alepe Alkngenthe Amenge Ingke Antyetyerre Mpwaltye Arlewatyerre Mwarre Name Iltywiltye Inteltye Atheke Arntwerreme Apere Apwerteke Alte Kaperte Ulthentye Atnware Intyware Ulampulampe Rwelyerwelye Nanthe Warle Angayakwe Ingwele Aherre Parlkenge Ampere Karnemarre Arreme Arrpwere Arrpwere Amiwarre Unyerre Thakwere Arrakerte Ingwe
+		}
+		cadet_dynasty_names = {
+			"dynn_Arrthwarrthwa"
+			"dynn_Alhe"
+			"dynn_Kwetere"
+			"dynn_Alaye"
+			"dynn_Lhwampe"
+			"dynn_Inarlenge"
+			"dynn_Nyemale"
+			"dynn_Thetheke"
+			"dynn_Utyipme"
+			"dynn_Arlpatye"
+			"dynn_Arrwe"
+			"dynn_Artekerre"
+			"dynn_Antulye"
+			"dynn_Ntarne"
+			"dynn_Arrirlpe"
+			"dynn_Mpetyane"
+			"dynn_Angale"
+			"dynn_Pengarte"
+			"dynn_Penangke"
+			"dynn_Alkere"
+			"dynn_Ntyerneke"
+			"dynn_Apmwe"
+			"dynn_Irrtyarte"
+			"dynn_Inurle"
+			"dynn_Aywerte"
+			"dynn_Alyeke"
+			"dynn_Apwerte"
+			"dynn_Artnepwe"
+			"dynn_Alenye"
+			"dynn_Remaye"
+			"dynn_Angkertangkerte"
+			"dynn_Pmwarepmware"
+			"dynn_Kwatye"
+			"dynn_Langkwe"
+			"dynn_Yalke"
+			"dynn_Atwakeye"
+			"dynn_Arrutnenge"
+			"dynn_Irlpmane"
+		}
+
+		dynasty_names = {
+			"dynn_Arrthwarrthwa"
+			"dynn_Alhe"
+			"dynn_Kwetere"
+			"dynn_Alaye"
+			"dynn_Lhwampe"
+			"dynn_Inarlenge"
+			"dynn_Nyemale"
+			"dynn_Thetheke"
+			"dynn_Utyipme"
+			"dynn_Arlpatye"
+			"dynn_Arrwe"
+			"dynn_Artekerre"
+			"dynn_Antulye"
+			"dynn_Ntarne"
+			"dynn_Arrirlpe"
+			"dynn_Mpetyane"
+			"dynn_Angale"
+			"dynn_Pengarte"
+			"dynn_Penangke"
+			"dynn_Alkere"
+			"dynn_Ntyerneke"
+			"dynn_Apmwe"
+			"dynn_Irrtyarte"
+			"dynn_Inurle"
+			"dynn_Aywerte"
+			"dynn_Alyeke"
+			"dynn_Apwerte"
+			"dynn_Artnepwe"
+			"dynn_Alenye"
+			"dynn_Remaye"
+			"dynn_Angkertangkerte"
+			"dynn_Pmwarepmware"
+			"dynn_Kwatye"
+			"dynn_Langkwe"
+			"dynn_Yalke"
+			"dynn_Atwakeye"
+			"dynn_Arrutnenge"
+			"dynn_Irlpmane"
+		}
+
+		dynasty_of_location_prefix = "dynnp_nge"
+
+		pat_grf_name_chance = 33
+		mat_grf_name_chance = 33
+		father_name_chance = 33
+		pat_grm_name_chance = 33
+		mat_grm_name_chance = 33
+		mother_name_chance = 33
+		always_use_patronym = no
+
+		ethnicities = {
+			african = 90
+			east_african = 10
+		}
+
+	}
+
+}

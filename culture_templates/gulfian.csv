@@ -1,0 +1,107 @@
+Parameter,Example
+name_of_culture_group,gulfian_group
+mercenary_names,mankalkakiyi
+group_coa,west_african_group_coa_gfx
+group_building,african_building_gfx
+group_clothing,african_clothing_gfx
+group_unit,sub_sahran_unit_gfx
+culture_name,yanyuwa
+culture_coa,west_african_group_coa_gfx
+mercenary_names,kalayakanjirri
+color,42 176 120
+character_modifier,x
+male_names,Nidjanganjdji Gadji Gunda Banda Djalu Wagudimba Warrnguna Ruri Ngawamba Bayagada Miguyadji Djuga Yanyu Aadumu Andanyuka Babadama Babarramila Babatharrija Babawurda Bajayi Baju Balanda Barlbaji Barrdula Barrkudukudu Bathamatha Binjalangu Birribiriikama Bunaja Bungkuwakayu Burdi Burrayi Buthaluba Dambulyama Dimunthu Dinkawu Dingkaji Dinthali DIrdiyalma Dungkurramaji Jaalarri Jabarlwulaya Jalangki Jamayila Jambarra Jamarndarrka Jamika Jarrababirli Jawijalma Jawubaluba Jawularriyanba Jungkuridiridi Jurli Jurungujurungu Jurrngi Jurruji Jurrunga Kardawalanji Karrandima Karrijiji Karrmuji Kayangajbarli Kulaburrma Kurrburdu Kurrkurr Lajumba Lirryarri Lithi Lhawulhawu Mabalirri Majala Malwangku Mamudibarrku Mamurriyatha Manaruki Mangayi Marndamarndaariku Marramiki Marrirnkinya Marrkulkardu Mawubulijimayarrikarri Mawurrinya Mundumundumara Munduwalawala Murdtha Murnudu Naluwulwari Namilwirri Narnungawurruwurru Narnuwungkuwungku Nawakin Nayuru Ngajbungajbulama Ngangangayu Nguku Nyilba Rakawurima Rijirrngu Wajamara Wajiramba Walanthumantha Walayungkuma Waliyangkayangka Walungurrungurru Wangkarrawi Wangkirrimaji Wanthawantha Wanumurlayi Warrangkawarrangka Warranthuwa Widamara Wiringmirri Wulbinku Wunakathangu Wundirrwuku Wungunya Wurnkurli Wuruldama Wurrumungkumungku Yabadurru Yabamana Yanjarra Yukajimaji Yulungurri Yungkayiyungka
+female_names,Djura Djibarri Bundai Gugudu Miya Gugulimba Djiguwarra Walidji Mama Djulagi Djamba Yurrngumba Yanyu Aajundu Anthawarramara Aralkara Babajukuwa Bajamalanya Barndubarnduwathari Bayuma Birlimbirlma Birribalanja Bujubirna Bukundumara Dililinyma Diwangkuna Jalirduma Jawathama Jawiburruma Jawirrabaruma Kangkarrija Kanjujamara Karrakayn Kaykalarn Kithibula Larrlya Malandirri Malandumara Mambalwarrka Manamarrilu Manbakuwaku Manankurrmara Muluwamara Muyurrkulmanya Ninganga Ngajarrmara Ngarrikalu Nyamuri Nyilma Walimungku Walwalmara Wabadurna Wanajabi Wantha
+cadet_dynasty_names,Mankalka Warriyangalayawu Ngurdungurdu Warnanjawiji Ihangkamulhil Rimi Rabu Muwarda Bayibayi Baliyarra Watha Bawa Ngirlangirla Thubathuba Mirrbundu Wulkangu Mirrimirri Mawurraji Wurrbingani Balangu Warranthangu Wurluwurlu Walma Balamurru Kuyamarra Ngarlika Barruwa Biwali Karnbulanyi Wirrbi Diwurruwurru Mayalungku Ngarrkidikidi Minjirranthu Mingkirrathu Bunarra Birnkili Wirlmurr Wirnmurr Jangani Jaramarra Yalkiyalki Kiyinykiyi Kungkabubu Yurluyurluwiji Jaburriyarra Kuranthulkuranthul Ihukan
+dynasty_names,Mankalka Warriyangalayawu Ngurdungurdu Warnanjawiji Ihangkamulhil Rimi Rabu Muwarda Bayibayi Baliyarra Watha Bawa Ngirlangirla Thubathuba Mirrbundu Wulkangu Mirrimirri Mawurraji Wurrbingani Balangu Warranthangu Wurluwurlu Walma Balamurru Kuyamarra Ngarlika Barruwa Biwali Karnbulanyi Wirrbi Diwurruwurru Mayalungku Ngarrkidikidi Minjirranthu Mingkirrathu Bunarra Birnkili Wirlmurr Wirnmurr Jangani Jaramarra Yalkiyalki Kiyinykiyi Kungkabubu Yurluyurluwiji Jaburriyarra Kuranthulkuranthul Ihukan
+dynasty_of_location_prefix,jibiya
+pat_grf_name_chance,33
+mat_grf_name_chance,33
+father_name_chance,33
+pat_grm_name_chance,33
+mat_grm_name_chance,33
+mother_name_chance,33
+patronym_prefix_male,x
+patronym_prefix_male_vowel,x
+patronym_prefix_female,x
+patronym_prefix_female_vowel,x
+patronym_suffix_male,x
+patronym_suffix_female,x
+always_use_patronym,no
+african,90
+arab,x
+east_african,10
+slavic_blond,x
+slavic_ginger,x
+slavic_brown_hair,x
+slavic_dark_hair,x
+circumpolar_dark_hair,x
+circumpolar_brown_hair,x
+circumpolar_blonde_hair,x
+caucasian_northern_blond,x
+caucasian_northern_ginger,x
+caucasian_northern_brown_hair,x
+caucasian_northern_dark_hair,x
+caucasian_blond,x
+caucasian_ginger,x
+caucasian_brown_hair,x
+caucasian_dark_hair,x
+asian,x
+indian,x
+mediterranean_byzantine,x
+south_indian,x
+slavic_northern_blond,x
+slavic_northern_ginger,x
+slavic_northern_brown_hair,x
+slavic_northern_dark_hair,x
+mediterranean,x
+culture_name,garrwa
+culture_coa,west_african_group_coa_gfx
+mercenary_names,kalayakanjirri
+color,22 156 100
+character_modifier,x
+male_names,Nidjanganjdji Gadji Gunda Banda Djalu Wagudimba Warrnguna Ruri Ngawamba Bayagada Miguyadji Djuga Yanyu Aadumu Andanyuka Babadama Babarramila Babatharrija Babawurda Bajayi Baju Balanda Barlbaji Barrdula Barrkudukudu Bathamatha Binjalangu Birribiriikama Bunaja Bungkuwakayu Burdi Burrayi Buthaluba Dambulyama Dimunthu Dinkawu Dingkaji Dinthali DIrdiyalma Dungkurramaji Jaalarri Jabarlwulaya Jalangki Jamayila Jambarra Jamarndarrka Jamika Jarrababirli Jawijalma Jawubaluba Jawularriyanba Jungkuridiridi Jurli Jurungujurungu Jurrngi Jurruji Jurrunga Kardawalanji Karrandima Karrijiji Karrmuji Kayangajbarli Kulaburrma Kurrburdu Kurrkurr Lajumba Lirryarri Lithi Lhawulhawu Mabalirri Majala Malwangku Mamudibarrku Mamurriyatha Manaruki Mangayi Marndamarndaariku Marramiki Marrirnkinya Marrkulkardu Mawubulijimayarrikarri Mawurrinya Mundumundumara Munduwalawala Murdtha Murnudu Naluwulwari Namilwirri Narnungawurruwurru Narnuwungkuwungku Nawakin Nayuru Ngajbungajbulama Ngangangayu Nguku Nyilba Rakawurima Rijirrngu Wajamara Wajiramba Walanthumantha Walayungkuma Waliyangkayangka Walungurrungurru Wangkarrawi Wangkirrimaji Wanthawantha Wanumurlayi Warrangkawarrangka Warranthuwa Widamara Wiringmirri Wulbinku Wunakathangu Wundirrwuku Wungunya Wurnkurli Wuruldama Wurrumungkumungku Yabadurru Yabamana Yanjarra Yukajimaji Yulungurri Yungkayiyungka
+female_names,Djura Djibarri Bundai Gugudu Miya Gugulimba Djiguwarra Walidji Mama Djulagi Djamba Yurrngumba Yanyu Aajundu Anthawarramara Aralkara Babajukuwa Bajamalanya Barndubarnduwathari Bayuma Birlimbirlma Birribalanja Bujubirna Bukundumara Dililinyma Diwangkuna Jalirduma Jawathama Jawiburruma Jawirrabaruma Kangkarrija Kanjujamara Karrakayn Kaykalarn Kithibula Larrlya Malandirri Malandumara Mambalwarrka Manamarrilu Manbakuwaku Manankurrmara Muluwamara Muyurrkulmanya Ninganga Ngajarrmara Ngarrikalu Nyamuri Nyilma Walimungku Walwalmara Wabadurna Wanajabi Wantha
+cadet_dynasty_names,Mankalka Warriyangalayawu Ngurdungurdu Warnanjawiji Ihangkamulhil Rimi Rabu Muwarda Bayibayi Baliyarra Watha Bawa Ngirlangirla Thubathuba Mirrbundu Wulkangu Mirrimirri Mawurraji Wurrbingani Balangu Warranthangu Wurluwurlu Walma Balamurru Kuyamarra Ngarlika Barruwa Biwali Karnbulanyi Wirrbi Diwurruwurru Mayalungku Ngarrkidikidi Minjirranthu Mingkirrathu Bunarra Birnkili Wirlmurr Wirnmurr Jangani Jaramarra Yalkiyalki Kiyinykiyi Kungkabubu Yurluyurluwiji Jaburriyarra Kuranthulkuranthul Ihukan
+dynasty_names,Mankalka Warriyangalayawu Ngurdungurdu Warnanjawiji Ihangkamulhil Rimi Rabu Muwarda Bayibayi Baliyarra Watha Bawa Ngirlangirla Thubathuba Mirrbundu Wulkangu Mirrimirri Mawurraji Wurrbingani Balangu Warranthangu Wurluwurlu Walma Balamurru Kuyamarra Ngarlika Barruwa Biwali Karnbulanyi Wirrbi Diwurruwurru Mayalungku Ngarrkidikidi Minjirranthu Mingkirrathu Bunarra Birnkili Wirlmurr Wirnmurr Jangani Jaramarra Yalkiyalki Kiyinykiyi Kungkabubu Yurluyurluwiji Jaburriyarra Kuranthulkuranthul Ihukan
+dynasty_of_location_prefix,jibiya
+pat_grf_name_chance,33
+mat_grf_name_chance,33
+father_name_chance,33
+pat_grm_name_chance,33
+mat_grm_name_chance,33
+mother_name_chance,33
+patronym_prefix_male,x
+patronym_prefix_male_vowel,x
+patronym_prefix_female,x
+patronym_prefix_female_vowel,x
+patronym_suffix_male,x
+patronym_suffix_female,x
+always_use_patronym,no
+african,90
+arab,x
+east_african,10
+slavic_blond,x
+slavic_ginger,x
+slavic_brown_hair,x
+slavic_dark_hair,x
+circumpolar_dark_hair,x
+circumpolar_brown_hair,x
+circumpolar_blonde_hair,x
+caucasian_northern_blond,x
+caucasian_northern_ginger,x
+caucasian_northern_brown_hair,x
+caucasian_northern_dark_hair,x
+caucasian_blond,x
+caucasian_ginger,x
+caucasian_brown_hair,x
+caucasian_dark_hair,x
+asian,x
+indian,x
+mediterranean_byzantine,x
+south_indian,x
+slavic_northern_blond,x
+slavic_northern_ginger,x
+slavic_northern_brown_hair,x
+slavic_northern_dark_hair,x
+mediterranean,x

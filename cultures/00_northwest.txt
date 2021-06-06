@@ -1,0 +1,443 @@
+northwest_group = {
+
+	mercenary_names = {
+		{ name = "mercenary_company_pilbaran_brotherhood" }
+	}
+
+	graphical_cultures = {
+		western_coa_gfx
+		western_building_gfx
+		western_clothing_gfx
+		western_unit_gfx
+	}
+
+	pilbaran = {
+		graphical_cultures = {
+			western_coa_gfx
+		}
+
+		mercenary_names = {
+			{ name = "mercenary_company_spears_of_the_red_sands" }
+		}
+
+		color = { 250 137 0 }
+
+		male_names = {
+			Gus Vito Stanton Forest Harold Javier Nathan Elden Brendon Bryce Shelton Ted Phil Allen Trenton Gerald Lloyd Cristobal Emerson Harley Jeramy Angel James Josue Mary Chad Alberto Colin Jermaine Son Stewart Don Steven Trent Ezequiel Len Ramon Nicolas Jarod Miles Alan Tommy Anthony Aurelio Dane Darrell Toney Arnold Howard Hilario
+		}
+		female_names = {
+			Ivelisse Kyung Miesha Marjory Ernestina Celena Beckie Linn Porsha Asuncion Arnette Treva Lynell Nelda Shella Vicenta Marth Valery Brigitte Keli Martina Debrah Lelia Elda Nery Britney Kacey Lawana Paola Jene Kristan Yang Pam Lenna Willodean Sharee Melany Kemberly Lyn Nathalie Margie Jung Jeneva Toshia Versie Tawna Carmel Altha Jacqueline Reatha
+		}
+		cadet_dynasty_names = {
+			"dynn_Acacia"
+			"dynn_Triodia"
+			"dynn_Creek"
+			"dynn_Streamsip"
+			"dynn_Python"
+			"dynn_Pebblemound"
+			"dynn_Ningaui"
+			"dynn_Hamersley"
+			"dynn_Hobbes"
+			"dynn_Nankeen"
+			"dynn_Harrier"
+			"dynn_Mulga"
+			"dynn_Budgerigar"
+			"dynn_Gregs"
+			"dynn_Regent"
+			"dynn_Shale"
+			"dynn_Sandy"
+			"dynn_Burnback"
+			"dynn_Gorger"
+			"dynn_Dales"
+			"dynn_Dealy"
+			"dynn_Feeny"
+			"dynn_Shade"
+			"dynn_Buck"
+			"dynn_Robe"
+			"dynn_Roberts"
+			"dynn_Redrock"
+			"dynn_Baobab"
+			"dynn_Hunter"
+			"dynn_Speary"
+			"dynn_Criggle"
+			"dynn_Mantle"
+			"dynn_Fortescue"
+			"dynn_Gadge"
+			"dynn_Roy"
+			"dynn_Chichester"
+			"dynn_Millstream"
+			"dynn_Mills"
+			"dynn_Dampier"
+			"dynn_Pilfer"
+			"dynn_Lortle"
+			"dynn_Grazer"
+			"dynn_Munch"
+			"dynn_Woodside"
+			"dynn_Woodburn"
+			"dynn_Cowshead"
+			"dynn_Hedland"
+			"dynn_Boodarie"
+			"dynn_Lambert"
+			"dynn_Anketell"
+		}
+
+		dynasty_names = {
+			"dynn_Acacia"
+			"dynn_Triodia"
+			"dynn_Creek"
+			"dynn_Streamsip"
+			"dynn_Python"
+			"dynn_Pebblemound"
+			"dynn_Ningaui"
+			"dynn_Hamersley"
+			"dynn_Hobbes"
+			"dynn_Nankeen"
+			"dynn_Harrier"
+			"dynn_Mulga"
+			"dynn_Budgerigar"
+			"dynn_Gregs"
+			"dynn_Regent"
+			"dynn_Shale"
+			"dynn_Sandy"
+			"dynn_Burnback"
+			"dynn_Gorger"
+			"dynn_Dales"
+			"dynn_Dealy"
+			"dynn_Feeny"
+			"dynn_Shade"
+			"dynn_Buck"
+			"dynn_Robe"
+			"dynn_Roberts"
+			"dynn_Redrock"
+			"dynn_Baobab"
+			"dynn_Hunter"
+			"dynn_Speary"
+			"dynn_Criggle"
+			"dynn_Mantle"
+			"dynn_Fortescue"
+			"dynn_Gadge"
+			"dynn_Roy"
+			"dynn_Chichester"
+			"dynn_Millstream"
+			"dynn_Mills"
+			"dynn_Dampier"
+			"dynn_Pilfer"
+			"dynn_Lortle"
+			"dynn_Grazer"
+			"dynn_Munch"
+			"dynn_Woodside"
+			"dynn_Woodburn"
+			"dynn_Cowshead"
+			"dynn_Hedland"
+			"dynn_Boodarie"
+			"dynn_Lambert"
+			"dynn_Anketell"
+		}
+
+		dynasty_of_location_prefix = "dynnp_of"
+
+		pat_grf_name_chance = 33
+		mat_grf_name_chance = 33
+		father_name_chance = 33
+		pat_grm_name_chance = 33
+		mat_grm_name_chance = 33
+		mother_name_chance = 33
+		always_use_patronym = no
+
+		ethnicities = {
+			african = 35
+			caucasian_northern_blond = 5
+			caucasian_northern_ginger = 5
+			caucasian_northern_brown_hair = 20
+			caucasian_northern_dark_hair = 35
+		}
+
+	}
+
+	gascoynian = {
+		graphical_cultures = {
+			western_coa_gfx
+		}
+
+		mercenary_names = {
+			{ name = "mercenary_company_swords_of_gascoyne" }
+		}
+
+		color = { 250 110 0 }
+
+		male_names = {
+			Gus Vito Stanton Forest Harold Javier Nathan Elden Brendon Bryce Shelton Ted Phil Allen Trenton Gerald Lloyd Cristobal Emerson Harley Jeramy Angel James Josue Mary Chad Alberto Colin Jermaine Son Stewart Don Steven Trent Ezequiel Len Ramon Nicolas Jarod Miles Alan Tommy Anthony Aurelio Dane Darrell Toney Arnold Howard Hilario
+		}
+		female_names = {
+			Ivelisse Kyung Miesha Marjory Ernestina Celena Beckie Linn Porsha Asuncion Arnette Treva Lynell Nelda Shella Vicenta Marth Valery Brigitte Keli Martina Debrah Lelia Elda Nery Britney Kacey Lawana Paola Jene Kristan Yang Pam Lenna Willodean Sharee Melany Kemberly Lyn Nathalie Margie Jung Jeneva Toshia Versie Tawna Carmel Altha Jacqueline Reatha
+		}
+		cadet_dynasty_names = {
+			"dynn_Acacia"
+			"dynn_Triodia"
+			"dynn_Creek"
+			"dynn_Streamsip"
+			"dynn_Python"
+			"dynn_Pebblemound"
+			"dynn_Ningaui"
+			"dynn_Hamersley"
+			"dynn_Hobbes"
+			"dynn_Nankeen"
+			"dynn_Harrier"
+			"dynn_Mulga"
+			"dynn_Budgerigar"
+			"dynn_Gregs"
+			"dynn_Regent"
+			"dynn_Shale"
+			"dynn_Sandy"
+			"dynn_Burnback"
+			"dynn_Gorger"
+			"dynn_Dales"
+			"dynn_Dealy"
+			"dynn_Feeny"
+			"dynn_Shade"
+			"dynn_Buck"
+			"dynn_Robe"
+			"dynn_Roberts"
+			"dynn_Redrock"
+			"dynn_Baobab"
+			"dynn_Hunter"
+			"dynn_Speary"
+			"dynn_Criggle"
+			"dynn_Mantle"
+			"dynn_Fortescue"
+			"dynn_Gadge"
+			"dynn_Roy"
+			"dynn_Chichester"
+			"dynn_Millstream"
+			"dynn_Mills"
+			"dynn_Dampier"
+			"dynn_Pilfer"
+			"dynn_Lortle"
+			"dynn_Grazer"
+			"dynn_Munch"
+			"dynn_Woodside"
+			"dynn_Woodburn"
+			"dynn_Cowshead"
+			"dynn_Hedland"
+			"dynn_Boodarie"
+			"dynn_Lambert"
+			"dynn_Anketell"
+		}
+
+		dynasty_names = {
+			"dynn_Acacia"
+			"dynn_Triodia"
+			"dynn_Creek"
+			"dynn_Streamsip"
+			"dynn_Python"
+			"dynn_Pebblemound"
+			"dynn_Ningaui"
+			"dynn_Hamersley"
+			"dynn_Hobbes"
+			"dynn_Nankeen"
+			"dynn_Harrier"
+			"dynn_Mulga"
+			"dynn_Budgerigar"
+			"dynn_Gregs"
+			"dynn_Regent"
+			"dynn_Shale"
+			"dynn_Sandy"
+			"dynn_Burnback"
+			"dynn_Gorger"
+			"dynn_Dales"
+			"dynn_Dealy"
+			"dynn_Feeny"
+			"dynn_Shade"
+			"dynn_Buck"
+			"dynn_Robe"
+			"dynn_Roberts"
+			"dynn_Redrock"
+			"dynn_Baobab"
+			"dynn_Hunter"
+			"dynn_Speary"
+			"dynn_Criggle"
+			"dynn_Mantle"
+			"dynn_Fortescue"
+			"dynn_Gadge"
+			"dynn_Roy"
+			"dynn_Chichester"
+			"dynn_Millstream"
+			"dynn_Mills"
+			"dynn_Dampier"
+			"dynn_Pilfer"
+			"dynn_Lortle"
+			"dynn_Grazer"
+			"dynn_Munch"
+			"dynn_Woodside"
+			"dynn_Woodburn"
+			"dynn_Cowshead"
+			"dynn_Hedland"
+			"dynn_Boodarie"
+			"dynn_Lambert"
+			"dynn_Anketell"
+		}
+
+		dynasty_of_location_prefix = "dynnp_of"
+
+		pat_grf_name_chance = 33
+		mat_grf_name_chance = 33
+		father_name_chance = 33
+		pat_grm_name_chance = 33
+		mat_grm_name_chance = 33
+		mother_name_chance = 33
+		always_use_patronym = no
+
+		ethnicities = {
+			african = 35
+			caucasian_northern_blond = 5
+			caucasian_northern_ginger = 5
+			caucasian_northern_brown_hair = 20
+			caucasian_northern_dark_hair = 35
+		}
+
+	}
+
+	murchison_band = {
+		graphical_cultures = {
+			western_coa_gfx
+		}
+
+		mercenary_names = {
+			{ name = "mercenary_company_spears_of_the_red_sands" }
+		}
+
+		color = { 250 80 0 }
+
+		male_names = {
+			Gus Vito Stanton Forest Harold Javier Nathan Elden Brendon Bryce Shelton Ted Phil Allen Trenton Gerald Lloyd Cristobal Emerson Harley Jeramy Angel James Josue Mary Chad Alberto Colin Jermaine Son Stewart Don Steven Trent Ezequiel Len Ramon Nicolas Jarod Miles Alan Tommy Anthony Aurelio Dane Darrell Toney Arnold Howard Hilario
+		}
+		female_names = {
+			Ivelisse Kyung Miesha Marjory Ernestina Celena Beckie Linn Porsha Asuncion Arnette Treva Lynell Nelda Shella Vicenta Marth Valery Brigitte Keli Martina Debrah Lelia Elda Nery Britney Kacey Lawana Paola Jene Kristan Yang Pam Lenna Willodean Sharee Melany Kemberly Lyn Nathalie Margie Jung Jeneva Toshia Versie Tawna Carmel Altha Jacqueline Reatha
+		}
+		cadet_dynasty_names = {
+			"dynn_Acacia"
+			"dynn_Triodia"
+			"dynn_Creek"
+			"dynn_Streamsip"
+			"dynn_Python"
+			"dynn_Pebblemound"
+			"dynn_Ningaui"
+			"dynn_Hamersley"
+			"dynn_Hobbes"
+			"dynn_Nankeen"
+			"dynn_Harrier"
+			"dynn_Mulga"
+			"dynn_Budgerigar"
+			"dynn_Gregs"
+			"dynn_Regent"
+			"dynn_Shale"
+			"dynn_Sandy"
+			"dynn_Burnback"
+			"dynn_Gorger"
+			"dynn_Dales"
+			"dynn_Dealy"
+			"dynn_Feeny"
+			"dynn_Shade"
+			"dynn_Buck"
+			"dynn_Robe"
+			"dynn_Roberts"
+			"dynn_Redrock"
+			"dynn_Baobab"
+			"dynn_Hunter"
+			"dynn_Speary"
+			"dynn_Criggle"
+			"dynn_Mantle"
+			"dynn_Fortescue"
+			"dynn_Gadge"
+			"dynn_Roy"
+			"dynn_Chichester"
+			"dynn_Millstream"
+			"dynn_Mills"
+			"dynn_Dampier"
+			"dynn_Pilfer"
+			"dynn_Lortle"
+			"dynn_Grazer"
+			"dynn_Munch"
+			"dynn_Woodside"
+			"dynn_Woodburn"
+			"dynn_Cowshead"
+			"dynn_Hedland"
+			"dynn_Boodarie"
+			"dynn_Lambert"
+			"dynn_Anketell"
+		}
+
+		dynasty_names = {
+			"dynn_Acacia"
+			"dynn_Triodia"
+			"dynn_Creek"
+			"dynn_Streamsip"
+			"dynn_Python"
+			"dynn_Pebblemound"
+			"dynn_Ningaui"
+			"dynn_Hamersley"
+			"dynn_Hobbes"
+			"dynn_Nankeen"
+			"dynn_Harrier"
+			"dynn_Mulga"
+			"dynn_Budgerigar"
+			"dynn_Gregs"
+			"dynn_Regent"
+			"dynn_Shale"
+			"dynn_Sandy"
+			"dynn_Burnback"
+			"dynn_Gorger"
+			"dynn_Dales"
+			"dynn_Dealy"
+			"dynn_Feeny"
+			"dynn_Shade"
+			"dynn_Buck"
+			"dynn_Robe"
+			"dynn_Roberts"
+			"dynn_Redrock"
+			"dynn_Baobab"
+			"dynn_Hunter"
+			"dynn_Speary"
+			"dynn_Criggle"
+			"dynn_Mantle"
+			"dynn_Fortescue"
+			"dynn_Gadge"
+			"dynn_Roy"
+			"dynn_Chichester"
+			"dynn_Millstream"
+			"dynn_Mills"
+			"dynn_Dampier"
+			"dynn_Pilfer"
+			"dynn_Lortle"
+			"dynn_Grazer"
+			"dynn_Munch"
+			"dynn_Woodside"
+			"dynn_Woodburn"
+			"dynn_Cowshead"
+			"dynn_Hedland"
+			"dynn_Boodarie"
+			"dynn_Lambert"
+			"dynn_Anketell"
+		}
+
+		dynasty_of_location_prefix = "dynnp_of"
+
+		pat_grf_name_chance = 33
+		mat_grf_name_chance = 33
+		father_name_chance = 33
+		pat_grm_name_chance = 33
+		mat_grm_name_chance = 33
+		mother_name_chance = 33
+		always_use_patronym = no
+
+		ethnicities = {
+			african = 35
+			caucasian_northern_blond = 5
+			caucasian_northern_ginger = 5
+			caucasian_northern_brown_hair = 20
+			caucasian_northern_dark_hair = 35
+		}
+
+	}
+
+}

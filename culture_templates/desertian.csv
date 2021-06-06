@@ -1,0 +1,207 @@
+Parameter,Example
+name_of_culture_group,desertian_group
+mercenary_names,anamarra_band spears_of_tjidoolyaa
+group_coa,west_african_group_coa_gfx
+group_building,indian_building_gfx
+group_clothing,african_clothing_gfx
+group_unit,sub_sahran_unit_gfx
+culture_name,kaayangi
+culture_coa,west_african_group_coa_gfx
+mercenary_names,anamarra_band spears_of_tjidoolyaa
+color,216 61 0
+character_modifier,x
+male_names,Naatitji Djebanyotji Rerdorrotji Nyerlaatji Kenyernootji Baangootji Maartootji Dootji Djirretji Koyaalyootji Rooyaarootji Waraatji Koodetji Ngetji Kimarnatji Doomitji Raanyatji Djitji Djoolyootji Kitji Djatji Yetjertaatji Wirotji Djakotji Yaanotji Orliwerd Nowa Djak Liyo Djarli Wirlyam Lookadj Djayim Domaa Erlayida Enrri Liyam Ooddjon Lewayi Okaar Mayidjon Loklin Arrdji Oonder Diyodor Mak Looka Arwi Longan Aridjon
+female_names,Naatika Djebanyoka Rerdorroka Nyerlaaka Kenyernooka Baangooka Maartooka Dooka Djirreka Koyaalyooka Rooyaarooka Waraaka Koodeka Ngeka Kimarnaka Doomika Raanyaka Djika Djoolyooka Kika Djaka Yetjertaaka Wiroka Djakoka YaanokaIlyaa Ilyaa Oliwia Miyaa Djarrlod Aiwa Amerlia Kraidj Ella Madilda Idjawella Sowi Klowi Wilo Eweliny Arrer Iwi Djowi Djowiya Roowi Aaiwi Emilyi Mila Loorly Djiyengaa Aana
+cadet_dynasty_names,Anamarra Kanparrka Kartilyka Kintingka Kiwinyi Minga Tjintilyka Tjinykura Wanatarnpa Irnura Kamulpa Karrpitji Patupirri Kuniya Ngalamirra Papanymaru Kakalangu Kuwirrkura Nyiinyii Yoomp Nolka Bila Nyola Malkar Moorditj Bibdjool Kalari Kelang Bilya Moyootj Kwangkan Djardak Djendal Moorn Mirda Yoont Boorn Djimbarl Wan Koondj Kitj Djoona Mirr Woonda Kerl Kotj Kewtj Doodjarak Warangka Koondarm Karla Bilying Naariny Booyi Daaliny
+dynasty_names,Anamarra Kanparrka Kartilyka Kintingka Kiwinyi Minga Tjintilyka Tjinykura Wanatarnpa Irnura Kamulpa Karrpitji Patupirri Kuniya Ngalamirra Papanymaru Kakalangu Kuwirrkura Nyiinyii Yoomp Nolka Bila Nyola Malkar Moorditj Bibdjool Kalari Kelang Bilya Moyootj Kwangkan Djardak Djendal Moorn Mirda Yoont Boorn Djimbarl Wan Koondj Kitj Djoona Mirr Woonda Kerl Kotj Kewtj Doodjarak Warangka Koondarm Karla Bilying Naariny Booyi Daaliny
+dynasty_of_location_prefix,ngaa
+pat_grf_name_chance,60
+mat_grf_name_chance,20
+father_name_chance,20
+pat_grm_name_chance,60
+mat_grm_name_chance,20
+mother_name_chance,20
+patronym_prefix_male,x
+patronym_prefix_male_vowel,x
+patronym_prefix_female,x
+patronym_prefix_female_vowel,x
+patronym_suffix_male,x
+patronym_suffix_female,x
+always_use_patronym,no
+african,35
+arab,35
+east_african,x
+slavic_blond,x
+slavic_ginger,x
+slavic_brown_hair,x
+slavic_dark_hair,x
+circumpolar_dark_hair,x
+circumpolar_brown_hair,x
+circumpolar_blonde_hair,x
+caucasian_northern_blond,x
+caucasian_northern_ginger,x
+caucasian_northern_brown_hair,x
+caucasian_northern_dark_hair,x
+caucasian_blond,5
+caucasian_ginger,5
+caucasian_brown_hair,5
+caucasian_dark_hair,5
+asian,x
+indian,x
+mediterranean_byzantine,x
+south_indian,x
+slavic_northern_blond,x
+slavic_northern_ginger,x
+slavic_northern_brown_hair,x
+slavic_northern_dark_hair,x
+mediterranean,10
+culture_name,barladj
+culture_coa,west_african_group_coa_gfx
+mercenary_names,anamarra_band spears_of_tjidoolyaa
+color,216 47 0
+character_modifier,x
+male_names,Naatitji Djebanyotji Rerdorrotji Nyerlaatji Kenyernootji Baangootji Maartootji Dootji Djirretji Koyaalyootji Rooyaarootji Waraatji Koodetji Ngetji Kimarnatji Doomitji Raanyatji Djitji Djoolyootji Kitji Djatji Yetjertaatji Wirotji Djakotji Yaanotji Orliwerd Nowa Djak Liyo Djarli Wirlyam Lookadj Djayim Domaa Erlayida Enrri Liyam Ooddjon Lewayi Okaar Mayidjon Loklin Arrdji Oonder Diyodor Mak Looka Arwi Longan Aridjon
+female_names,Naatika Djebanyoka Rerdorroka Nyerlaaka Kenyernooka Baangooka Maartooka Dooka Djirreka Koyaalyooka Rooyaarooka Waraaka Koodeka Ngeka Kimarnaka Doomika Raanyaka Djika Djoolyooka Kika Djaka Yetjertaaka Wiroka Djakoka YaanokaIlyaa Ilyaa Oliwia Miyaa Djarrlod Aiwa Amerlia Kraidj Ella Madilda Idjawella Sowi Klowi Wilo Eweliny Arrer Iwi Djowi Djowiya Roowi Aaiwi Emilyi Mila Loorly Djiyengaa Aana
+cadet_dynasty_names,Anamarra Kanparrka Kartilyka Kintingka Kiwinyi Minga Tjintilyka Tjinykura Wanatarnpa Irnura Kamulpa Karrpitji Patupirri Kuniya Ngalamirra Papanymaru Kakalangu Kuwirrkura Nyiinyii Yoomp Nolka Bila Nyola Malkar Moorditj Bibdjool Kalari Kelang Bilya Moyootj Kwangkan Djardak Djendal Moorn Mirda Yoont Boorn Djimbarl Wan Koondj Kitj Djoona Mirr Woonda Kerl Kotj Kewtj Doodjarak Warangka Koondarm Karla Bilying Naariny Booyi Daaliny
+dynasty_names,Anamarra Kanparrka Kartilyka Kintingka Kiwinyi Minga Tjintilyka Tjinykura Wanatarnpa Irnura Kamulpa Karrpitji Patupirri Kuniya Ngalamirra Papanymaru Kakalangu Kuwirrkura Nyiinyii Yoomp Nolka Bila Nyola Malkar Moorditj Bibdjool Kalari Kelang Bilya Moyootj Kwangkan Djardak Djendal Moorn Mirda Yoont Boorn Djimbarl Wan Koondj Kitj Djoona Mirr Woonda Kerl Kotj Kewtj Doodjarak Warangka Koondarm Karla Bilying Naariny Booyi Daaliny
+dynasty_of_location_prefix,ngaa
+pat_grf_name_chance,60
+mat_grf_name_chance,20
+father_name_chance,20
+pat_grm_name_chance,60
+mat_grm_name_chance,20
+mother_name_chance,20
+patronym_prefix_male,x
+patronym_prefix_male_vowel,x
+patronym_prefix_female,x
+patronym_prefix_female_vowel,x
+patronym_suffix_male,x
+patronym_suffix_female,x
+always_use_patronym,no
+african,35
+arab,35
+east_african,x
+slavic_blond,x
+slavic_ginger,x
+slavic_brown_hair,x
+slavic_dark_hair,x
+circumpolar_dark_hair,x
+circumpolar_brown_hair,x
+circumpolar_blonde_hair,x
+caucasian_northern_blond,x
+caucasian_northern_ginger,x
+caucasian_northern_brown_hair,x
+caucasian_northern_dark_hair,x
+caucasian_blond,5
+caucasian_ginger,5
+caucasian_brown_hair,5
+caucasian_dark_hair,5
+asian,x
+indian,x
+mediterranean_byzantine,x
+south_indian,x
+slavic_northern_blond,x
+slavic_northern_ginger,x
+slavic_northern_brown_hair,x
+slavic_northern_dark_hair,x
+mediterranean,10
+culture_name,bowanga
+culture_coa,west_african_group_coa_gfx
+mercenary_names,anamarra_band spears_of_tjidoolyaa
+color,216 30 0
+character_modifier,x
+male_names,Naatitji Djebanyotji Rerdorrotji Nyerlaatji Kenyernootji Baangootji Maartootji Dootji Djirretji Koyaalyootji Rooyaarootji Waraatji Koodetji Ngetji Kimarnatji Doomitji Raanyatji Djitji Djoolyootji Kitji Djatji Yetjertaatji Wirotji Djakotji Yaanotji Orliwerd Nowa Djak Liyo Djarli Wirlyam Lookadj Djayim Domaa Erlayida Enrri Liyam Ooddjon Lewayi Okaar Mayidjon Loklin Arrdji Oonder Diyodor Mak Looka Arwi Longan Aridjon
+female_names,Naatika Djebanyoka Rerdorroka Nyerlaaka Kenyernooka Baangooka Maartooka Dooka Djirreka Koyaalyooka Rooyaarooka Waraaka Koodeka Ngeka Kimarnaka Doomika Raanyaka Djika Djoolyooka Kika Djaka Yetjertaaka Wiroka Djakoka YaanokaIlyaa Ilyaa Oliwia Miyaa Djarrlod Aiwa Amerlia Kraidj Ella Madilda Idjawella Sowi Klowi Wilo Eweliny Arrer Iwi Djowi Djowiya Roowi Aaiwi Emilyi Mila Loorly Djiyengaa Aana
+cadet_dynasty_names,Anamarra Kanparrka Kartilyka Kintingka Kiwinyi Minga Tjintilyka Tjinykura Wanatarnpa Irnura Kamulpa Karrpitji Patupirri Kuniya Ngalamirra Papanymaru Kakalangu Kuwirrkura Nyiinyii Yoomp Nolka Bila Nyola Malkar Moorditj Bibdjool Kalari Kelang Bilya Moyootj Kwangkan Djardak Djendal Moorn Mirda Yoont Boorn Djimbarl Wan Koondj Kitj Djoona Mirr Woonda Kerl Kotj Kewtj Doodjarak Warangka Koondarm Karla Bilying Naariny Booyi Daaliny
+dynasty_names,Anamarra Kanparrka Kartilyka Kintingka Kiwinyi Minga Tjintilyka Tjinykura Wanatarnpa Irnura Kamulpa Karrpitji Patupirri Kuniya Ngalamirra Papanymaru Kakalangu Kuwirrkura Nyiinyii Yoomp Nolka Bila Nyola Malkar Moorditj Bibdjool Kalari Kelang Bilya Moyootj Kwangkan Djardak Djendal Moorn Mirda Yoont Boorn Djimbarl Wan Koondj Kitj Djoona Mirr Woonda Kerl Kotj Kewtj Doodjarak Warangka Koondarm Karla Bilying Naariny Booyi Daaliny
+dynasty_of_location_prefix,ngaa
+pat_grf_name_chance,60
+mat_grf_name_chance,20
+father_name_chance,20
+pat_grm_name_chance,60
+mat_grm_name_chance,20
+mother_name_chance,20
+patronym_prefix_male,x
+patronym_prefix_male_vowel,x
+patronym_prefix_female,x
+patronym_prefix_female_vowel,x
+patronym_suffix_male,x
+patronym_suffix_female,x
+always_use_patronym,no
+african,35
+arab,35
+east_african,x
+slavic_blond,x
+slavic_ginger,x
+slavic_brown_hair,x
+slavic_dark_hair,x
+circumpolar_dark_hair,x
+circumpolar_brown_hair,x
+circumpolar_blonde_hair,x
+caucasian_northern_blond,x
+caucasian_northern_ginger,x
+caucasian_northern_brown_hair,x
+caucasian_northern_dark_hair,x
+caucasian_blond,5
+caucasian_ginger,5
+caucasian_brown_hair,5
+caucasian_dark_hair,5
+asian,x
+indian,x
+mediterranean_byzantine,x
+south_indian,x
+slavic_northern_blond,x
+slavic_northern_ginger,x
+slavic_northern_brown_hair,x
+slavic_northern_dark_hair,x
+mediterranean,10
+culture_name,nyarranga
+culture_coa,west_african_group_coa_gfx
+mercenary_names,anamarra_band spears_of_tjidoolyaa
+color,216 20 0
+character_modifier,x
+male_names,Naatitji Djebanyotji Rerdorrotji Nyerlaatji Kenyernootji Baangootji Maartootji Dootji Djirretji Koyaalyootji Rooyaarootji Waraatji Koodetji Ngetji Kimarnatji Doomitji Raanyatji Djitji Djoolyootji Kitji Djatji Yetjertaatji Wirotji Djakotji Yaanotji Orliwerd Nowa Djak Liyo Djarli Wirlyam Lookadj Djayim Domaa Erlayida Enrri Liyam Ooddjon Lewayi Okaar Mayidjon Loklin Arrdji Oonder Diyodor Mak Looka Arwi Longan Aridjon
+female_names,Naatika Djebanyoka Rerdorroka Nyerlaaka Kenyernooka Baangooka Maartooka Dooka Djirreka Koyaalyooka Rooyaarooka Waraaka Koodeka Ngeka Kimarnaka Doomika Raanyaka Djika Djoolyooka Kika Djaka Yetjertaaka Wiroka Djakoka YaanokaIlyaa Ilyaa Oliwia Miyaa Djarrlod Aiwa Amerlia Kraidj Ella Madilda Idjawella Sowi Klowi Wilo Eweliny Arrer Iwi Djowi Djowiya Roowi Aaiwi Emilyi Mila Loorly Djiyengaa Aana
+cadet_dynasty_names,Anamarra Kanparrka Kartilyka Kintingka Kiwinyi Minga Tjintilyka Tjinykura Wanatarnpa Irnura Kamulpa Karrpitji Patupirri Kuniya Ngalamirra Papanymaru Kakalangu Kuwirrkura Nyiinyii Yoomp Nolka Bila Nyola Malkar Moorditj Bibdjool Kalari Kelang Bilya Moyootj Kwangkan Djardak Djendal Moorn Mirda Yoont Boorn Djimbarl Wan Koondj Kitj Djoona Mirr Woonda Kerl Kotj Kewtj Doodjarak Warangka Koondarm Karla Bilying Naariny Booyi Daaliny
+dynasty_names,Anamarra Kanparrka Kartilyka Kintingka Kiwinyi Minga Tjintilyka Tjinykura Wanatarnpa Irnura Kamulpa Karrpitji Patupirri Kuniya Ngalamirra Papanymaru Kakalangu Kuwirrkura Nyiinyii Yoomp Nolka Bila Nyola Malkar Moorditj Bibdjool Kalari Kelang Bilya Moyootj Kwangkan Djardak Djendal Moorn Mirda Yoont Boorn Djimbarl Wan Koondj Kitj Djoona Mirr Woonda Kerl Kotj Kewtj Doodjarak Warangka Koondarm Karla Bilying Naariny Booyi Daaliny
+dynasty_of_location_prefix,ngaa
+pat_grf_name_chance,60
+mat_grf_name_chance,20
+father_name_chance,20
+pat_grm_name_chance,60
+mat_grm_name_chance,20
+mother_name_chance,20
+patronym_prefix_male,x
+patronym_prefix_male_vowel,x
+patronym_prefix_female,x
+patronym_prefix_female_vowel,x
+patronym_suffix_male,x
+patronym_suffix_female,x
+always_use_patronym,no
+african,35
+arab,35
+east_african,x
+slavic_blond,x
+slavic_ginger,x
+slavic_brown_hair,x
+slavic_dark_hair,x
+circumpolar_dark_hair,x
+circumpolar_brown_hair,x
+circumpolar_blonde_hair,x
+caucasian_northern_blond,x
+caucasian_northern_ginger,x
+caucasian_northern_brown_hair,x
+caucasian_northern_dark_hair,x
+caucasian_blond,5
+caucasian_ginger,5
+caucasian_brown_hair,5
+caucasian_dark_hair,5
+asian,x
+indian,x
+mediterranean_byzantine,x
+south_indian,x
+slavic_northern_blond,x
+slavic_northern_ginger,x
+slavic_northern_brown_hair,x
+slavic_northern_dark_hair,x
+mediterranean,10

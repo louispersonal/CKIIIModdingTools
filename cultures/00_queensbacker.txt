@@ -1,0 +1,546 @@
+queensbacker_group = {
+
+	mercenary_names = {
+		{ name = "mercenary_company_men_of_the_outback" }
+	}
+
+	graphical_cultures = {
+		western_coa_gfx
+		western_building_gfx
+		western_clothing_gfx
+		western_unit_gfx
+	}
+
+	downian = {
+		graphical_cultures = {
+			western_coa_gfx
+		}
+
+		mercenary_names = {
+			{ name = "mercenary_company_men_of_the_outback" }
+		}
+
+		color = { 191 209 109 }
+
+		male_names = {
+			Dave Chaz Trev Kev Kyle Daz Wayno Ecca Baz Larry Zaz Griz Steve Arzo Dongo Buster Jeff Dec Rowland Barry Gibb Phil
+		}
+		female_names = {
+			Liz Lila Lia Lauren Lora Dorzy Stel Amy Mel Yara Lara Becks Regina Zoe Felicity Maz Doris Kristie Scarlet Harriet Ellen Ell Ellie
+		}
+		cadet_dynasty_names = {
+			"dynn_Jones"
+			"dynn_Smith"
+			"dynn_Wilson"
+			"dynn_Brown"
+			"dynn_Martin"
+			"dynn_Anderson"
+			"dynn_Taylor"
+			"dynn_Robinson"
+			"dynn_Harris"
+			"dynn_Walker"
+			"dynn_Turner"
+			"dynn_King"
+			"dynn_Kelly"
+			"dynn_Ryan"
+			"dynn_Miller"
+			"dynn_Davis"
+			"dynn_jackson"
+			"dynn_Thomas"
+			"dynn_Moore"
+			"dynn_Green"
+			"dynn_Evans"
+			"dynn_Allen"
+			"dynn_Baker"
+			"dynn_Lewis"
+			"dynn_Carter"
+			"dynn_Roberts"
+			"dynn_Campbell"
+			"dynn_Young"
+			"dynn_Mitchell"
+			"dynn_Phillips"
+			"dynn_Hall"
+			"dynn_Wright"
+			"dynn_Hill"
+			"dynn_Scott"
+			"dynn_Nelson"
+			"dynn_Clark"
+			"dynn_Adams"
+			"dynn_Mills"
+			"dynn_Knight"
+			"dynn_Webb"
+			"dynn_Bailey"
+			"dynn_Coleman"
+			"dynn_Fisher"
+			"dynn_Howard"
+			"dynn_Hawkins"
+		}
+
+		dynasty_names = {
+			"dynn_Jones"
+			"dynn_Smith"
+			"dynn_Wilson"
+			"dynn_Brown"
+			"dynn_Martin"
+			"dynn_Anderson"
+			"dynn_Taylor"
+			"dynn_Robinson"
+			"dynn_Harris"
+			"dynn_Walker"
+			"dynn_Turner"
+			"dynn_King"
+			"dynn_Kelly"
+			"dynn_Ryan"
+			"dynn_Miller"
+			"dynn_Davis"
+			"dynn_jackson"
+			"dynn_Thomas"
+			"dynn_Moore"
+			"dynn_Green"
+			"dynn_Evans"
+			"dynn_Allen"
+			"dynn_Baker"
+			"dynn_Lewis"
+			"dynn_Carter"
+			"dynn_Roberts"
+			"dynn_Campbell"
+			"dynn_Young"
+			"dynn_Mitchell"
+			"dynn_Phillips"
+			"dynn_Hall"
+			"dynn_Wright"
+			"dynn_Hill"
+			"dynn_Scott"
+			"dynn_Nelson"
+			"dynn_Clark"
+			"dynn_Adams"
+			"dynn_Mills"
+			"dynn_Knight"
+			"dynn_Webb"
+			"dynn_Bailey"
+			"dynn_Coleman"
+			"dynn_Fisher"
+			"dynn_Howard"
+			"dynn_Hawkins"
+		}
+
+		dynasty_of_location_prefix = "dynnp_of"
+
+		pat_grf_name_chance = 33
+		mat_grf_name_chance = 33
+		father_name_chance = 33
+		pat_grm_name_chance = 33
+		mat_grm_name_chance = 33
+		mother_name_chance = 33
+		always_use_patronym = no
+
+		ethnicities = {
+			african = 20
+			caucasian_blond = 20
+			caucasian_ginger = 20
+			caucasian_brown_hair = 20
+			caucasian_dark_hair = 20
+		}
+
+	}
+
+	channelite = {
+		graphical_cultures = {
+			western_coa_gfx
+		}
+
+		mercenary_names = {
+			{ name = "mercenary_company_men_of_the_outback" }
+		}
+
+		color = { 159 176 81 }
+
+		male_names = {
+			Dave Chaz Trev Kev Kyle Daz Wayno Ecca Baz Larry Zaz Griz Steve Arzo Dongo Buster Jeff Dec Rowland Barry Gibb Phil
+		}
+		female_names = {
+			Liz Lila Lia Lauren Lora Dorzy Stel Amy Mel Yara Lara Becks Regina Zoe Felicity Maz Doris Kristie Scarlet Harriet Ellen Ell Ellie
+		}
+		cadet_dynasty_names = {
+			"dynn_Jones"
+			"dynn_Smith"
+			"dynn_Wilson"
+			"dynn_Brown"
+			"dynn_Martin"
+			"dynn_Anderson"
+			"dynn_Taylor"
+			"dynn_Robinson"
+			"dynn_Harris"
+			"dynn_Walker"
+			"dynn_Turner"
+			"dynn_King"
+			"dynn_Kelly"
+			"dynn_Ryan"
+			"dynn_Miller"
+			"dynn_Davis"
+			"dynn_jackson"
+			"dynn_Thomas"
+			"dynn_Moore"
+			"dynn_Green"
+			"dynn_Evans"
+			"dynn_Allen"
+			"dynn_Baker"
+			"dynn_Lewis"
+			"dynn_Carter"
+			"dynn_Roberts"
+			"dynn_Campbell"
+			"dynn_Young"
+			"dynn_Mitchell"
+			"dynn_Phillips"
+			"dynn_Hall"
+			"dynn_Wright"
+			"dynn_Hill"
+			"dynn_Scott"
+			"dynn_Nelson"
+			"dynn_Clark"
+			"dynn_Adams"
+			"dynn_Mills"
+			"dynn_Knight"
+			"dynn_Webb"
+			"dynn_Bailey"
+			"dynn_Coleman"
+			"dynn_Fisher"
+			"dynn_Howard"
+			"dynn_Hawkins"
+		}
+
+		dynasty_names = {
+			"dynn_Jones"
+			"dynn_Smith"
+			"dynn_Wilson"
+			"dynn_Brown"
+			"dynn_Martin"
+			"dynn_Anderson"
+			"dynn_Taylor"
+			"dynn_Robinson"
+			"dynn_Harris"
+			"dynn_Walker"
+			"dynn_Turner"
+			"dynn_King"
+			"dynn_Kelly"
+			"dynn_Ryan"
+			"dynn_Miller"
+			"dynn_Davis"
+			"dynn_jackson"
+			"dynn_Thomas"
+			"dynn_Moore"
+			"dynn_Green"
+			"dynn_Evans"
+			"dynn_Allen"
+			"dynn_Baker"
+			"dynn_Lewis"
+			"dynn_Carter"
+			"dynn_Roberts"
+			"dynn_Campbell"
+			"dynn_Young"
+			"dynn_Mitchell"
+			"dynn_Phillips"
+			"dynn_Hall"
+			"dynn_Wright"
+			"dynn_Hill"
+			"dynn_Scott"
+			"dynn_Nelson"
+			"dynn_Clark"
+			"dynn_Adams"
+			"dynn_Mills"
+			"dynn_Knight"
+			"dynn_Webb"
+			"dynn_Bailey"
+			"dynn_Coleman"
+			"dynn_Fisher"
+			"dynn_Howard"
+			"dynn_Hawkins"
+		}
+
+		dynasty_of_location_prefix = "dynnp_of"
+
+		pat_grf_name_chance = 33
+		mat_grf_name_chance = 33
+		father_name_chance = 33
+		pat_grm_name_chance = 33
+		mat_grm_name_chance = 33
+		mother_name_chance = 33
+		always_use_patronym = no
+
+		ethnicities = {
+			african = 20
+			caucasian_blond = 20
+			caucasian_ginger = 20
+			caucasian_brown_hair = 20
+			caucasian_dark_hair = 20
+		}
+
+	}
+
+	isan = {
+		graphical_cultures = {
+			western_coa_gfx
+		}
+
+		mercenary_names = {
+			{ name = "mercenary_company_men_of_the_outback" }
+		}
+
+		color = { 124 140 53 }
+
+		male_names = {
+			Dave Chaz Trev Kev Kyle Daz Wayno Ecca Baz Larry Zaz Griz Steve Arzo Dongo Buster Jeff Dec Rowland Barry Gibb Phil
+		}
+		female_names = {
+			Liz Lila Lia Lauren Lora Dorzy Stel Amy Mel Yara Lara Becks Regina Zoe Felicity Maz Doris Kristie Scarlet Harriet Ellen Ell Ellie
+		}
+		cadet_dynasty_names = {
+			"dynn_Jones"
+			"dynn_Smith"
+			"dynn_Wilson"
+			"dynn_Brown"
+			"dynn_Martin"
+			"dynn_Anderson"
+			"dynn_Taylor"
+			"dynn_Robinson"
+			"dynn_Harris"
+			"dynn_Walker"
+			"dynn_Turner"
+			"dynn_King"
+			"dynn_Kelly"
+			"dynn_Ryan"
+			"dynn_Miller"
+			"dynn_Davis"
+			"dynn_jackson"
+			"dynn_Thomas"
+			"dynn_Moore"
+			"dynn_Green"
+			"dynn_Evans"
+			"dynn_Allen"
+			"dynn_Baker"
+			"dynn_Lewis"
+			"dynn_Carter"
+			"dynn_Roberts"
+			"dynn_Campbell"
+			"dynn_Young"
+			"dynn_Mitchell"
+			"dynn_Phillips"
+			"dynn_Hall"
+			"dynn_Wright"
+			"dynn_Hill"
+			"dynn_Scott"
+			"dynn_Nelson"
+			"dynn_Clark"
+			"dynn_Adams"
+			"dynn_Mills"
+			"dynn_Knight"
+			"dynn_Webb"
+			"dynn_Bailey"
+			"dynn_Coleman"
+			"dynn_Fisher"
+			"dynn_Howard"
+			"dynn_Hawkins"
+		}
+
+		dynasty_names = {
+			"dynn_Jones"
+			"dynn_Smith"
+			"dynn_Wilson"
+			"dynn_Brown"
+			"dynn_Martin"
+			"dynn_Anderson"
+			"dynn_Taylor"
+			"dynn_Robinson"
+			"dynn_Harris"
+			"dynn_Walker"
+			"dynn_Turner"
+			"dynn_King"
+			"dynn_Kelly"
+			"dynn_Ryan"
+			"dynn_Miller"
+			"dynn_Davis"
+			"dynn_jackson"
+			"dynn_Thomas"
+			"dynn_Moore"
+			"dynn_Green"
+			"dynn_Evans"
+			"dynn_Allen"
+			"dynn_Baker"
+			"dynn_Lewis"
+			"dynn_Carter"
+			"dynn_Roberts"
+			"dynn_Campbell"
+			"dynn_Young"
+			"dynn_Mitchell"
+			"dynn_Phillips"
+			"dynn_Hall"
+			"dynn_Wright"
+			"dynn_Hill"
+			"dynn_Scott"
+			"dynn_Nelson"
+			"dynn_Clark"
+			"dynn_Adams"
+			"dynn_Mills"
+			"dynn_Knight"
+			"dynn_Webb"
+			"dynn_Bailey"
+			"dynn_Coleman"
+			"dynn_Fisher"
+			"dynn_Howard"
+			"dynn_Hawkins"
+		}
+
+		dynasty_of_location_prefix = "dynnp_of"
+
+		pat_grf_name_chance = 33
+		mat_grf_name_chance = 33
+		father_name_chance = 33
+		pat_grm_name_chance = 33
+		mat_grm_name_chance = 33
+		mother_name_chance = 33
+		always_use_patronym = no
+
+		ethnicities = {
+			african = 20
+			caucasian_blond = 20
+			caucasian_ginger = 20
+			caucasian_brown_hair = 20
+			caucasian_dark_hair = 20
+		}
+
+	}
+
+	nobelter = {
+		graphical_cultures = {
+			western_coa_gfx
+		}
+
+		mercenary_names = {
+			{ name = "mercenary_company_men_of_the_outback" }
+		}
+
+		color = { 147 176 19 }
+
+		male_names = {
+			Dave Chaz Trev Kev Kyle Daz Wayno Ecca Baz Larry Zaz Griz Steve Arzo Dongo Buster Jeff Dec Rowland Barry Gibb Phil
+		}
+		female_names = {
+			Liz Lila Lia Lauren Lora Dorzy Stel Amy Mel Yara Lara Becks Regina Zoe Felicity Maz Doris Kristie Scarlet Harriet Ellen Ell Ellie
+		}
+		cadet_dynasty_names = {
+			"dynn_Jones"
+			"dynn_Smith"
+			"dynn_Wilson"
+			"dynn_Brown"
+			"dynn_Martin"
+			"dynn_Anderson"
+			"dynn_Taylor"
+			"dynn_Robinson"
+			"dynn_Harris"
+			"dynn_Walker"
+			"dynn_Turner"
+			"dynn_King"
+			"dynn_Kelly"
+			"dynn_Ryan"
+			"dynn_Miller"
+			"dynn_Davis"
+			"dynn_jackson"
+			"dynn_Thomas"
+			"dynn_Moore"
+			"dynn_Green"
+			"dynn_Evans"
+			"dynn_Allen"
+			"dynn_Baker"
+			"dynn_Lewis"
+			"dynn_Carter"
+			"dynn_Roberts"
+			"dynn_Campbell"
+			"dynn_Young"
+			"dynn_Mitchell"
+			"dynn_Phillips"
+			"dynn_Hall"
+			"dynn_Wright"
+			"dynn_Hill"
+			"dynn_Scott"
+			"dynn_Nelson"
+			"dynn_Clark"
+			"dynn_Adams"
+			"dynn_Mills"
+			"dynn_Knight"
+			"dynn_Webb"
+			"dynn_Bailey"
+			"dynn_Coleman"
+			"dynn_Fisher"
+			"dynn_Howard"
+			"dynn_Hawkins"
+		}
+
+		dynasty_names = {
+			"dynn_Jones"
+			"dynn_Smith"
+			"dynn_Wilson"
+			"dynn_Brown"
+			"dynn_Martin"
+			"dynn_Anderson"
+			"dynn_Taylor"
+			"dynn_Robinson"
+			"dynn_Harris"
+			"dynn_Walker"
+			"dynn_Turner"
+			"dynn_King"
+			"dynn_Kelly"
+			"dynn_Ryan"
+			"dynn_Miller"
+			"dynn_Davis"
+			"dynn_jackson"
+			"dynn_Thomas"
+			"dynn_Moore"
+			"dynn_Green"
+			"dynn_Evans"
+			"dynn_Allen"
+			"dynn_Baker"
+			"dynn_Lewis"
+			"dynn_Carter"
+			"dynn_Roberts"
+			"dynn_Campbell"
+			"dynn_Young"
+			"dynn_Mitchell"
+			"dynn_Phillips"
+			"dynn_Hall"
+			"dynn_Wright"
+			"dynn_Hill"
+			"dynn_Scott"
+			"dynn_Nelson"
+			"dynn_Clark"
+			"dynn_Adams"
+			"dynn_Mills"
+			"dynn_Knight"
+			"dynn_Webb"
+			"dynn_Bailey"
+			"dynn_Coleman"
+			"dynn_Fisher"
+			"dynn_Howard"
+			"dynn_Hawkins"
+		}
+
+		dynasty_of_location_prefix = "dynnp_of"
+
+		pat_grf_name_chance = 33
+		mat_grf_name_chance = 33
+		father_name_chance = 33
+		pat_grm_name_chance = 33
+		mat_grm_name_chance = 33
+		mother_name_chance = 33
+		always_use_patronym = no
+
+		ethnicities = {
+			african = 20
+			caucasian_blond = 20
+			caucasian_ginger = 20
+			caucasian_brown_hair = 20
+			caucasian_dark_hair = 20
+		}
+
+	}
+
+}
