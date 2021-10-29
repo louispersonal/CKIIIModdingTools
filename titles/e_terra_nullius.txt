@@ -1,0 +1,28 @@
+e_terra_nullius = {
+	2660.1.1 = {
+		holder = 151
+		government = "feudal"
+	}
+}
+
+k_terra_nullius = {
+	2660.1.1 = {
+		holder = 151
+		government = "feudal"
+	}
+}
+
+d_terra_nullius = {
+	2660.1.1 = {
+		holder = 151
+		government = "feudal"
+	}
+}
+
+c_terra_nullius = {
+	2660.1.1 = {
+		holder = 151
+		government = "feudal"
+	}
+}
+

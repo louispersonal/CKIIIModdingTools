@@ -4,7 +4,7 @@
 ### c_dorset
 1 = {  #Mount William
 	culture = tasmanian
-	religion = tersian
+	religion = devotionist
 	holding = auto
 }
 
@@ -15,7 +15,7 @@
 ### c_cornwall
 3 = {  #St Helen's
 	culture = tasmanian
-	religion = tersian
+	religion = devotionist
 	holding = auto
 }
 
@@ -42,7 +42,7 @@
 ### c_glamorgan
 8 = {  #Bichelo
 	culture = tasmanian
-	religion = tersian
+	religion = devotionist
 	holding = auto
 }
 
@@ -113,7 +113,7 @@
 ### c_montagu
 21 = {  #Zeehan
 	culture = tasmanian
-	religion = tersian
+	religion = devotionist
 	holding = auto
 }
 
@@ -125,7 +125,7 @@
 ### c_central__plateau
 23 = {  #Cradle Mountain
 	culture = tasmanian
-	religion = tersian
+	religion = devotionist
 	holding = auto
 }
 
@@ -148,28 +148,28 @@
 ### c_franklin_river
 27 = {  #West Coast Range
 	culture = tasmanian
-	religion = tersian
+	religion = devotionist
 	holding = auto
 }
 
 ### c_montgomery
 28 = {  #Macquarie Harbour
 	culture = tasmanian
-	religion = tersian
+	religion = devotionist
 	holding = auto
 }
 
 ### c_arthur
 29 = {  #Strathgordon
 	culture = tasmanian
-	religion = tersian
+	religion = devotionist
 	holding = auto
 }
 
 ### c_kent
 30 = {  #Geeveston
 	culture = tasmanian
-	religion = tersian
+	religion = devotionist
 	holding = auto
 }
 
@@ -177,7 +177,7 @@
 ### c_buckingham
 31 = {  #New Norfolk
 	culture = tasmanian
-	religion = tersian
+	religion = devotionist
 	holding = auto
 }
 
@@ -196,7 +196,7 @@
 ### c_monmouth
 34 = {  #Brighton
 	culture = tasmanian
-	religion = tersian
+	religion = devotionist
 	holding = auto
 }
 
@@ -211,7 +211,7 @@
 ### c_pembroke
 37 = {  #Dodges Ferry
 	culture = tasmanian
-	religion = tersian
+	religion = devotionist
 	holding = auto
 }
 
@@ -237,7 +237,7 @@
 ### c_lagoons
 43 = {  #Miena
 	culture = tasmanian
-	religion = tersian
+	religion = devotionist
 	holding = auto
 }
 
@@ -252,8 +252,8 @@
 # d_king_island
 ### c_king_island
 960 = {  #North King
-	culture = aussie
-	religion = tersian
+	culture = tasmanian
+	religion = devotionist
 	holding = auto
 }
 
@@ -264,8 +264,8 @@
 # d_furneaux
 ### c_furneaux
 962 = {  #Flinders Island
-	culture = aussie
-	religion = tersian
+	culture = tasmanian
+	religion = devotionist
 	holding = auto
 }
 
@@ -277,7 +277,7 @@
 # d_melbourne
 ### c_grant
 59 = {  #Torquay
-	culture = phillipian
+	culture = wimmeran
 	religion = tersian
 	holding = auto
 }
@@ -296,7 +296,7 @@
 
 ### c_melbourne
 107 = {  #Melbourne
-	culture = phillipian
+	culture = gippslander
 	religion = tersian
 	holding = auto
 }
@@ -320,7 +320,7 @@
 # d_yarra_valley
 ### c_mornington
 112 = {  #Cranbourne
-	culture = phillipian
+	culture = gippslander
 	religion = tersian
 	holding = auto
 }
@@ -335,7 +335,7 @@
 
 ### c_evelyn
 115 = {  #Healesville
-	culture = phillipian
+	culture = gippslander
 	religion = tersian
 	holding = auto
 }
@@ -347,7 +347,7 @@
 # d_gippsland
 ### c_lakes_entrance
 134 = {  #Snowy River Park
-	culture = phillipian
+	culture = gippslander
 	religion = tersian
 	holding = auto
 }
@@ -362,7 +362,7 @@
 
 ### c_croajingolong
 137 = {  #Marlo
-	culture = illawarran
+	culture = gippslander
 	religion = tersian
 	holding = auto
 }
@@ -382,7 +382,7 @@
 # d_monash
 ### c_dargo
 141 = {  #Dargo
-	culture = phillipian
+	culture = gippslander
 	religion = tersian
 	holding = auto
 }
@@ -393,7 +393,7 @@
 
 ### c_tanjil
 145 = {  #Heyfield
-	culture = phillipian
+	culture = gippslander
 	religion = tersian
 	holding = auto
 }
@@ -408,7 +408,7 @@
 
 ### c_buln_buln
 148 = {  #Warragul
-	culture = phillipian
+	culture = gippslander
 	religion = tersian
 	holding = auto
 }
@@ -433,7 +433,7 @@
 # d_high_country
 ### c_anglesey
 117 = {  #Wandong
-	culture = phillipian
+	culture = gippslander
 	religion = tersian
 	holding = auto
 }
@@ -448,7 +448,7 @@
 
 ### c_delatite
 120 = {  #Strathbogie
-	culture = phillipian
+	culture = alpine
 	religion = tersian
 	holding = auto
 }
@@ -467,7 +467,7 @@
 
 ### c_wonnangatta
 143 = {  #Knockwood
-	culture = phillipian
+	culture = gippslander
 	religion = tersian
 	holding = auto
 }
@@ -479,7 +479,7 @@
 # d_alps
 ### c_bogong
 128 = {  #Wodonga
-	culture = muruwari
+	culture = alpine
 	religion = tersian
 	holding = auto
 }
@@ -494,8 +494,8 @@
 
 ### c_benambra
 131 = {  #Corryong
-	culture = muruwari
-	religion = tersian
+	culture = alpine
+	religion = capital_church
 	holding = auto
 }
 
@@ -509,7 +509,7 @@
 
 ### c_jindera
 819 = {  #Woomargama
-	culture = muruwari
+	culture = alpine
 	religion = tersian
 	holding = auto
 }
@@ -540,7 +540,7 @@
 
 ### c_beresford
 450 = {  #Bredbo
-	culture = illawarran
+	culture = gippslander
 	religion = tersian
 	holding = auto
 }
@@ -552,7 +552,7 @@
 ### c_buccleuch
 622 = {  #Tumut
 	culture = alpine
-	religion = tersian
+	religion = capital_church
 	holding = auto
 }
 
@@ -563,7 +563,7 @@
 ### c_selwyn
 624 = {  #Khancoba
 	culture = alpine
-	religion = tersian
+	religion = capital_church
 	holding = auto
 }
 
@@ -581,7 +581,7 @@
 
 ### c_wagga_wagga
 628 = {  #Humula
-	culture = alpine
+	culture = murrayan
 	religion = tersian
 	holding = auto
 }
@@ -597,7 +597,7 @@
 # d_harendon
 ### c_harden
 619 = {  #Harden
-	culture = alpine
+	culture = murrayan
 	religion = tersian
 	holding = auto
 }
@@ -612,7 +612,7 @@
 
 ### c_clarendon
 631 = {  #Gundagai
-	culture = murrumbidgeen
+	culture = murrayan
 	religion = tersian
 	holding = auto
 }
@@ -625,7 +625,7 @@
 # d_south_coast
 ### c_merimbula
 441 = {  #Eden
-	culture = illawarran
+	culture = gippslander
 	religion = tersian
 	holding = auto
 }
@@ -640,7 +640,7 @@
 
 ### c_bombala
 444 = {  #Byadbo
-	culture = illawarran
+	culture = gippslander
 	religion = tersian
 	holding = auto
 }
@@ -655,7 +655,7 @@
 
 ### c_narooma
 452 = {  #Wadbilliga
-	culture = illawarran
+	culture = gippslander
 	religion = tersian
 	holding = auto
 }
@@ -671,7 +671,7 @@
 # d_sydney
 ### c_nowra
 461 = {  #Ulladulla
-	culture = illawarran
+	culture = gippslander
 	religion = tersian
 	holding = auto
 }
@@ -690,7 +690,7 @@
 
 ### c_wollongong
 472 = {  #Bowral
-	culture = illawarran
+	culture = sydneyan
 	religion = tersian
 	holding = auto
 }
@@ -709,7 +709,7 @@
 
 ### c_sydney
 492 = {  #Botany
-	culture = illawarran
+	culture = sydneyan
 	religion = tersian
 	holding = auto
 }
@@ -728,7 +728,7 @@
 
 ### c_newcastle
 496 = {  #Singleton
-	culture = new_english
+	culture = sydneyan
 	religion = tersian
 	holding = auto
 }
@@ -748,7 +748,7 @@
 # d_hunter
 ### c_scone
 507 = {  #Scone
-	culture = alpine
+	culture = new_english
 	religion = tersian
 	holding = auto
 }
@@ -763,7 +763,7 @@
 
 ### c_muswellbrook
 510 = {  #Muswellbrook
-	culture = new_english
+	culture = sydneyan
 	religion = tersian
 	holding = auto
 }
@@ -778,7 +778,7 @@
 
 ### c_forster
 513 = {  #Raymond Terrace
-	culture = new_english
+	culture = sydneyan
 	religion = tersian
 	holding = auto
 }
@@ -803,8 +803,8 @@
 # d_capital_territory
 ### c_cowley
 455 = {  #Namadgi
-	culture = illawarran
-	religion = tersian
+	culture = alpine
+	religion = capital_church
 	holding = auto
 }
 
@@ -814,8 +814,8 @@
 
 ### c_canberra
 458 = {  #Canberra
-	culture = illawarran
-	religion = tersian
+	culture = alpine
+	religion = capital_church
 	holding = auto
 }
 
@@ -826,8 +826,8 @@
 # d_tablelands
 ### c_murray
 457 = {  #Murrumbateman
-	culture = illawarran
-	religion = tersian
+	culture = alpine
+	religion = capital_church
 	holding = auto
 }
 
@@ -837,7 +837,7 @@
 
 ### c_goulburn
 465 = {  #Goulburn
-	culture = illawarran
+	culture = alpine
 	religion = tersian
 	holding = auto
 }
@@ -928,7 +928,7 @@
 
 ### c_wollemi
 500 = {  #Wisemans Ferry
-	culture = alpine
+	culture = sydneyan
 	religion = tersian
 	holding = auto
 }
@@ -968,7 +968,7 @@
 
 ### c_villiers
 51 = {  #Port Fairy
-	culture = phillipian
+	culture = wimmeran
 	religion = tersian
 	holding = auto
 }
@@ -983,7 +983,7 @@
 
 ### c_mount_gambier
 844 = {  #Penola
-	culture = aussie
+	culture = wimmeran
 	religion = tersian
 	holding = auto
 }
@@ -998,7 +998,7 @@
 
 ### c_naracoorte
 847 = {  #Kingston
-	culture = aussie
+	culture = wimmeran
 	religion = tersian
 	holding = auto
 }
@@ -1014,7 +1014,7 @@
 # d_apollo
 ### c_heytesbury
 54 = {  #Warrnambool
-	culture = phillipian
+	culture = wimmeran
 	religion = tersian
 	holding = auto
 }
@@ -1025,7 +1025,7 @@
 
 ### c_polwarth
 56 = {  #Apollo Bay
-	culture = phillipian
+	culture = wimmeran
 	religion = tersian
 	holding = auto
 }
@@ -1040,7 +1040,7 @@
 
 ### c_grenville
 63 = {  #Beeac
-	culture = phillipian
+	culture = wimmeran
 	religion = tersian
 	holding = auto
 }
@@ -1055,7 +1055,7 @@
 
 ### c_hampden
 66 = {  #Lake Bolac
-	culture = phillipian
+	culture = wimmeran
 	religion = tersian
 	holding = auto
 }
@@ -1127,7 +1127,7 @@
 
 ### c_bordertown
 850 = {  #Ngarkat
-	culture = aussie
+	culture = wimmeran
 	religion = tersian
 	holding = auto
 }
@@ -1201,7 +1201,7 @@
 # d_riverland
 ### c_weeah
 77 = {  #Pinnaroo
-	culture = muruwari
+	culture = wimmeran
 	religion = tersian
 	holding = auto
 }
@@ -1212,7 +1212,7 @@
 
 ### c_millewa
 79 = {  #Rufus River
-	culture = muruwari
+	culture = murrayan
 	religion = tersian
 	holding = auto
 }
@@ -1223,7 +1223,7 @@
 
 ### c_barmera
 859 = {  #Barmera
-	culture = aussie
+	culture = wimmeran
 	religion = tersian
 	holding = auto
 }
@@ -1242,7 +1242,7 @@
 
 ### c_waikerie
 863 = {  #Morganton
-	culture = aussie
+	culture = murrayan
 	religion = tersian
 	holding = auto
 }
@@ -1261,7 +1261,7 @@
 
 ### c_burra
 964 = {  #Fords Lagoon
-	culture = aussie
+	culture = murrayan
 	religion = tersian
 	holding = auto
 }
@@ -1277,7 +1277,7 @@
 # d_adelaide
 ### c_murray_bridge
 854 = {  #Pomong
-	culture = aussie
+	culture = wimmeran
 	religion = tersian
 	holding = auto
 }
@@ -1300,7 +1300,7 @@
 
 ### c_adelaide
 867 = {  #Adelaide
-	culture = aussie
+	culture = peninsular
 	religion = tersian
 	holding = auto
 }
@@ -1323,7 +1323,7 @@
 
 ### c_adelaide_plains
 875 = {  #Owen
-	culture = aussie
+	culture = peninsular
 	religion = tersian
 	holding = auto
 }
@@ -1346,7 +1346,7 @@
 
 ### c_ludunda
 880 = {  #Spalding
-	culture = aussie
+	culture = peninsular
 	religion = tersian
 	holding = auto
 }
@@ -1366,7 +1366,7 @@
 # d_kangaroo_island
 ### c_kingscote
 872 = {  #Penneshaw
-	culture = aussie
+	culture = peninsular
 	religion = tersian
 	holding = auto
 }
@@ -1377,7 +1377,7 @@
 
 ### c_rocky
 874 = {  #Rocky
-	culture = aussie
+	culture = peninsular
 	religion = tersian
 	holding = auto
 }
@@ -1385,7 +1385,7 @@
 # d_spencer
 ### c_port_pirie
 884 = {  #Port Pirie
-	culture = aussie
+	culture = peninsular
 	religion = tersian
 	holding = auto
 }
@@ -1404,7 +1404,7 @@
 
 ### c_moonta
 888 = {  #Kadina
-	culture = aussie
+	culture = peninsular
 	religion = tersian
 	holding = auto
 }
@@ -1419,7 +1419,7 @@
 
 ### c_yorketown
 891 = {  #Miniaton
-	culture = aussie
+	culture = peninsular
 	religion = tersian
 	holding = auto
 }
@@ -1436,8 +1436,8 @@
 # d_evlyn
 ### c_poole
 691 = {  #Poole
-	culture = baakan
-	religion = tersian
+	culture = welshbacker
+	religion = arenist
 	holding = auto
 }
 
@@ -1447,8 +1447,8 @@
 
 ### c_evlyn
 693 = {  #Whitty
-	culture = baakan
-	religion = tersian
+	culture = welshbacker
+	religion = arenist
 	holding = auto
 }
 
@@ -1462,8 +1462,8 @@
 
 ### c_farnell
 696 = {  #Dering
-	culture = baakan
-	religion = tersian
+	culture = welshbacker
+	religion = arenist
 	holding = auto
 }
 
@@ -1477,8 +1477,8 @@
 
 ### c_mootwingee
 699 = {  #Acacia Downs
-	culture = baakan
-	religion = tersian
+	culture = welshbacker
+	religion = arenist
 	holding = auto
 }
 
@@ -1492,8 +1492,8 @@
 
 ### c_mulyungarie
 979 = {  #Mulyungarie
-	culture = aussie
-	religion = tersian
+	culture = welshbacker
+	religion = ephemerist
 	holding = auto
 }
 
@@ -1503,8 +1503,8 @@
 
 ### c_callabonna
 2953 = {  #Freeling
-	culture = aussie
-	religion = tersian
+	culture = welshbacker
+	religion = ephemerist
 	holding = auto
 }
 
@@ -1515,7 +1515,7 @@
 # d_filnders_ranges
 ### c_jamestown
 894 = {  #Franklyn
-	culture = aussie
+	culture = peninsular
 	religion = tersian
 	holding = auto
 }
@@ -1530,7 +1530,7 @@
 
 ### c_peterborough
 897 = {  #Orroroo
-	culture = aussie
+	culture = peninsular
 	religion = tersian
 	holding = auto
 }
@@ -1545,7 +1545,7 @@
 
 ### c_boolero
 900 = {  #Wilmington
-	culture = aussie
+	culture = peninsular
 	religion = tersian
 	holding = auto
 }
@@ -1568,8 +1568,8 @@
 
 ### c_quorn
 905 = {  #Nauroodia
-	culture = aussie
-	religion = tersian
+	culture = welshbacker
+	religion = ephemerist
 	holding = auto
 }
 
@@ -1587,8 +1587,8 @@
 
 ### c_baratta
 909 = {  #Martins Well
-	culture = aussie
-	religion = tersian
+	culture = welshbacker
+	religion = ephemerist
 	holding = auto
 }
 
@@ -1603,8 +1603,8 @@
 # d_torrens
 ### c_leigh_creek
 912 = {  #Leigh Creek
-	culture = aussie
-	religion = tersian
+	culture = welshbacker
+	religion = ephemerist
 	holding = auto
 }
 
@@ -1622,8 +1622,8 @@
 
 ### c_marree
 2948 = {  #Bopeechee
-	culture = aussie
-	religion = tersian
+	culture = welshbacker
+	religion = ephemerist
 	holding = auto
 }
 
@@ -1637,8 +1637,8 @@
 
 ### c_vulkathunha
 2951 = {  #Vulkathunha
-	culture = aussie
-	religion = tersian
+	culture = welshbacker
+	religion = ephemerist
 	holding = auto
 }
 
@@ -1649,7 +1649,7 @@
 # d_flinders_ranges
 ### c_port_augusta
 916 = {  #Port Augusta
-	culture = aussie
+	culture = welshbacker
 	religion = tersian
 	holding = auto
 }
@@ -1665,8 +1665,8 @@
 # d_frome
 ### c_ikara
 976 = {  #Ikara Flinders
-	culture = aussie
-	religion = tersian
+	culture = welshbacker
+	religion = ephemerist
 	holding = auto
 }
 
@@ -1680,8 +1680,8 @@
 
 ### c_yunta
 981 = {  #Bimbowrie
-	culture = aussie
-	religion = tersian
+	culture = welshbacker
+	religion = ephemerist
 	holding = auto
 }
 
@@ -1699,8 +1699,8 @@
 
 ### c_cockburn
 985 = {  #Cockburn
-	culture = aussie
-	religion = tersian
+	culture = welshbacker
+	religion = devotionist
 	holding = auto
 }
 
@@ -1710,8 +1710,8 @@
 
 ### c_parnaroo
 987 = {  #Parnaroo
-	culture = aussie
-	religion = tersian
+	culture = welshbacker
+	religion = devotionist
 	holding = auto
 }
 
@@ -1725,8 +1725,8 @@
 
 ### c_danggali
 990 = {  #Danggali
-	culture = aussie
-	religion = tersian
+	culture = welshbacker
+	religion = devotionist
 	holding = auto
 }
 
@@ -1741,8 +1741,8 @@
 # d_strzelecki
 ### c_bollards_lagoon
 2955 = {  #Bollards Lagoon
-	culture = aussie
-	religion = tersian
+	culture = welshbacker
+	religion = arenist
 	holding = auto
 }
 
@@ -1752,15 +1752,15 @@
 
 ### c_strzelecki
 2957 = {  #Strzelecki
-	culture = aussie
-	religion = tersian
+	culture = welshbacker
+	religion = ephemerist
 	holding = auto
 }
 
 ### c_tirari_desert
 2958 = {  #Tirari Desert
-	culture = aussie
-	religion = tersian
+	culture = welshbacker
+	religion = ephemerist
 	holding = auto
 }
 
@@ -1769,7 +1769,7 @@
 # d_loddon
 ### c_karkarooc
 81 = {  #Robinvale
-	culture = muruwari
+	culture = murrayan
 	religion = tersian
 	holding = auto
 }
@@ -1788,7 +1788,7 @@
 
 ### c_tatchera
 90 = {  #Swan Hill
-	culture = muruwari
+	culture = murrayan
 	religion = tersian
 	holding = auto
 }
@@ -1799,7 +1799,7 @@
 
 ### c_gunbower
 100 = {  #Echuca
-	culture = muruwari
+	culture = murrayan
 	religion = tersian
 	holding = auto
 }
@@ -1811,7 +1811,7 @@
 # d_goulburn
 ### c_rodney
 102 = {  #Shepparton
-	culture = phillipian
+	culture = murrayan
 	religion = tersian
 	holding = auto
 }
@@ -1826,7 +1826,7 @@
 
 ### c_dalhousie
 105 = {  #Kyneton
-	culture = phillipian
+	culture = wimmeran
 	religion = tersian
 	holding = auto
 }
@@ -1837,7 +1837,7 @@
 
 ### c_moira
 124 = {  #Euroa
-	culture = muruwari
+	culture = murrayan
 	religion = tersian
 	holding = auto
 }
@@ -1857,7 +1857,7 @@
 # d_hilltops
 ### c_forbes
 615 = {  #Cowra
-	culture = wamboolian
+	culture = murrayan
 	religion = tersian
 	holding = auto
 }
@@ -1868,7 +1868,7 @@
 
 ### c_monteagle
 617 = {  #Young
-	culture = alpine
+	culture = murrayan
 	religion = tersian
 	holding = auto
 }
@@ -1879,7 +1879,7 @@
 
 ### c_bland
 633 = {  #Bribbaree
-	culture = wamboolian
+	culture = murrayan
 	religion = tersian
 	holding = auto
 }
@@ -1894,7 +1894,7 @@
 
 ### c_gipps
 636 = {  #Hiawatha
-	culture = wamboolian
+	culture = murrayan
 	religion = tersian
 	holding = auto
 }
@@ -1910,7 +1910,7 @@
 # d_coolamon
 ### c_dowling
 769 = {  #Lake Cargelligo
-	culture = wamboolian
+	culture = murrayan
 	religion = tersian
 	holding = auto
 }
@@ -1921,7 +1921,7 @@
 
 ### c_nicholson
 771 = {  #Goolgowi
-	culture = murrumbidgeen
+	culture = murrayan
 	religion = tersian
 	holding = auto
 }
@@ -1932,7 +1932,7 @@
 
 ### c_sturt
 805 = {  #Griffith
-	culture = murrumbidgeen
+	culture = murrayan
 	religion = tersian
 	holding = auto
 }
@@ -1943,7 +1943,7 @@
 
 ### c_boyd
 807 = {  #Coleambaly
-	culture = murrumbidgeen
+	culture = murrayan
 	religion = tersian
 	holding = auto
 }
@@ -1954,7 +1954,7 @@
 
 ### c_cooper
 809 = {  #Leeton
-	culture = murrumbidgeen
+	culture = murrayan
 	religion = tersian
 	holding = auto
 }
@@ -1974,7 +1974,7 @@
 # d_the_rock
 ### c_the_rock
 813 = {  #Collingullie
-	culture = murrumbidgeen
+	culture = murrayan
 	religion = tersian
 	holding = auto
 }
@@ -1989,7 +1989,7 @@
 
 ### c_burke
 816 = {  #Coolamon
-	culture = murrumbidgeen
+	culture = murrayan
 	religion = tersian
 	holding = auto
 }
@@ -2005,7 +2005,7 @@
 # d_greater_hume
 ### c_hume
 822 = {  #Albury
-	culture = muruwari
+	culture = murrayan
 	religion = tersian
 	holding = auto
 }
@@ -2020,7 +2020,7 @@
 
 ### c_urana
 825 = {  #Oaklands
-	culture = muruwari
+	culture = murrayan
 	religion = tersian
 	holding = auto
 }
@@ -2039,7 +2039,7 @@
 
 ### c_denison
 829 = {  #Mulwala
-	culture = muruwari
+	culture = murrayan
 	religion = tersian
 	holding = auto
 }
@@ -2055,7 +2055,7 @@
 # d_wakool
 ### c_townsend
 832 = {  #Wonnue
-	culture = muruwari
+	culture = murrayan
 	religion = tersian
 	holding = auto
 }
@@ -2078,7 +2078,7 @@
 
 ### c_cadell
 837 = {  #Moama
-	culture = muruwari
+	culture = murrayan
 	religion = tersian
 	holding = auto
 }
@@ -2093,7 +2093,7 @@
 
 ### c_wakool
 840 = {  #North Barham
-	culture = muruwari
+	culture = murrayan
 	religion = tersian
 	holding = auto
 }
@@ -2114,7 +2114,7 @@
 # d_mudgee
 ### c_wellington
 484 = {  #Kerrs Creek
-	culture = alpine
+	culture = murrayan
 	religion = tersian
 	holding = auto
 }
@@ -2140,7 +2140,7 @@
 
 ### c_gulgong
 502 = {  #Nullo Mountain
-	culture = alpine
+	culture = darlingian
 	religion = tersian
 	holding = auto
 }
@@ -2155,7 +2155,7 @@
 
 ### c_bligh
 505 = {  #Goolma
-	culture = alpine
+	culture = darlingian
 	religion = tersian
 	holding = auto
 }
@@ -2167,28 +2167,28 @@
 # d_tamworth
 ### c_inglis
 568 = {  #Inglis
-	culture = rivers
+	culture = new_english
 	religion = tersian
 	holding = auto
 }
 
 ### c_tamworth
 569 = {  #Tamworth
-	culture = rivers
+	culture = new_english
 	religion = tersian
 	holding = auto
 }
 
 ### c_carroll
 570 = {  #Carroll
-	culture = rivers
+	culture = new_english
 	religion = tersian
 	holding = auto
 }
 
 ### c_pottinger
 571 = {  #Spring Ridge
-	culture = rivers
+	culture = darlingian
 	religion = tersian
 	holding = auto
 }
@@ -2204,7 +2204,7 @@
 # d_leichardt
 ### c_white
 599 = {  #Pilliga South
-	culture = rivers
+	culture = darlingian
 	religion = tersian
 	holding = auto
 }
@@ -2223,7 +2223,7 @@
 
 ### c_napier
 603 = {  #Lowe
-	culture = rivers
+	culture = darlingian
 	religion = tersian
 	holding = auto
 }
@@ -2238,7 +2238,7 @@
 
 ### c_gowen
 649 = {  #Mendooran
-	culture = wamboolian
+	culture = darlingian
 	religion = tersian
 	holding = auto
 }
@@ -2257,7 +2257,7 @@
 
 ### c_baradine
 653 = {  #Baradine
-	culture = rivers
+	culture = darlingian
 	religion = tersian
 	holding = auto
 }
@@ -2276,7 +2276,7 @@
 
 ### c_leichardt
 657 = {  #Coonamble
-	culture = murrawarrian
+	culture = darlingian
 	religion = tersian
 	holding = auto
 }
@@ -2292,7 +2292,7 @@
 # d_lincoln
 ### c_dubbo
 606 = {  #Geurie
-	culture = wamboolian
+	culture = darlingian
 	religion = tersian
 	holding = auto
 }
@@ -2307,7 +2307,7 @@
 
 ### c_gordon
 609 = {  #Cumnock
-	culture = wamboolian
+	culture = murrayan
 	religion = tersian
 	holding = auto
 }
@@ -2318,7 +2318,7 @@
 
 ### c_ashburnham
 611 = {  #Cuda
-	culture = wamboolian
+	culture = murrayan
 	religion = tersian
 	holding = auto
 }
@@ -2338,7 +2338,7 @@
 # d_ewenmar
 ### c_cunningham
 639 = {  #Trundle
-	culture = wamboolian
+	culture = murrayan
 	religion = tersian
 	holding = auto
 }
@@ -2349,7 +2349,7 @@
 
 ### c_kennedy
 641 = {  #Tullamore
-	culture = wamboolian
+	culture = murrayan
 	religion = tersian
 	holding = auto
 }
@@ -2360,7 +2360,7 @@
 
 ### c_narromine
 643 = {  #Peak Hill
-	culture = wamboolian
+	culture = darlingian
 	religion = tersian
 	holding = auto
 }
@@ -2375,7 +2375,7 @@
 
 ### c_ewenmar
 646 = {  #Gilgandra
-	culture = wamboolian
+	culture = darlingian
 	religion = tersian
 	holding = auto
 }
@@ -2390,7 +2390,7 @@
 
 ### c_oxley
 725 = {  #Oxley
-	culture = wamboolian
+	culture = darlingian
 	religion = tersian
 	holding = auto
 }
@@ -2399,7 +2399,7 @@
 # d_moonie
 ### c_benarba
 590 = {  #Moomin
-	culture = rivers
+	culture = darlingian
 	religion = tersian
 	holding = auto
 }
@@ -2418,7 +2418,7 @@
 
 ### c_st_george
 1014 = {  #St George
-	culture = aussie
+	culture = darlingian
 	religion = tersian
 	holding = auto
 }
@@ -2429,7 +2429,7 @@
 
 ### c_weengallon
 1016 = {  #Thornby
-	culture = aussie
+	culture = new_english
 	religion = tersian
 	holding = auto
 }
@@ -2440,7 +2440,7 @@
 
 ### c_southwood
 1050 = {  #Hannaford
-	culture = aussie
+	culture = new_english
 	religion = tersian
 	holding = auto
 }
@@ -2452,7 +2452,7 @@
 # d_orana
 ### c_denham
 660 = {  #Bugilbone
-	culture = rivers
+	culture = darlingian
 	religion = tersian
 	holding = auto
 }
@@ -2467,7 +2467,7 @@
 
 ### c_finch
 663 = {  #Glatherindi
-	culture = murrawarrian
+	culture = darlingian
 	religion = tersian
 	holding = auto
 }
@@ -2486,7 +2486,7 @@
 
 ### c_narran
 667 = {  #Brewarinna
-	culture = murrawarrian
+	culture = darlingian
 	religion = tersian
 	holding = auto
 }
@@ -2502,7 +2502,7 @@
 # d_paroo
 ### c_south_culgoa
 670 = {  #Malgoolie
-	culture = murrawarrian
+	culture = darlingian
 	religion = tersian
 	holding = auto
 }
@@ -2517,8 +2517,8 @@
 
 ### c_wooroorooka
 1005 = {  #Wooroorooka
-	culture = aussie
-	religion = tersian
+	culture = darlingian
+	religion = devotionist
 	holding = auto
 }
 
@@ -2528,7 +2528,7 @@
 
 ### c_cunnamulla
 1007 = {  #Cunnamulla
-	culture = aussie
+	culture = darlingian
 	religion = tersian
 	holding = auto
 }
@@ -2539,7 +2539,7 @@
 
 ### c_culgoa
 1009 = {  #Widgeegoara
-	culture = aussie
+	culture = darlingian
 	religion = tersian
 	holding = auto
 }
@@ -2551,7 +2551,7 @@
 # d_irrara
 ### c_gunderbooka
 673 = {  #North Bourke
-	culture = murrawarrian
+	culture = darlingian
 	religion = tersian
 	holding = auto
 }
@@ -2562,7 +2562,7 @@
 
 ### c_irrara
 675 = {  #Kerribree
-	culture = murrawarrian
+	culture = darlingian
 	religion = tersian
 	holding = auto
 }
@@ -2581,7 +2581,7 @@
 
 ### c_barrona
 679 = {  #Nocoleche
-	culture = murrawarrian
+	culture = darlingian
 	religion = tersian
 	holding = auto
 }
@@ -2592,7 +2592,7 @@
 
 ### c_thoulcanna
 681 = {  #Kerrininna
-	culture = baakan
+	culture = mulgan
 	religion = tersian
 	holding = auto
 }
@@ -2603,8 +2603,8 @@
 
 ### c_kilcowera
 1000 = {  #Yakara
-	culture = aussie
-	religion = tersian
+	culture = mulgan
+	religion = arenist
 	holding = auto
 }
 
@@ -2614,8 +2614,8 @@
 
 ### c_currawinya
 1002 = {  #Yandora
-	culture = aussie
-	religion = tersian
+	culture = mulgan
+	religion = arenist
 	holding = auto
 }
 
@@ -2630,7 +2630,7 @@
 # d_dirranbandi
 ### c_dirranbandi
 1011 = {  #Woolerina
-	culture = aussie
+	culture = darlingian
 	religion = tersian
 	holding = auto
 }
@@ -2645,7 +2645,7 @@
 
 ### c_bollon
 1052 = {  #Bollon
-	culture = aussie
+	culture = darlingian
 	religion = tersian
 	holding = auto
 }
@@ -2656,8 +2656,8 @@
 
 ### c_linden
 1054 = {  #Corfu
-	culture = aussie
-	religion = tersian
+	culture = mulgan
+	religion = devotionist
 	holding = auto
 }
 
@@ -2671,8 +2671,8 @@
 
 ### c_begonia
 1093 = {  #Thrushton
-	culture = aussie
-	religion = tersian
+	culture = mulgan
+	religion = devotionist
 	holding = auto
 }
 
@@ -2688,7 +2688,7 @@
 # d_killara
 ### c_yungnulgra
 702 = {  #Coona Coona
-	culture = baakan
+	culture = darlingian
 	religion = tersian
 	holding = auto
 }
@@ -2703,7 +2703,7 @@
 
 ### c_fitzgerald
 705 = {  #Fitzgerald
-	culture = baakan
+	culture = darlingian
 	religion = tersian
 	holding = auto
 }
@@ -2714,7 +2714,7 @@
 
 ### c_killara
 707 = {  #Paroo Darling
-	culture = baakan
+	culture = darlingian
 	religion = tersian
 	holding = auto
 }
@@ -2730,7 +2730,7 @@
 # d_clyde
 ### c_landsborough
 710 = {  #Carney
-	culture = baakan
+	culture = darlingian
 	religion = tersian
 	holding = auto
 }
@@ -2741,7 +2741,7 @@
 
 ### c_yanda
 712 = {  #Elutha
-	culture = wamboolian
+	culture = darlingian
 	religion = tersian
 	holding = auto
 }
@@ -2752,7 +2752,7 @@
 
 ### c_cowper
 714 = {  #Nidgery
-	culture = murrawarrian
+	culture = darlingian
 	religion = tersian
 	holding = auto
 }
@@ -2775,7 +2775,7 @@
 
 ### c_clyde
 719 = {  #Barwon Bogan
-	culture = murrawarrian
+	culture = darlingian
 	religion = tersian
 	holding = auto
 }
@@ -2790,7 +2790,7 @@
 
 ### c_gregory
 722 = {  #Dryburgh
-	culture = wamboolian
+	culture = darlingian
 	religion = tersian
 	holding = auto
 }
@@ -2805,7 +2805,7 @@
 
 ### c_canbelego
 727 = {  #Muriel
-	culture = wamboolian
+	culture = darlingian
 	religion = tersian
 	holding = auto
 }
@@ -2817,14 +2817,14 @@
 # d_mouramba
 ### c_flinders
 726 = {  #Flinders
-	culture = wamboolian
+	culture = murrayan
 	religion = tersian
 	holding = auto
 }
 
 ### c_robinson
 729 = {  #Robinson
-	culture = wamboolian
+	culture = murrayan
 	religion = tersian
 	holding = auto
 }
@@ -2839,7 +2839,7 @@
 
 ### c_booroondarra
 732 = {  #PNyertgton
-	culture = wamboolian
+	culture = murrayan
 	religion = tersian
 	holding = auto
 }
@@ -2850,7 +2850,7 @@
 
 ### c_rankin
 734 = {  #Deniehy
-	culture = baakan
+	culture = darlingian
 	religion = tersian
 	holding = auto
 }
@@ -2865,7 +2865,7 @@
 
 ### c_woore
 755 = {  #Barcham
-	culture = wamboolian
+	culture = murrayan
 	religion = tersian
 	holding = auto
 }
@@ -2880,7 +2880,7 @@
 
 ### c_mossgiel
 758 = {  #Trida
-	culture = wamboolian
+	culture = murrayan
 	religion = tersian
 	holding = auto
 }
@@ -2899,7 +2899,7 @@
 
 ### c_blaxland
 762 = {  #Lachlan Valley
-	culture = wamboolian
+	culture = murrayan
 	religion = tersian
 	holding = auto
 }
@@ -2918,7 +2918,7 @@
 
 ### c_mouramba
 766 = {  #Nymagee
-	culture = wamboolian
+	culture = murrayan
 	religion = tersian
 	holding = auto
 }
@@ -2934,7 +2934,7 @@
 # d_tandora
 ### c_werunda
 737 = {  #Ringrose
-	culture = baakan
+	culture = darlingian
 	religion = tersian
 	holding = auto
 }
@@ -2949,7 +2949,7 @@
 
 ### c_young
 740 = {  #Mulyenery
-	culture = baakan
+	culture = darlingian
 	religion = tersian
 	holding = auto
 }
@@ -2968,7 +2968,7 @@
 
 ### c_tandora
 744 = {  #Pamamaroo
-	culture = murrumbidgeen
+	culture = darlingian
 	religion = tersian
 	holding = auto
 }
@@ -2983,8 +2983,8 @@
 
 ### c_yancowinna
 747 = {  #Broken Hill
-	culture = murrumbidgeen
-	religion = tersian
+	culture = welshbacker
+	religion = devotionist
 	holding = auto
 }
 
@@ -2994,7 +2994,7 @@
 
 ### c_menindee
 749 = {  #Menindee
-	culture = murrumbidgeen
+	culture = darlingian
 	religion = tersian
 	holding = auto
 }
@@ -3005,7 +3005,7 @@
 
 ### c_livingstone
 751 = {  #Ratcatcher
-	culture = murrumbidgeen
+	culture = darlingian
 	religion = tersian
 	holding = auto
 }
@@ -3025,14 +3025,14 @@
 # d_carrathool
 ### c_franklin
 773 = {  #Franklin
-	culture = murrumbidgeen
+	culture = murrayan
 	religion = tersian
 	holding = auto
 }
 
 ### c_waljeers
 774 = {  #Abbotsford
-	culture = murrumbidgeen
+	culture = murrayan
 	religion = tersian
 	holding = auto
 }
@@ -3043,7 +3043,7 @@
 
 ### c_kilfera
 794 = {  #Hatfield
-	culture = murrumbidgeen
+	culture = murrayan
 	religion = tersian
 	holding = auto
 }
@@ -3058,7 +3058,7 @@
 
 ### c_caira
 797 = {  #Great Cumbungi
-	culture = muruwari
+	culture = murrayan
 	religion = tersian
 	holding = auto
 }
@@ -3077,7 +3077,7 @@
 
 ### c_waradgery
 801 = {  #Hay
-	culture = murrumbidgeen
+	culture = murrayan
 	religion = tersian
 	holding = auto
 }
@@ -3097,7 +3097,7 @@
 # d_wentworth
 ### c_manara
 776 = {  #Matheson
-	culture = murrumbidgeen
+	culture = murrayan
 	religion = tersian
 	holding = auto
 }
@@ -3112,7 +3112,7 @@
 
 ### c_perry
 779 = {  #Kandra
-	culture = murrumbidgeen
+	culture = darlingian
 	religion = tersian
 	holding = auto
 }
@@ -3127,7 +3127,7 @@
 
 ### c_windeyer
 782 = {  #Windeyer
-	culture = murrumbidgeen
+	culture = darlingian
 	religion = tersian
 	holding = auto
 }
@@ -3142,7 +3142,7 @@
 
 ### c_tarawi
 785 = {  #Huntingfield
-	culture = muruwari
+	culture = murrayan
 	religion = tersian
 	holding = auto
 }
@@ -3157,7 +3157,7 @@
 
 ### c_wentworth
 788 = {  #Lake Mungo
-	culture = muruwari
+	culture = murrayan
 	religion = tersian
 	holding = auto
 }
@@ -3172,7 +3172,7 @@
 
 ### c_taila
 791 = {  #Maniette
-	culture = muruwari
+	culture = murrayan
 	religion = tersian
 	holding = auto
 }
@@ -3190,7 +3190,7 @@
 # d_portharbour
 ### c_port_macquarie
 518 = {  #Harrington
-	culture = new_english
+	culture = sydneyan
 	religion = tersian
 	holding = auto
 }
@@ -3209,7 +3209,7 @@
 
 ### c_dudley
 525 = {  #Bellbrook
-	culture = new_english
+	culture = sydneyan
 	religion = tersian
 	holding = auto
 }
@@ -3220,7 +3220,7 @@
 
 ### c_nambucca_heads
 535 = {  #Bowraville
-	culture = new_english
+	culture = sydneyan
 	religion = tersian
 	holding = auto
 }
@@ -3231,7 +3231,7 @@
 
 ### c_coffs_harbour
 537 = {  #Dorrigo
-	culture = new_english
+	culture = gold_coastian
 	religion = tersian
 	holding = auto
 }
@@ -3251,7 +3251,7 @@
 # d_lowlands
 ### c_clarence
 546 = {  #Yamba
-	culture = new_english
+	culture = gold_coastian
 	religion = tersian
 	holding = auto
 }
@@ -3266,7 +3266,7 @@
 
 ### c_casino
 549 = {  #Casino
-	culture = new_english
+	culture = gold_coastian
 	religion = tersian
 	holding = auto
 }
@@ -3277,7 +3277,7 @@
 
 ### c_lismore
 551 = {  #Ballina
-	culture = new_english
+	culture = gold_coastian
 	religion = tersian
 	holding = auto
 }
@@ -3355,7 +3355,7 @@
 
 ### c_gresham
 541 = {  #Glen Nevis
-	culture = new_english
+	culture = gold_coastian
 	religion = tersian
 	holding = auto
 }
@@ -3401,7 +3401,7 @@
 # d_new_highlands
 ### c_drake
 543 = {  #Washpool
-	culture = new_english
+	culture = gold_coastian
 	religion = tersian
 	holding = auto
 }
@@ -3416,7 +3416,7 @@
 
 ### c_buller
 555 = {  #Kyogle
-	culture = new_english
+	culture = gold_coastian
 	religion = tersian
 	holding = auto
 }
@@ -3428,7 +3428,7 @@
 # d_nandewar
 ### c_hardinge
 564 = {  #Tingha
-	culture = rivers
+	culture = new_english
 	religion = tersian
 	holding = auto
 }
@@ -3439,7 +3439,7 @@
 
 ### c_darling
 566 = {  #Manilla
-	culture = rivers
+	culture = new_english
 	religion = tersian
 	holding = auto
 }
@@ -3450,7 +3450,7 @@
 
 ### c_nandewar
 574 = {  #Gunnedah
-	culture = rivers
+	culture = darlingian
 	religion = tersian
 	holding = auto
 }
@@ -3461,7 +3461,7 @@
 
 ### c_murchison
 576 = {  #Gwydir
-	culture = rivers
+	culture = new_english
 	religion = tersian
 	holding = auto
 }
@@ -3476,7 +3476,7 @@
 
 ### c_jamison
 594 = {  #Bellata
-	culture = rivers
+	culture = darlingian
 	religion = tersian
 	holding = auto
 }
@@ -3501,7 +3501,7 @@
 # d_north_west_slopes
 ### c_arrawatta
 579 = {  #Inverell
-	culture = rivers
+	culture = new_english
 	religion = tersian
 	holding = auto
 }
@@ -3516,7 +3516,7 @@
 
 ### c_burnett
 582 = {  #Warialda
-	culture = rivers
+	culture = new_english
 	religion = tersian
 	holding = auto
 }
@@ -3531,7 +3531,7 @@
 
 ### c_stapylton
 585 = {  #Boggabilla
-	culture = rivers
+	culture = new_english
 	religion = tersian
 	holding = auto
 }
@@ -3546,7 +3546,7 @@
 
 ### c_courallie
 588 = {  #Pringle
-	culture = rivers
+	culture = darlingian
 	religion = tersian
 	holding = auto
 }
@@ -3558,7 +3558,7 @@
 # d_goondiwindi
 ### c_goondiwindi
 1018 = {  #Toobeeh
-	culture = aussie
+	culture = new_english
 	religion = tersian
 	holding = auto
 }
@@ -3573,7 +3573,7 @@
 
 ### c_inglewood
 1021 = {  #Wyaga
-	culture = aussie
+	culture = new_english
 	religion = tersian
 	holding = auto
 }
@@ -3588,7 +3588,7 @@
 
 ### c_texas
 1024 = {  #Stanthorpe
-	culture = aussie
+	culture = new_english
 	religion = tersian
 	holding = auto
 }
@@ -3603,7 +3603,7 @@
 
 ### c_warwick
 1027 = {  #Warwick
-	culture = aussie
+	culture = gold_coastian
 	religion = tersian
 	holding = auto
 }
@@ -3618,7 +3618,7 @@
 
 ### c_millmerran
 1047 = {  #Moonlo
-	culture = aussie
+	culture = new_english
 	religion = tersian
 	holding = auto
 }
@@ -3634,7 +3634,7 @@
 # d_brisbane
 ### c_boonah
 1030 = {  #Kildare
-	culture = aussie
+	culture = gold_coastian
 	religion = tersian
 	holding = auto
 }
@@ -3649,7 +3649,7 @@
 
 ### c_surfers_paradise
 1033 = {  #Oxenford
-	culture = aussie
+	culture = gold_coastian
 	religion = tersian
 	holding = auto
 }
@@ -3668,7 +3668,7 @@
 
 ### c_brisbane
 1037 = {  #Toogoolawah
-	culture = aussie
+	culture = gold_coastian
 	religion = tersian
 	holding = auto
 }
@@ -3691,7 +3691,7 @@
 
 ### c_toowoomba
 1042 = {  #Oakey
-	culture = aussie
+	culture = gold_coastian
 	religion = tersian
 	holding = auto
 }
@@ -3714,7 +3714,7 @@
 
 ### c_maroochydore
 1111 = {  #Nanango
-	culture = aussie
+	culture = gold_coastian
 	religion = tersian
 	holding = auto
 }
@@ -3734,7 +3734,7 @@
 # d_western_downs
 ### c_miles
 1102 = {  #Wandoan
-	culture = aussie
+	culture = bucklandian
 	religion = tersian
 	holding = auto
 }
@@ -3745,7 +3745,7 @@
 
 ### c_tara
 1104 = {  #Brigalow
-	culture = aussie
+	culture = new_english
 	religion = tersian
 	holding = auto
 }
@@ -3760,7 +3760,7 @@
 
 ### c_dalby
 1107 = {  #Jandowae
-	culture = aussie
+	culture = burnettian
 	religion = tersian
 	holding = auto
 }
@@ -3779,7 +3779,7 @@
 
 ### c_chinchilla
 1118 = {  #Alfred Creek
-	culture = aussie
+	culture = burnettian
 	religion = tersian
 	holding = auto
 }
@@ -3799,7 +3799,7 @@
 # d_sunshine
 ### c_kingaroy
 1115 = {  #Murgon
-	culture = aussie
+	culture = gold_coastian
 	religion = tersian
 	holding = auto
 }
@@ -3814,7 +3814,7 @@
 
 ### c_sunshine_coast
 1125 = {  #Tiaro
-	culture = aussie
+	culture = gold_coastian
 	religion = tersian
 	holding = auto
 }
@@ -3837,7 +3837,7 @@
 
 ### c_maryborough
 1130 = {  #Fraser Island
-	culture = aussie
+	culture = gold_coastian
 	religion = tersian
 	holding = auto
 }
@@ -3860,7 +3860,7 @@
 
 ### c_mundubbera
 1135 = {  #Eidsvold
-	culture = aussie
+	culture = burnettian
 	religion = tersian
 	holding = auto
 }
@@ -3873,8 +3873,8 @@
 # d_maranoa
 ### c_mitchell
 1096 = {  #Mitchell
-	culture = aussie
-	religion = tersian
+	culture = bucklandian
+	religion = devotionist
 	holding = auto
 }
 
@@ -3888,8 +3888,8 @@
 
 ### c_roma
 1099 = {  #Yuleba
-	culture = aussie
-	religion = tersian
+	culture = bucklandian
+	religion = devotionist
 	holding = auto
 }
 
@@ -3903,8 +3903,8 @@
 
 ### c_surat
 1122 = {  #Surat
-	culture = aussie
-	religion = tersian
+	culture = new_english
+	religion = devotionist
 	holding = auto
 }
 
@@ -3918,8 +3918,8 @@
 
 ### c_forest_vale
 1145 = {  #Forest Vale
-	culture = aussie
-	religion = tersian
+	culture = bucklandian
+	religion = devotionist
 	holding = auto
 }
 
@@ -3930,7 +3930,7 @@
 # d_banana
 ### c_taroom
 1137 = {  #Taroom
-	culture = aussie
+	culture = bucklandian
 	religion = tersian
 	holding = auto
 }
@@ -3949,8 +3949,8 @@
 
 ### c_injune
 1141 = {  #Barbondah
-	culture = aussie
-	religion = tersian
+	culture = bucklandian
+	religion = devotionist
 	holding = auto
 }
 
@@ -3968,7 +3968,7 @@
 
 ### c_theodore
 1195 = {  #Palmgrove
-	culture = aussie
+	culture = bucklandian
 	religion = tersian
 	holding = auto
 }
@@ -3988,8 +3988,8 @@
 # d_carnarvon
 ### c_hillside_forest
 1187 = {  #Lorna
-	culture = aussie
-	religion = tersian
+	culture = bucklandian
+	religion = devotionist
 	holding = auto
 }
 
@@ -3999,8 +3999,8 @@
 
 ### c_oak_vale
 1189 = {  #Carnarvon Gorge
-	culture = aussie
-	religion = tersian
+	culture = bucklandian
+	religion = devotionist
 	holding = auto
 }
 
@@ -4014,8 +4014,8 @@
 
 ### c_expedition
 1192 = {  #Purbrook
-	culture = aussie
-	religion = tersian
+	culture = bucklandian
+	religion = devotionist
 	holding = auto
 }
 
@@ -4029,8 +4029,8 @@
 
 ### c_carnarvon
 1224 = {  #Deepdale
-	culture = aussie
-	religion = tersian
+	culture = bucklandian
+	religion = devotionist
 	holding = auto
 }
 
@@ -4053,7 +4053,7 @@
 # d_north_burnett
 ### c_dawson_park
 1199 = {  #Cania Gorge
-	culture = aussie
+	culture = burnettian
 	religion = tersian
 	holding = auto
 }
@@ -4068,7 +4068,7 @@
 
 ### c_monto
 1202 = {  #Monto
-	culture = aussie
+	culture = burnettian
 	religion = tersian
 	holding = auto
 }
@@ -4087,7 +4087,7 @@
 
 ### c_bundaberg
 1206 = {  #Agnes Water
-	culture = aussie
+	culture = burnettian
 	religion = tersian
 	holding = auto
 }
@@ -4102,7 +4102,7 @@
 
 ### c_gladstone
 1209 = {  #Mt Larcom
-	culture = aussie
+	culture = burnettian
 	religion = tersian
 	holding = auto
 }
@@ -4121,7 +4121,7 @@
 
 ### c_biloela
 1213 = {  #Kroombit Tops
-	culture = aussie
+	culture = burnettian
 	religion = tersian
 	holding = auto
 }
@@ -4137,7 +4137,7 @@
 # d_central_highlands
 ### c_moura
 1216 = {  #Baralba
-	culture = aussie
+	culture = bucklandian
 	religion = tersian
 	holding = auto
 }
@@ -4160,8 +4160,8 @@
 
 ### c_rolleston
 1221 = {  #Somerby
-	culture = aussie
-	religion = tersian
+	culture = bucklandian
+	religion = devotionist
 	holding = auto
 }
 
@@ -4175,8 +4175,8 @@
 
 ### c_mantuan_downs
 1276 = {  #Willows
-	culture = aussie
-	religion = tersian
+	culture = bucklandian
+	religion = devotionist
 	holding = auto
 }
 
@@ -4190,7 +4190,7 @@
 
 ### c_blackwater
 1284 = {  #Blackwater
-	culture = aussie
+	culture = bucklandian
 	religion = tersian
 	holding = auto
 }
@@ -4209,8 +4209,8 @@
 
 ### c_emerald
 1288 = {  #Tieri
-	culture = aussie
-	religion = tersian
+	culture = bucklandian
+	religion = devotionist
 	holding = auto
 }
 
@@ -4233,7 +4233,7 @@
 # d_torilla
 ### c_rockhampton
 1279 = {  #Keppel  Sands
-	culture = aussie
+	culture = burnettian
 	religion = tersian
 	holding = auto
 }
@@ -4256,7 +4256,7 @@
 
 ### c_yeppoon
 1349 = {  #Torilla
-	culture = aussie
+	culture = mackayan
 	religion = tersian
 	holding = auto
 }
@@ -4279,7 +4279,7 @@
 
 ### c_middlemount
 1354 = {  #Middlemount
-	culture = aussie
+	culture = mackayan
 	religion = tersian
 	holding = auto
 }
@@ -4297,7 +4297,7 @@
 # d_ularara
 ### c_ularara
 683 = {  #Urisino
-	culture = baakan
+	culture = darlingian
 	religion = tersian
 	holding = auto
 }
@@ -4308,15 +4308,15 @@
 
 ### c_delalah
 685 = {  #Delalah
-	culture = baakan
-	religion = tersian
+	culture = welshbacker
+	religion = arenist
 	holding = auto
 }
 
 ### c_tongowoko
 686 = {  #Narriearra
-	culture = baakan
-	religion = tersian
+	culture = welshbacker
+	religion = arenist
 	holding = auto
 }
 
@@ -4326,8 +4326,8 @@
 
 ### c_yantara
 688 = {  #Banjah
-	culture = baakan
-	religion = tersian
+	culture = welshbacker
+	religion = arenist
 	holding = auto
 }
 
@@ -4341,8 +4341,8 @@
 
 ### c_bulloo_downs
 998 = {  #Bulloo Downs
-	culture = aussie
-	religion = tersian
+	culture = welshbacker
+	religion = arenist
 	holding = auto
 }
 
@@ -4353,8 +4353,8 @@
 # d_bulloo_dunefields
 ### c_great_southern_cross
 993 = {  #Epsilon
-	culture = aussie
-	religion = tersian
+	culture = welshbacker
+	religion = arenist
 	holding = auto
 }
 
@@ -4364,8 +4364,8 @@
 
 ### c_warri_gate
 995 = {  #Bransby
-	culture = aussie
-	religion = tersian
+	culture = welshbacker
+	religion = arenist
 	holding = auto
 }
 
@@ -4379,8 +4379,8 @@
 
 ### c_nockatunga
 1070 = {  #Noccundra
-	culture = aussie
-	religion = tersian
+	culture = welshbacker
+	religion = arenist
 	holding = auto
 }
 
@@ -4394,8 +4394,8 @@
 
 ### c_orientos
 1073 = {  #Santos
-	culture = aussie
-	religion = tersian
+	culture = welshbacker
+	religion = arenist
 	holding = auto
 }
 
@@ -4409,8 +4409,8 @@
 
 ### c_cooper_creek
 1076 = {  #Nappa Merrie
-	culture = aussie
-	religion = tersian
+	culture = welshbacker
+	religion = arenist
 	holding = auto
 }
 
@@ -4420,8 +4420,8 @@
 
 ### c_innamincka
 2959 = {  #Innamincka
-	culture = aussie
-	religion = tersian
+	culture = welshbacker
+	religion = arenist
 	holding = auto
 }
 
@@ -4436,8 +4436,8 @@
 # d_yamma_yamma
 ### c_durham
 1078 = {  #Durham Downs
-	culture = aussie
-	religion = tersian
+	culture = welshbacker
+	religion = arenist
 	holding = auto
 }
 
@@ -4447,8 +4447,8 @@
 
 ### c_mount_howitt
 1080 = {  #Prevna Downs
-	culture = aussie
-	religion = tersian
+	culture = welshbacker
+	religion = arenist
 	holding = auto
 }
 
@@ -4462,8 +4462,8 @@
 
 ### c_quilpie
 1158 = {  #Como
-	culture = aussie
-	religion = tersian
+	culture = mulgan
+	religion = arenist
 	holding = auto
 }
 
@@ -4477,8 +4477,8 @@
 
 ### c_eromanga
 1161 = {  #Yambutta
-	culture = aussie
-	religion = tersian
+	culture = mulgan
+	religion = arenist
 	holding = auto
 }
 
@@ -4492,8 +4492,8 @@
 
 ### c_lynwood
 1173 = {  #Cliffton
-	culture = aussie
-	religion = tersian
+	culture = mulgan
+	religion = arenist
 	holding = auto
 }
 
@@ -4508,8 +4508,8 @@
 # d_munga_thirri
 ### c_east_simpson_desert
 1164 = {  #Ongunna
-	culture = aussie
-	religion = tersian
+	culture = arrernte
+	religion = jukurrpa
 	holding = auto
 }
 
@@ -4519,8 +4519,8 @@
 
 ### c_birdsville
 1166 = {  #Carcory
-	culture = aussie
-	religion = tersian
+	culture = arrernte
+	religion = jukurrpa
 	holding = auto
 }
 
@@ -4534,8 +4534,8 @@
 
 ### c_bedourie
 1249 = {  #Bedourie
-	culture = aussie
-	religion = tersian
+	culture = arrernte
+	religion = jukurrpa
 	holding = auto
 }
 
@@ -4545,8 +4545,8 @@
 
 ### c_ethabuka
 1251 = {  #Ethabuka
-	culture = aussie
-	religion = tersian
+	culture = arrernte
+	religion = jukurrpa
 	holding = auto
 }
 
@@ -4557,8 +4557,8 @@
 # d_claypan
 ### c_durri
 1169 = {  #Durri
-	culture = aussie
-	religion = tersian
+	culture = welshbacker
+	religion = arenist
 	holding = auto
 }
 
@@ -4568,8 +4568,8 @@
 
 ### c_mooraberree
 1247 = {  #Monildra
-	culture = aussie
-	religion = tersian
+	culture = channelite
+	religion = jukurrpa
 	holding = auto
 }
 
@@ -4579,8 +4579,8 @@
 
 ### c_breadalbane
 1253 = {  #North Breadalbane
-	culture = aussie
-	religion = tersian
+	culture = channelite
+	religion = jukurrpa
 	holding = auto
 }
 
@@ -4591,8 +4591,8 @@
 # d_barcoo
 ### c_south_galway
 1171 = {  #Morney
-	culture = aussie
-	religion = tersian
+	culture = welshbacker
+	religion = arenist
 	holding = auto
 }
 
@@ -4602,8 +4602,8 @@
 
 ### c_windorah
 1238 = {  #Whitula
-	culture = aussie
-	religion = tersian
+	culture = channelite
+	religion = arenist
 	holding = auto
 }
 
@@ -4617,8 +4617,8 @@
 
 ### c_jundah
 1241 = {  #Flodden Hills
-	culture = aussie
-	religion = tersian
+	culture = channelite
+	religion = arenist
 	holding = auto
 }
 
@@ -4632,8 +4632,8 @@
 
 ### c_palpararah
 1244 = {  #Kurran
-	culture = aussie
-	religion = tersian
+	culture = channelite
+	religion = arenist
 	holding = auto
 }
 
@@ -4647,8 +4647,8 @@
 
 ### c_diamantina
 1260 = {  #Diamantina
-	culture = aussie
-	religion = tersian
+	culture = channelite
+	religion = jukurrpa
 	holding = auto
 }
 
@@ -4659,8 +4659,8 @@
 # d_stony_desert
 ### c_sturt_stony_desert
 2962 = {  #Sturt Stony Desert
-	culture = aussie
-	religion = tersian
+	culture = welshbacker
+	religion = arenist
 	holding = auto
 }
 
@@ -4674,8 +4674,8 @@
 
 ### c_warburton_crossing
 2965 = {  #Mt Gason
-	culture = aussie
-	religion = tersian
+	culture = welshbacker
+	religion = ephemerist
 	holding = auto
 }
 
@@ -4685,8 +4685,8 @@
 
 ### c_kalamurina
 2967 = {  #Kalamurina
-	culture = aussie
-	religion = tersian
+	culture = welshbacker
+	religion = ephemerist
 	holding = auto
 }
 
@@ -4694,8 +4694,8 @@
 # d_opal
 ### c_wyandra
 1057 = {  #Mengalore
-	culture = aussie
-	religion = tersian
+	culture = mulgan
+	religion = devotionist
 	holding = auto
 }
 
@@ -4717,8 +4717,8 @@
 
 ### c_eulo
 1062 = {  #Tibooroo
-	culture = aussie
-	religion = tersian
+	culture = darlingian
+	religion = devotionist
 	holding = auto
 }
 
@@ -4728,8 +4728,8 @@
 
 ### c_yowah
 1064 = {  #Yowah
-	culture = aussie
-	religion = tersian
+	culture = mulgan
+	religion = arenist
 	holding = auto
 }
 
@@ -4743,8 +4743,8 @@
 
 ### c_big_creek
 1088 = {  #Alroy
-	culture = aussie
-	religion = tersian
+	culture = mulgan
+	religion = devotionist
 	holding = auto
 }
 
@@ -4758,8 +4758,8 @@
 
 ### c_cheepie
 1155 = {  #Cheepie
-	culture = aussie
-	religion = tersian
+	culture = mulgan
+	religion = devotionist
 	holding = auto
 }
 
@@ -4774,8 +4774,8 @@
 # d_thargomindah
 ### c_thargomindah
 1067 = {  #Picantill
-	culture = aussie
-	religion = tersian
+	culture = mulgan
+	religion = arenist
 	holding = auto
 }
 
@@ -4789,15 +4789,15 @@
 
 ### c_mount_margaret
 1083 = {  #Mount Margaret
-	culture = aussie
-	religion = tersian
+	culture = mulgan
+	religion = arenist
 	holding = auto
 }
 
 ### c_ardoch
 1084 = {  #Ardoch
-	culture = aussie
-	religion = tersian
+	culture = mulgan
+	religion = arenist
 	holding = auto
 }
 
@@ -4807,8 +4807,8 @@
 
 ### c_toompine
 1086 = {  #Toompine
-	culture = aussie
-	religion = tersian
+	culture = mulgan
+	religion = arenist
 	holding = auto
 }
 
@@ -4819,8 +4819,8 @@
 # d_murweh
 ### c_boatman
 1091 = {  #Boatman
-	culture = aussie
-	religion = tersian
+	culture = mulgan
+	religion = devotionist
 	holding = auto
 }
 
@@ -4830,8 +4830,8 @@
 
 ### c_morven
 1147 = {  #Chesterton
-	culture = aussie
-	religion = tersian
+	culture = mulgan
+	religion = devotionist
 	holding = auto
 }
 
@@ -4849,8 +4849,8 @@
 
 ### c_charleville
 1151 = {  #Lumea
-	culture = aussie
-	religion = tersian
+	culture = mulgan
+	religion = devotionist
 	holding = auto
 }
 
@@ -4868,8 +4868,8 @@
 
 ### c_augathella
 1185 = {  #Barfold
-	culture = aussie
-	religion = tersian
+	culture = mulgan
+	religion = devotionist
 	holding = auto
 }
 
@@ -4880,8 +4880,8 @@
 # d_hell
 ### c_hell_hole_gorge
 1176 = {  #Hell Hole Gorge
-	culture = aussie
-	religion = tersian
+	culture = mulgan
+	religion = devotionist
 	holding = auto
 }
 
@@ -4895,8 +4895,8 @@
 
 ### c_adavale
 1179 = {  #Adavale
-	culture = aussie
-	religion = tersian
+	culture = mulgan
+	religion = devotionist
 	holding = auto
 }
 
@@ -4910,8 +4910,8 @@
 
 ### c_scrubby_creek
 1182 = {  #Listowel Downs
-	culture = aussie
-	religion = tersian
+	culture = mulgan
+	religion = devotionist
 	holding = auto
 }
 
@@ -4925,8 +4925,8 @@
 
 ### c_idalia
 1232 = {  #Emmet
-	culture = aussie
-	religion = tersian
+	culture = mulgan
+	religion = devotionist
 	holding = auto
 }
 
@@ -4942,8 +4942,8 @@
 # d_blackall_tambo
 ### c_tambo
 1229 = {  #Tambo
-	culture = aussie
-	religion = tersian
+	culture = mulgan
+	religion = devotionist
 	holding = auto
 }
 
@@ -4957,8 +4957,8 @@
 
 ### c_isisford
 1267 = {  #Amor Downs
-	culture = aussie
-	religion = tersian
+	culture = mulgan
+	religion = devotionist
 	holding = auto
 }
 
@@ -4972,8 +4972,8 @@
 
 ### c_blackall
 1270 = {  #Yalleroi
-	culture = aussie
-	religion = tersian
+	culture = sobelter
+	religion = devotionist
 	holding = auto
 }
 
@@ -4987,8 +4987,8 @@
 
 ### c_sedgeford
 1273 = {  #Sedgeford
-	culture = aussie
-	religion = tersian
+	culture = sobelter
+	religion = devotionist
 	holding = auto
 }
 
@@ -5003,8 +5003,8 @@
 # d_welford
 ### c_welford
 1235 = {  #Yaraka
-	culture = aussie
-	religion = tersian
+	culture = mulgan
+	religion = devotionist
 	holding = auto
 }
 
@@ -5018,8 +5018,8 @@
 
 ### c_stonehenge
 1265 = {  #Warbreccan
-	culture = aussie
-	religion = tersian
+	culture = channelite
+	religion = devotionist
 	holding = auto
 }
 
@@ -5029,8 +5029,8 @@
 
 ### c_lochern
 1306 = {  #Eureka
-	culture = aussie
-	religion = tersian
+	culture = downian
+	religion = devotionist
 	holding = auto
 }
 
@@ -5044,8 +5044,8 @@
 
 ### c_fermoy
 1311 = {  #Warnambool Downs
-	culture = aussie
-	religion = tersian
+	culture = downian
+	religion = arenist
 	holding = auto
 }
 
@@ -5060,8 +5060,8 @@
 # d_barcaldine
 ### c_jericho
 1296 = {  #Hobartville
-	culture = aussie
-	religion = tersian
+	culture = sobelter
+	religion = devotionist
 	holding = auto
 }
 
@@ -5075,8 +5075,8 @@
 
 ### c_barcaldine
 1299 = {  #Stirling
-	culture = aussie
-	religion = tersian
+	culture = sobelter
+	religion = devotionist
 	holding = auto
 }
 
@@ -5094,8 +5094,8 @@
 
 ### c_aramac
 1344 = {  #Cudmore
-	culture = aussie
-	religion = tersian
+	culture = sobelter
+	religion = devotionist
 	holding = auto
 }
 
@@ -5106,8 +5106,8 @@
 # d_dryland
 ### c_longreach
 1303 = {  #Brixton
-	culture = aussie
-	religion = tersian
+	culture = downian
+	religion = devotionist
 	holding = auto
 }
 
@@ -5121,8 +5121,8 @@
 
 ### c_clanagh
 1309 = {  #Clanagh
-	culture = aussie
-	religion = tersian
+	culture = downian
+	religion = devotionist
 	holding = auto
 }
 
@@ -5132,8 +5132,8 @@
 
 ### c_muttaburra
 1342 = {  #Muttaburra
-	culture = aussie
-	religion = tersian
+	culture = downian
+	religion = devotionist
 	holding = auto
 }
 
@@ -5143,8 +5143,8 @@
 
 ### c_caledonia
 1375 = {  #Caledonia
-	culture = aussie
-	religion = tersian
+	culture = downian
+	religion = devotionist
 	holding = auto
 }
 
@@ -5154,8 +5154,8 @@
 
 ### c_kensington
 1377 = {  #Eskdale
-	culture = aussie
-	religion = tersian
+	culture = downian
+	religion = devotionist
 	holding = auto
 }
 
@@ -5170,8 +5170,8 @@
 # d_galilee
 ### c_laglan
 1369 = {  #Eastmere
-	culture = aussie
-	religion = tersian
+	culture = sobelter
+	religion = devotionist
 	holding = auto
 }
 
@@ -5185,8 +5185,8 @@
 
 ### c_galilee
 1372 = {  #Forest Den
-	culture = aussie
-	religion = tersian
+	culture = sobelter
+	religion = devotionist
 	holding = auto
 }
 
@@ -5200,8 +5200,8 @@
 
 ### c_buchanan
 1432 = {  #Yarromere
-	culture = aussie
-	religion = tersian
+	culture = sobelter
+	religion = devotionist
 	holding = auto
 }
 
@@ -5215,8 +5215,8 @@
 
 ### c_doongmabulla
 1435 = {  #Doongmabulla
-	culture = aussie
-	religion = tersian
+	culture = sobelter
+	religion = devotionist
 	holding = auto
 }
 
@@ -5228,8 +5228,8 @@
 # d_boulia
 ### c_cravens_peak
 1255 = {  #Glenomiston
-	culture = aussie
-	religion = tersian
+	culture = ngarna
+	religion = jukurrpa
 	holding = auto
 }
 
@@ -5243,8 +5243,8 @@
 
 ### c_canary
 1258 = {  #Canary
-	culture = aussie
-	religion = tersian
+	culture = channelite
+	religion = jukurrpa
 	holding = auto
 }
 
@@ -5254,8 +5254,8 @@
 
 ### c_lucknow
 1318 = {  #Lucknow
-	culture = aussie
-	religion = tersian
+	culture = channelite
+	religion = jukurrpa
 	holding = auto
 }
 
@@ -5265,8 +5265,8 @@
 
 ### c_boulia
 1320 = {  #Boulia
-	culture = aussie
-	religion = tersian
+	culture = channelite
+	religion = jukurrpa
 	holding = auto
 }
 
@@ -5277,8 +5277,8 @@
 # d_middletonia
 ### c_goneaway
 1262 = {  #Brighton Downs
-	culture = aussie
-	religion = tersian
+	culture = channelite
+	religion = arenist
 	holding = auto
 }
 
@@ -5292,8 +5292,8 @@
 
 ### c_cork
 1314 = {  #Cork
-	culture = aussie
-	religion = tersian
+	culture = channelite
+	religion = arenist
 	holding = auto
 }
 
@@ -5303,8 +5303,8 @@
 
 ### c_verdun_valley
 1316 = {  #Chiltem Hills
-	culture = aussie
-	religion = tersian
+	culture = channelite
+	religion = arenist
 	holding = auto
 }
 
@@ -5314,8 +5314,8 @@
 
 ### c_middleton
 1332 = {  #Ranges Valley
-	culture = aussie
-	religion = tersian
+	culture = channelite
+	religion = arenist
 	holding = auto
 }
 
@@ -5325,8 +5325,8 @@
 
 ### c_kalkadooh
 1336 = {  #Cathedral Hill
-	culture = aussie
-	religion = tersian
+	culture = channelite
+	religion = arenist
 	holding = auto
 }
 
@@ -5337,15 +5337,15 @@
 # d_barkly_tableland
 ### c_tobermorey
 1322 = {  #Tobermorey
-	culture = aussie
-	religion = tersian
+	culture = ngarna
+	religion = jukurrpa
 	holding = auto
 }
 
 ### c_linda_downs
 1323 = {  #Linda Downs
-	culture = aussie
-	religion = tersian
+	culture = ngarna
+	religion = jukurrpa
 	holding = auto
 }
 
@@ -5355,8 +5355,8 @@
 
 ### c_urandangi
 1393 = {  #Urandangi
-	culture = aussie
-	religion = tersian
+	culture = ngarna
+	religion = jukurrpa
 	holding = auto
 }
 
@@ -5366,8 +5366,8 @@
 
 ### c_barkly
 1395 = {  #Arcadia
-	culture = aussie
-	religion = tersian
+	culture = ngarna
+	religion = jukurrpa
 	holding = auto
 }
 
@@ -5381,8 +5381,8 @@
 
 ### c_duchess
 1398 = {  #Duchess
-	culture = aussie
-	religion = tersian
+	culture = isan
+	religion = jukurrpa
 	holding = auto
 }
 
@@ -5392,8 +5392,8 @@
 
 ### c_alpurrurulam
 1933 = {  #Alpurrurulam
-	culture = aussie
-	religion = tersian
+	culture = ngarna
+	religion = jukurrpa
 	holding = auto
 }
 
@@ -5404,15 +5404,15 @@
 # d_minelands
 ### c_aiderley
 1325 = {  #Aiderley
-	culture = aussie
-	religion = tersian
+	culture = channelite
+	religion = jukurrpa
 	holding = auto
 }
 
 ### c_monument
 1326 = {  #Selwyn
-	culture = aussie
-	religion = tersian
+	culture = isan
+	religion = jukurrpa
 	holding = auto
 }
 
@@ -5426,8 +5426,8 @@
 
 ### c_brackenburgh
 1329 = {  #Burnham
-	culture = aussie
-	religion = tersian
+	culture = channelite
+	religion = jukurrpa
 	holding = auto
 }
 
@@ -5442,15 +5442,15 @@
 # d_andegerebenha
 ### c_bularnu
 1935 = {  #Bularnu
-	culture = aussie
-	religion = tersian
+	culture = ngarna
+	religion = jukurrpa
 	holding = auto
 }
 
 ### c_alewatyerre
 1936 = {  #Manners Creek
-	culture = aussie
-	religion = tersian
+	culture = arrernte
+	religion = jukurrpa
 	holding = auto
 }
 
@@ -5464,8 +5464,8 @@
 
 ### c_aywerte
 1939 = {  #Attbur
-	culture = aussie
-	religion = tersian
+	culture = arrernte
+	religion = jukurrpa
 	holding = auto
 }
 
@@ -5475,8 +5475,8 @@
 
 ### c_yerrampe
 1941 = {  #Bulinburra
-	culture = aussie
-	religion = tersian
+	culture = arrernte
+	religion = jukurrpa
 	holding = auto
 }
 
@@ -5492,8 +5492,8 @@
 # d_clonlay
 ### c_answer
 1334 = {  #Kuridala
-	culture = aussie
-	religion = tersian
+	culture = isan
+	religion = arenist
 	holding = auto
 }
 
@@ -5503,8 +5503,8 @@
 
 ### c_mckinlay
 1387 = {  #Rutchilo
-	culture = aussie
-	religion = tersian
+	culture = downian
+	religion = arenist
 	holding = auto
 }
 
@@ -5518,8 +5518,8 @@
 
 ### c_cloncurry
 1405 = {  #Cloncurry
-	culture = aussie
-	religion = tersian
+	culture = isan
+	religion = arenist
 	holding = auto
 }
 
@@ -5534,8 +5534,8 @@
 # d_julia_creek
 ### c_tarbrax
 1390 = {  #Tarbrax
-	culture = aussie
-	religion = tersian
+	culture = downian
+	religion = arenist
 	holding = auto
 }
 
@@ -5549,8 +5549,8 @@
 
 ### c_sedan_dip
 1408 = {  #Sedan Dip
-	culture = aussie
-	religion = tersian
+	culture = isan
+	religion = arenist
 	holding = auto
 }
 
@@ -5560,7 +5560,7 @@
 
 ### c_bunda_bunda
 1410 = {  #Bunda Bunda
-	culture = aussie
+	culture = downian
 	religion = tersian
 	holding = auto
 }
@@ -5571,8 +5571,8 @@
 
 ### c_julia_creek
 1412 = {  #Lindfield
-	culture = aussie
-	religion = tersian
+	culture = downian
+	religion = arenist
 	holding = auto
 }
 
@@ -5590,7 +5590,7 @@
 
 ### c_maxwellon
 1416 = {  #Saxby Downs
-	culture = aussie
+	culture = downian
 	religion = tersian
 	holding = auto
 }
@@ -5606,8 +5606,8 @@
 # d_overlanders
 ### c_wooroona
 1400 = {  #Wooroona
-	culture = aussie
-	religion = tersian
+	culture = ngarna
+	religion = jukurrpa
 	holding = auto
 }
 
@@ -5617,8 +5617,8 @@
 
 ### c_mount_isa
 1402 = {  #Mount Isa
-	culture = aussie
-	religion = tersian
+	culture = isan
+	religion = jukurrpa
 	holding = auto
 }
 
@@ -5632,8 +5632,8 @@
 
 ### c_three_rivers
 1499 = {  #Split Rock
-	culture = aussie
-	religion = tersian
+	culture = isan
+	religion = arenist
 	holding = auto
 }
 
@@ -5647,8 +5647,8 @@
 
 ### c_camooweal
 1502 = {  #Morstone
-	culture = aussie
-	religion = tersian
+	culture = ngarna
+	religion = jukurrpa
 	holding = auto
 }
 
@@ -5664,8 +5664,8 @@
 # d_winton
 ### c_winton
 1338 = {  #Lana
-	culture = aussie
-	religion = tersian
+	culture = downian
+	religion = arenist
 	holding = auto
 }
 
@@ -5683,8 +5683,8 @@
 
 ### c_tangorin
 1380 = {  #Tangorin
-	culture = aussie
-	religion = tersian
+	culture = downian
+	religion = devotionist
 	holding = auto
 }
 
@@ -5698,8 +5698,8 @@
 
 ### c_corfield
 1383 = {  #Wetherby
-	culture = aussie
-	religion = tersian
+	culture = downian
+	religion = arenist
 	holding = auto
 }
 
@@ -5709,8 +5709,8 @@
 
 ### c_werna
 1385 = {  #East Werna
-	culture = aussie
-	religion = tersian
+	culture = downian
+	religion = arenist
 	holding = auto
 }
 
@@ -5721,7 +5721,7 @@
 # d_dutton
 ### c_richmond
 1419 = {  #Waikonge
-	culture = aussie
+	culture = downian
 	religion = tersian
 	holding = auto
 }
@@ -5736,14 +5736,14 @@
 
 ### c_dutton_river
 1482 = {  #Dutton River
-	culture = aussie
+	culture = nobelter
 	religion = tersian
 	holding = auto
 }
 
 ### c_mount_norman
 1486 = {  #Mount Norman
-	culture = aussie
+	culture = nobelter
 	religion = tersian
 	holding = auto
 }
@@ -5751,7 +5751,7 @@
 # d_dinosauria
 ### c_exmoor
 1422 = {  #Tammworth
-	culture = aussie
+	culture = downian
 	religion = tersian
 	holding = auto
 }
@@ -5766,7 +5766,7 @@
 
 ### c_katandra
 1425 = {  #Cameron Downs
-	culture = aussie
+	culture = downian
 	religion = tersian
 	holding = auto
 }
@@ -5777,7 +5777,7 @@
 
 ### c_bannockburn
 1427 = {  #Banjoura
-	culture = aussie
+	culture = downian
 	religion = tersian
 	holding = auto
 }
@@ -5788,7 +5788,7 @@
 
 ### c_moorrinya
 1429 = {  #Oakley
-	culture = aussie
+	culture = sobelter
 	religion = tersian
 	holding = auto
 }
@@ -5803,7 +5803,7 @@
 
 ### c_hughenden
 1479 = {  #Wongalee
-	culture = aussie
+	culture = nobelter
 	religion = tersian
 	holding = auto
 }
@@ -5819,14 +5819,14 @@
 # d_blackbraes
 ### c_mount_sturgeon
 1483 = {  #Mount Sturgeon
-	culture = aussie
+	culture = nobelter
 	religion = tersian
 	holding = auto
 }
 
 ### c_blackbraes
 1543 = {  #Kidston
-	culture = aussie
+	culture = nobelter
 	religion = tersian
 	holding = auto
 }
@@ -5837,7 +5837,7 @@
 
 ### c_gregory_springs
 1545 = {  #Gregory Springs
-	culture = aussie
+	culture = nobelter
 	religion = tersian
 	holding = auto
 }
@@ -5849,7 +5849,7 @@
 # d_gemfields
 ### c_strathpark
 1484 = {  #Strathpark
-	culture = aussie
+	culture = nobelter
 	religion = tersian
 	holding = auto
 }
@@ -5860,7 +5860,7 @@
 
 ### c_woodstock
 1487 = {  #Woodstock
-	culture = aussie
+	culture = nobelter
 	religion = tersian
 	holding = auto
 }
@@ -5871,14 +5871,14 @@
 
 ### c_frog_creek
 1540 = {  #Frog Creek
-	culture = aussie
+	culture = nobelter
 	religion = tersian
 	holding = auto
 }
 
 ### c_iona
 1541 = {  #Malacura
-	culture = aussie
+	culture = nobelter
 	religion = tersian
 	holding = auto
 }
@@ -5892,7 +5892,7 @@
 # d_eyre_peninsula
 ### c_whyalla
 919 = {  #Whyalla
-	culture = aussie
+	culture = peninsular
 	religion = tersian
 	holding = auto
 }
@@ -5907,7 +5907,7 @@
 
 ### c_cleve
 922 = {  #Caralub
-	culture = aussie
+	culture = peninsular
 	religion = tersian
 	holding = auto
 }
@@ -5926,7 +5926,7 @@
 
 ### c_tumby_bay
 926 = {  #Murdloga
-	culture = aussie
+	culture = peninsular
 	religion = tersian
 	holding = auto
 }
@@ -5949,7 +5949,7 @@
 
 ### c_port_lincoln
 931 = {  #Cummins
-	culture = aussie
+	culture = peninsular
 	religion = tersian
 	holding = auto
 }
@@ -5965,8 +5965,8 @@
 # d_gawler
 ### c_elliston
 934 = {  #Talia
-	culture = aussie
-	religion = tersian
+	culture = peninsular
+	religion = ecumenist
 	holding = auto
 }
 
@@ -5984,8 +5984,8 @@
 
 ### c_streaky_bay
 938 = {  #Poochera
-	culture = aussie
-	religion = tersian
+	culture = peninsular
+	religion = ecumenist
 	holding = auto
 }
 
@@ -6003,8 +6003,8 @@
 
 ### c_wirrulla
 942 = {  #Kondoolkit
-	culture = aussie
-	religion = tersian
+	culture = nullarborite
+	religion = ecumenist
 	holding = auto
 }
 
@@ -6022,8 +6022,8 @@
 
 ### c_buckleboo
 2908 = {  #Siam
-	culture = aussie
-	religion = tersian
+	culture = peninsular
+	religion = ephemerist
 	holding = auto
 }
 
@@ -6041,8 +6041,8 @@
 
 ### c_gairdner
 2912 = {  #Thurlga
-	culture = aussie
-	religion = tersian
+	culture = gawleran
+	religion = ephemerist
 	holding = auto
 }
 
@@ -6053,8 +6053,8 @@
 # d_ceduna
 ### c_ceduna
 946 = {  #Starfield
-	culture = aussie
-	religion = tersian
+	culture = nullarborite
+	religion = ecumenist
 	holding = auto
 }
 
@@ -6072,8 +6072,8 @@
 
 ### c_port_le_hunt
 950 = {  #Singletree
-	culture = aussie
-	religion = tersian
+	culture = nullarborite
+	religion = ecumenist
 	holding = auto
 }
 
@@ -6091,8 +6091,8 @@
 
 ### c_fowlers_bay
 954 = {  #Owlturn
-	culture = aussie
-	religion = tersian
+	culture = nullarborite
+	religion = ecumenist
 	holding = auto
 }
 
@@ -6114,8 +6114,8 @@
 
 ### c_tarcoola
 2918 = {  #Milbooma
-	culture = aussie
-	religion = tersian
+	culture = gawleran
+	religion = ephemerist
 	holding = auto
 }
 
@@ -6129,8 +6129,8 @@
 
 ### c_east_yellabinna
 2921 = {  #Christie
-	culture = aussie
-	religion = tersian
+	culture = maralingan
+	religion = ecumenist
 	holding = auto
 }
 
@@ -6146,8 +6146,8 @@
 # d_bights_end
 ### c_matheus
 2849 = {  #North Matheus
-	culture = aussie
-	religion = tersian
+	culture = nullarborite
+	religion = paroxyst
 	holding = auto
 }
 
@@ -6157,8 +6157,8 @@
 
 ### c_pondama
 2851 = {  #North Pondama
-	culture = aussie
-	religion = tersian
+	culture = nullarborite
+	religion = ecumenist
 	holding = auto
 }
 
@@ -6168,8 +6168,8 @@
 
 ### c_woorlba
 2853 = {  #Shaspen
-	culture = aussie
-	religion = tersian
+	culture = nullarborite
+	religion = ecumenist
 	holding = auto
 }
 
@@ -6179,8 +6179,8 @@
 
 ### c_nuytsland
 2855 = {  #Calguna
-	culture = aussie
-	religion = tersian
+	culture = nullarborite
+	religion = ecumenist
 	holding = auto
 }
 
@@ -6195,8 +6195,8 @@
 # d_lime
 ### c_carston
 2858 = {  #North Carston
-	culture = aussie
-	religion = tersian
+	culture = nullarborite
+	religion = paroxyst
 	holding = auto
 }
 
@@ -6206,8 +6206,8 @@
 
 ### c_rawlinna
 2860 = {  #Rawlinna
-	culture = aussie
-	religion = tersian
+	culture = nullarborite
+	religion = paroxyst
 	holding = auto
 }
 
@@ -6221,8 +6221,8 @@
 
 ### c_dortmund
 2863 = {  #Constable
-	culture = aussie
-	religion = tersian
+	culture = nullarborite
+	religion = paroxyst
 	holding = auto
 }
 
@@ -6236,8 +6236,8 @@
 
 ### c_plumridge
 2866 = {  #Plumridge
-	culture = aussie
-	religion = tersian
+	culture = nullarborite
+	religion = paroxyst
 	holding = auto
 }
 
@@ -6247,8 +6247,8 @@
 
 ### c_premier
 2868 = {  #Rason
-	culture = aussie
-	religion = tersian
+	culture = nullarborite
+	religion = paroxyst
 	holding = auto
 }
 
@@ -6259,8 +6259,8 @@
 # d_nullarbor_plain
 ### c_tysonia
 2870 = {  #Pearsley
-	culture = aussie
-	religion = tersian
+	culture = nullarborite
+	religion = paroxyst
 	holding = auto
 }
 
@@ -6270,8 +6270,8 @@
 
 ### c_sleeper_camp
 2872 = {  #Sleeper Camp
-	culture = aussie
-	religion = tersian
+	culture = nullarborite
+	religion = paroxyst
 	holding = auto
 }
 
@@ -6285,8 +6285,8 @@
 
 ### c_south_victoria_desert
 2875 = {  #Tjuntjuntara
-	culture = aussie
-	religion = tersian
+	culture = nullarborite
+	religion = ephemerist
 	holding = auto
 }
 
@@ -6300,8 +6300,8 @@
 
 ### c_huron
 2880 = {  #Huron
-	culture = aussie
-	religion = tersian
+	culture = nullarborite
+	religion = ephemerist
 	holding = auto
 }
 
@@ -6324,8 +6324,8 @@
 # d_praeceps
 ### c_marvin
 2878 = {  #Marvin
-	culture = aussie
-	religion = tersian
+	culture = maralingan
+	religion = ephemerist
 	holding = auto
 }
 
@@ -6335,8 +6335,8 @@
 
 ### c_eucla
 2897 = {  #Quisco
-	culture = aussie
-	religion = tersian
+	culture = nullarborite
+	religion = ecumenist
 	holding = auto
 }
 
@@ -6350,8 +6350,8 @@
 
 ### c_cook_station
 2900 = {  #North Cook
-	culture = aussie
-	religion = tersian
+	culture = maralingan
+	religion = ephemerist
 	holding = auto
 }
 
@@ -6361,8 +6361,8 @@
 
 ### c_west_yellabinna
 2902 = {  #Ooldea
-	culture = aussie
-	religion = tersian
+	culture = maralingan
+	religion = ecumenist
 	holding = auto
 }
 
@@ -6372,8 +6372,8 @@
 
 ### c_nullarbor_cliffs
 2904 = {  #Bightshead
-	culture = aussie
-	religion = tersian
+	culture = nullarborite
+	religion = ecumenist
 	holding = auto
 }
 
@@ -6388,8 +6388,8 @@
 # d_south_roe
 ### c_cocklebiddy
 2885 = {  #Ambiddy
-	culture = aussie
-	religion = tersian
+	culture = nullarborite
+	religion = ecumenist
 	holding = auto
 }
 
@@ -6399,8 +6399,8 @@
 
 ### c_kybo
 2887 = {  #Kybo
-	culture = aussie
-	religion = tersian
+	culture = nullarborite
+	religion = ecumenist
 	holding = auto
 }
 
@@ -6418,8 +6418,8 @@
 
 ### c_madura
 2891 = {  #Madura
-	culture = aussie
-	religion = tersian
+	culture = nullarborite
+	religion = ecumenist
 	holding = auto
 }
 
@@ -6433,8 +6433,8 @@
 
 ### c_mundrabilla
 2894 = {  #Achilles
-	culture = aussie
-	religion = tersian
+	culture = nullarborite
+	religion = ecumenist
 	holding = auto
 }
 
@@ -6450,8 +6450,8 @@
 # d_saltpan
 ### c_woomera
 2914 = {  #Woomera
-	culture = aussie
-	religion = tersian
+	culture = gawleran
+	religion = ephemerist
 	holding = auto
 }
 
@@ -6461,8 +6461,8 @@
 
 ### c_glendambo
 2916 = {  #Wirraminna
-	culture = aussie
-	religion = tersian
+	culture = gawleran
+	religion = ephemerist
 	holding = auto
 }
 
@@ -6472,8 +6472,8 @@
 
 ### c_gina
 2924 = {  #Commonwealth Hill
-	culture = aussie
-	religion = tersian
+	culture = maralingan
+	religion = ephemerist
 	holding = auto
 }
 
@@ -6483,8 +6483,8 @@
 
 ### c_mount_eba
 2938 = {  #Carnes
-	culture = aussie
-	religion = tersian
+	culture = gawleran
+	religion = ephemerist
 	holding = auto
 }
 
@@ -6494,8 +6494,8 @@
 
 ### c_old_peake
 2940 = {  #Warma
-	culture = aussie
-	religion = tersian
+	culture = gawleran
+	religion = ephemerist
 	holding = auto
 }
 
@@ -6510,8 +6510,8 @@
 # d_maralinga
 ### c_maralinga
 2926 = {  #Maralinga
-	culture = aussie
-	religion = tersian
+	culture = maralingan
+	religion = ephemerist
 	holding = auto
 }
 
@@ -6521,22 +6521,22 @@
 
 ### c_maurice
 2928 = {  #Maurice
-	culture = aussie
-	religion = tersian
+	culture = maralingan
+	religion = ephemerist
 	holding = auto
 }
 
 ### c_mamungari
 2929 = {  #Mamungari
-	culture = aussie
-	religion = tersian
+	culture = maralingan
+	religion = tjina
 	holding = auto
 }
 
 ### c_emu_junction
 2930 = {  #Emu Junction
-	culture = aussie
-	religion = tersian
+	culture = maralingan
+	religion = ephemerist
 	holding = auto
 }
 
@@ -6546,8 +6546,8 @@
 
 ### c_tallaringa
 2932 = {  #Tallaringa
-	culture = aussie
-	religion = tersian
+	culture = maralingan
+	religion = ephemerist
 	holding = auto
 }
 
@@ -6558,15 +6558,15 @@
 # d_ephemeral_rivers
 ### c_cadney
 2934 = {  #Cadney
-	culture = aussie
-	religion = tersian
+	culture = maralingan
+	religion = ephemerist
 	holding = auto
 }
 
 ### c_coober_pedy
 2935 = {  #Pootnoura
-	culture = aussie
-	religion = tersian
+	culture = maralingan
+	religion = ephemerist
 	holding = auto
 }
 
@@ -6580,15 +6580,15 @@
 
 ### c_oodnadatta
 2943 = {  #Oodnadatta
-	culture = aussie
-	religion = tersian
+	culture = gawleran
+	religion = ephemerist
 	holding = auto
 }
 
 ### c_pedirka
 2944 = {  #Pedirka
-	culture = aussie
-	religion = tersian
+	culture = gawleran
+	religion = jukurrpa
 	holding = auto
 }
 
@@ -6598,8 +6598,8 @@
 
 ### c_witjira
 2946 = {  #Witjira
-	culture = aussie
-	religion = tersian
+	culture = gawleran
+	religion = jukurrpa
 	holding = auto
 }
 
@@ -6612,8 +6612,8 @@
 # d_yorktip
 ### c_torres_strait
 959 = {  #Badu
-	culture = aussie
-	religion = tersian
+	culture = yorker
+	religion = dougist
 	holding = auto
 }
 
@@ -6631,8 +6631,8 @@
 
 ### c_shelburne
 1631 = {  #Cape Grenville
-	culture = aussie
-	religion = tersian
+	culture = yorker
+	religion = dougist
 	holding = auto
 }
 
@@ -6646,8 +6646,8 @@
 
 ### c_mapoon
 1634 = {  #Mapoon
-	culture = aussie
-	religion = tersian
+	culture = yorker
+	religion = dougist
 	holding = auto
 }
 
@@ -6658,15 +6658,15 @@
 # d_wik
 ### c_drumduff
 1603 = {  #Drumduff
-	culture = aussie
-	religion = tersian
+	culture = yorker
+	religion = arenist
 	holding = auto
 }
 
 ### c_kowanyama
 1604 = {  #Kowanyama
-	culture = aussie
-	religion = tersian
+	culture = yorker
+	religion = arenist
 	holding = auto
 }
 
@@ -6676,8 +6676,8 @@
 
 ### c_pormpuraaw
 1606 = {  #Holroyd
-	culture = aussie
-	religion = tersian
+	culture = yorker
+	religion = dougist
 	holding = auto
 }
 
@@ -6688,8 +6688,8 @@
 # d_mungkan_kandju
 ### c_archer_river
 1621 = {  #Cape Sidmouth
-	culture = aussie
-	religion = tersian
+	culture = yorker
+	religion = dougist
 	holding = auto
 }
 
@@ -6699,8 +6699,8 @@
 
 ### c_aurukun
 1623 = {  #Mungkan Kandju
-	culture = aussie
-	religion = tersian
+	culture = yorker
+	religion = dougist
 	holding = auto
 }
 
@@ -6710,8 +6710,8 @@
 
 ### c_lockhart_river
 1625 = {  #Lockhart River
-	culture = aussie
-	religion = tersian
+	culture = yorker
+	religion = dougist
 	holding = auto
 }
 
@@ -6725,8 +6725,8 @@
 
 ### c_weipa
 1628 = {  #Mornton
-	culture = aussie
-	religion = tersian
+	culture = yorker
+	religion = dougist
 	holding = auto
 }
 
@@ -6742,8 +6742,8 @@
 # d_clermont
 ### c_alpha
 1293 = {  #Redrock
-	culture = aussie
-	religion = tersian
+	culture = sobelter
+	religion = devotionist
 	holding = auto
 }
 
@@ -6757,8 +6757,8 @@
 
 ### c_surbiton
 1346 = {  #Beresford
-	culture = aussie
-	religion = tersian
+	culture = sobelter
+	religion = devotionist
 	holding = auto
 }
 
@@ -6772,8 +6772,8 @@
 
 ### c_clermont
 1363 = {  #Peak Downs
-	culture = aussie
-	religion = tersian
+	culture = sobelter
+	religion = devotionist
 	holding = auto
 }
 
@@ -6788,7 +6788,7 @@
 # d_mackay
 ### c_carmila
 1357 = {  #Carmila
-	culture = aussie
+	culture = mackayan
 	religion = tersian
 	holding = auto
 }
@@ -6803,7 +6803,7 @@
 
 ### c_dysart
 1360 = {  #Coppabella
-	culture = aussie
+	culture = mackayan
 	religion = tersian
 	holding = auto
 }
@@ -6818,7 +6818,7 @@
 
 ### c_moranbah
 1445 = {  #Goonyella
-	culture = aussie
+	culture = mackayan
 	religion = tersian
 	holding = auto
 }
@@ -6829,7 +6829,7 @@
 
 ### c_mackay
 1449 = {  #Mackay
-	culture = aussie
+	culture = mackayan
 	religion = tersian
 	holding = auto
 }
@@ -6852,7 +6852,7 @@
 
 ### c_glenden
 1454 = {  #Yalboroo
-	culture = aussie
+	culture = mackayan
 	religion = tersian
 	holding = auto
 }
@@ -6868,8 +6868,8 @@
 # d_belyando
 ### c_mount_coolon
 1366 = {  #Mount Coolon
-	culture = aussie
-	religion = tersian
+	culture = sobelter
+	religion = devotionist
 	holding = auto
 }
 
@@ -6883,8 +6883,8 @@
 
 ### c_willandspey
 1437 = {  #Spindle
-	culture = aussie
-	religion = tersian
+	culture = sobelter
+	religion = devotionist
 	holding = auto
 }
 
@@ -6894,8 +6894,8 @@
 
 ### c_natal_downs
 1439 = {  #Natal Downs
-	culture = aussie
-	religion = tersian
+	culture = sobelter
+	religion = devotionist
 	holding = auto
 }
 
@@ -6906,7 +6906,7 @@
 # d_charters
 ### c_corea_plains
 1441 = {  #Corea Plains
-	culture = aussie
+	culture = sobelter
 	religion = tersian
 	holding = auto
 }
@@ -6917,7 +6917,7 @@
 
 ### c_charters_towers
 1473 = {  #Mingelia
-	culture = aussie
+	culture = corallite
 	religion = tersian
 	holding = auto
 }
@@ -6936,7 +6936,7 @@
 
 ### c_pentland
 1477 = {  #White Mountains
-	culture = aussie
+	culture = nobelter
 	religion = tersian
 	holding = auto
 }
@@ -6947,7 +6947,7 @@
 
 ### c_basalt
 1547 = {  #Battery
-	culture = aussie
+	culture = corallite
 	religion = tersian
 	holding = auto
 }
@@ -6959,7 +6959,7 @@
 # d_brigalow
 ### c_dalrymple
 1443 = {  #Mount Cooper
-	culture = aussie
+	culture = sobelter
 	religion = tersian
 	holding = auto
 }
@@ -6970,7 +6970,7 @@
 
 ### c_newlands
 1447 = {  #Sphinx
-	culture = aussie
+	culture = mackayan
 	religion = tersian
 	holding = auto
 }
@@ -6981,7 +6981,7 @@
 
 ### c_bowen
 1457 = {  #Bowen
-	culture = aussie
+	culture = mackayan
 	religion = tersian
 	holding = auto
 }
@@ -6996,7 +6996,7 @@
 
 ### c_collinsville
 1460 = {  #Mount Aberdeen
-	culture = aussie
+	culture = mackayan
 	religion = tersian
 	holding = auto
 }
@@ -7015,7 +7015,7 @@
 
 ### c_ayr
 1464 = {  #Ayr
-	culture = aussie
+	culture = corallite
 	religion = tersian
 	holding = auto
 }
@@ -7035,7 +7035,7 @@
 # d_paluma
 ### c_townsville
 1468 = {  #Townsville
-	culture = aussie
+	culture = corallite
 	religion = tersian
 	holding = auto
 }
@@ -7058,7 +7058,7 @@
 
 ### c_greenvale
 1549 = {  #Greenvale
-	culture = aussie
+	culture = corallite
 	religion = tersian
 	holding = auto
 }
@@ -7069,7 +7069,7 @@
 
 ### c_ingham
 1551 = {  #Lucinda
-	culture = aussie
+	culture = corallite
 	religion = tersian
 	holding = auto
 }
@@ -7088,7 +7088,7 @@
 
 ### c_cardwell
 1555 = {  #Meadowbank
-	culture = aussie
+	culture = corallite
 	religion = tersian
 	holding = auto
 }
@@ -7109,7 +7109,7 @@
 # d_einaslynd
 ### c_undara
 1559 = {  #Mount Surprise
-	culture = aussie
+	culture = savannan
 	religion = tersian
 	holding = auto
 }
@@ -7124,7 +7124,7 @@
 
 ### c_georgetown
 1562 = {  #Ironhurst
-	culture = aussie
+	culture = savannan
 	religion = tersian
 	holding = auto
 }
@@ -7139,8 +7139,8 @@
 
 ### c_bolwarra
 1578 = {  #Bolwarra
-	culture = aussie
-	religion = tersian
+	culture = savannan
+	religion = arenist
 	holding = auto
 }
 
@@ -7151,7 +7151,7 @@
 # d_cairnlands
 ### c_innisfail
 1565 = {  #Innisfail
-	culture = aussie
+	culture = corallite
 	religion = tersian
 	holding = auto
 }
@@ -7170,7 +7170,7 @@
 
 ### c_cairns
 1569 = {  #Kuranda
-	culture = aussie
+	culture = corallite
 	religion = tersian
 	holding = auto
 }
@@ -7193,7 +7193,7 @@
 
 ### c_atherton
 1574 = {  #Atherton
-	culture = aussie
+	culture = corallite
 	religion = tersian
 	holding = auto
 }
@@ -7212,8 +7212,8 @@
 
 ### c_mareeba
 1591 = {  #Mareeba
-	culture = aussie
-	religion = tersian
+	culture = corallite
+	religion = dougist
 	holding = auto
 }
 
@@ -7228,15 +7228,15 @@
 # d_palmeronia
 ### c_hurricane
 1590 = {  #Hurricane
-	culture = aussie
-	religion = tersian
+	culture = yorker
+	religion = dougist
 	holding = auto
 }
 
 ### c_port_douglas
 1594 = {  #Kalkajaka
-	culture = aussie
-	religion = tersian
+	culture = corallite
+	religion = dougist
 	holding = auto
 }
 
@@ -7254,8 +7254,8 @@
 
 ### c_palmer
 1598 = {  #Fairview
-	culture = aussie
-	religion = tersian
+	culture = yorker
+	religion = dougist
 	holding = auto
 }
 
@@ -7269,8 +7269,8 @@
 
 ### c_killarney
 1601 = {  #Killarney
-	culture = aussie
-	religion = tersian
+	culture = savannan
+	religion = arenist
 	holding = auto
 }
 
@@ -7281,8 +7281,8 @@
 # d_reeflands
 ### c_dixie
 1608 = {  #Yarradend
-	culture = aussie
-	religion = tersian
+	culture = yorker
+	religion = dougist
 	holding = auto
 }
 
@@ -7296,8 +7296,8 @@
 
 ### c_lakefield
 1611 = {  #Marina
-	culture = aussie
-	religion = tersian
+	culture = yorker
+	religion = dougist
 	holding = auto
 }
 
@@ -7307,8 +7307,8 @@
 
 ### c_cape_melville
 1613 = {  #Cape Melville
-	culture = aussie
-	religion = tersian
+	culture = yorker
+	religion = dougist
 	holding = auto
 }
 
@@ -7318,8 +7318,8 @@
 
 ### c_cooktown
 1615 = {  #Cape Flaterry
-	culture = aussie
-	religion = tersian
+	culture = yorker
+	religion = dougist
 	holding = auto
 }
 
@@ -7333,8 +7333,8 @@
 
 ### c_coen
 1618 = {  #Coralview
-	culture = aussie
-	religion = tersian
+	culture = yorker
+	religion = dougist
 	holding = auto
 }
 
@@ -7351,8 +7351,8 @@
 # d_terra_nullius
 ### c_terra_nullius
 967 = {  #Terra Nullius 1
-	culture = aussie
-	religion = tersian
+	culture = welshbacker
+	religion = westlican
 	holding = auto
 }
 
@@ -7393,7 +7393,7 @@
 # d_norman_plains
 ### c_savannah
 1489 = {  #Claraville
-	culture = aussie
+	culture = savannan
 	religion = tersian
 	holding = auto
 }
@@ -7408,7 +7408,7 @@
 
 ### c_vena_park
 1492 = {  #Vena Park
-	culture = aussie
+	culture = savannan
 	religion = tersian
 	holding = auto
 }
@@ -7419,8 +7419,8 @@
 
 ### c_normanton
 1532 = {  #Maggieville
-	culture = aussie
-	religion = tersian
+	culture = garrwa
+	religion = yijan
 	holding = auto
 }
 
@@ -7442,7 +7442,7 @@
 
 ### c_croydon
 1537 = {  #Gilbert River
-	culture = aussie
+	culture = savannan
 	religion = tersian
 	holding = auto
 }
@@ -7458,8 +7458,8 @@
 # d_armraynald
 ### c_burke_and_wills
 1494 = {  #Burke and Wills
-	culture = aussie
-	religion = tersian
+	culture = isan
+	religion = arenist
 	holding = auto
 }
 
@@ -7469,8 +7469,8 @@
 
 ### c_granada
 1496 = {  #Kamileroi
-	culture = aussie
-	religion = tersian
+	culture = isan
+	religion = arenist
 	holding = auto
 }
 
@@ -7484,8 +7484,8 @@
 
 ### c_gregory_downs
 1513 = {  #Augustus
-	culture = aussie
-	religion = tersian
+	culture = garrwa
+	religion = yijan
 	holding = auto
 }
 
@@ -7499,8 +7499,8 @@
 
 ### c_bang_bang
 1516 = {  #Wernadinga
-	culture = aussie
-	religion = tersian
+	culture = garrwa
+	religion = yijan
 	holding = auto
 }
 
@@ -7511,8 +7511,8 @@
 # d_lawn_hill
 ### c_gunpowder
 1505 = {  #Thomlonia
-	culture = aussie
-	religion = tersian
+	culture = isan
+	religion = arenist
 	holding = auto
 }
 
@@ -7526,8 +7526,8 @@
 
 ### c_old_herbert_vale
 1508 = {  #Old Herbert Vale
-	culture = aussie
-	religion = tersian
+	culture = garrwa
+	religion = jukurrpa
 	holding = auto
 }
 
@@ -7537,8 +7537,8 @@
 
 ### c_boodjamulla
 1510 = {  #Lawn Hill
-	culture = aussie
-	religion = tersian
+	culture = garrwa
+	religion = yijan
 	holding = auto
 }
 
@@ -7552,8 +7552,8 @@
 
 ### c_carrara
 1806 = {  #Carrara
-	culture = aussie
-	religion = tersian
+	culture = yanyuwa
+	religion = jukurrpa
 	holding = auto
 }
 
@@ -7568,8 +7568,8 @@
 # d_doomadgee
 ### c_corinda_ruins
 1518 = {  #Corinda Ruins
-	culture = aussie
-	religion = tersian
+	culture = garrwa
+	religion = yijan
 	holding = auto
 }
 
@@ -7579,8 +7579,8 @@
 
 ### c_punjaub
 1520 = {  #Tiranna
-	culture = aussie
-	religion = tersian
+	culture = garrwa
+	religion = yijan
 	holding = auto
 }
 
@@ -7594,8 +7594,8 @@
 
 ### c_gangalidda
 1523 = {  #Mornington Island
-	culture = aussie
-	religion = tersian
+	culture = garrwa
+	religion = yijan
 	holding = auto
 }
 
@@ -7609,8 +7609,8 @@
 
 ### c_garawa
 1754 = {  #Garawa
-	culture = aussie
-	religion = tersian
+	culture = yanyuwa
+	religion = yijan
 	holding = auto
 }
 
@@ -7620,8 +7620,8 @@
 
 ### c_echo_gorge
 1762 = {  #Wollogorang
-	culture = aussie
-	religion = tersian
+	culture = yanyuwa
+	religion = yijan
 	holding = auto
 }
 
@@ -7636,8 +7636,8 @@
 # d_gulf_savannah
 ### c_burketown
 1526 = {  #Yarrant Point
-	culture = aussie
-	religion = tersian
+	culture = garrwa
+	religion = yijan
 	holding = auto
 }
 
@@ -7651,8 +7651,8 @@
 
 ### c_karumba
 1529 = {  #Karumba
-	culture = aussie
-	religion = tersian
+	culture = garrwa
+	religion = yijan
 	holding = auto
 }
 
@@ -7666,8 +7666,8 @@
 
 ### c_yangoo
 1584 = {  #Inkerman
-	culture = aussie
-	religion = tersian
+	culture = garrwa
+	religion = yijan
 	holding = auto
 }
 
@@ -7678,8 +7678,8 @@
 # d_kunjen
 ### c_red_river
 1580 = {  #Red River
-	culture = aussie
-	religion = tersian
+	culture = savannan
+	religion = arenist
 	holding = auto
 }
 
@@ -7689,8 +7689,8 @@
 
 ### c_vanrook
 1582 = {  #Vanrook
-	culture = aussie
-	religion = tersian
+	culture = garrwa
+	religion = yijan
 	holding = auto
 }
 
@@ -7700,22 +7700,22 @@
 
 ### c_dunbar
 1586 = {  #Dunbar
-	culture = aussie
-	religion = tersian
+	culture = garrwa
+	religion = arenist
 	holding = auto
 }
 
 ### c_staaten_river
 1587 = {  #Staaten River
-	culture = aussie
-	religion = tersian
+	culture = savannan
+	religion = arenist
 	holding = auto
 }
 
 ### c_blackdown
 1588 = {  #Gamboola
-	culture = aussie
-	religion = tersian
+	culture = savannan
+	religion = arenist
 	holding = auto
 }
 
@@ -7727,8 +7727,8 @@
 # d_binbinga_garawa
 ### c_yanyuwa
 1750 = {  #Wada Warra
-	culture = aussie
-	religion = tersian
+	culture = yanyuwa
+	religion = yijan
 	holding = auto
 }
 
@@ -7746,8 +7746,8 @@
 
 ### c_coxco_valley
 1756 = {  #Coxco Valley
-	culture = aussie
-	religion = tersian
+	culture = yanyuwa
+	religion = yijan
 	holding = auto
 }
 
@@ -7761,8 +7761,8 @@
 
 ### c_mungoobada
 1759 = {  #Kelly Gap
-	culture = aussie
-	religion = tersian
+	culture = yanyuwa
+	religion = yijan
 	holding = auto
 }
 
@@ -7777,15 +7777,15 @@
 # d_gunindiri_waanyi
 ### c_cresswell_downs
 1802 = {  #Cresswell Downs
-	culture = aussie
-	religion = tersian
+	culture = yanyuwa
+	religion = jukurrpa
 	holding = auto
 }
 
 ### c_ganalaga_mindibirrina
 1803 = {  #Benmara
-	culture = aussie
-	religion = tersian
+	culture = yanyuwa
+	religion = jukurrpa
 	holding = auto
 }
 
@@ -7799,8 +7799,8 @@
 
 ### c_connells_lagoon
 1809 = {  #Shallowcreek
-	culture = aussie
-	religion = tersian
+	culture = yanyuwa
+	religion = jukurrpa
 	holding = auto
 }
 
@@ -7811,8 +7811,8 @@
 # d_wambaya
 ### c_calvert
 1811 = {  #Anthony
-	culture = aussie
-	religion = tersian
+	culture = yanyuwa
+	religion = jukurrpa
 	holding = auto
 }
 
@@ -7826,15 +7826,15 @@
 
 ### c_wambaya
 1814 = {  #Wambaya
-	culture = aussie
-	religion = tersian
+	culture = yanyuwa
+	religion = jukurrpa
 	holding = auto
 }
 
 ### c_mittiebah
 1815 = {  #Mittiebah
-	culture = aussie
-	religion = tersian
+	culture = yanyuwa
+	religion = jukurrpa
 	holding = auto
 }
 
@@ -7844,8 +7844,8 @@
 
 ### c_gulunguru
 1817 = {  #Alroy Downs
-	culture = aussie
-	religion = tersian
+	culture = ngarna
+	religion = jukurrpa
 	holding = auto
 }
 
@@ -7856,8 +7856,8 @@
 # d_warumungu
 ### c_wogyala
 1819 = {  #Brunchilly
-	culture = aussie
-	religion = tersian
+	culture = yanyuwa
+	religion = jukurrpa
 	holding = auto
 }
 
@@ -7867,8 +7867,8 @@
 
 ### c_tennant_creek
 1821 = {  #Banka Banka
-	culture = aussie
-	religion = tersian
+	culture = central
+	religion = jukurrpa
 	holding = auto
 }
 
@@ -7882,8 +7882,8 @@
 
 ### c_yungkiwi
 1824 = {  #Likkaparta
-	culture = aussie
-	religion = tersian
+	culture = ngarna
+	religion = jukurrpa
 	holding = auto
 }
 
@@ -7893,8 +7893,8 @@
 
 ### c_warumungu
 1826 = {  #Kuraya
-	culture = aussie
-	religion = tersian
+	culture = central
+	religion = jukurrpa
 	holding = auto
 }
 
@@ -7908,8 +7908,8 @@
 
 ### c_karlantijpa_south
 1829 = {  #Kunayungku
-	culture = aussie
-	religion = tersian
+	culture = central
+	religion = jukurrpa
 	holding = auto
 }
 
@@ -7924,8 +7924,8 @@
 # d_kaytej
 ### c_warrabri
 1869 = {  #Kalinjarri
-	culture = aussie
-	religion = tersian
+	culture = central
+	religion = jukurrpa
 	holding = auto
 }
 
@@ -7943,8 +7943,8 @@
 
 ### c_iytwelepenty
 1873 = {  #Wutunugurra
-	culture = aussie
-	religion = tersian
+	culture = ngarna
+	religion = jukurrpa
 	holding = auto
 }
 
@@ -7963,8 +7963,8 @@
 # d_wakaya
 ### c_wakaya
 1877 = {  #Dalemore Downs
-	culture = aussie
-	religion = tersian
+	culture = ngarna
+	religion = jukurrpa
 	holding = auto
 }
 
@@ -7978,8 +7978,8 @@
 
 ### c_wunara
 1880 = {  #Wunara
-	culture = aussie
-	religion = tersian
+	culture = ngarna
+	religion = jukurrpa
 	holding = auto
 }
 
@@ -7989,8 +7989,8 @@
 
 ### c_bluebush_swamp
 1882 = {  #Avonian Downs
-	culture = aussie
-	religion = tersian
+	culture = ngarna
+	religion = jukurrpa
 	holding = auto
 }
 
@@ -8004,8 +8004,8 @@
 
 ### c_boolanboo_corner
 1885 = {  #Boolanboo Corner
-	culture = aussie
-	religion = tersian
+	culture = ngarna
+	religion = jukurrpa
 	holding = auto
 }
 
@@ -8017,22 +8017,22 @@
 # d_warlmanpa
 ### c_kijakija
 1832 = {  #Kijakija
-	culture = aussie
-	religion = tersian
+	culture = wardaman
+	religion = jukurrpa
 	holding = auto
 }
 
 ### c_karlantijpa_north
 1833 = {  #Karlantijpa North
-	culture = aussie
-	religion = tersian
+	culture = wardaman
+	religion = jukurrpa
 	holding = auto
 }
 
 ### c_mirirriyungu
 1834 = {  #North Mirriyungu
-	culture = aussie
-	religion = tersian
+	culture = ngumpin_yapa
+	religion = jukurrpa
 	holding = auto
 }
 
@@ -8043,8 +8043,8 @@
 # d_gurindji
 ### c_malngin
 1836 = {  #Limbunya
-	culture = aussie
-	religion = tersian
+	culture = ngumpin_yapa
+	religion = lalai
 	holding = auto
 }
 
@@ -8058,8 +8058,8 @@
 
 ### c_hooker_creek
 1839 = {  #Riveren
-	culture = aussie
-	religion = tersian
+	culture = ngumpin_yapa
+	religion = lalai
 	holding = auto
 }
 
@@ -8073,8 +8073,8 @@
 
 ### c_lajamanu
 1842 = {  #Luku
-	culture = aussie
-	religion = tersian
+	culture = ngumpin_yapa
+	religion = jukurrpa
 	holding = auto
 }
 
@@ -8088,8 +8088,8 @@
 
 ### c_pinja
 1845 = {  #Parnta
-	culture = aussie
-	religion = tersian
+	culture = ngumpin_yapa
+	religion = jukurrpa
 	holding = auto
 }
 
@@ -8104,8 +8104,8 @@
 # d_kija
 ### c_yingualyalya
 1848 = {  #Bunda
-	culture = aussie
-	religion = tersian
+	culture = ngumpin_yapa
+	religion = lalai
 	holding = auto
 }
 
@@ -8119,8 +8119,8 @@
 
 ### c_marella_gorge
 2083 = {  #Nicholson
-	culture = aussie
-	religion = tersian
+	culture = ngumpin_yapa
+	religion = lalai
 	holding = auto
 }
 
@@ -8130,8 +8130,8 @@
 
 ### c_sturt_creek
 2085 = {  #Ruby Place
-	culture = aussie
-	religion = tersian
+	culture = ngumpin_yapa
+	religion = lalai
 	holding = auto
 }
 
@@ -8145,8 +8145,8 @@
 
 ### c_kundat_djaru
 2088 = {  #Gordon Downs
-	culture = aussie
-	religion = tersian
+	culture = ngumpin_yapa
+	religion = lalai
 	holding = auto
 }
 
@@ -8157,8 +8157,8 @@
 # d_tanami_pass
 ### c_purta
 1851 = {  #Supplejack
-	culture = aussie
-	religion = tersian
+	culture = ngumpin_yapa
+	religion = jukurrpa
 	holding = auto
 }
 
@@ -8172,8 +8172,8 @@
 
 ### c_bluebush_hills
 1854 = {  #Warlarla
-	culture = aussie
-	religion = tersian
+	culture = ngumpin_yapa
+	religion = jukurrpa
 	holding = auto
 }
 
@@ -8187,8 +8187,8 @@
 
 ### c_jarntu
 1857 = {  #North Jarntu
-	culture = aussie
-	religion = tersian
+	culture = ngumpin_yapa
+	religion = jukurrpa
 	holding = auto
 }
 
@@ -8198,8 +8198,8 @@
 
 ### c_yuluputaji
 1859 = {  #Inningarra
-	culture = aussie
-	religion = tersian
+	culture = ngumpin_yapa
+	religion = jukurrpa
 	holding = auto
 }
 
@@ -8210,8 +8210,8 @@
 # d_south_tanami
 ### c_tanami
 1861 = {  #Mount Bennet
-	culture = aussie
-	religion = tersian
+	culture = ngumpin_yapa
+	religion = jukurrpa
 	holding = auto
 }
 
@@ -8225,8 +8225,8 @@
 
 ### c_walangawanu
 1864 = {  #Yatujumpayi
-	culture = aussie
-	religion = tersian
+	culture = ngumpin_yapa
+	religion = jukurrpa
 	holding = auto
 }
 
@@ -8240,8 +8240,8 @@
 
 ### c_wirliyajarrayl
 1867 = {  #Jarra Jarra
-	culture = aussie
-	religion = tersian
+	culture = ngumpin_yapa
+	religion = jukurrpa
 	holding = auto
 }
 
@@ -8253,8 +8253,8 @@
 # d_yuendumu
 ### c_mala
 1887 = {  #Puyurru
-	culture = aussie
-	religion = tersian
+	culture = ngumpin_yapa
+	religion = jukurrpa
 	holding = auto
 }
 
@@ -8264,8 +8264,8 @@
 
 ### c_nungumanu
 1889 = {  #Nungumanu
-	culture = aussie
-	religion = tersian
+	culture = ngumpin_yapa
+	religion = jukurrpa
 	holding = auto
 }
 
@@ -8275,8 +8275,8 @@
 
 ### c_yuendumu
 1891 = {  #Wallbri
-	culture = aussie
-	religion = tersian
+	culture = ngumpin_yapa
+	religion = jukurrpa
 	holding = auto
 }
 
@@ -8290,8 +8290,8 @@
 
 ### c_ngalurrtju
 1894 = {  #Potato Creek
-	culture = aussie
-	religion = tersian
+	culture = ngumpin_yapa
+	religion = jukurrpa
 	holding = auto
 }
 
@@ -8306,15 +8306,15 @@
 # d_pintupi
 ### c_lake_mackay
 1897 = {  #Lake Mackay
-	culture = aussie
-	religion = tersian
+	culture = ngumpin_yapa
+	religion = tjina
 	holding = auto
 }
 
 ### c_nyirripi
 1898 = {  #Vaughen Springs
-	culture = aussie
-	religion = tersian
+	culture = ngumpin_yapa
+	religion = tjina
 	holding = auto
 }
 
@@ -8328,8 +8328,8 @@
 
 ### c_walunguru
 1901 = {  #Sandy Blight
-	culture = aussie
-	religion = tersian
+	culture = arrernte
+	religion = tjina
 	holding = auto
 }
 
@@ -8344,8 +8344,8 @@
 # d_anmatyerre
 ### c_pawu
 1904 = {  #Mount Ronnie
-	culture = aussie
-	religion = tersian
+	culture = ngumpin_yapa
+	religion = jukurrpa
 	holding = auto
 }
 
@@ -8359,8 +8359,8 @@
 
 ### c_wilora
 1907 = {  #Neutral
-	culture = aussie
-	religion = tersian
+	culture = central
+	religion = jukurrpa
 	holding = auto
 }
 
@@ -8374,8 +8374,8 @@
 
 ### c_yuelamu
 1910 = {  #Yuelamu
-	culture = aussie
-	religion = tersian
+	culture = ngumpin_yapa
+	religion = jukurrpa
 	holding = auto
 }
 
@@ -8389,8 +8389,8 @@
 
 ### c_pmara_jutunta
 1913 = {  #Pmara Jutunta
-	culture = aussie
-	religion = tersian
+	culture = ngumpin_yapa
+	religion = jukurrpa
 	holding = auto
 }
 
@@ -8400,8 +8400,8 @@
 
 ### c_alkwert
 1915 = {  #Woolla Downs
-	culture = aussie
-	religion = tersian
+	culture = arrernte
+	religion = jukurrpa
 	holding = auto
 }
 
@@ -8416,8 +8416,8 @@
 # d_alyawerre
 ### c_indaringinya
 1918 = {  #Imangara
-	culture = aussie
-	religion = tersian
+	culture = ngarna
+	religion = jukurrpa
 	holding = auto
 }
 
@@ -8427,8 +8427,8 @@
 
 ### c_ampilatwatja
 1920 = {  #Ampilatwatja
-	culture = aussie
-	religion = tersian
+	culture = ngarna
+	religion = jukurrpa
 	holding = auto
 }
 
@@ -8442,8 +8442,8 @@
 
 ### c_doratippra
 1923 = {  #Argadargada
-	culture = aussie
-	religion = tersian
+	culture = ngarna
+	religion = jukurrpa
 	holding = auto
 }
 
@@ -8453,8 +8453,8 @@
 
 ### c_dulcie
 1925 = {  #Derry Downs
-	culture = aussie
-	religion = tersian
+	culture = arrernte
+	religion = jukurrpa
 	holding = auto
 }
 
@@ -8472,8 +8472,8 @@
 
 ### c_angarapa
 1929 = {  #Iylentye
-	culture = aussie
-	religion = tersian
+	culture = arrernte
+	religion = jukurrpa
 	holding = auto
 }
 
@@ -8492,8 +8492,8 @@
 # d_arrernte
 ### c_ruby_gap
 1944 = {  #Mount Eaglebeak
-	culture = aussie
-	religion = tersian
+	culture = central
+	religion = canaanitic
 	holding = auto
 }
 
@@ -8511,8 +8511,8 @@
 
 ### c_pmere_nyente
 1948 = {  #Mount Isabel
-	culture = aussie
-	religion = tersian
+	culture = arrernte
+	religion = jukurrpa
 	holding = auto
 }
 
@@ -8526,8 +8526,8 @@
 
 ### c_old_andado
 1951 = {  #Pillar Range
-	culture = aussie
-	religion = tersian
+	culture = arrernte
+	religion = jukurrpa
 	holding = auto
 }
 
@@ -8537,8 +8537,8 @@
 
 ### c_aputula
 1953 = {  #Horseshoe Bend
-	culture = aussie
-	religion = tersian
+	culture = arrernte
+	religion = jukurrpa
 	holding = auto
 }
 
@@ -8552,8 +8552,8 @@
 
 ### c_titjikala
 1956 = {  #Ewaninga
-	culture = aussie
-	religion = tersian
+	culture = arrernte
+	religion = jukurrpa
 	holding = auto
 }
 
@@ -8567,8 +8567,8 @@
 
 ### c_ltyentye_apurte
 1959 = {  #Atnarpa
-	culture = aussie
-	religion = tersian
+	culture = arrernte
+	religion = jukurrpa
 	holding = auto
 }
 
@@ -8583,8 +8583,8 @@
 # d_alicia
 ### c_injulkama
 1962 = {  #Injulkama
-	culture = aussie
-	religion = tersian
+	culture = central
+	religion = canaanitic
 	holding = auto
 }
 
@@ -8598,8 +8598,8 @@
 
 ### c_hart
 1965 = {  #Gemtree
-	culture = aussie
-	religion = tersian
+	culture = central
+	religion = canaanitic
 	holding = auto
 }
 
@@ -8617,8 +8617,8 @@
 
 ### c_alice_springs
 1969 = {  #Winnecke
-	culture = aussie
-	religion = tersian
+	culture = central
+	religion = canaanitic
 	holding = auto
 }
 
@@ -8636,8 +8636,8 @@
 
 ### c_tjoritja
 1973 = {  #Tyurretye
-	culture = aussie
-	religion = tersian
+	culture = central
+	religion = canaanitic
 	holding = auto
 }
 
@@ -8651,8 +8651,8 @@
 
 ### c_orange_creek
 1976 = {  #Wallace Rockhole
-	culture = aussie
-	religion = tersian
+	culture = arrernte
+	religion = jukurrpa
 	holding = auto
 }
 
@@ -8667,8 +8667,8 @@
 # d_luritja
 ### c_ikuntji
 1979 = {  #Haasts Bluff
-	culture = aussie
-	religion = tersian
+	culture = arrernte
+	religion = jukurrpa
 	holding = auto
 }
 
@@ -8686,8 +8686,8 @@
 
 ### c_mount_liebig
 1983 = {  #Mount Liebig
-	culture = aussie
-	religion = tersian
+	culture = arrernte
+	religion = jukurrpa
 	holding = auto
 }
 
@@ -8701,15 +8701,15 @@
 
 ### c_katiti
 1986 = {  #Katiti
-	culture = aussie
-	religion = tersian
+	culture = arrernte
+	religion = jukurrpa
 	holding = auto
 }
 
 ### c_watarrka
 1987 = {  #Morris Pass
-	culture = aussie
-	religion = tersian
+	culture = arrernte
+	religion = jukurrpa
 	holding = auto
 }
 
@@ -8724,8 +8724,8 @@
 # d_pitjantjatjara
 ### c_kaltukatjara
 1990 = {  #Kaltukatjara
-	culture = aussie
-	religion = tersian
+	culture = arrernte
+	religion = tjina
 	holding = auto
 }
 
@@ -8739,8 +8739,8 @@
 
 ### c_uluru
 1993 = {  #Amadeus
-	culture = aussie
-	religion = tersian
+	culture = arrernte
+	religion = jukurrpa
 	holding = auto
 }
 
@@ -8754,8 +8754,8 @@
 
 ### c_kurkutjara
 1996 = {  #Jenkins
-	culture = aussie
-	religion = tersian
+	culture = arrernte
+	religion = tjina
 	holding = auto
 }
 
@@ -8770,8 +8770,8 @@
 # d_kulgera
 ### c_liddle_hills
 1999 = {  #Desert Oak
-	culture = aussie
-	religion = tersian
+	culture = arrernte
+	religion = jukurrpa
 	holding = auto
 }
 
@@ -8785,8 +8785,8 @@
 
 ### c_tipunynga
 2002 = {  #Alpara
-	culture = aussie
-	religion = tersian
+	culture = arrernte
+	religion = tjina
 	holding = auto
 }
 
@@ -8800,8 +8800,8 @@
 
 ### c_erldunda
 2005 = {  #Briscoe
-	culture = aussie
-	religion = tersian
+	culture = arrernte
+	religion = jukurrpa
 	holding = auto
 }
 
@@ -8815,8 +8815,8 @@
 
 ### c_kulgera
 2008 = {  #Lyndavale
-	culture = aussie
-	religion = tersian
+	culture = arrernte
+	religion = jukurrpa
 	holding = auto
 }
 
@@ -8832,78 +8832,13 @@
 	holding = auto
 }
 
-# d_cambridge_gulf
-### c_kununurra
-2012 = {  #Scambridge Gulf
-	culture = aussie
-	religion = tersian
-	holding = auto
-}
-
-2013 = {  #Ningbing
-	holding = auto
-}
-
-2014 = {  #Carlton Hill
-	holding = auto
-}
-
-2015 = {  #Kununurra
-	holding = auto
-}
-
-### c_lake_argyle
-2016 = {  #Lake Argyle
-	culture = aussie
-	religion = tersian
-	holding = auto
-}
-
-2017 = {  #East Bank
-	holding = auto
-}
-
-### c_horne_valley
-2018 = {  #Horne Valley
-	culture = aussie
-	religion = tersian
-	holding = auto
-}
-
-2019 = {  #Horneton
-	holding = auto
-}
-
-2020 = {  #Wyndham
-	holding = auto
-}
-
-### c_oombulgurri
-2021 = {  #Buckle Head
-	culture = aussie
-	religion = tersian
-	holding = auto
-}
-
-2022 = {  #Bonaparte
-	holding = auto
-}
-
-2023 = {  #Mt Mangoo
-	holding = auto
-}
-
-2024 = {  #Oombulgurri
-	holding = auto
-}
-
 # e_great_worrorra
 # k_darnhem
 # d_darwin
 ### c_tiwi
 1639 = {  #Milikapiti
-	culture = aussie
-	religion = tersian
+	culture = tiwi
+	religion = yijan
 	holding = auto
 }
 
@@ -8917,8 +8852,8 @@
 
 ### c_darwin
 1642 = {  #Firiniss
-	culture = aussie
-	religion = tersian
+	culture = darwinian
+	religion = canaanitic
 	holding = auto
 }
 
@@ -8940,8 +8875,8 @@
 
 ### c_litchfield
 1647 = {  #Wollman
-	culture = aussie
-	religion = tersian
+	culture = darwinian
+	religion = lalai
 	holding = auto
 }
 
@@ -8955,8 +8890,8 @@
 
 ### c_pine_creek
 1650 = {  #Ban Ban Springs
-	culture = aussie
-	religion = tersian
+	culture = darwinian
+	religion = canaanitic
 	holding = auto
 }
 
@@ -8974,8 +8909,8 @@
 
 ### c_nauiyu
 1654 = {  #Dashwood
-	culture = aussie
-	religion = tersian
+	culture = darwinian
+	religion = lalai
 	holding = auto
 }
 
@@ -8990,8 +8925,8 @@
 # d_kakadu
 ### c_swim_creek
 1657 = {  #Swim Creek
-	culture = aussie
-	religion = tersian
+	culture = darwinian
+	religion = canaanitic
 	holding = auto
 }
 
@@ -9005,8 +8940,8 @@
 
 ### c_north_kakadu
 1660 = {  #Ubirr
-	culture = aussie
-	religion = tersian
+	culture = darwinian
+	religion = canaanitic
 	holding = auto
 }
 
@@ -9020,8 +8955,8 @@
 
 ### c_south_kakadu
 1663 = {  #Mary River
-	culture = aussie
-	religion = tersian
+	culture = darwinian
+	religion = canaanitic
 	holding = auto
 }
 
@@ -9043,8 +8978,8 @@
 
 ### c_nitmiluk
 1668 = {  #Nitmiluk
-	culture = aussie
-	religion = tersian
+	culture = yolngu
+	religion = yijan
 	holding = auto
 }
 
@@ -9059,8 +8994,8 @@
 # d_arnhem
 ### c_garig_gunak_barlu
 1671 = {  #Garig Gunak Barlu
-	culture = aussie
-	religion = tersian
+	culture = darwinian
+	religion = yijan
 	holding = auto
 }
 
@@ -9070,15 +9005,15 @@
 
 ### c_waldaboonar
 1673 = {  #Waldaboonar
-	culture = aussie
-	religion = tersian
+	culture = darwinian
+	religion = yijan
 	holding = auto
 }
 
 ### c_maningrida
 1674 = {  #Ngarlu Ngarlu
-	culture = aussie
-	religion = tersian
+	culture = yolngu
+	religion = yijan
 	holding = auto
 }
 
@@ -9096,8 +9031,8 @@
 
 ### c_warddeken
 1678 = {  #Nabarlek
-	culture = aussie
-	religion = tersian
+	culture = yolngu
+	religion = yijan
 	holding = auto
 }
 
@@ -9116,8 +9051,8 @@
 # d_yolngu
 ### c_ramingining
 1682 = {  #Mewimbi
-	culture = aussie
-	religion = tersian
+	culture = yolngu
+	religion = yijan
 	holding = auto
 }
 
@@ -9131,8 +9066,8 @@
 
 ### c_marthakal
 1685 = {  #Marthakal
-	culture = aussie
-	religion = tersian
+	culture = yolngu
+	religion = yijan
 	holding = auto
 }
 
@@ -9146,8 +9081,8 @@
 
 ### c_nhulunbuy
 1688 = {  #Nhulunbuy
-	culture = aussie
-	religion = tersian
+	culture = yolngu
+	religion = yijan
 	holding = auto
 }
 
@@ -9165,8 +9100,8 @@
 
 ### c_nurnbulwar
 1692 = {  #Ballnna
-	culture = aussie
-	religion = tersian
+	culture = yolngu
+	religion = yijan
 	holding = auto
 }
 
@@ -9180,8 +9115,8 @@
 
 ### c_ngalkbun
 1695 = {  #Barrapunta
-	culture = aussie
-	religion = tersian
+	culture = yolngu
+	religion = yijan
 	holding = auto
 }
 
@@ -9192,8 +9127,8 @@
 # d_dangbon
 ### c_bulman
 1697 = {  #Guyuyu Creek
-	culture = aussie
-	religion = tersian
+	culture = yolngu
+	religion = yijan
 	holding = auto
 }
 
@@ -9207,8 +9142,8 @@
 
 ### c_arnhem_plateau
 1700 = {  #Mainoru
-	culture = aussie
-	religion = tersian
+	culture = yolngu
+	religion = yijan
 	holding = auto
 }
 
@@ -9218,8 +9153,8 @@
 
 ### c_urapunga
 1702 = {  #North Urapunga
-	culture = aussie
-	religion = tersian
+	culture = yolngu
+	religion = yijan
 	holding = auto
 }
 
@@ -9238,8 +9173,8 @@
 # d_carpentaria
 ### c_st_vidgeon
 1706 = {  #Mumpumampu
-	culture = aussie
-	religion = tersian
+	culture = yolngu
+	religion = yijan
 	holding = auto
 }
 
@@ -9257,8 +9192,8 @@
 
 ### c_angurugu
 1710 = {  #Angurugu
-	culture = aussie
-	religion = tersian
+	culture = yolngu
+	religion = yijan
 	holding = auto
 }
 
@@ -9266,8 +9201,8 @@
 # d_daly
 ### c_peppimenarti
 1711 = {  #Peppimenarti
-	culture = aussie
-	religion = tersian
+	culture = jarrakan
+	religion = lalai
 	holding = auto
 }
 
@@ -9285,8 +9220,8 @@
 
 ### c_wagiman
 1715 = {  #Fish River
-	culture = aussie
-	religion = tersian
+	culture = jarrakan
+	religion = yijan
 	holding = auto
 }
 
@@ -9304,8 +9239,8 @@
 
 ### c_giwining
 1719 = {  #Djarrong
-	culture = aussie
-	religion = tersian
+	culture = wardaman
+	religion = yijan
 	holding = auto
 }
 
@@ -9319,8 +9254,8 @@
 
 ### c_yambarran_range
 1722 = {  #Yambarran Range
-	culture = aussie
-	religion = tersian
+	culture = jarrakan
+	religion = lalai
 	holding = auto
 }
 
@@ -9334,8 +9269,8 @@
 
 ### c_gorrie
 1725 = {  #Dry River
-	culture = aussie
-	religion = tersian
+	culture = wardaman
+	religion = yijan
 	holding = auto
 }
 
@@ -9346,8 +9281,8 @@
 # d_sturt
 ### c_katherine
 1727 = {  #Edith
-	culture = aussie
-	religion = tersian
+	culture = darwinian
+	religion = yijan
 	holding = auto
 }
 
@@ -9365,8 +9300,8 @@
 
 ### c_daly_waters
 1731 = {  #Wubalawun
-	culture = aussie
-	religion = tersian
+	culture = darwinian
+	religion = yijan
 	holding = auto
 }
 
@@ -9381,8 +9316,8 @@
 # d_alawa
 ### c_minyerri
 1734 = {  #Moroak
-	culture = aussie
-	religion = tersian
+	culture = yolngu
+	religion = yijan
 	holding = auto
 }
 
@@ -9400,8 +9335,8 @@
 
 ### c_alawa
 1738 = {  #Margaranyi
-	culture = aussie
-	religion = tersian
+	culture = yolngu
+	religion = yijan
 	holding = auto
 }
 
@@ -9415,8 +9350,8 @@
 
 ### c_limmen
 1741 = {  #Limmen
-	culture = aussie
-	religion = tersian
+	culture = yolngu
+	religion = yijan
 	holding = auto
 }
 
@@ -9430,8 +9365,8 @@
 
 ### c_tanumbirina
 1744 = {  #Tanumbirina
-	culture = aussie
-	religion = tersian
+	culture = yanyuwa
+	religion = jukurrpa
 	holding = auto
 }
 
@@ -9441,8 +9376,8 @@
 
 ### c_billengarah
 1746 = {  #Bauhinia
-	culture = aussie
-	religion = tersian
+	culture = yanyuwa
+	religion = yijan
 	holding = auto
 }
 
@@ -9461,8 +9396,8 @@
 # d_cambridge_gulf
 ### c_keep_river
 1765 = {  #Quoin
-	culture = aussie
-	religion = tersian
+	culture = lalai
+	religion = lalai
 	holding = auto
 }
 
@@ -9478,11 +9413,75 @@
 	holding = auto
 }
 
+### c_kununurra
+2012 = {  #Scambridge Gulf
+	culture = jarrakan
+	religion = lalai
+	holding = auto
+}
+
+2013 = {  #Ningbing
+	holding = auto
+}
+
+2014 = {  #Carlton Hill
+	holding = auto
+}
+
+2015 = {  #Kununurra
+	holding = auto
+}
+
+### c_lake_argyle
+2016 = {  #Lake Argyle
+	culture = jarrakan
+	religion = lalai
+	holding = auto
+}
+
+2017 = {  #East Bank
+	holding = auto
+}
+
+### c_horne_valley
+2018 = {  #Horne Valley
+	culture = jarrakan
+	religion = lalai
+	holding = auto
+}
+
+2019 = {  #Horneton
+	holding = auto
+}
+
+2020 = {  #Wyndham
+	holding = auto
+}
+
+### c_oombulgurri
+2021 = {  #Buckle Head
+	culture = wunambal
+	religion = lalai
+	holding = auto
+}
+
+2022 = {  #Bonaparte
+	holding = auto
+}
+
+2023 = {  #Mt Mangoo
+	holding = auto
+}
+
+2024 = {  #Oombulgurri
+	holding = auto
+}
+
 # d_keep_river
 ### c_nagurunguru
 1769 = {  #Baines
-	culture = aussie
-	religion = tersian
+	culture = wardaman
+	religion = lalai
 	holding = auto
 }
 
@@ -9496,8 +9495,8 @@
 
 ### c_judbarra
 1772 = {  #Gregorys Tree
-	culture = aussie
-	religion = tersian
+	culture = wardaman
+	religion = lalai
 	holding = auto
 }
 
@@ -9515,8 +9514,8 @@
 
 ### c_timber_creek
 1776 = {  #Menngen
-	culture = aussie
-	religion = tersian
+	culture = wardaman
+	religion = lalai
 	holding = auto
 }
 
@@ -9530,8 +9529,8 @@
 
 ### c_yarralin
 1779 = {  #Wambardi
-	culture = aussie
-	religion = tersian
+	culture = wardaman
+	religion = lalai
 	holding = auto
 }
 
@@ -9549,8 +9548,8 @@
 
 ### c_darfu_darfu
 2075 = {  #Glen Hill
-	culture = aussie
-	religion = tersian
+	culture = jarrakan
+	religion = lalai
 	holding = auto
 }
 
@@ -9569,8 +9568,8 @@
 # d_mudburra
 ### c_hidden_valley
 1783 = {  #West Hidden Valley
-	culture = aussie
-	religion = tersian
+	culture = wardaman
+	religion = jukurrpa
 	holding = auto
 }
 
@@ -9580,22 +9579,22 @@
 
 ### c_dirrjirrina
 1785 = {  #Dirrjirrina
-	culture = aussie
-	religion = tersian
+	culture = wardaman
+	religion = jukurrpa
 	holding = auto
 }
 
 ### c_wampana
 1786 = {  #Wampana
-	culture = aussie
-	religion = tersian
+	culture = wardaman
+	religion = jukurrpa
 	holding = auto
 }
 
 ### c_daguragu
 1787 = {  #Camfield
-	culture = aussie
-	religion = tersian
+	culture = wardaman
+	religion = jukurrpa
 	holding = auto
 }
 
@@ -9606,8 +9605,8 @@
 # d_jingili_ngandji
 ### c_marlinja
 1789 = {  #Dunmarra
-	culture = aussie
-	religion = tersian
+	culture = darwinian
+	religion = jukurrpa
 	holding = auto
 }
 
@@ -9625,8 +9624,8 @@
 
 ### c_mungabroom
 1793 = {  #Ucharonidge
-	culture = aussie
-	religion = tersian
+	culture = yanyuwa
+	religion = jukurrpa
 	holding = auto
 }
 
@@ -9640,8 +9639,8 @@
 
 ### c_mambaliya
 1796 = {  #Creswell Gap
-	culture = aussie
-	religion = tersian
+	culture = yanyuwa
+	religion = jukurrpa
 	holding = auto
 }
 
@@ -9655,8 +9654,8 @@
 
 ### c_renner_springs
 1799 = {  #Elliott
-	culture = aussie
-	religion = tersian
+	culture = central
+	religion = jukurrpa
 	holding = auto
 }
 
@@ -9672,8 +9671,8 @@
 # d_timoria
 ### c_carson_river
 2025 = {  #Faraway Bay
-	culture = aussie
-	religion = tersian
+	culture = wunambal
+	religion = lalai
 	holding = auto
 }
 
@@ -9687,8 +9686,8 @@
 
 ### c_kalumburu
 2028 = {  #Papo
-	culture = aussie
-	religion = tersian
+	culture = wunambal
+	religion = lalai
 	holding = auto
 }
 
@@ -9702,8 +9701,8 @@
 
 ### c_drysdale
 2031 = {  #North Drysdale
-	culture = aussie
-	religion = tersian
+	culture = wunambal
+	religion = lalai
 	holding = auto
 }
 
@@ -9713,8 +9712,8 @@
 
 ### c_couchman
 2033 = {  #Theda
-	culture = aussie
-	religion = tersian
+	culture = wunambal
+	religion = lalai
 	holding = auto
 }
 
@@ -9728,8 +9727,8 @@
 
 ### c_admiralty
 2036 = {  #Surveyor
-	culture = aussie
-	religion = tersian
+	culture = wunambal
+	religion = lalai
 	holding = auto
 }
 
@@ -9744,8 +9743,8 @@
 # d_prince_regent
 ### c_prince_regent
 2039 = {  #Mt Knight
-	culture = aussie
-	religion = tersian
+	culture = wunambal
+	religion = lalai
 	holding = auto
 }
 
@@ -9759,8 +9758,8 @@
 
 ### c_marunbabdi
 2042 = {  #Marunbabdi
-	culture = aussie
-	religion = tersian
+	culture = wunambal
+	religion = lalai
 	holding = auto
 }
 
@@ -9774,8 +9773,8 @@
 
 ### c_kunmunya
 2045 = {  #Wilson Point
-	culture = aussie
-	religion = tersian
+	culture = worrorran
+	religion = lalai
 	holding = auto
 }
 
@@ -9785,8 +9784,8 @@
 
 ### c_pantijan
 2047 = {  #Walcott
-	culture = aussie
-	religion = tersian
+	culture = worrorran
+	religion = lalai
 	holding = auto
 }
 
@@ -9800,8 +9799,8 @@
 
 ### c_synnot
 2050 = {  #Mt Agnes
-	culture = aussie
-	religion = tersian
+	culture = worrorran
+	religion = lalai
 	holding = auto
 }
 
@@ -9816,8 +9815,8 @@
 # d_gibb_valley
 ### c_maitland
 2053 = {  #Drysdale
-	culture = aussie
-	religion = tersian
+	culture = wunambal
+	religion = lalai
 	holding = auto
 }
 
@@ -9831,8 +9830,8 @@
 
 ### c_ngallagunda
 2056 = {  #Ngallagunda
-	culture = aussie
-	religion = tersian
+	culture = wunambal
+	religion = lalai
 	holding = auto
 }
 
@@ -9842,15 +9841,15 @@
 
 ### c_mt_barnett
 2058 = {  #Mt Barnett
-	culture = aussie
-	religion = tersian
+	culture = wunambal
+	religion = lalai
 	holding = auto
 }
 
 ### c_kupungari
 2059 = {  #Manning Gorge
-	culture = aussie
-	religion = tersian
+	culture = worrorran
+	religion = lalai
 	holding = auto
 }
 
@@ -9860,8 +9859,8 @@
 
 ### c_narrie_range
 2061 = {  #Marlon
-	culture = aussie
-	religion = tersian
+	culture = wunambal
+	religion = lalai
 	holding = auto
 }
 
@@ -9876,8 +9875,8 @@
 # d_worla
 ### c_doon_doon
 2064 = {  #Bluffs
-	culture = aussie
-	religion = tersian
+	culture = jarrakan
+	religion = lalai
 	holding = auto
 }
 
@@ -9891,8 +9890,8 @@
 
 ### c_violet_valley
 2067 = {  #North Violet Valley
-	culture = aussie
-	religion = tersian
+	culture = jarrakan
+	religion = lalai
 	holding = auto
 }
 
@@ -9906,8 +9905,8 @@
 
 ### c_bedford_downs
 2070 = {  #Bedford Downs
-	culture = aussie
-	religion = tersian
+	culture = jarrakan
+	religion = lalai
 	holding = auto
 }
 
@@ -9917,8 +9916,8 @@
 
 ### c_halls_creek
 2072 = {  #Alice Downs
-	culture = aussie
-	religion = tersian
+	culture = jarrakan
+	religion = lalai
 	holding = auto
 }
 
@@ -9932,8 +9931,8 @@
 
 ### c_purnululu
 2079 = {  #Echidna Chasm
-	culture = aussie
-	religion = tersian
+	culture = ngumpin_yapa
+	religion = lalai
 	holding = auto
 }
 
@@ -9952,8 +9951,8 @@
 # d_margaret
 ### c_mueller_ranges
 2090 = {  #Margaret Gorge
-	culture = aussie
-	religion = tersian
+	culture = jarrakan
+	religion = lalai
 	holding = auto
 }
 
@@ -9963,8 +9962,8 @@
 
 ### c_mimbi_caves
 2092 = {  #Louisa Downs
-	culture = aussie
-	religion = tersian
+	culture = jarrakan
+	religion = lalai
 	holding = auto
 }
 
@@ -9978,8 +9977,8 @@
 
 ### c_fitzroy_crossing
 2095 = {  #Danggu Gorge
-	culture = aussie
-	religion = tersian
+	culture = worrorran
+	religion = lalai
 	holding = auto
 }
 
@@ -9994,8 +9993,8 @@
 # d_leopold_ranges
 ### c_leopold_downs
 2098 = {  #Imintji
-	culture = aussie
-	religion = tersian
+	culture = worrorran
+	religion = lalai
 	holding = auto
 }
 
@@ -10009,8 +10008,8 @@
 
 ### c_noonkanbah
 2101 = {  #Jimbalakudunj
-	culture = aussie
-	religion = tersian
+	culture = worrorran
+	religion = lalai
 	holding = auto
 }
 
@@ -10024,8 +10023,8 @@
 
 ### c_devonian_reef
 2104 = {  #Windjingare
-	culture = aussie
-	religion = tersian
+	culture = worrorran
+	religion = lalai
 	holding = auto
 }
 
@@ -10037,10 +10036,10 @@
 	holding = auto
 }
 
-### c_point_tormet
+### c_point_torment
 2107 = {  #Derby
-	culture = aussie
-	religion = tersian
+	culture = worrorran
+	religion = lalai
 	holding = auto
 }
 
@@ -10054,8 +10053,8 @@
 
 ### c_kimbolton
 2110 = {  #Cockatoo Island
-	culture = aussie
-	religion = tersian
+	culture = worrorran
+	religion = lalai
 	holding = auto
 }
 
@@ -10067,22 +10066,13 @@
 	holding = auto
 }
 
-# k_kenetjaa
-# d_bangadaanyo
-### c_ngarngaa
-2907 = {  #Nyimepoo
-	culture = aussie
-	religion = tersian
-	holding = auto
-}
-
 # e_murrurnitja
 # k_kany
 # d_djoorroyoon
 ### c_ngepaw
 2113 = {  #Wing
-	culture = aussie
-	religion = tersian
+	culture = nyarranga
+	religion = tjina
 	holding = auto
 }
 
@@ -10100,8 +10090,8 @@
 
 ### c_yoorroniny
 2117 = {  #Daalyer
-	culture = aussie
-	religion = tersian
+	culture = nyarranga
+	religion = tjina
 	holding = auto
 }
 
@@ -10115,8 +10105,8 @@
 
 ### c_yabengaak
 2120 = {  #Daarlarort
-	culture = aussie
-	religion = tersian
+	culture = nyarranga
+	religion = tjina
 	holding = auto
 }
 
@@ -10130,8 +10120,8 @@
 
 ### c_nyookookil
 2123 = {  #Dabekanoo
-	culture = aussie
-	religion = tersian
+	culture = nyarranga
+	religion = tjina
 	holding = auto
 }
 
@@ -10141,8 +10131,8 @@
 
 ### c_baartelyoorre
 2125 = {  #Daalitjimaa
-	culture = aussie
-	religion = tersian
+	culture = nyarranga
+	religion = tjina
 	holding = auto
 }
 
@@ -10157,8 +10147,8 @@
 # d_ngaadjo
 ### c_raadjaarra
 2128 = {  #Nalyen
-	culture = aussie
-	religion = tersian
+	culture = nyarranga
+	religion = tjina
 	holding = auto
 }
 
@@ -10168,8 +10158,8 @@
 
 ### c_ngotjiwet
 2130 = {  #Mengidatjaari
-	culture = aussie
-	religion = tersian
+	culture = nyarranga
+	religion = tjina
 	holding = auto
 }
 
@@ -10183,8 +10173,8 @@
 
 ### c_yodjam
 2133 = {  #Boornan
-	culture = aussie
-	religion = tersian
+	culture = nyarranga
+	religion = tjina
 	holding = auto
 }
 
@@ -10199,8 +10189,8 @@
 # d_wootjernong
 ### c_djotjoonyenyoo
 2136 = {  #Nyertadjaarto
-	culture = aussie
-	religion = tersian
+	culture = nyarranga
+	religion = tjina
 	holding = auto
 }
 
@@ -10214,8 +10204,8 @@
 
 ### c_yamortaany
 2139 = {  #Ngorladalyaa
-	culture = aussie
-	religion = tersian
+	culture = nyarranga
+	religion = tjina
 	holding = auto
 }
 
@@ -10233,8 +10223,8 @@
 
 ### c_bernamodjiny
 2143 = {  #Naatingoowaadje
-	culture = aussie
-	religion = tersian
+	culture = nyarranga
+	religion = tjina
 	holding = auto
 }
 
@@ -10248,8 +10238,8 @@
 
 ### c_kooyeyoto
 2146 = {  #Roowimoonyibe
-	culture = aussie
-	religion = tersian
+	culture = nyarranga
+	religion = tjina
 	holding = auto
 }
 
@@ -10272,8 +10262,8 @@
 # d_roobaa
 ### c_dop
 2151 = {  #Ngaadjoornoodjaa
-	culture = aussie
-	religion = tersian
+	culture = nyarranga
+	religion = tjina
 	holding = auto
 }
 
@@ -10287,8 +10277,8 @@
 
 ### c_djel
 2154 = {  #Natjekart
-	culture = aussie
-	religion = tersian
+	culture = nyarranga
+	religion = tjina
 	holding = auto
 }
 
@@ -10298,8 +10288,8 @@
 
 ### c_yoortong
 2156 = {  #Datjaarnolyom
-	culture = aussie
-	religion = tersian
+	culture = nyarranga
+	religion = tjina
 	holding = auto
 }
 
@@ -10321,8 +10311,8 @@
 
 ### c_djetongaarlomaa
 2161 = {  #Medoorlaangop
-	culture = aussie
-	religion = tersian
+	culture = nyarranga
+	religion = tjina
 	holding = auto
 }
 
@@ -10337,8 +10327,8 @@
 # d_noorternam
 ### c_kil
 2164 = {  #Kordara
-	culture = aussie
-	religion = tersian
+	culture = nyarranga
+	religion = tjina
 	holding = auto
 }
 
@@ -10352,8 +10342,8 @@
 
 ### c_ngooli
 2167 = {  #Raatopaa
-	culture = aussie
-	religion = tersian
+	culture = nyarranga
+	religion = tjina
 	holding = auto
 }
 
@@ -10363,8 +10353,8 @@
 
 ### c_nap
 2169 = {  #Ngootootjaarnet
-	culture = aussie
-	religion = tersian
+	culture = bowanga
+	religion = tjina
 	holding = auto
 }
 
@@ -10378,8 +10368,8 @@
 
 ### c_niyitaanyookaa
 2172 = {  #Dirdawordatj
-	culture = aussie
-	religion = tersian
+	culture = bowanga
+	religion = tjina
 	holding = auto
 }
 
@@ -10398,8 +10388,8 @@
 # d_diberinyipi
 ### c_matj
 2176 = {  #Wootjinookaak
-	culture = aussie
-	religion = tersian
+	culture = nyarranga
+	religion = tjina
 	holding = auto
 }
 
@@ -10421,8 +10411,8 @@
 
 ### c_bor
 2181 = {  #Binyar
-	culture = aussie
-	religion = tersian
+	culture = nyarranga
+	religion = tjina
 	holding = auto
 }
 
@@ -10432,8 +10422,8 @@
 
 ### c_ngarnolyaam
 2183 = {  #Meloowan
-	culture = aussie
-	religion = tersian
+	culture = nyarranga
+	religion = tjina
 	holding = auto
 }
 
@@ -10447,8 +10437,8 @@
 
 ### c_kaarloor
 2186 = {  #Naapoodjo
-	culture = aussie
-	religion = tersian
+	culture = nyarranga
+	religion = tjina
 	holding = auto
 }
 
@@ -10462,8 +10452,8 @@
 
 ### c_nyiponilyan
 2189 = {  #Naanyaapotj
-	culture = aussie
-	religion = tersian
+	culture = nyarranga
+	religion = tjina
 	holding = auto
 }
 
@@ -10478,8 +10468,8 @@
 # d_nyedook
 ### c_djang
 2192 = {  #Yarlam
-	culture = aussie
-	religion = tersian
+	culture = nyarranga
+	religion = tjina
 	holding = auto
 }
 
@@ -10493,8 +10483,8 @@
 
 ### c_yolirnaardetoo
 2195 = {  #Dotjiny
-	culture = aussie
-	religion = tersian
+	culture = nyarranga
+	religion = tjina
 	holding = auto
 }
 
@@ -10504,8 +10494,8 @@
 
 ### c_djerling
 2197 = {  #Dabaayaali
-	culture = aussie
-	religion = tersian
+	culture = nyarranga
+	religion = tjina
 	holding = auto
 }
 
@@ -10519,8 +10509,8 @@
 
 ### c_dardoodjaa
 2200 = {  #Bam
-	culture = aussie
-	religion = tersian
+	culture = bowanga
+	religion = tjina
 	holding = auto
 }
 
@@ -10532,8 +10522,8 @@
 # d_yertaangimo
 ### c_roordool
 2202 = {  #Raarnoorre
-	culture = aussie
-	religion = tersian
+	culture = nyarranga
+	religion = tjina
 	holding = auto
 }
 
@@ -10547,8 +10537,8 @@
 
 ### c_ningirdideny
 2205 = {  #Raapeniwart
-	culture = aussie
-	religion = tersian
+	culture = nyarranga
+	religion = tjina
 	holding = auto
 }
 
@@ -10562,8 +10552,8 @@
 
 ### c_yayong
 2208 = {  #Molaane
-	culture = aussie
-	religion = tersian
+	culture = nyarranga
+	religion = tjina
 	holding = auto
 }
 
@@ -10573,8 +10563,8 @@
 
 ### c_mootjirdedjeng
 2210 = {  #Yidaloo
-	culture = aussie
-	religion = tersian
+	culture = nyarranga
+	religion = tjina
 	holding = auto
 }
 
@@ -10584,8 +10574,8 @@
 
 ### c_baardemirriri
 2212 = {  #Djorlanilyooyoo
-	culture = aussie
-	religion = tersian
+	culture = nyarranga
+	religion = tjina
 	holding = auto
 }
 
@@ -10596,8 +10586,8 @@
 # d_morlaabalyoo
 ### c_yaayemiboo
 2214 = {  #Maatjooro
-	culture = aussie
-	religion = tersian
+	culture = nyarranga
+	religion = tjina
 	holding = auto
 }
 
@@ -10611,8 +10601,8 @@
 
 ### c_yibakiw
 2217 = {  #Wopi
-	culture = aussie
-	religion = tersian
+	culture = nyarranga
+	religion = tjina
 	holding = auto
 }
 
@@ -10626,8 +10616,8 @@
 
 ### c_wingotj
 2220 = {  #Waaterdartoop
-	culture = aussie
-	religion = tersian
+	culture = nyarranga
+	religion = tjina
 	holding = auto
 }
 
@@ -10641,8 +10631,8 @@
 
 ### c_ngon
 2223 = {  #Djilye
-	culture = aussie
-	religion = tersian
+	culture = nyarranga
+	religion = tjina
 	holding = auto
 }
 
@@ -10652,8 +10642,8 @@
 
 ### c_wara
 2225 = {  #Djerlaardo
-	culture = aussie
-	religion = tersian
+	culture = nyarranga
+	religion = tjina
 	holding = auto
 }
 
@@ -10664,8 +10654,8 @@
 # d_yootjoorloorra
 ### c_ngorlany
 2227 = {  #Bidewaa
-	culture = aussie
-	religion = tersian
+	culture = nyarranga
+	religion = tjina
 	holding = auto
 }
 
@@ -10675,8 +10665,8 @@
 
 ### c_dookinaayoo
 2229 = {  #Yalyaa
-	culture = aussie
-	religion = tersian
+	culture = nyarranga
+	religion = tjina
 	holding = auto
 }
 
@@ -10690,8 +10680,8 @@
 
 ### c_nony
 2232 = {  #Ripaangooli
-	culture = aussie
-	religion = tersian
+	culture = nyarranga
+	religion = tjina
 	holding = auto
 }
 
@@ -10705,8 +10695,8 @@
 
 ### c_woordootj
 2235 = {  #Nginy
-	culture = aussie
-	religion = tersian
+	culture = barladj
+	religion = tjina
 	holding = auto
 }
 
@@ -10721,8 +10711,8 @@
 # d_bangadaanyo
 ### c_yatjiyepon
 2238 = {  #Wirnoorlirtak
-	culture = aussie
-	religion = tersian
+	culture = nyarranga
+	religion = tjina
 	holding = auto
 }
 
@@ -10736,8 +10726,8 @@
 
 ### c_namok
 2241 = {  #Maale
-	culture = aussie
-	religion = tersian
+	culture = bowanga
+	religion = tjina
 	holding = auto
 }
 
@@ -10751,8 +10741,8 @@
 
 ### c_ratj
 2244 = {  #Dowaa
-	culture = aussie
-	religion = tersian
+	culture = barladj
+	religion = tjina
 	holding = auto
 }
 
@@ -10766,8 +10756,8 @@
 
 ### c_roorlerloodjip
 2247 = {  #Warnonyaanyaangaa
-	culture = aussie
-	religion = tersian
+	culture = barladj
+	religion = tjina
 	holding = auto
 }
 
@@ -10775,11 +10765,18 @@
 	holding = auto
 }
 
+### c_ngarngaa
+2907 = {  #Nyimepoo
+	culture = bowanga
+	religion = tjina
+	holding = auto
+}
+
 # d_nyaaronorlong
 ### c_metarnadjadaa
 2249 = {  #Yarribanaaw
-	culture = aussie
-	religion = tersian
+	culture = barladj
+	religion = tjina
 	holding = auto
 }
 
@@ -10789,8 +10786,8 @@
 
 ### c_ronyipoom
 2251 = {  #Nyomayarlo
-	culture = aussie
-	religion = tersian
+	culture = barladj
+	religion = tjina
 	holding = auto
 }
 
@@ -10804,8 +10801,8 @@
 
 ### c_korlaanyiw
 2254 = {  #Bomirnookatoo
-	culture = aussie
-	religion = tersian
+	culture = barladj
+	religion = tjina
 	holding = auto
 }
 
@@ -10827,8 +10824,8 @@
 
 ### c_kedirlo
 2259 = {  #Djetaa
-	culture = aussie
-	religion = tersian
+	culture = barladj
+	religion = tjina
 	holding = auto
 }
 
@@ -10838,8 +10835,8 @@
 
 ### c_noorrordaaw
 2261 = {  #Ngoony
-	culture = aussie
-	religion = tersian
+	culture = barladj
+	religion = tjina
 	holding = auto
 }
 
@@ -10851,8 +10848,8 @@
 # d_dinyangerroo
 ### c_maardony
 2263 = {  #Nalyikornebaa
-	culture = aussie
-	religion = tersian
+	culture = barladj
+	religion = tjina
 	holding = auto
 }
 
@@ -10874,8 +10871,8 @@
 
 ### c_roorlatetooro
 2268 = {  #Nartaardimaal
-	culture = aussie
-	religion = tersian
+	culture = barladj
+	religion = tjina
 	holding = auto
 }
 
@@ -10889,8 +10886,8 @@
 
 ### c_yonyi
 2271 = {  #Demooraarla
-	culture = aussie
-	religion = tersian
+	culture = barladj
+	religion = tjina
 	holding = auto
 }
 
@@ -10905,8 +10902,8 @@
 # d_rer
 ### c_ngirtenye
 2274 = {  #Yoten
-	culture = aussie
-	religion = tersian
+	culture = barladj
+	religion = tjina
 	holding = auto
 }
 
@@ -10920,8 +10917,8 @@
 
 ### c_rirnapipaang
 2277 = {  #Rirlatjarti
-	culture = aussie
-	religion = tersian
+	culture = barladj
+	religion = tjina
 	holding = auto
 }
 
@@ -10931,8 +10928,8 @@
 
 ### c_djinoot
 2279 = {  #Ngaarderayoo
-	culture = aussie
-	religion = tersian
+	culture = barladj
+	religion = tjina
 	holding = auto
 }
 
@@ -10946,8 +10943,8 @@
 
 ### c_relyotoorraarlo
 2282 = {  #Ngany
-	culture = aussie
-	religion = tersian
+	culture = barladj
+	religion = tjina
 	holding = auto
 }
 
@@ -10961,8 +10958,8 @@
 
 ### c_baanooralyang
 2285 = {  #Maapitjany
-	culture = aussie
-	religion = tersian
+	culture = barladj
+	religion = tjina
 	holding = auto
 }
 
@@ -10981,8 +10978,8 @@
 # d_noodjodaa
 ### c_boopoo
 2289 = {  #Woom
-	culture = aussie
-	religion = tersian
+	culture = barladj
+	religion = tjina
 	holding = auto
 }
 
@@ -11004,8 +11001,8 @@
 
 ### c_kit
 2294 = {  #Dooyartaa
-	culture = aussie
-	religion = tersian
+	culture = barladj
+	religion = tjina
 	holding = auto
 }
 
@@ -11015,8 +11012,8 @@
 
 ### c_nyit
 2296 = {  #Rorlarilyi
-	culture = aussie
-	religion = tersian
+	culture = kaayangi
+	religion = tjina
 	holding = auto
 }
 
@@ -11028,21 +11025,24 @@
 	holding = auto
 }
 
-### c_daawordibe
+### c_dibetj
 2299 = {  #Dibetj
-	culture = aussie
-	religion = tersian
+	culture = kaayangi
+	religion = tjina
 	holding = auto
 }
 
+### c_daawordibe
 2300 = {  #Djerloolyo
+	culture = kaayangi
+	religion = tjina
 	holding = auto
 }
 
 ### c_dolyornero
 2301 = {  #Dirdek
-	culture = aussie
-	religion = tersian
+	culture = kaayangi
+	religion = tjina
 	holding = auto
 }
 
@@ -11057,8 +11057,8 @@
 # d_yepomaarroom
 ### c_rangernemerta
 2304 = {  #Nomoomina
-	culture = aussie
-	religion = tersian
+	culture = barladj
+	religion = tjina
 	holding = auto
 }
 
@@ -11068,8 +11068,8 @@
 
 ### c_wanaanyaa
 2306 = {  #Boriyit
-	culture = aussie
-	religion = tersian
+	culture = kaayangi
+	religion = tjina
 	holding = auto
 }
 
@@ -11083,8 +11083,8 @@
 
 ### c_kaarlong
 2309 = {  #Yenedjerde
-	culture = aussie
-	religion = tersian
+	culture = kaayangi
+	religion = tjina
 	holding = auto
 }
 
@@ -11107,8 +11107,8 @@
 # d_bebow
 ### c_djinyoongaatjinaa
 2314 = {  #Yooyodji
-	culture = aussie
-	religion = tersian
+	culture = kaayangi
+	religion = tjina
 	holding = auto
 }
 
@@ -11122,8 +11122,8 @@
 
 ### c_maat
 2317 = {  #Roowoo
-	culture = aussie
-	religion = tersian
+	culture = kaayangi
+	religion = tjina
 	holding = auto
 }
 
@@ -11133,8 +11133,8 @@
 
 ### c_din
 2319 = {  #Rarlor
-	culture = aussie
-	religion = tersian
+	culture = kaayangi
+	religion = tjina
 	holding = auto
 }
 
@@ -11146,8 +11146,8 @@
 # d_nyodjaanyoorimi
 ### c_naakaarroyi
 2321 = {  #Nyaatj
-	culture = aussie
-	religion = tersian
+	culture = kaayangi
+	religion = tjina
 	holding = auto
 }
 
@@ -11157,8 +11157,8 @@
 
 ### c_baaron
 2323 = {  #Boony
-	culture = aussie
-	religion = tersian
+	culture = kaayangi
+	religion = tjina
 	holding = auto
 }
 
@@ -11172,8 +11172,8 @@
 
 ### c_dirne
 2326 = {  #Wodjaalyaat
-	culture = aussie
-	religion = tersian
+	culture = kaayangi
+	religion = tjina
 	holding = auto
 }
 
@@ -11187,8 +11187,8 @@
 
 ### c_nyert
 2329 = {  #Moopoortirdetjaa
-	culture = aussie
-	religion = tersian
+	culture = kaayangi
+	religion = tjina
 	holding = auto
 }
 
@@ -11198,8 +11198,8 @@
 
 ### c_ngoorgogjoodalya
 2331 = {  #Yerlon
-	culture = aussie
-	religion = tersian
+	culture = kaayangi
+	religion = tjina
 	holding = auto
 }
 
@@ -11222,8 +11222,8 @@
 # d_yokil
 ### c_wengiw
 2336 = {  #Werni
-	culture = aussie
-	religion = tersian
+	culture = kaayangi
+	religion = tjina
 	holding = auto
 }
 
@@ -11245,8 +11245,8 @@
 
 ### c_nyootaarro
 2341 = {  #Nyoonyaami
-	culture = aussie
-	religion = tersian
+	culture = kaayangi
+	religion = tjina
 	holding = auto
 }
 
@@ -11268,8 +11268,8 @@
 
 ### c_nyowilying
 2346 = {  #Kowarto
-	culture = aussie
-	religion = tersian
+	culture = kaayangi
+	religion = tjina
 	holding = auto
 }
 
@@ -11279,15 +11279,15 @@
 
 ### c_waapele
 2348 = {  #Balyoraami
-	culture = aussie
-	religion = tersian
+	culture = kaayangi
+	religion = tjina
 	holding = auto
 }
 
 ### c_mayotje
 2349 = {  #Ngaawadjony
-	culture = aussie
-	religion = tersian
+	culture = kaayangi
+	religion = tjina
 	holding = auto
 }
 
@@ -11302,8 +11302,8 @@
 # d_wonganengirne
 ### c_nelyoorraadjiny
 2352 = {  #Mortirir
-	culture = aussie
-	religion = tersian
+	culture = kaayangi
+	religion = tjina
 	holding = auto
 }
 
@@ -11325,8 +11325,8 @@
 
 ### c_detatjopaarle
 2357 = {  #Djodjaartornaang
-	culture = aussie
-	religion = tersian
+	culture = kaayangi
+	religion = tjina
 	holding = auto
 }
 
@@ -11340,8 +11340,8 @@
 
 ### c_dangertano
 2360 = {  #Warolaanat
-	culture = aussie
-	religion = tersian
+	culture = kaayangi
+	religion = tjina
 	holding = auto
 }
 
@@ -11351,8 +11351,8 @@
 
 ### c_baadjaa
 2362 = {  #Nyaalyale
-	culture = aussie
-	religion = tersian
+	culture = kaayangi
+	religion = tjina
 	holding = auto
 }
 
@@ -11366,8 +11366,8 @@
 
 ### c_kirtonga
 2365 = {  #Wiwirene
-	culture = aussie
-	religion = tersian
+	culture = kaayangi
+	religion = tjina
 	holding = auto
 }
 
@@ -11382,8 +11382,8 @@
 # d_bewelyalyadje
 ### c_nyertoorlonyaa
 2368 = {  #Dirotjodjany
-	culture = aussie
-	religion = tersian
+	culture = bowanga
+	religion = tjina
 	holding = auto
 }
 
@@ -11397,8 +11397,8 @@
 
 ### c_boonerrertaang
 2371 = {  #Babeyiw
-	culture = aussie
-	religion = tersian
+	culture = bowanga
+	religion = tjina
 	holding = auto
 }
 
@@ -11412,8 +11412,8 @@
 
 ### c_nyidarlilap
 2374 = {  #Rardiny
-	culture = aussie
-	religion = tersian
+	culture = bowanga
+	religion = tjina
 	holding = auto
 }
 
@@ -11429,8 +11429,8 @@
 # d_mingoke
 ### c_kanitanyo
 2377 = {  #Naayi
-	culture = aussie
-	religion = tersian
+	culture = bowanga
+	religion = tjina
 	holding = auto
 }
 
@@ -11452,8 +11452,8 @@
 
 ### c_romirawoo
 2382 = {  #Winaardidaarroo
-	culture = aussie
-	religion = tersian
+	culture = bowanga
+	religion = tjina
 	holding = auto
 }
 
@@ -11467,8 +11467,8 @@
 
 ### c_jaskiushdad
 2385 = {  #Batjedjor
-	culture = aussie
-	religion = tersian
+	culture = bowanga
+	religion = tjina
 	holding = auto
 }
 
@@ -11482,8 +11482,8 @@
 
 ### c_ring
 2388 = {  #Djaamenyarreny
-	culture = aussie
-	religion = tersian
+	culture = bowanga
+	religion = tjina
 	holding = auto
 }
 
@@ -11502,22 +11502,22 @@
 # d_rela
 ### c_noodamaatote
 2392 = {  #Wor
-	culture = aussie
-	religion = tersian
+	culture = bowanga
+	religion = tjina
 	holding = auto
 }
 
 ### c_kornaatjaarnoyi
 2393 = {  #Ngangaa
-	culture = aussie
-	religion = tersian
+	culture = bowanga
+	religion = tjina
 	holding = auto
 }
 
 ### c_kartelyetjo
 2394 = {  #Napyar
-	culture = aussie
-	religion = tersian
+	culture = bowanga
+	religion = tjina
 	holding = auto
 }
 
@@ -11527,8 +11527,8 @@
 
 ### c_raanong
 2396 = {  #Ngongonyang
-	culture = aussie
-	religion = tersian
+	culture = bowanga
+	religion = tjina
 	holding = auto
 }
 
@@ -11538,8 +11538,8 @@
 
 ### c_didjapootjeny
 2398 = {  #Nooni
-	culture = aussie
-	religion = tersian
+	culture = bowanga
+	religion = tjina
 	holding = auto
 }
 
@@ -11558,22 +11558,22 @@
 # d_dolyoolyeko
 ### c_kobedjorromaa
 2402 = {  #Ralyotja
-	culture = aussie
-	religion = tersian
+	culture = bowanga
+	religion = tjina
 	holding = auto
 }
 
 ### c_nem
 2403 = {  #Yalordiyotjaa
-	culture = aussie
-	religion = tersian
+	culture = bowanga
+	religion = tjina
 	holding = auto
 }
 
 ### c_bewawebet
 2404 = {  #Wiyotowipe
-	culture = aussie
-	religion = tersian
+	culture = bowanga
+	religion = tjina
 	holding = auto
 }
 
@@ -11587,8 +11587,8 @@
 
 ### c_rapina
 2407 = {  #Ngoomerni
-	culture = aussie
-	religion = tersian
+	culture = bowanga
+	religion = tjina
 	holding = auto
 }
 
@@ -11611,22 +11611,22 @@
 # d_ngirliw
 ### c_nert
 2412 = {  #Yawinoolyaardi
-	culture = aussie
-	religion = tersian
+	culture = bowanga
+	religion = tjina
 	holding = auto
 }
 
 ### c_kortelyitotj
 2413 = {  #Ngirirt
-	culture = aussie
-	religion = tersian
+	culture = bowanga
+	religion = tjina
 	holding = auto
 }
 
 ### c_den
 2414 = {  #Nyekiraak
-	culture = aussie
-	religion = tersian
+	culture = bowanga
+	religion = tjina
 	holding = auto
 }
 
@@ -11640,8 +11640,8 @@
 
 ### c_barlanyetjotjaa
 2417 = {  #Warope
-	culture = aussie
-	religion = tersian
+	culture = bowanga
+	religion = tjina
 	holding = auto
 }
 
@@ -11662,8 +11662,8 @@
 # d_nyamal
 ### c_south_beach
 2421 = {  #Pardoo
-	culture = aussie
-	religion = tersian
+	culture = pilbaran
+	religion = vocationist
 	holding = auto
 }
 
@@ -11677,8 +11677,8 @@
 
 ### c_yarrie_mine
 2424 = {  #Yarrie Mine
-	culture = aussie
-	religion = tersian
+	culture = pilbaran
+	religion = tjina
 	holding = auto
 }
 
@@ -11688,8 +11688,8 @@
 
 ### c_port_hedland
 2426 = {  #Poissonia
-	culture = aussie
-	religion = tersian
+	culture = pilbaran
+	religion = vocationist
 	holding = auto
 }
 
@@ -11707,8 +11707,8 @@
 
 ### c_marble_bar
 2430 = {  #Eginbaly
-	culture = aussie
-	religion = tersian
+	culture = pilbaran
+	religion = tjina
 	holding = auto
 }
 
@@ -11722,8 +11722,8 @@
 
 ### c_nullagine
 2433 = {  #Corumna Downs
-	culture = aussie
-	religion = tersian
+	culture = pilbaran
+	religion = tjina
 	holding = auto
 }
 
@@ -11734,8 +11734,8 @@
 # d_sandy_gates
 ### c_skull_springs
 2435 = {  #North Skull
-	culture = aussie
-	religion = tersian
+	culture = pilbaran
+	religion = tjina
 	holding = auto
 }
 
@@ -11745,15 +11745,15 @@
 
 ### c_mount_divide
 2437 = {  #Mount Divide
-	culture = aussie
-	religion = tersian
+	culture = pilbaran
+	religion = tjina
 	holding = auto
 }
 
 ### c_roy_hill
 2438 = {  #Roy Hill
-	culture = aussie
-	religion = tersian
+	culture = pilbaran
+	religion = tjina
 	holding = auto
 }
 
@@ -11763,8 +11763,8 @@
 
 ### c_jigalong
 2440 = {  #Billnooka
-	culture = aussie
-	religion = tersian
+	culture = pilbaran
+	religion = tjina
 	holding = auto
 }
 
@@ -11778,8 +11778,8 @@
 
 ### c_bonney_downs
 2443 = {  #Bonney Downs
-	culture = aussie
-	religion = tersian
+	culture = pilbaran
+	religion = tjina
 	holding = auto
 }
 
@@ -11790,8 +11790,8 @@
 # d_ophthalmia
 ### c_yandcoogina
 2445 = {  #Yandcoogina
-	culture = aussie
-	religion = tersian
+	culture = pilbaran
+	religion = tjina
 	holding = auto
 }
 
@@ -11801,8 +11801,8 @@
 
 ### c_newman
 2447 = {  #Newman
-	culture = aussie
-	religion = tersian
+	culture = pilbaran
+	religion = tjina
 	holding = auto
 }
 
@@ -11812,8 +11812,8 @@
 
 ### c_dingo
 2449 = {  #Woolarrana
-	culture = aussie
-	religion = tersian
+	culture = pilbaran
+	religion = tjina
 	holding = auto
 }
 
@@ -11823,8 +11823,8 @@
 
 ### c_prairie_downs
 2451 = {  #Prairie Downs
-	culture = aussie
-	religion = tersian
+	culture = pilbaran
+	religion = tjina
 	holding = auto
 }
 
@@ -11838,8 +11838,8 @@
 
 ### c_capricorn
 2454 = {  #Capricorn
-	culture = aussie
-	religion = tersian
+	culture = pilbaran
+	religion = vocationist
 	holding = auto
 }
 
@@ -11850,8 +11850,8 @@
 # d_hamersley
 ### c_karijini
 2456 = {  #Hamersley Gorge
-	culture = aussie
-	religion = tersian
+	culture = pilbaran
+	religion = vocationist
 	holding = auto
 }
 
@@ -11865,8 +11865,8 @@
 
 ### c_tom_price
 2459 = {  #Brockman
-	culture = aussie
-	religion = tersian
+	culture = pilbaran
+	religion = vocationist
 	holding = auto
 }
 
@@ -11880,8 +11880,8 @@
 
 ### c_paraburdoo
 2462 = {  #Duck Creek
-	culture = aussie
-	religion = tersian
+	culture = pilbaran
+	religion = vocationist
 	holding = auto
 }
 
@@ -11895,15 +11895,15 @@
 
 ### c_pannawonica
 2465 = {  #Pannawonica
-	culture = aussie
-	religion = tersian
+	culture = pilbaran
+	religion = salvationist
 	holding = auto
 }
 
 ### c_woorocoonda
 2466 = {  #North Woorocoonda
-	culture = aussie
-	religion = tersian
+	culture = pilbaran
+	religion = salvationist
 	holding = auto
 }
 
@@ -11914,8 +11914,8 @@
 # d_ngarluma
 ### c_sherlock
 2468 = {  #Mundabulloogana
-	culture = aussie
-	religion = tersian
+	culture = pilbaran
+	religion = vocationist
 	holding = auto
 }
 
@@ -11925,8 +11925,8 @@
 
 ### c_croydon_town
 2470 = {  #Tabba Tabba
-	culture = aussie
-	religion = tersian
+	culture = pilbaran
+	religion = vocationist
 	holding = auto
 }
 
@@ -11936,8 +11936,8 @@
 
 ### c_mungaroona
 2472 = {  #Kangari
-	culture = aussie
-	religion = tersian
+	culture = pilbaran
+	religion = vocationist
 	holding = auto
 }
 
@@ -11951,8 +11951,8 @@
 
 ### c_hooley
 2475 = {  #Florence
-	culture = aussie
-	religion = tersian
+	culture = pilbaran
+	religion = vocationist
 	holding = auto
 }
 
@@ -11962,8 +11962,8 @@
 
 ### c_millstream
 2477 = {  #Welcome
-	culture = aussie
-	religion = tersian
+	culture = pilbaran
+	religion = salvationist
 	holding = auto
 }
 
@@ -11977,8 +11977,8 @@
 
 ### c_karratha
 2480 = {  #Karratha
-	culture = aussie
-	religion = tersian
+	culture = pilbaran
+	religion = salvationist
 	holding = auto
 }
 
@@ -11994,8 +11994,8 @@
 # d_talandji_mardie
 ### c_fortescue
 2483 = {  #Cape Preston
-	culture = aussie
-	religion = tersian
+	culture = pilbaran
+	religion = salvationist
 	holding = auto
 }
 
@@ -12009,8 +12009,8 @@
 
 ### c_onslow
 2486 = {  #Yarraloola
-	culture = aussie
-	religion = tersian
+	culture = pilbaran
+	religion = salvationist
 	holding = auto
 }
 
@@ -12028,8 +12028,8 @@
 
 ### c_giralia
 2490 = {  #Hope Point
-	culture = aussie
-	religion = tersian
+	culture = pilbaran
+	religion = salvationist
 	holding = auto
 }
 
@@ -12039,16 +12039,16 @@
 
 ### c_emu_creek
 2492 = {  #Emu Creek
-	culture = aussie
-	religion = tersian
+	culture = pilbaran
+	religion = salvationist
 	holding = auto
 }
 
 # d_the_bulge
 ### c_exmouth
 2493 = {  #Exmouth
-	culture = aussie
-	religion = tersian
+	culture = pilbaran
+	religion = salvationist
 	holding = auto
 }
 
@@ -12062,8 +12062,8 @@
 
 ### c_winning
 2496 = {  #Winning
-	culture = aussie
-	religion = tersian
+	culture = gascoynian
+	religion = salvationist
 	holding = auto
 }
 
@@ -12081,8 +12081,8 @@
 
 ### c_mrilya_bridge
 2500 = {  #Mrilya Bridge
-	culture = aussie
-	religion = tersian
+	culture = gascoynian
+	religion = salvationist
 	holding = auto
 }
 
@@ -12092,8 +12092,8 @@
 
 ### c_macleod
 2502 = {  #Macleod
-	culture = aussie
-	religion = tersian
+	culture = gascoynian
+	religion = salvationist
 	holding = auto
 }
 
@@ -12103,15 +12103,15 @@
 
 ### c_carnarvon_town
 2504 = {  #Carnarvon Town
-	culture = aussie
-	religion = tersian
+	culture = gascoynian
+	religion = salvationist
 	holding = auto
 }
 
 ### c_inggarda
 2505 = {  #Mooragoolia
-	culture = aussie
-	religion = tersian
+	culture = gascoynian
+	religion = salvationist
 	holding = auto
 }
 
@@ -12122,8 +12122,8 @@
 # d_lyonia
 ### c_barlee
 2507 = {  #Nanutarra
-	culture = aussie
-	religion = tersian
+	culture = pilbaran
+	religion = vocationist
 	holding = auto
 }
 
@@ -12137,8 +12137,8 @@
 
 ### c_ullawara
 2510 = {  #Kooline
-	culture = aussie
-	religion = tersian
+	culture = pilbaran
+	religion = vocationist
 	holding = auto
 }
 
@@ -12148,8 +12148,8 @@
 
 ### c_kennedy_range
 2512 = {  #Lyndon
-	culture = aussie
-	religion = tersian
+	culture = gascoynian
+	religion = salvationist
 	holding = auto
 }
 
@@ -12163,8 +12163,8 @@
 
 ### c_gifford
 2515 = {  #Mangaroon
-	culture = aussie
-	religion = tersian
+	culture = gascoynian
+	religion = vocationist
 	holding = auto
 }
 
@@ -12178,8 +12178,8 @@
 
 ### c_lyons_river
 2518 = {  #Yinnetharra
-	culture = aussie
-	religion = tersian
+	culture = gascoynian
+	religion = vocationist
 	holding = auto
 }
 
@@ -12194,8 +12194,8 @@
 # d_wooramel_riverlands
 ### c_wooramel
 2521 = {  #Edagree
-	culture = aussie
-	religion = tersian
+	culture = gascoynian
+	religion = salvationist
 	holding = auto
 }
 
@@ -12205,8 +12205,8 @@
 
 ### c_gilroyd
 2523 = {  #Winderie
-	culture = aussie
-	religion = tersian
+	culture = gascoynian
+	religion = salvationist
 	holding = auto
 }
 
@@ -12220,8 +12220,8 @@
 
 ### c_dairy_creek
 2526 = {  #Dairy Creek
-	culture = aussie
-	religion = tersian
+	culture = gascoynian
+	religion = salvationist
 	holding = auto
 }
 
@@ -12231,8 +12231,8 @@
 
 ### c_milly_milly
 2528 = {  #Rebecca
-	culture = aussie
-	religion = tersian
+	culture = gascoynian
+	religion = salvationist
 	holding = auto
 }
 
@@ -12243,8 +12243,8 @@
 # d_yamatji
 ### c_peron
 2530 = {  #Denham
-	culture = aussie
-	religion = tersian
+	culture = gascoynian
+	religion = westlican
 	holding = auto
 }
 
@@ -12258,8 +12258,8 @@
 
 ### c_toolonga
 2533 = {  #Muggon
-	culture = aussie
-	religion = tersian
+	culture = murchisonian
+	religion = westlican
 	holding = auto
 }
 
@@ -12273,8 +12273,8 @@
 
 ### c_nookawarra
 2536 = {  #Byro
-	culture = aussie
-	religion = tersian
+	culture = murchisonian
+	religion = westlican
 	holding = auto
 }
 
@@ -12288,8 +12288,8 @@
 
 ### c_billabalong
 2539 = {  #Meeberrie
-	culture = aussie
-	religion = tersian
+	culture = murchisonian
+	religion = westlican
 	holding = auto
 }
 
@@ -12311,8 +12311,8 @@
 
 ### c_pinegrove
 2544 = {  #Coolcalalaya
-	culture = aussie
-	religion = tersian
+	culture = murchisonian
+	religion = westlican
 	holding = auto
 }
 
@@ -12328,8 +12328,8 @@
 # d_kenneth
 ### c_wanna
 2547 = {  #Wanna
-	culture = aussie
-	religion = tersian
+	culture = pilbaran
+	religion = vocationist
 	holding = auto
 }
 
@@ -12339,8 +12339,8 @@
 
 ### c_mount_vernon
 2549 = {  #Grady
-	culture = aussie
-	religion = tersian
+	culture = pilbaran
+	religion = vocationist
 	holding = auto
 }
 
@@ -12350,8 +12350,8 @@
 
 ### c_mount_augustus
 2551 = {  #Mount Augustus
-	culture = aussie
-	religion = tersian
+	culture = gascoynian
+	religion = vocationist
 	holding = auto
 }
 
@@ -12366,8 +12366,8 @@
 # d_collier_range
 ### c_mulgui
 2554 = {  #Mulgui
-	culture = aussie
-	religion = tersian
+	culture = gascoynian
+	religion = vocationist
 	holding = auto
 }
 
@@ -12377,8 +12377,8 @@
 
 ### c_collier
 2556 = {  #Collier
-	culture = aussie
-	religion = tersian
+	culture = gascoynian
+	religion = vocationist
 	holding = auto
 }
 
@@ -12388,8 +12388,8 @@
 
 ### c_neds_creek
 2558 = {  #Wanyingunna
-	culture = aussie
-	religion = tersian
+	culture = gascoynian
+	religion = vocationist
 	holding = auto
 }
 
@@ -12403,8 +12403,8 @@
 
 ### c_bryah
 2561 = {  #Bryah
-	culture = aussie
-	religion = tersian
+	culture = gascoynian
+	religion = vocationist
 	holding = auto
 }
 
@@ -12414,8 +12414,8 @@
 
 ### c_doolgunna
 2563 = {  #Doolgunna
-	culture = aussie
-	religion = tersian
+	culture = murchisonian
+	religion = vocationist
 	holding = auto
 }
 
@@ -12430,8 +12430,8 @@
 # d_gascoyne
 ### c_clare
 2566 = {  #Egerton
-	culture = aussie
-	religion = tersian
+	culture = gascoynian
+	religion = vocationist
 	holding = auto
 }
 
@@ -12441,8 +12441,8 @@
 
 ### c_landor
 2568 = {  #Landor
-	culture = aussie
-	religion = tersian
+	culture = gascoynian
+	religion = vocationist
 	holding = auto
 }
 
@@ -12452,8 +12452,8 @@
 
 ### c_mount_gould
 2570 = {  #Trillbar
-	culture = aussie
-	religion = tersian
+	culture = gascoynian
+	religion = vocationist
 	holding = auto
 }
 
@@ -12463,15 +12463,15 @@
 
 ### c_beringarra
 2572 = {  #Beringarra
-	culture = aussie
-	religion = tersian
+	culture = murchisonian
+	religion = westlican
 	holding = auto
 }
 
 ### c_buttah
 2573 = {  #Buttah
-	culture = aussie
-	religion = tersian
+	culture = murchisonian
+	religion = vocationist
 	holding = auto
 }
 
@@ -12486,8 +12486,8 @@
 # d_weld
 ### c_mt_wittenoom
 2576 = {  #Kalli
-	culture = aussie
-	religion = tersian
+	culture = murchisonian
+	religion = westlican
 	holding = auto
 }
 
@@ -12505,8 +12505,8 @@
 
 ### c_meekatharra
 2580 = {  #Meekatharra
-	culture = aussie
-	religion = tersian
+	culture = murchisonian
+	religion = westlican
 	holding = auto
 }
 
@@ -12524,8 +12524,8 @@
 
 ### c_dalgaranga
 2584 = {  #Lakarida
-	culture = aussie
-	religion = tersian
+	culture = murchisonian
+	religion = westlican
 	holding = auto
 }
 
@@ -12539,8 +12539,8 @@
 
 ### c_cogla
 2587 = {  #Cogla
-	culture = aussie
-	religion = tersian
+	culture = murchisonian
+	religion = westlican
 	holding = auto
 }
 
@@ -12550,8 +12550,8 @@
 
 ### c_wondinong
 2589 = {  #Nallan
-	culture = aussie
-	religion = tersian
+	culture = murchisonian
+	religion = westlican
 	holding = auto
 }
 
@@ -12562,8 +12562,8 @@
 # d_emu
 ### c_walgi_gunya
 2591 = {  #Killara
-	culture = aussie
-	religion = tersian
+	culture = murchisonian
+	religion = westlican
 	holding = auto
 }
 
@@ -12577,8 +12577,8 @@
 
 ### c_north_pool
 2594 = {  #North Pool
-	culture = aussie
-	religion = tersian
+	culture = murchisonian
+	religion = vocationist
 	holding = auto
 }
 
@@ -12588,8 +12588,8 @@
 
 ### c_keith
 2596 = {  #Kutkububba
-	culture = aussie
-	religion = tersian
+	culture = murchisonian
+	religion = vocationist
 	holding = auto
 }
 
@@ -12599,8 +12599,8 @@
 
 ### c_depot_springs
 2598 = {  #Kaluwiri
-	culture = aussie
-	religion = tersian
+	culture = murchisonian
+	religion = vocationist
 	holding = auto
 }
 
@@ -12610,8 +12610,8 @@
 
 ### c_mount_goode
 2600 = {  #Mount Goode
-	culture = aussie
-	religion = tersian
+	culture = murchisonian
+	religion = vocationist
 	holding = auto
 }
 
@@ -12619,8 +12619,8 @@
 # d_thundelarra
 ### c_yalgoo
 2719 = {  #Noongal
-	culture = aussie
-	religion = tersian
+	culture = lavertonian
+	religion = westlican
 	holding = auto
 }
 
@@ -12634,8 +12634,8 @@
 
 ### c_mount_magnet
 2722 = {  #Mount Magnet
-	culture = aussie
-	religion = tersian
+	culture = lavertonian
+	religion = westlican
 	holding = auto
 }
 
@@ -12649,8 +12649,8 @@
 
 ### c_thundelarra
 2725 = {  #Wogarno
-	culture = aussie
-	religion = tersian
+	culture = lavertonian
+	religion = westlican
 	holding = auto
 }
 
@@ -12664,8 +12664,8 @@
 
 ### c_paynes_find
 2728 = {  #Narndee
-	culture = aussie
-	religion = tersian
+	culture = lavertonian
+	religion = westlican
 	holding = auto
 }
 
@@ -12684,8 +12684,8 @@
 # d_karroun
 ### c_windsor
 2732 = {  #Windsor
-	culture = aussie
-	religion = tersian
+	culture = lavertonian
+	religion = westlican
 	holding = auto
 }
 
@@ -12699,8 +12699,8 @@
 
 ### c_lake_barlee
 2735 = {  #Youangarra
-	culture = aussie
-	religion = tersian
+	culture = lavertonian
+	religion = westlican
 	holding = auto
 }
 
@@ -12714,8 +12714,8 @@
 
 ### c_karroun_hill
 2738 = {  #Karroun Hill
-	culture = aussie
-	religion = tersian
+	culture = lavertonian
+	religion = westlican
 	holding = auto
 }
 
@@ -12725,8 +12725,8 @@
 
 ### c_bonnie_rock
 2740 = {  #Mt Jackson
-	culture = aussie
-	religion = tersian
+	culture = lavertonian
+	religion = westlican
 	holding = auto
 }
 
@@ -12737,8 +12737,8 @@
 # d_leinster
 ### c_leinster
 2742 = {  #Leinster
-	culture = aussie
-	religion = tersian
+	culture = lavertonian
+	religion = tjina
 	holding = auto
 }
 
@@ -12756,8 +12756,8 @@
 
 ### c_little_mill
 2746 = {  #Little Mill
-	culture = aussie
-	religion = tersian
+	culture = lavertonian
+	religion = tjina
 	holding = auto
 }
 
@@ -12767,8 +12767,8 @@
 
 ### c_cosmo_newberry
 2748 = {  #Cosmo Newberry
-	culture = aussie
-	religion = tersian
+	culture = lavertonian
+	religion = tjina
 	holding = auto
 }
 
@@ -12782,8 +12782,8 @@
 
 ### c_leonora
 2751 = {  #Korong
-	culture = aussie
-	religion = tersian
+	culture = lavertonian
+	religion = tjina
 	holding = auto
 }
 
@@ -12801,8 +12801,8 @@
 
 ### c_adelong
 2755 = {  #Adelong
-	culture = aussie
-	religion = tersian
+	culture = lavertonian
+	religion = tjina
 	holding = auto
 }
 
@@ -12817,8 +12817,8 @@
 # d_laverton
 ### c_laverton
 2758 = {  #White Cliff
-	culture = aussie
-	religion = tersian
+	culture = lavertonian
+	religion = tjina
 	holding = auto
 }
 
@@ -12832,8 +12832,8 @@
 
 ### c_yundamindera
 2761 = {  #Yundamindera
-	culture = aussie
-	religion = tersian
+	culture = lavertonian
+	religion = tjina
 	holding = auto
 }
 
@@ -12843,8 +12843,8 @@
 
 ### c_yurila
 2763 = {  #Yurila
-	culture = aussie
-	religion = tersian
+	culture = timberian
+	religion = tjina
 	holding = auto
 }
 
@@ -12858,8 +12858,8 @@
 
 ### c_pinjin
 2766 = {  #Lightfoot
-	culture = aussie
-	religion = tersian
+	culture = timberian
+	religion = tjina
 	holding = auto
 }
 
@@ -12873,8 +12873,8 @@
 
 ### c_queen_victoria_spring
 2769 = {  #North Spring
-	culture = aussie
-	religion = tersian
+	culture = timberian
+	religion = paroxyst
 	holding = auto
 }
 
@@ -12885,8 +12885,8 @@
 # d_kalgoorlie
 ### c_mt_manning
 2771 = {  #Mt Elvire
-	culture = aussie
-	religion = tersian
+	culture = lavertonian
+	religion = paroxyst
 	holding = auto
 }
 
@@ -12896,8 +12896,8 @@
 
 ### c_davyhurst
 2773 = {  #East Davyhurst
-	culture = aussie
-	religion = tersian
+	culture = lavertonian
+	religion = tjina
 	holding = auto
 }
 
@@ -12907,8 +12907,8 @@
 
 ### c_canegrass
 2775 = {  #Niagara
-	culture = aussie
-	religion = tersian
+	culture = lavertonian
+	religion = tjina
 	holding = auto
 }
 
@@ -12922,8 +12922,8 @@
 
 ### c_koolyanobbing
 2778 = {  #Aurora
-	culture = aussie
-	religion = tersian
+	culture = timberian
+	religion = paroxyst
 	holding = auto
 }
 
@@ -12937,8 +12937,8 @@
 
 ### c_boorabbin
 2781 = {  #Jaurdi
-	culture = aussie
-	religion = tersian
+	culture = timberian
+	religion = paroxyst
 	holding = auto
 }
 
@@ -12948,8 +12948,8 @@
 
 ### c_kalgoorlie_boulder
 2783 = {  #Credo
-	culture = aussie
-	religion = tersian
+	culture = timberian
+	religion = paroxyst
 	holding = auto
 }
 
@@ -12968,8 +12968,8 @@
 # d_timberland
 ### c_gindalbie
 2787 = {  #Goongarrie
-	culture = aussie
-	religion = tersian
+	culture = timberian
+	religion = tjina
 	holding = auto
 }
 
@@ -12987,15 +12987,15 @@
 
 ### c_kambalda
 2791 = {  #Kambalda
-	culture = aussie
-	religion = tersian
+	culture = timberian
+	religion = paroxyst
 	holding = auto
 }
 
 ### c_chifley
 2792 = {  #Spiney Downs
-	culture = aussie
-	religion = tersian
+	culture = timberian
+	religion = paroxyst
 	holding = auto
 }
 
@@ -13009,8 +13009,8 @@
 
 ### c_madpoona
 2795 = {  #Madpoona
-	culture = aussie
-	religion = tersian
+	culture = timberian
+	religion = paroxyst
 	holding = auto
 }
 
@@ -13024,8 +13024,8 @@
 
 ### c_zanthus
 2798 = {  #Cundeelee
-	culture = aussie
-	religion = tersian
+	culture = timberian
+	religion = paroxyst
 	holding = auto
 }
 
@@ -13042,8 +13042,8 @@
 # d_zuytdorp
 ### c_carrarang
 2601 = {  #Carrarang
-	culture = aussie
-	religion = tersian
+	culture = murchisonian
+	religion = westlican
 	holding = auto
 }
 
@@ -13053,8 +13053,8 @@
 
 ### c_kalbarri
 2603 = {  #Eurardy
-	culture = aussie
-	religion = tersian
+	culture = murchisonian
+	religion = westlican
 	holding = auto
 }
 
@@ -13072,8 +13072,8 @@
 
 ### c_geraldton
 2607 = {  #Northampton
-	culture = aussie
-	religion = tersian
+	culture = murchisonian
+	religion = westlican
 	holding = auto
 }
 
@@ -13092,8 +13092,8 @@
 # d_langustine
 ### c_dongara
 2611 = {  #Seven Mile Beach
-	culture = aussie
-	religion = tersian
+	culture = wheatbelter
+	religion = westlican
 	holding = auto
 }
 
@@ -13111,8 +13111,8 @@
 
 ### c_morawa
 2615 = {  #Tardun
-	culture = aussie
-	religion = tersian
+	culture = wheatbelter
+	religion = westlican
 	holding = auto
 }
 
@@ -13134,8 +13134,8 @@
 
 ### c_coorow
 2620 = {  #Karara
-	culture = aussie
-	religion = tersian
+	culture = wheatbelter
+	religion = westlican
 	holding = auto
 }
 
@@ -13153,8 +13153,8 @@
 
 ### c_cadoux
 2624 = {  #Carlyarn
-	culture = aussie
-	religion = tersian
+	culture = wheatbelter
+	religion = westlican
 	holding = auto
 }
 
@@ -13169,8 +13169,8 @@
 # d_swan
 ### c_capamauro
 2627 = {  #Capamauro
-	culture = aussie
-	religion = tersian
+	culture = wheatbelter
+	religion = westlican
 	holding = auto
 }
 
@@ -13184,8 +13184,8 @@
 
 ### c_cataby
 2630 = {  #Jurien Bay
-	culture = aussie
-	religion = tersian
+	culture = wheatbelter
+	religion = westlican
 	holding = auto
 }
 
@@ -13203,8 +13203,8 @@
 
 ### c_moora
 2634 = {  #Balidi
-	culture = aussie
-	religion = tersian
+	culture = wheatbelter
+	religion = westlican
 	holding = auto
 }
 
@@ -13224,8 +13224,8 @@
 # d_perthian_march
 ### c_bencubbin
 2638 = {  #Beacon
-	culture = aussie
-	religion = tersian
+	culture = wheatbelter
+	religion = westlican
 	holding = auto
 }
 
@@ -13235,8 +13235,8 @@
 
 ### c_dowerin
 2640 = {  #Trayning
-	culture = aussie
-	religion = tersian
+	culture = wheatbelter
+	religion = westlican
 	holding = auto
 }
 
@@ -13254,8 +13254,8 @@
 
 ### c_mooring_rock
 2644 = {  #Warralakin
-	culture = aussie
-	religion = tersian
+	culture = wheatbelter
+	religion = westlican
 	holding = auto
 }
 
@@ -13269,15 +13269,15 @@
 
 ### c_merredin
 2647 = {  #Merredin
-	culture = aussie
-	religion = tersian
+	culture = wheatbelter
+	religion = westlican
 	holding = auto
 }
 
 ### c_dangin
 2648 = {  #Shackleton
-	culture = aussie
-	religion = tersian
+	culture = wheatbelter
+	religion = westlican
 	holding = auto
 }
 
@@ -13292,8 +13292,8 @@
 # d_perth
 ### c_gingin
 2651 = {  #Wannamal
-	culture = aussie
-	religion = tersian
+	culture = wheatbelter
+	religion = westlican
 	holding = auto
 }
 
@@ -13307,8 +13307,8 @@
 
 ### c_northam
 2654 = {  #Northam
-	culture = aussie
-	religion = tersian
+	culture = wheatbelter
+	religion = westlican
 	holding = auto
 }
 
@@ -13322,8 +13322,8 @@
 
 ### c_perth
 2657 = {  #Wanneroo
-	culture = aussie
-	religion = tersian
+	culture = metropolitan
+	religion = westlican
 	holding = auto
 }
 
@@ -13345,8 +13345,8 @@
 
 ### c_narrogin
 2662 = {  #Brookton
-	culture = aussie
-	religion = tersian
+	culture = metropolitan
+	religion = westlican
 	holding = auto
 }
 
@@ -13360,8 +13360,8 @@
 
 ### c_mandurah
 2665 = {  #Mandurah
-	culture = aussie
-	religion = tersian
+	culture = metropolitan
+	religion = westlican
 	holding = auto
 }
 
@@ -13376,8 +13376,8 @@
 # d_geographe
 ### c_bunbury
 2668 = {  #Harvey
-	culture = aussie
-	religion = tersian
+	culture = metropolitan
+	religion = westlican
 	holding = auto
 }
 
@@ -13395,8 +13395,8 @@
 
 ### c_wagin
 2672 = {  #Quindanning
-	culture = aussie
-	religion = tersian
+	culture = metropolitan
+	religion = westlican
 	holding = auto
 }
 
@@ -13418,8 +13418,8 @@
 
 ### c_margaret_river
 2677 = {  #Dunsborough
-	culture = aussie
-	religion = tersian
+	culture = metropolitan
+	religion = westlican
 	holding = auto
 }
 
@@ -13438,8 +13438,8 @@
 # d_blackwood_valley
 ### c_bridgetown
 2681 = {  #Boyup Brook
-	culture = aussie
-	religion = tersian
+	culture = metropolitan
+	religion = westlican
 	holding = auto
 }
 
@@ -13457,8 +13457,8 @@
 
 ### c_kojonup
 2685 = {  #Katanning
-	culture = aussie
-	religion = tersian
+	culture = metropolitan
+	religion = westlican
 	holding = auto
 }
 
@@ -13476,8 +13476,8 @@
 
 ### c_mt_barker
 2689 = {  #Tonebridge
-	culture = aussie
-	religion = tersian
+	culture = metropolitan
+	religion = westlican
 	holding = auto
 }
 
@@ -13495,8 +13495,8 @@
 
 ### c_albany
 2693 = {  #Albany
-	culture = aussie
-	religion = tersian
+	culture = metropolitan
+	religion = westlican
 	holding = auto
 }
 
@@ -13511,8 +13511,8 @@
 # d_landsend
 ### c_hyden
 2696 = {  #South Kumminin
-	culture = aussie
-	religion = tersian
+	culture = wheatbelter
+	religion = westlican
 	holding = auto
 }
 
@@ -13530,8 +13530,8 @@
 
 ### c_lake_biddy
 2700 = {  #Lake Biddy
-	culture = aussie
-	religion = tersian
+	culture = wheatbelter
+	religion = westlican
 	holding = auto
 }
 
@@ -13541,8 +13541,8 @@
 
 ### c_jitarning
 2702 = {  #Yealering
-	culture = aussie
-	religion = tersian
+	culture = wheatbelter
+	religion = westlican
 	holding = auto
 }
 
@@ -13561,8 +13561,8 @@
 # d_hopetoun
 ### c_lake_magenta
 2706 = {  #Lake Magenta
-	culture = aussie
-	religion = tersian
+	culture = esperentian
+	religion = westlican
 	holding = auto
 }
 
@@ -13576,8 +13576,8 @@
 
 ### c_cape_riche
 2709 = {  #Ongerup
-	culture = aussie
-	religion = tersian
+	culture = esperentian
+	religion = westlican
 	holding = auto
 }
 
@@ -13595,8 +13595,8 @@
 
 ### c_fitzgerald_river
 2713 = {  #Fitzgerald River
-	culture = aussie
-	religion = tersian
+	culture = esperentian
+	religion = westlican
 	holding = auto
 }
 
@@ -13610,8 +13610,8 @@
 
 ### c_dunn_rock
 2716 = {  #Varley
-	culture = aussie
-	religion = tersian
+	culture = esperentian
+	religion = westlican
 	holding = auto
 }
 
@@ -13627,8 +13627,8 @@
 # d_goldfields
 ### c_jilbadj
 2801 = {  #Marvel Loch
-	culture = aussie
-	religion = tersian
+	culture = wheatbelter
+	religion = paroxyst
 	holding = auto
 }
 
@@ -13638,8 +13638,8 @@
 
 ### c_yellowdine
 2803 = {  #Yellowdine
-	culture = aussie
-	religion = tersian
+	culture = timberian
+	religion = paroxyst
 	holding = auto
 }
 
@@ -13649,8 +13649,8 @@
 
 ### c_goldfields_woodlands
 2805 = {  #Goldfields Woodlands
-	culture = aussie
-	religion = tersian
+	culture = timberian
+	religion = paroxyst
 	holding = auto
 }
 
@@ -13664,8 +13664,8 @@
 
 ### c_holt_rock
 2808 = {  #Rayton
-	culture = aussie
-	religion = tersian
+	culture = wheatbelter
+	religion = paroxyst
 	holding = auto
 }
 
@@ -13680,8 +13680,8 @@
 # d_grass_patch
 ### c_bremer
 2811 = {  #Mt Gordon
-	culture = aussie
-	religion = tersian
+	culture = esperentian
+	religion = westlican
 	holding = auto
 }
 
@@ -13703,8 +13703,8 @@
 
 ### c_norseman
 2816 = {  #Higginsville
-	culture = aussie
-	religion = tersian
+	culture = timberian
+	religion = paroxyst
 	holding = auto
 }
 
@@ -13722,8 +13722,8 @@
 
 ### c_grass_patch
 2820 = {  #Aston
-	culture = aussie
-	religion = tersian
+	culture = esperentian
+	religion = westlican
 	holding = auto
 }
 
@@ -13737,8 +13737,8 @@
 
 ### c_dundas_nature_reserve
 2823 = {  #Salubris
-	culture = aussie
-	religion = tersian
+	culture = timberian
+	religion = paroxyst
 	holding = auto
 }
 
@@ -13756,8 +13756,8 @@
 
 ### c_balladonia
 2827 = {  #Halfplain
-	culture = aussie
-	religion = tersian
+	culture = timberian
+	religion = paroxyst
 	holding = auto
 }
 
@@ -13772,8 +13772,8 @@
 # d_recherche
 ### c_ravensthorpe
 2830 = {  #Ravensthorpe
-	culture = aussie
-	religion = tersian
+	culture = esperentian
+	religion = westlican
 	holding = auto
 }
 
@@ -13787,8 +13787,8 @@
 
 ### c_munglinup
 2833 = {  #Cascade
-	culture = aussie
-	religion = tersian
+	culture = esperentian
+	religion = westlican
 	holding = auto
 }
 
@@ -13802,8 +13802,8 @@
 
 ### c_esperance
 2836 = {  #Gibson
-	culture = aussie
-	religion = tersian
+	culture = esperentian
+	religion = westlican
 	holding = auto
 }
 
@@ -13818,8 +13818,8 @@
 # d_cape_arid
 ### c_boyatup
 2839 = {  #Gambison
-	culture = aussie
-	religion = tersian
+	culture = esperentian
+	religion = westlican
 	holding = auto
 }
 
@@ -13837,8 +13837,8 @@
 
 ### c_demposte
 2843 = {  #Alfalfa
-	culture = aussie
-	religion = tersian
+	culture = esperentian
+	religion = westlican
 	holding = auto
 }
 
@@ -13852,8 +13852,8 @@
 
 ### c_cape_arid
 2846 = {  #Point Malcolm
-	culture = aussie
-	religion = tersian
+	culture = esperentian
+	religion = westlican
 	holding = auto
 }
 

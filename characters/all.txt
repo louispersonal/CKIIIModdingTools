@@ -1,189 +1,1530 @@
 1 = {
-	name = "Dylan"
+	name = "Rowland"
 	dynasty = 1
-	religion = "tazism"
-	culture = "tasmanian"
-	2640.2.9 = {
+	religion = "ephemerist"
+	culture = "maralingan"
+	2646.1.23 = {
 		birth = yes
 	}
 }
 
 2 = {
-	name = "John"
-	dynasty = 0
-	religion = "tersian"
-	culture = "wimmeran"
-	2640.6.14 = {
+	name = "Arethape"
+	dynasty = 2
+	religion = "jukurrpa"
+	culture = "arrernte"
+	2646.6.9 = {
 		birth = yes
 	}
 }
 
 3 = {
-	name = "Thomas"
-	dynasty = 0
-	religion = "tersian"
-	culture = "phillipian"
-	2640.3.2 = {
+	name = "Itethe"
+	dynasty = 3
+	religion = "jukurrpa"
+	culture = "ngarna"
+	2641.3.1 = {
 		birth = yes
 	}
 }
 
 4 = {
-	name = "Timothy"
-	dynasty = 2
-	religion = "tersian"
-	culture = "phillipian"
-	2640.12.15 = {
+	name = "Amulte"
+	dynasty = 4
+	religion = "jukurrpa"
+	culture = "ngarna"
+	2637.4.26 = {
 		birth = yes
 	}
 }
 
 5 = {
-	name = "Bertrand"
-	dynasty = 3
-	religion = "tersian"
-	culture = "wimmeran"
-	2640.1.7 = {
+	name = "Wurnkurli"
+	dynasty = 5
+	religion = "jukurrpa"
+	culture = "yanyuwa"
+	2633.11.1 = {
 		birth = yes
 	}
 }
 
 6 = {
-	name = "Tyler"
-	dynasty = 4
-	religion = "tersian"
-	culture = "phillipian"
-	2640.1.23 = {
+	name = "Ingwethnele"
+	dynasty = 6
+	religion = "jukurrpa"
+	culture = "ngumpin_yapa"
+	2645.3.11 = {
 		birth = yes
 	}
 }
 
 7 = {
-	name = "James"
-	dynasty = 5
-	religion = "tersian"
-	culture = "phillipian"
-	2640.12.2 = {
+	name = "Uthnaye"
+	dynasty = 7
+	religion = "jukurrpa"
+	culture = "ngarna"
+	2642.7.22 = {
 		birth = yes
 	}
 }
 
 8 = {
-	name = "Parker"
-	dynasty = 6
-	religion = "tersian"
-	culture = "phillipian"
-	2640.6.15 = {
+	name = "Yanjarra"
+	dynasty = 8
+	religion = "jukurrpa"
+	culture = "yanyuwa"
+	2631.3.21 = {
 		birth = yes
 	}
 }
 
 9 = {
-	name = "Christopher"
-	dynasty = 7
-	religion = "tersian"
-	culture = "alpine"
-	2640.10.27 = {
+	name = "Gadji"
+	dynasty = 9
+	religion = "yijan"
+	culture = "garrwa"
+	2628.2.9 = {
 		birth = yes
 	}
 }
 
 10 = {
-	name = "Surly"
-	dynasty = 8
-	religion = "tersian"
-	culture = "illawarran"
-	2640.11.3 = {
+	name = "Dhurrmuk"
+	dynasty = 10
+	religion = "jukurrpa"
+	culture = "wardaman"
+	2627.12.8 = {
 		birth = yes
 	}
 }
 
 11 = {
-	name = "Jim"
-	dynasty = 9
-	religion = "tersian"
-	culture = "new_english"
-	2640.4.20 = {
+	name = "Yukajimaji"
+	dynasty = 11
+	religion = "jukurrpa"
+	culture = "yanyuwa"
+	2638.10.1 = {
 		birth = yes
 	}
 }
 
 12 = {
-	name = "Criggle"
-	dynasty = 10
-	religion = "tersian"
-	culture = "murrawarrian"
-	2640.1.28 = {
+	name = "Naatika"
+	female = yes
+	dynasty = 12
+	religion = "tjina"
+	culture = "arrernte"
+	2635.9.3 = {
 		birth = yes
 	}
 }
 
 13 = {
-	name = "Eugene"
-	dynasty = 11
-	religion = "tersian"
-	culture = "wamboolian"
-	2640.2.20 = {
+	name = "Wungunya"
+	dynasty = 13
+	religion = "yijan"
+	culture = "yanyuwa"
+	2631.3.2 = {
 		birth = yes
 	}
 }
 
 14 = {
-	name = "Hunkle"
-	dynasty = 12
-	religion = "tersian"
-	culture = "wamboolian"
-	2640.1.8 = {
+	name = "Nyin"
+	dynasty = 14
+	religion = "yijan"
+	culture = "yolngu"
+	2647.12.3 = {
 		birth = yes
 	}
 }
 
 15 = {
-	name = "Dilbert"
-	dynasty = 13
-	religion = "tersian"
-	culture = "baakan"
-	2640.5.20 = {
+	name = "Shelton"
+	dynasty = 15
+	religion = "yijan"
+	culture = "darwinian"
+	2626.6.13 = {
 		birth = yes
 	}
 }
 
 16 = {
-	name = "Nell"
-	dynasty = 14
-	religion = "tersian"
-	culture = "aussie"
-	2640.4.11 = {
+	name = "Mandimirr"
+	dynasty = 16
+	religion = "yijan"
+	culture = "yolngu"
+	2641.11.11 = {
 		birth = yes
 	}
 }
 
 17 = {
-	name = "Gary"
-	dynasty = 15
-	religion = "tersian"
-	culture = "aussie"
-	2640.5.1 = {
+	name = "Bryce"
+	dynasty = 17
+	religion = "canaanitic"
+	culture = "darwinian"
+	2629.12.27 = {
 		birth = yes
 	}
 }
 
 18 = {
-	name = "Jeremy"
-	dynasty = 16
-	religion = "tersian"
-	culture = "aussie"
-	2640.4.14 = {
+	name = "Wirriwirri"
+	dynasty = 18
+	religion = "yijan"
+	culture = "yolngu"
+	2628.1.16 = {
 		birth = yes
 	}
 }
 
 19 = {
-	name = "Alexander"
-	dynasty = 17
+	name = "Garayurru"
+	dynasty = 19
+	religion = "yijan"
+	culture = "yolngu"
+	2645.6.22 = {
+		birth = yes
+	}
+}
+
+20 = {
+	name = "Rurruminy"
+	dynasty = 20
+	religion = "yijan"
+	culture = "yolngu"
+	2645.2.25 = {
+		birth = yes
+	}
+}
+
+21 = {
+	name = "3ama"
+	dynasty = 21
+	religion = "yijan"
+	culture = "tiwi"
+	2644.6.24 = {
+		birth = yes
+	}
+}
+
+22 = {
+	name = "Ngkwerne"
+	dynasty = 22
+	religion = "jukurrpa"
+	culture = "arrernte"
+	2634.2.20 = {
+		birth = yes
+	}
+}
+
+23 = {
+	name = "Elden"
+	dynasty = 23
+	religion = "canaanitic"
+	culture = "central"
+	2645.1.15 = {
+		birth = yes
+	}
+}
+
+24 = {
+	name = "Ulhelke"
+	dynasty = 24
+	religion = "jukurrpa"
+	culture = "arrernte"
+	2646.7.2 = {
+		birth = yes
+	}
+}
+
+25 = {
+	name = "Phil"
+	dynasty = 25
+	religion = "canaanitic"
+	culture = "central"
+	2630.11.26 = {
+		birth = yes
+	}
+}
+
+26 = {
+	name = "Naatiji"
+	dynasty = 26
+	religion = "tjina"
+	culture = "arrernte"
+	2636.8.13 = {
+		birth = yes
+	}
+}
+
+27 = {
+	name = "Thipe"
+	dynasty = 27
+	religion = "jukurrpa"
+	culture = "arrernte"
+	2634.1.20 = {
+		birth = yes
+	}
+}
+
+28 = {
+	name = "Arlte"
+	dynasty = 28
+	religion = "jukurrpa"
+	culture = "ngumpin_yapa"
+	2642.12.27 = {
+		birth = yes
+	}
+}
+
+29 = {
+	name = "Sylvia"
+	female = yes
+	dynasty = 29
+	religion = "paroxyst"
+	culture = "lavertonian"
+	2629.6.17 = {
+		birth = yes
+	}
+}
+
+30 = {
+	name = "Djirreka"
+	female = yes
+	dynasty = 30
+	religion = "tjina"
+	culture = "barladj"
+	2633.7.18 = {
+		birth = yes
+	}
+}
+
+31 = {
+	name = "Liyo"
+	dynasty = 31
+	religion = "tjina"
+	culture = "barladj"
+	2635.4.24 = {
+		birth = yes
+	}
+}
+
+32 = {
+	name = "Djika"
+	female = yes
+	dynasty = 32
+	religion = "tjina"
+	culture = "bowanga"
+	2645.12.20 = {
+		birth = yes
+	}
+}
+
+33 = {
+	name = "Miyaa"
+	female = yes
+	dynasty = 33
+	religion = "tjina"
+	culture = "barladj"
+	2643.5.18 = {
+		birth = yes
+	}
+}
+
+34 = {
+	name = "Oliwia"
+	female = yes
+	dynasty = 34
+	religion = "tjina"
+	culture = "barladj"
+	2630.3.19 = {
+		birth = yes
+	}
+}
+
+35 = {
+	name = "Koyaalyootji"
+	dynasty = 35
+	religion = "tjina"
+	culture = "bowanga"
+	2629.12.13 = {
+		birth = yes
+	}
+}
+
+36 = {
+	name = "Waraatji"
+	dynasty = 36
+	religion = "tjina"
+	culture = "bowanga"
+	2641.11.2 = {
+		birth = yes
+	}
+}
+
+37 = {
+	name = "Tjaga"
+	dynasty = 37
+	religion = "tjina"
+	culture = "nyarranga"
+	2631.11.10 = {
+		birth = yes
+	}
+}
+
+38 = {
+	name = "Djenbanyotji"
+	female = yes
+	dynasty = 38
+	religion = "tjina"
+	culture = "bowanga"
+	2629.2.14 = {
+		birth = yes
+	}
+}
+
+39 = {
+	name = "Looka"
+	dynasty = 39
+	religion = "tjina"
+	culture = "bowanga"
+	2642.5.16 = {
+		birth = yes
+	}
+}
+
+40 = {
+	name = "Kitji"
+	dynasty = 40
+	religion = "tjina"
+	culture = "kaayangi"
+	2633.11.18 = {
+		birth = yes
+	}
+}
+
+41 = {
+	name = "Mala"
+	female = yes
+	dynasty = 41
+	religion = "tjina"
+	culture = "nyarranga"
+	2639.6.12 = {
+		birth = yes
+	}
+}
+
+42 = {
+	name = "Nyaardo"
+	dynasty = 42
+	religion = "tjina"
+	culture = "nyarranga"
+	2635.4.27 = {
+		birth = yes
+	}
+}
+
+43 = {
+	name = "Niti"
+	dynasty = 43
+	religion = "tjina"
+	culture = "nyarranga"
+	2636.1.22 = {
+		birth = yes
+	}
+}
+
+44 = {
+	name = "Noodjoki"
+	female = yes
+	dynasty = 44
+	religion = "tjina"
+	culture = "nyarranga"
+	2632.9.19 = {
+		birth = yes
+	}
+}
+
+45 = {
+	name = "Dongo"
+	dynasty = 45
+	religion = "tjina"
+	culture = "nyarranga"
+	2630.8.8 = {
+		birth = yes
+	}
+}
+
+46 = {
+	name = "Nowa"
+	dynasty = 46
+	religion = "tjina"
+	culture = "kaayangi"
+	2629.2.13 = {
+		birth = yes
+	}
+}
+
+47 = {
+	name = "Wirtotji"
+	female = yes
+	dynasty = 47
+	religion = "tjina"
+	culture = "barladj"
+	2644.10.1 = {
+		birth = yes
+	}
+}
+
+48 = {
+	name = "Kimarnatji"
+	dynasty = 48
+	religion = "tjina"
+	culture = "kaayangi"
+	2638.7.22 = {
+		birth = yes
+	}
+}
+
+49 = {
+	name = "Gagama"
+	female = yes
+	dynasty = 49
+	religion = "tjina"
+	culture = "kaayangi"
+	2642.10.13 = {
+		birth = yes
+	}
+}
+
+50 = {
+	name = "Djiyengaa"
+	female = yes
+	dynasty = 50
+	religion = "tjina"
+	culture = "bowanga"
+	2626.1.24 = {
+		birth = yes
+	}
+}
+
+51 = {
+	name = "Loklin"
+	dynasty = 51
+	religion = "tjina"
+	culture = "bowanga"
+	2636.6.10 = {
+		birth = yes
+	}
+}
+
+52 = {
+	name = "Rooyaarootji"
+	dynasty = 52
+	religion = "tjina"
+	culture = "barladj"
+	2629.4.5 = {
+		birth = yes
+	}
+}
+
+53 = {
+	name = "Kabalbamoya"
+	dynasty = 53
+	religion = "lalai"
+	culture = "wunambal"
+	2633.2.11 = {
+		birth = yes
+	}
+}
+
+54 = {
+	name = "Karnmernmoya"
+	dynasty = 54
+	religion = "lalai"
+	culture = "wunambal"
+	2638.3.13 = {
+		birth = yes
+	}
+}
+
+55 = {
+	name = "Jirrkalimamoya"
+	dynasty = 55
+	religion = "lalai"
+	culture = "worrorran"
+	2627.4.5 = {
+		birth = yes
+	}
+}
+
+56 = {
+	name = "Joornimoya"
+	dynasty = 56
+	religion = "lalai"
+	culture = "worrorran"
+	2643.10.27 = {
+		birth = yes
+	}
+}
+
+57 = {
+	name = "Dhonyin"
+	dynasty = 57
+	religion = "lalai"
+	culture = "jarrakan"
+	2629.3.26 = {
+		birth = yes
+	}
+}
+
+58 = {
+	name = "Kulumoya"
+	dynasty = 58
+	religion = "lalai"
+	culture = "wunambal"
+	2632.3.8 = {
+		birth = yes
+	}
+}
+
+59 = {
+	name = "Maa2ga"
+	dynasty = 59
+	religion = "lalai"
+	culture = "jarrakan"
+	2628.3.2 = {
+		birth = yes
+	}
+}
+
+60 = {
+	name = "Stewart"
+	dynasty = 60
+	religion = "westlican"
+	culture = "murchisonian"
+	2629.6.15 = {
+		birth = yes
+	}
+}
+
+61 = {
+	name = "Mary"
+	female = yes
+	dynasty = 61
+	religion = "tjina"
+	culture = "pilbaran"
+	2646.11.17 = {
+		birth = yes
+	}
+}
+
+62 = {
+	name = "Jason"
+	dynasty = 62
+	religion = "salvationist"
+	culture = "pilbaran"
+	2630.1.26 = {
+		birth = yes
+	}
+}
+
+63 = {
+	name = "Isabella"
+	female = yes
+	dynasty = 63
+	religion = "vocationist"
+	culture = "pilbaran"
+	2630.2.12 = {
+		birth = yes
+	}
+}
+
+64 = {
+	name = "Helen"
+	female = yes
+	dynasty = 64
+	religion = "tjina"
+	culture = "pilbaran"
+	2635.12.1 = {
+		birth = yes
+	}
+}
+
+65 = {
+	name = "Quinton"
+	dynasty = 65
+	religion = "tjina"
+	culture = "pilbaran"
+	2631.7.2 = {
+		birth = yes
+	}
+}
+
+66 = {
+	name = "Thomas"
+	dynasty = 66
+	religion = "westlican"
+	culture = "murchisonian"
+	2646.6.8 = {
+		birth = yes
+	}
+}
+
+67 = {
+	name = "Charles"
+	dynasty = 67
+	religion = "westlican"
+	culture = "murchisonian"
+	2648.7.14 = {
+		birth = yes
+	}
+}
+
+68 = {
+	name = "Dane"
+	dynasty = 68
+	religion = "westlican"
+	culture = "murchisonian"
+	2636.9.14 = {
+		birth = yes
+	}
+}
+
+69 = {
+	name = ""
+	dynasty = 69
+	religion = "salvationist"
+	culture = "gascoynian"
+	2648.2.27 = {
+		birth = yes
+	}
+}
+
+70 = {
+	name = "Sophie"
+	female = yes
+	dynasty = 70
+	religion = "vocationist"
+	culture = "pilbaran"
+	2647.11.25 = {
+		birth = yes
+	}
+}
+
+71 = {
+	name = "Cleo"
+	female = yes
+	dynasty = 71
+	religion = "vocationist"
+	culture = "gascoynian"
+	2629.11.3 = {
+		birth = yes
+	}
+}
+
+72 = {
+	name = "Marjorie"
+	female = yes
+	dynasty = 72
+	religion = "vocationist"
+	culture = "gascoynian"
+	2627.2.12 = {
+		birth = yes
+	}
+}
+
+73 = {
+	name = ""
+	dynasty = 73
+	religion = "salvationist"
+	culture = "gascoynian"
+	2639.9.21 = {
+		birth = yes
+	}
+}
+
+74 = {
+	name = "Samson"
+	dynasty = 74
 	religion = "tersian"
-	culture = "aussie"
-	2640.6.16 = {
+	culture = "gold_coastian"
+	2636.12.24 = {
+		birth = yes
+	}
+}
+
+75 = {
+	name = "Dex"
+	dynasty = 75
+	religion = "dougist"
+	culture = "yorker"
+	2629.5.2 = {
+		birth = yes
+	}
+}
+
+76 = {
+	name = "Ger"
+	dynasty = 76
+	religion = "dougist"
+	culture = "yorker"
+	2638.12.3 = {
+		birth = yes
+	}
+}
+
+77 = {
+	name = "Mack"
+	dynasty = 77
+	religion = "dougist"
+	culture = "yorker"
+	2639.12.22 = {
+		birth = yes
+	}
+}
+
+78 = {
+	name = "Mark"
+	dynasty = 78
+	religion = "arenist"
+	culture = "savannan"
+	2632.12.3 = {
+		birth = yes
+	}
+}
+
+79 = {
+	name = "Ruri"
+	dynasty = 79
+	religion = "yijan"
+	culture = "garrwa"
+	2643.1.8 = {
+		birth = yes
+	}
+}
+
+80 = {
+	name = "Buster"
+	dynasty = 80
+	religion = "devotionist"
+	culture = "mulgan"
+	2641.10.1 = {
+		birth = yes
+	}
+}
+
+81 = {
+	name = "Kwepalpale"
+	dynasty = 81
+	religion = "jukurrpa"
+	culture = "arrernte"
+	2647.5.18 = {
+		birth = yes
+	}
+}
+
+82 = {
+	name = "Inngerre"
+	dynasty = 82
+	religion = "jukurrpa"
+	culture = "ngarna"
+	2626.4.5 = {
+		birth = yes
+	}
+}
+
+83 = {
+	name = "Chaz"
+	dynasty = 83
+	religion = "devotionist"
+	culture = "downian"
+	2630.11.1 = {
+		birth = yes
+	}
+}
+
+84 = {
+	name = "George"
+	dynasty = 84
+	religion = "tersian"
+	culture = "sobelter"
+	2634.9.19 = {
+		birth = yes
+	}
+}
+
+85 = {
+	name = "Turner"
+	dynasty = 85
+	religion = "tersian"
+	culture = "nobelter"
+	2645.6.8 = {
+		birth = yes
+	}
+}
+
+86 = {
+	name = "Stephen"
+	dynasty = 86
+	religion = "arenist"
+	culture = "isan"
+	2645.8.7 = {
+		birth = yes
+	}
+}
+
+87 = {
+	name = "Strai"
+	dynasty = 87
+	religion = "tersian"
+	culture = "corallite"
+	2640.1.15 = {
+		birth = yes
+	}
+}
+
+88 = {
+	name = "Lucius"
+	dynasty = 88
+	religion = "tersian"
+	culture = "peninsular"
+	2644.8.7 = {
+		birth = yes
+	}
+}
+
+89 = {
+	name = "Art"
+	dynasty = 89
+	religion = "tersian"
+	culture = "welshbacker"
+	2639.3.28 = {
+		birth = yes
+	}
+}
+
+90 = {
+	name = "Peter"
+	dynasty = 90
+	religion = "ecumenist"
+	culture = "nullarborite"
+	2647.9.8 = {
+		birth = yes
+	}
+}
+
+91 = {
+	name = "John"
+	dynasty = 91
+	religion = "ephemerist"
+	culture = "gawleran"
+	2644.10.25 = {
+		birth = yes
+	}
+}
+
+92 = {
+	name = "Baz"
+	dynasty = 92
+	religion = "ecumenist"
+	culture = "maralingan"
+	2647.10.24 = {
+		birth = yes
+	}
+}
+
+93 = {
+	name = "Larry"
+	dynasty = 93
+	religion = "ecumenist"
+	culture = "maralingan"
+	2638.6.19 = {
+		birth = yes
+	}
+}
+
+94 = {
+	name = "Declan"
+	dynasty = 94
+	religion = "ephemerist"
+	culture = "maralingan"
+	2646.3.25 = {
+		birth = yes
+	}
+}
+
+95 = {
+	name = "Shale"
+	dynasty = 95
+	religion = "ecumenist"
+	culture = "nullarborite"
+	2631.11.10 = {
+		birth = yes
+	}
+}
+
+96 = {
+	name = "Patrick"
+	female = yes
+	dynasty = 96
+	religion = "paroxyst"
+	culture = "nullarborite"
+	2626.4.21 = {
+		birth = yes
+	}
+}
+
+97 = {
+	name = "Scott"
+	dynasty = 97
+	religion = "tersian"
+	culture = "wimmeran"
+	2631.10.2 = {
+		birth = yes
+	}
+}
+
+98 = {
+	name = "David"
+	dynasty = 98
+	religion = "tersian"
+	culture = "alpine"
+	2641.8.14 = {
+		birth = yes
+	}
+}
+
+99 = {
+	name = "Daniel"
+	dynasty = 99
+	religion = "tersian"
+	culture = "alpine"
+	2641.1.11 = {
+		birth = yes
+	}
+}
+
+100 = {
+	name = "Jim"
+	dynasty = 100
+	religion = "tersian"
+	culture = "murrayan"
+	2634.7.20 = {
+		birth = yes
+	}
+}
+
+101 = {
+	name = "Robert"
+	dynasty = 101
+	religion = "tersian"
+	culture = "peninsular"
+	2641.8.6 = {
+		birth = yes
+	}
+}
+
+102 = {
+	name = "Quintus"
+	dynasty = 102
+	religion = "tersian"
+	culture = "peninsular"
+	2641.8.17 = {
+		birth = yes
+	}
+}
+
+103 = {
+	name = "Simon"
+	dynasty = 103
+	religion = "tersian"
+	culture = "peninsular"
+	2632.1.21 = {
+		birth = yes
+	}
+}
+
+104 = {
+	name = "Neville"
+	dynasty = 104
+	religion = "tersian"
+	culture = "wimmeran"
+	2645.3.16 = {
+		birth = yes
+	}
+}
+
+105 = {
+	name = "Antonius"
+	dynasty = 105
+	religion = "tersian"
+	culture = "peninsular"
+	2647.12.17 = {
+		birth = yes
+	}
+}
+
+106 = {
+	name = "Cherry"
+	dynasty = 106
+	religion = "ephemerist"
+	culture = "welshbacker"
+	2642.3.25 = {
+		birth = yes
+	}
+}
+
+107 = {
+	name = "Joshua"
+	dynasty = 107
+	religion = "arenist"
+	culture = "welshbacker"
+	2644.7.27 = {
+		birth = yes
+	}
+}
+
+108 = {
+	name = "Mark"
+	dynasty = 108
+	religion = "tersian"
+	culture = "gippslander"
+	2631.7.1 = {
+		birth = yes
+	}
+}
+
+109 = {
+	name = "Bernard"
+	dynasty = 109
+	religion = "devotionist"
+	culture = "welshbacker"
+	2630.2.12 = {
+		birth = yes
+	}
+}
+
+110 = {
+	name = "Marcel"
+	dynasty = 110
+	religion = "tersian"
+	culture = "darlingian"
+	2632.8.19 = {
+		birth = yes
+	}
+}
+
+111 = {
+	name = "Henry"
+	dynasty = 111
+	religion = "arenist"
+	culture = "welshbacker"
+	2645.12.24 = {
+		birth = yes
+	}
+}
+
+112 = {
+	name = "Maurice"
+	dynasty = 112
+	religion = "tersian"
+	culture = "darlingian"
+	2641.3.10 = {
+		birth = yes
+	}
+}
+
+113 = {
+	name = "Sheldon"
+	dynasty = 113
+	religion = "tersian"
+	culture = "darlingian"
+	2644.2.23 = {
+		birth = yes
+	}
+}
+
+114 = {
+	name = "Harry"
+	dynasty = 114
+	religion = "arenist"
+	culture = "welshbacker"
+	2631.7.26 = {
+		birth = yes
+	}
+}
+
+115 = {
+	name = "Tony"
+	dynasty = 115
+	religion = "tersian"
+	culture = "murrayan"
+	2642.6.3 = {
+		birth = yes
+	}
+}
+
+116 = {
+	name = "Michael"
+	dynasty = 116
+	religion = "tersian"
+	culture = "alpine"
+	2633.8.21 = {
+		birth = yes
+	}
+}
+
+117 = {
+	name = "Tony"
+	dynasty = 117
+	religion = "tersian"
+	culture = "sydneyan"
+	2642.5.1 = {
+		birth = yes
+	}
+}
+
+118 = {
+	name = "Duong"
+	dynasty = 118
+	religion = "tersian"
+	culture = "sydneyan"
+	2636.10.10 = {
+		birth = yes
+	}
+}
+
+119 = {
+	name = "Connor"
+	dynasty = 119
+	religion = "tersian"
+	culture = "gippslander"
+	2645.9.18 = {
+		birth = yes
+	}
+}
+
+120 = {
+	name = "Thomas"
+	dynasty = 120
+	religion = "capital_church"
+	culture = "alpine"
+	2628.4.7 = {
+		birth = yes
+	}
+}
+
+121 = {
+	name = "Michael"
+	dynasty = 121
+	religion = "tersian"
+	culture = "sydneyan"
+	2630.3.24 = {
+		birth = yes
+	}
+}
+
+122 = {
+	name = "Ty"
+	dynasty = 122
+	religion = "tersian"
+	culture = "sydneyan"
+	2633.1.13 = {
+		birth = yes
+	}
+}
+
+123 = {
+	name = "Snirling"
+	dynasty = 123
+	religion = "tersian"
+	culture = "darlingian"
+	2630.4.19 = {
+		birth = yes
+	}
+}
+
+124 = {
+	name = "Matthew"
+	dynasty = 124
+	religion = "tersian"
+	culture = "new_english"
+	2641.11.27 = {
+		birth = yes
+	}
+}
+
+125 = {
+	name = "Oliver"
+	dynasty = 125
+	religion = "tersian"
+	culture = "sydneyan"
+	2635.10.20 = {
+		birth = yes
+	}
+}
+
+126 = {
+	name = "Noah"
+	dynasty = 126
+	religion = "tersian"
+	culture = "sydneyan"
+	2628.11.24 = {
+		birth = yes
+	}
+}
+
+127 = {
+	name = "Ronald"
+	dynasty = 127
+	religion = "tersian"
+	culture = "new_english"
+	2633.5.24 = {
+		birth = yes
+	}
+}
+
+128 = {
+	name = "Emu"
+	dynasty = 128
+	religion = "tersian"
+	culture = "new_english"
+	2647.11.15 = {
+		birth = yes
+	}
+}
+
+129 = {
+	name = "Fred"
+	dynasty = 129
+	religion = "tersian"
+	culture = "wimmeran"
+	2642.3.22 = {
+		birth = yes
+	}
+}
+
+130 = {
+	name = "Vernon"
+	dynasty = 130
+	religion = "tersian"
+	culture = "wimmeran"
+	2626.6.24 = {
+		birth = yes
+	}
+}
+
+131 = {
+	name = "Timothy"
+	dynasty = 131
+	religion = "capital_church"
+	culture = "alpine"
+	2642.2.16 = {
+		birth = yes
+	}
+}
+
+132 = {
+	name = "Paisley"
+	dynasty = 132
+	religion = "tersian"
+	culture = "wimmeran"
+	2634.11.22 = {
+		birth = yes
+	}
+}
+
+133 = {
+	name = "Mark"
+	dynasty = 133
+	religion = "tersian"
+	culture = "murrayan"
+	2639.9.28 = {
+		birth = yes
+	}
+}
+
+134 = {
+	name = "Joseph"
+	dynasty = 134
+	religion = "tersian"
+	culture = "gippslander"
+	2631.10.2 = {
+		birth = yes
+	}
+}
+
+135 = {
+	name = "Gibson"
+	dynasty = 135
+	religion = "westlican"
+	culture = "metropolitan"
+	2637.11.4 = {
+		birth = yes
+	}
+}
+
+136 = {
+	name = "Adam"
+	dynasty = 136
+	religion = "tjina"
+	culture = "timberian"
+	2629.8.5 = {
+		birth = yes
+	}
+}
+
+137 = {
+	name = "Mango"
+	female = yes
+	dynasty = 137
+	religion = "paroxyst"
+	culture = "timberian"
+	2632.7.11 = {
+		birth = yes
+	}
+}
+
+138 = {
+	name = "Teresa"
+	female = yes
+	dynasty = 138
+	religion = "paroxyst"
+	culture = "timberian"
+	2642.5.21 = {
+		birth = yes
+	}
+}
+
+139 = {
+	name = "Eugene"
+	dynasty = 139
+	religion = "westlican"
+	culture = "wheatbelter"
+	2642.7.21 = {
+		birth = yes
+	}
+}
+
+140 = {
+	name = "Tike"
+	dynasty = 140
+	religion = "westlican"
+	culture = "lavertonian"
+	2644.12.15 = {
+		birth = yes
+	}
+}
+
+141 = {
+	name = "Ian"
+	dynasty = 141
+	religion = "westlican"
+	culture = "lavertonian"
+	2640.5.3 = {
+		birth = yes
+	}
+}
+
+142 = {
+	name = "Colin"
+	dynasty = 142
+	religion = "westlican"
+	culture = "murchisonian"
+	2630.9.12 = {
+		birth = yes
+	}
+}
+
+143 = {
+	name = "Charlie"
+	dynasty = 143
+	religion = "westlican"
+	culture = "esperentian"
+	2640.3.19 = {
+		birth = yes
+	}
+}
+
+144 = {
+	name = "Liam"
+	dynasty = 144
+	religion = "westlican"
+	culture = "esperentian"
+	2644.10.25 = {
+		birth = yes
+	}
+}
+
+145 = {
+	name = "Hudson"
+	dynasty = 145
+	religion = "westlican"
+	culture = "esperentian"
+	2634.10.21 = {
+		birth = yes
+	}
+}
+
+146 = {
+	name = "Archie"
+	dynasty = 146
+	religion = "westlican"
+	culture = "esperentian"
+	2630.9.13 = {
+		birth = yes
+	}
+}
+
+147 = {
+	name = "Oliver"
+	dynasty = 147
+	religion = "westlican"
+	culture = "esperentian"
+	2640.10.19 = {
+		birth = yes
+	}
+}
+
+148 = {
+	name = "Jehoram"
+	dynasty = 148
+	religion = "westlican"
+	culture = "metropolitan"
+	2631.2.15 = {
+		birth = yes
+	}
+}
+
+149 = {
+	name = "Noah"
+	dynasty = 149
+	religion = "westlican"
+	culture = "esperentian"
+	2642.12.21 = {
+		birth = yes
+	}
+}
+
+150 = {
+	name = "Hansley"
+	dynasty = 150
+	religion = "tersian"
+	culture = "tasmanian"
+	2644.7.23 = {
+		birth = yes
+	}
+}
+
+151 = {
+	name = "Numpty"
+	dynasty = 151
+	religion = "tersian"
+	culture = "tasmanian"
+	2644.2.2 = {
 		birth = yes
 	}
 }

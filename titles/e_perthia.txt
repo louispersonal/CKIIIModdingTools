@@ -1,0 +1,462 @@
+e_perthia = {
+	2660.1.1 = {
+		holder = 148
+		government = "feudal"
+	}
+}
+
+k_the_spike = {
+	2660.1.1 = {
+		holder = 0
+		government = "feudal"
+	}
+}
+
+d_zuytdorp = {
+	2660.1.1 = {
+		holder = 142
+		government = "feudal"
+	}
+}
+
+c_carrarang = {
+	2660.1.1 = {
+		holder = 142
+		government = "feudal"
+	}
+}
+
+c_kalbarri = {
+	2660.1.1 = {
+		holder = 142
+		government = "feudal"
+	}
+}
+
+c_geraldton = {
+	2660.1.1 = {
+		holder = 139
+		government = "feudal"
+	}
+}
+
+d_langustine = {
+	2660.1.1 = {
+		holder = 139
+		government = "feudal"
+	}
+}
+
+c_dongara = {
+	2660.1.1 = {
+		holder = 139
+		government = "feudal"
+	}
+}
+
+c_morawa = {
+	2660.1.1 = {
+		holder = 139
+		government = "feudal"
+	}
+}
+
+c_coorow = {
+	2660.1.1 = {
+		holder = 139
+		government = "feudal"
+	}
+}
+
+c_cadoux = {
+	2660.1.1 = {
+		holder = 139
+		government = "feudal"
+	}
+}
+
+d_swan = {
+	2660.1.1 = {
+		holder = 0
+		government = "feudal"
+	}
+}
+
+c_capamauro = {
+	2660.1.1 = {
+		holder = 139
+		government = "feudal"
+	}
+}
+
+c_cataby = {
+	2660.1.1 = {
+		holder = 139
+		government = "feudal"
+	}
+}
+
+c_moora = {
+	2660.1.1 = {
+		holder = 139
+		government = "feudal"
+	}
+}
+
+k_southwest = {
+	2660.1.1 = {
+		holder = 0
+		government = "feudal"
+	}
+}
+
+d_perthian_march = {
+	2660.1.1 = {
+		holder = 148
+		government = "feudal"
+	}
+}
+
+c_bencubbin = {
+	2660.1.1 = {
+		holder = 148
+		government = "feudal"
+	}
+}
+
+c_dowerin = {
+	2660.1.1 = {
+		holder = 148
+		government = "feudal"
+	}
+}
+
+c_mooring_rock = {
+	2660.1.1 = {
+		holder = 148
+		government = "feudal"
+	}
+}
+
+c_merredin = {
+	2660.1.1 = {
+		holder = 148
+		government = "feudal"
+	}
+}
+
+c_dangin = {
+	2660.1.1 = {
+		holder = 148
+		government = "feudal"
+	}
+}
+
+d_perth = {
+	2660.1.1 = {
+		holder = 148
+		government = "feudal"
+	}
+}
+
+c_gingin = {
+	2660.1.1 = {
+		holder = 148
+		government = "feudal"
+	}
+}
+
+c_northam = {
+	2660.1.1 = {
+		holder = 148
+		government = "feudal"
+	}
+}
+
+c_perth = {
+	2660.1.1 = {
+		holder = 148
+		government = "feudal"
+	}
+}
+
+c_narrogin = {
+	2660.1.1 = {
+		holder = 148
+		government = "feudal"
+	}
+}
+
+c_mandurah = {
+	2660.1.1 = {
+		holder = 148
+		government = "feudal"
+	}
+}
+
+d_geographe = {
+	2660.1.1 = {
+		holder = 135
+		government = "feudal"
+	}
+}
+
+c_bunbury = {
+	2660.1.1 = {
+		holder = 135
+		government = "feudal"
+	}
+}
+
+c_wagin = {
+	2660.1.1 = {
+		holder = 135
+		government = "feudal"
+	}
+}
+
+c_margaret_river = {
+	2660.1.1 = {
+		holder = 135
+		government = "feudal"
+	}
+}
+
+d_blackwood_valley = {
+	2660.1.1 = {
+		holder = 142
+		government = "feudal"
+	}
+}
+
+c_bridgetown = {
+	2660.1.1 = {
+		holder = 135
+		government = "feudal"
+	}
+}
+
+c_kojonup = {
+	2660.1.1 = {
+		holder = 142
+		government = "feudal"
+	}
+}
+
+c_mt_barker = {
+	2660.1.1 = {
+		holder = 142
+		government = "feudal"
+	}
+}
+
+c_albany = {
+	2660.1.1 = {
+		holder = 142
+		government = "feudal"
+	}
+}
+
+d_landsend = {
+	2660.1.1 = {
+		holder = 148
+		government = "feudal"
+	}
+}
+
+c_hyden = {
+	2660.1.1 = {
+		holder = 148
+		government = "feudal"
+	}
+}
+
+c_lake_biddy = {
+	2660.1.1 = {
+		holder = 148
+		government = "feudal"
+	}
+}
+
+c_jitarning = {
+	2660.1.1 = {
+		holder = 148
+		government = "feudal"
+	}
+}
+
+d_hopetoun = {
+	2660.1.1 = {
+		holder = 143
+		government = "feudal"
+	}
+}
+
+c_lake_magenta = {
+	2660.1.1 = {
+		holder = 143
+		government = "feudal"
+	}
+}
+
+c_cape_riche = {
+	2660.1.1 = {
+		holder = 142
+		government = "feudal"
+	}
+}
+
+c_fitzgerald_river = {
+	2660.1.1 = {
+		holder = 143
+		government = "feudal"
+	}
+}
+
+c_dunn_rock = {
+	2660.1.1 = {
+		holder = 143
+		government = "feudal"
+	}
+}
+
+k_esperance = {
+	2660.1.1 = {
+		holder = 0
+		government = "feudal"
+	}
+}
+
+d_goldfields = {
+	2660.1.1 = {
+		holder = 148
+		government = "feudal"
+	}
+}
+
+c_jilbadj = {
+	2660.1.1 = {
+		holder = 148
+		government = "feudal"
+	}
+}
+
+c_yellowdine = {
+	2660.1.1 = {
+		holder = 138
+		government = "feudal"
+	}
+}
+
+c_goldfields_woodlands = {
+	2660.1.1 = {
+		holder = 149
+		government = "feudal"
+	}
+}
+
+c_holt_rock = {
+	2660.1.1 = {
+		holder = 148
+		government = "feudal"
+	}
+}
+
+d_grass_patch = {
+	2660.1.1 = {
+		holder = 149
+		government = "feudal"
+	}
+}
+
+c_bremer = {
+	2660.1.1 = {
+		holder = 149
+		government = "feudal"
+	}
+}
+
+c_norseman = {
+	2660.1.1 = {
+		holder = 149
+		government = "feudal"
+	}
+}
+
+c_grass_patch = {
+	2660.1.1 = {
+		holder = 147
+		government = "feudal"
+	}
+}
+
+c_dundas_nature_reserve = {
+	2660.1.1 = {
+		holder = 136
+		government = "feudal"
+	}
+}
+
+c_balladonia = {
+	2660.1.1 = {
+		holder = 136
+		government = "feudal"
+	}
+}
+
+d_recherche = {
+	2660.1.1 = {
+		holder = 145
+		government = "feudal"
+	}
+}
+
+c_ravensthorpe = {
+	2660.1.1 = {
+		holder = 144
+		government = "feudal"
+	}
+}
+
+c_munglinup = {
+	2660.1.1 = {
+		holder = 144
+		government = "feudal"
+	}
+}
+
+c_esperance = {
+	2660.1.1 = {
+		holder = 145
+		government = "feudal"
+	}
+}
+
+d_cape_arid = {
+	2660.1.1 = {
+		holder = 146
+		government = "feudal"
+	}
+}
+
+c_boyatup = {
+	2660.1.1 = {
+		holder = 147
+		government = "feudal"
+	}
+}
+
+c_demposte = {
+	2660.1.1 = {
+		holder = 146
+		government = "feudal"
+	}
+}
+
+c_cape_arid = {
+	2660.1.1 = {
+		holder = 146
+		government = "feudal"
+	}
+}
+

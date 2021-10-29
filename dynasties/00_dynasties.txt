@@ -1,69 +1,604 @@
 1 = {
-	name = "dynn_Franklin"
-	culture = "tasmanian"
+	name = "dynn_Carter"
+	culture = "maralingan"
 }
 2 = {
-	prefix = "dynnp_de"
-	name = "dynn_Port"
-	culture = "phillipian"
+	name = "dynn_Apapatye"
+	culture = "arrernte"
 }
 3 = {
-	name = "dynn_Davis"
-	culture = "wimmeran"
+	name = "dynn_Antulye"
+	culture = "ngarna"
 }
 4 = {
-	name = "dynn_Swanson"
-	culture = "phillipian"
+	name = "dynn_Yalke"
+	culture = "ngarna"
 }
 5 = {
-	name = "dynn_Porter"
-	culture = "phillipian"
+	name = "dynn_Ihukan"
+	culture = "yanyuwa"
 }
 6 = {
-	name = "dynn_Wrench"
-	culture = "phillipian"
+	name = "dynn_Yartyart"
+	culture = "ngumpin_yapa"
 }
 7 = {
-	name = "dynn_Tipps"
-	culture = "alpine"
+	name = "dynn_Kwatye"
+	culture = "ngarna"
 }
 8 = {
-	name = "dynn_McGuire"
-	culture = "illawarran"
+	name = "dynn_Kuranthulkuranthul"
+	culture = "yanyuwa"
 }
 9 = {
-	name = "dynn_Perkins"
-	culture = "new_english"
+	name = "dynn_Mankalka"
+	culture = "garrwa"
 }
 10 = {
-	name = "dynn_Traeger"
-	culture = "murrawarrian"
+	name = "dynn_Gayka"
+	culture = "wardaman"
 }
 11 = {
-	name = "dynn_Knope"
-	culture = "wamboolian"
+	name = "dynn_Bunbunda"
+	culture = "yanyuwa"
 }
 12 = {
-	name = "dynn_Wyatt"
-	culture = "wamboolian"
+	name = "dynn_Irlpmane"
+	culture = "arrernte"
 }
 13 = {
-	name = "dynn_Haverford"
-	culture = "baakan"
+	name = "dynn_Arra"
+	culture = "yanyuwa"
 }
 14 = {
-	name = "dynn_Dwyer"
-	culture = "aussie"
+	name = "dynn_Djirrdjirr"
+	culture = "yolngu"
 }
 15 = {
-	name = "dynn_Doofus"
-	culture = "aussie"
+	name = "dynn_Mills"
+	culture = "darwinian"
 }
 16 = {
-	name = "dynn_Ample"
-	culture = "aussie"
+	name = "dynn_Munwurkburk"
+	culture = "yolngu"
 }
 17 = {
-	name = "dynn_Pearseed"
-	culture = "aussie"
+	name = "dynn_Daley"
+	culture = "darwinian"
+}
+18 = {
+	name = "dynn_Wanybanga"
+	culture = "yolngu"
+}
+19 = {
+	name = "dynn_Lanydji"
+	culture = "yolngu"
+}
+20 = {
+	name = "dynn_Marikanga"
+	culture = "yolngu"
+}
+21 = {
+	name = "dynn_Yunipinu"
+	culture = "tiwi"
+}
+22 = {
+	name = "dynn_Utyiwerte"
+	culture = "arrernte"
+}
+23 = {
+	name = "dynn_Morrow"
+	culture = "central"
+}
+24 = {
+	name = "dynn_Manemane"
+	culture = "arrernte"
+}
+25 = {
+	name = "dynn_Werner"
+	culture = "central"
+}
+26 = {
+	name = "dynn_Langkwe"
+	culture = "arrernte"
+}
+27 = {
+	name = "dynn_Ntarne"
+	culture = "arrernte"
+}
+28 = {
+	name = "dynn_Mangarte"
+	culture = "ngumpin_yapa"
+}
+29 = {
+	name = "dynn_Redfoot"
+	culture = "lavertonian"
+}
+30 = {
+	name = "dynn_Bodo"
+	culture = "barladj"
+}
+31 = {
+	name = "dynn_Baarnaap"
+	culture = "barladj"
+}
+32 = {
+	name = "dynn_Niwi"
+	culture = "bowanga"
+}
+33 = {
+	name = "dynn_Dalebi"
+	culture = "barladj"
+}
+34 = {
+	name = "dynn_Maawoongo"
+	culture = "barladj"
+}
+35 = {
+	name = "dynn_Djat"
+	culture = "bowanga"
+}
+36 = {
+	name = "dynn_Djorlo"
+	culture = "bowanga"
+}
+37 = {
+	name = "dynn_Matjoow"
+	culture = "nyarranga"
+}
+38 = {
+	name = "dynn_Yadjitji"
+	culture = "bowanga"
+}
+39 = {
+	name = "dynn_Ngongama"
+	culture = "bowanga"
+}
+40 = {
+	name = "dynn_Kitaake"
+	culture = "kaayangi"
+}
+41 = {
+	name = "dynn_Ninyengoo"
+	culture = "nyarranga"
+}
+42 = {
+	name = "dynn_Bordoki"
+	culture = "nyarranga"
+}
+43 = {
+	name = "dynn_Yaardoony"
+	culture = "nyarranga"
+}
+44 = {
+	name = "dynn_Bernoodjo"
+	culture = "nyarranga"
+}
+45 = {
+	name = "dynn_Yoordobo"
+	culture = "nyarranga"
+}
+46 = {
+	name = "dynn_Yapanga"
+	culture = "kaayangi"
+}
+47 = {
+	name = "dynn_Naali"
+	culture = "barladj"
+}
+48 = {
+	name = "dynn_Yooma"
+	culture = "kaayangi"
+}
+49 = {
+	name = "dynn_Nyootjep"
+	culture = "kaayangi"
+}
+50 = {
+	name = "dynn_Mirrik"
+	culture = "bowanga"
+}
+51 = {
+	name = "dynn_Bawope"
+	culture = "bowanga"
+}
+52 = {
+	name = "dynn_Dalyok"
+	culture = "barladj"
+}
+53 = {
+	name = "dynn_Birrijinja"
+	culture = "wunambal"
+}
+54 = {
+	name = "dynn_Ngardugarda"
+	culture = "wunambal"
+}
+55 = {
+	name = "dynn_Jadablaai"
+	culture = "worrorran"
+}
+56 = {
+	name = "dynn_Bareya"
+	culture = "worrorran"
+}
+57 = {
+	name = "dynn_Maymuru"
+	culture = "jarrakan"
+}
+58 = {
+	name = "dynn_Anjoldirdaka"
+	culture = "wunambal"
+}
+59 = {
+	name = "dynn_Gurruwiwi"
+	culture = "jarrakan"
+}
+60 = {
+	name = "dynn_Bush"
+	culture = "murchisonian"
+}
+61 = {
+	name = "dynn_Dingo"
+	culture = "pilbaran"
+}
+62 = {
+	name = "dynn_Schwartz"
+	culture = "pilbaran"
+}
+63 = {
+	name = "dynn_Shudders"
+	culture = "pilbaran"
+}
+64 = {
+	name = "dynn_Mulga"
+	culture = "pilbaran"
+}
+65 = {
+	name = "dynn_Hardtack"
+	culture = "pilbaran"
+}
+66 = {
+	name = "dynn_Spinegrass"
+	culture = "murchisonian"
+}
+67 = {
+	name = "dynn_Sandel"
+	culture = "murchisonian"
+}
+68 = {
+	name = "dynn_Bride"
+	culture = "murchisonian"
+}
+69 = {
+	name = "dynn_Neveah"
+	culture = "gascoynian"
+}
+70 = {
+	name = "dynn_Jackal"
+	culture = "pilbaran"
+}
+71 = {
+	name = "dynn_Goanna"
+	culture = "gascoynian"
+}
+72 = {
+	name = "dynn_Festive"
+	culture = "gascoynian"
+}
+73 = {
+	name = "dynn_Zachary"
+	culture = "gascoynian"
+}
+74 = {
+	name = "dynn_Macon"
+	culture = "gold_coastian"
+}
+75 = {
+	name = "dynn_Snaptooth"
+	culture = "yorker"
+}
+76 = {
+	name = "dynn_Dizzy"
+	culture = "yorker"
+}
+77 = {
+	name = "dynn_Turtle"
+	culture = "yorker"
+}
+78 = {
+	name = "dynn_Dandolo"
+	culture = "savannan"
+}
+79 = {
+	name = "dynn_Rimi"
+	culture = "garrwa"
+}
+80 = {
+	name = "dynn_Harris"
+	culture = "mulgan"
+}
+81 = {
+	name = "dynn_Utyingale"
+	culture = "arrernte"
+}
+82 = {
+	name = "dynn_Irrtyarte"
+	culture = "ngarna"
+}
+83 = {
+	name = "dynn_Tyson"
+	culture = "downian"
+}
+84 = {
+	name = "dynn_Price"
+	culture = "sobelter"
+}
+85 = {
+	name = "dynn_West"
+	culture = "nobelter"
+}
+86 = {
+	name = "dynn_Grasseater"
+	culture = "isan"
+}
+87 = {
+	name = "dynn_Poisonback"
+	culture = "corallite"
+}
+88 = {
+	name = "dynn_Germaine"
+	culture = "peninsular"
+}
+89 = {
+	name = "dynn_Larsen"
+	culture = "welshbacker"
+}
+90 = {
+	name = "dynn_Gay"
+	culture = "nullarborite"
+}
+91 = {
+	name = "dynn_Thyme"
+	culture = "gawleran"
+}
+92 = {
+	name = "dynn_Jones"
+	culture = "maralingan"
+}
+93 = {
+	name = "dynn_Lewis"
+	culture = "maralingan"
+}
+94 = {
+	name = "dynn_Hill"
+	culture = "maralingan"
+}
+95 = {
+	name = "dynn_Flynn"
+	culture = "nullarborite"
+}
+96 = {
+	name = "dynn_Mullins"
+	culture = "nullarborite"
+}
+97 = {
+	name = "dynn_Black"
+	culture = "wimmeran"
+}
+98 = {
+	name = "dynn_Orozco"
+	culture = "alpine"
+}
+99 = {
+	name = "dynn_Beck"
+	culture = "alpine"
+}
+100 = {
+	name = "dynn_Hinton"
+	culture = "murrayan"
+}
+101 = {
+	name = "dynn_Trenton"
+	culture = "peninsular"
+}
+102 = {
+	name = "dynn_Ioanicus"
+	culture = "peninsular"
+}
+103 = {
+	name = "dynn_Durst"
+	culture = "peninsular"
+}
+104 = {
+	name = "dynn_Kirk"
+	culture = "wimmeran"
+}
+105 = {
+	name = "dynn_Suttle"
+	culture = "peninsular"
+}
+106 = {
+	name = "dynn_Atkins"
+	culture = "welshbacker"
+}
+107 = {
+	name = "dynn_Buchanan"
+	culture = "welshbacker"
+}
+108 = {
+	name = "dynn_Little"
+	culture = "gippslander"
+}
+109 = {
+	name = "dynn_Sanders"
+	culture = "welshbacker"
+}
+110 = {
+	name = "dynn_Massey"
+	culture = "darlingian"
+}
+111 = {
+	name = "dynn_Leach"
+	culture = "welshbacker"
+}
+112 = {
+	name = "dynn_Anderson"
+	culture = "darlingian"
+}
+113 = {
+	name = "dynn_Roberts"
+	culture = "darlingian"
+}
+114 = {
+	name = "dynn_Bowman"
+	culture = "welshbacker"
+}
+115 = {
+	name = "dynn_Blackwell"
+	culture = "murrayan"
+}
+116 = {
+	name = "dynn_MacNeill"
+	culture = "alpine"
+}
+117 = {
+	name = "dynn_Zavala"
+	culture = "sydneyan"
+}
+118 = {
+	name = "dynn_Tran"
+	culture = "sydneyan"
+}
+119 = {
+	name = "dynn_Burnett"
+	culture = "gippslander"
+}
+120 = {
+	name = "dynn_Lloyd"
+	culture = "alpine"
+}
+121 = {
+	name = "dynn_Barajas"
+	culture = "sydneyan"
+}
+122 = {
+	name = "dynn_Mercat"
+	culture = "sydneyan"
+}
+123 = {
+	name = "dynn_Townsend"
+	culture = "darlingian"
+}
+124 = {
+	name = "dynn_Kelly"
+	culture = "new_english"
+}
+125 = {
+	name = "dynn_Millerton"
+	culture = "sydneyan"
+}
+126 = {
+	name = "dynn_Keith"
+	culture = "sydneyan"
+}
+127 = {
+	name = "dynn_Potter"
+	culture = "new_english"
+}
+128 = {
+	name = "dynn_Reynolds"
+	culture = "new_english"
+}
+129 = {
+	name = "dynn_Reese"
+	culture = "wimmeran"
+}
+130 = {
+	name = "dynn_White"
+	culture = "wimmeran"
+}
+131 = {
+	name = "dynn_Ingram"
+	culture = "alpine"
+}
+132 = {
+	name = "dynn_Barnes"
+	culture = "wimmeran"
+}
+133 = {
+	name = "dynn_Wiggins"
+	culture = "murrayan"
+}
+134 = {
+	name = "dynn_Lynch"
+	culture = "gippslander"
+}
+135 = {
+	name = "dynn_Gunning"
+	culture = "metropolitan"
+}
+136 = {
+	name = "dynn_Gurstead"
+	culture = "timberian"
+}
+137 = {
+	name = "dynn_Quilpie"
+	culture = "timberian"
+}
+138 = {
+	name = "dynn_Herendon"
+	culture = "timberian"
+}
+139 = {
+	name = "dynn_Henson"
+	culture = "wheatbelter"
+}
+140 = {
+	name = "dynn_Burgess"
+	culture = "lavertonian"
+}
+141 = {
+	name = "dynn_Motley"
+	culture = "lavertonian"
+}
+142 = {
+	name = "dynn_Exeter"
+	culture = "murchisonian"
+}
+143 = {
+	name = "dynn_Marlboro"
+	culture = "esperentian"
+}
+144 = {
+	name = "dynn_Bosworth"
+	culture = "esperentian"
+}
+145 = {
+	name = "dynn_Mohawk"
+	culture = "esperentian"
+}
+146 = {
+	name = "dynn_Turner"
+	culture = "esperentian"
+}
+147 = {
+	name = "dynn_Sleswig"
+	culture = "esperentian"
+}
+148 = {
+	name = "dynn_Chorizema"
+	culture = "metropolitan"
+}
+149 = {
+	name = "dynn_Garston"
+	culture = "esperentian"
+}
+150 = {
+	name = "dynn_Griffith"
+	culture = "tasmanian"
+}
+151 = {
+	name = "dynn_Numpterson"
+	culture = "tasmanian"
 }

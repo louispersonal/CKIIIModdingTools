@@ -1,0 +1,511 @@
+e_promitia = {
+	2660.1.1 = {
+		holder = 0
+		government = "feudal"
+	}
+}
+
+k_wimmera = {
+	2660.1.1 = {
+		holder = 130
+		government = "feudal"
+	}
+}
+
+d_limestone_coast = {
+	2660.1.1 = {
+		holder = 130
+		government = "feudal"
+	}
+}
+
+c_follett = {
+	2660.1.1 = {
+		holder = 130
+		government = "feudal"
+	}
+}
+
+c_normanby = {
+	2660.1.1 = {
+		holder = 130
+		government = "feudal"
+	}
+}
+
+c_villiers = {
+	2660.1.1 = {
+		holder = 130
+		government = "feudal"
+	}
+}
+
+c_mount_gambier = {
+	2660.1.1 = {
+		holder = 130
+		government = "feudal"
+	}
+}
+
+c_naracoorte = {
+	2660.1.1 = {
+		holder = 130
+		government = "feudal"
+	}
+}
+
+d_apollo = {
+	2660.1.1 = {
+		holder = 97
+		government = "feudal"
+	}
+}
+
+c_heytesbury = {
+	2660.1.1 = {
+		holder = 97
+		government = "feudal"
+	}
+}
+
+c_polwarth = {
+	2660.1.1 = {
+		holder = 97
+		government = "feudal"
+	}
+}
+
+c_grenville = {
+	2660.1.1 = {
+		holder = 97
+		government = "feudal"
+	}
+}
+
+c_hampden = {
+	2660.1.1 = {
+		holder = 97
+		government = "feudal"
+	}
+}
+
+d_grampians = {
+	2660.1.1 = {
+		holder = 130
+		government = "feudal"
+	}
+}
+
+c_ripon = {
+	2660.1.1 = {
+		holder = 130
+		government = "feudal"
+	}
+}
+
+c_dundas = {
+	2660.1.1 = {
+		holder = 130
+		government = "feudal"
+	}
+}
+
+c_lowan = {
+	2660.1.1 = {
+		holder = 130
+		government = "feudal"
+	}
+}
+
+c_borung = {
+	2660.1.1 = {
+		holder = 130
+		government = "feudal"
+	}
+}
+
+c_bordertown = {
+	2660.1.1 = {
+		holder = 130
+		government = "feudal"
+	}
+}
+
+d_goldplain = {
+	2660.1.1 = {
+		holder = 129
+		government = "feudal"
+	}
+}
+
+c_kara_kara = {
+	2660.1.1 = {
+		holder = 130
+		government = "feudal"
+	}
+}
+
+c_wedderburn = {
+	2660.1.1 = {
+		holder = 129
+		government = "feudal"
+	}
+}
+
+c_talbot = {
+	2660.1.1 = {
+		holder = 129
+		government = "feudal"
+	}
+}
+
+c_bendigo = {
+	2660.1.1 = {
+		holder = 129
+		government = "feudal"
+	}
+}
+
+k_adelaide = {
+	2660.1.1 = {
+		holder = 0
+		government = "feudal"
+	}
+}
+
+d_riverland = {
+	2660.1.1 = {
+		holder = 104
+		government = "feudal"
+	}
+}
+
+c_weeah = {
+	2660.1.1 = {
+		holder = 101
+		government = "feudal"
+	}
+}
+
+c_millewa = {
+	2660.1.1 = {
+		holder = 101
+		government = "feudal"
+	}
+}
+
+c_barmera = {
+	2660.1.1 = {
+		holder = 104
+		government = "feudal"
+	}
+}
+
+c_waikerie = {
+	2660.1.1 = {
+		holder = 104
+		government = "feudal"
+	}
+}
+
+c_burra = {
+	2660.1.1 = {
+		holder = 104
+		government = "feudal"
+	}
+}
+
+d_adelaide = {
+	2660.1.1 = {
+		holder = 102
+		government = "feudal"
+	}
+}
+
+c_murray_bridge = {
+	2660.1.1 = {
+		holder = 102
+		government = "feudal"
+	}
+}
+
+c_adelaide = {
+	2660.1.1 = {
+		holder = 102
+		government = "feudal"
+	}
+}
+
+c_adelaide_plains = {
+	2660.1.1 = {
+		holder = 102
+		government = "feudal"
+	}
+}
+
+c_ludunda = {
+	2660.1.1 = {
+		holder = 102
+		government = "feudal"
+	}
+}
+
+d_kangaroo_island = {
+	2660.1.1 = {
+		holder = 103
+		government = "feudal"
+	}
+}
+
+c_kingscote = {
+	2660.1.1 = {
+		holder = 103
+		government = "feudal"
+	}
+}
+
+c_rocky = {
+	2660.1.1 = {
+		holder = 103
+		government = "feudal"
+	}
+}
+
+d_spencer = {
+	2660.1.1 = {
+		holder = 0
+		government = "feudal"
+	}
+}
+
+c_port_pirie = {
+	2660.1.1 = {
+		holder = 102
+		government = "feudal"
+	}
+}
+
+c_moonta = {
+	2660.1.1 = {
+		holder = 102
+		government = "feudal"
+	}
+}
+
+c_yorketown = {
+	2660.1.1 = {
+		holder = 102
+		government = "feudal"
+	}
+}
+
+k_flinders = {
+	2660.1.1 = {
+		holder = 0
+		government = "feudal"
+	}
+}
+
+d_evlyn = {
+	2660.1.1 = {
+		holder = 0
+		government = "feudal"
+	}
+}
+
+c_poole = {
+	2660.1.1 = {
+		holder = 114
+		government = "feudal"
+	}
+}
+
+c_evlyn = {
+	2660.1.1 = {
+		holder = 111
+		government = "feudal"
+	}
+}
+
+c_farnell = {
+	2660.1.1 = {
+		holder = 111
+		government = "feudal"
+	}
+}
+
+c_mootwingee = {
+	2660.1.1 = {
+		holder = 111
+		government = "feudal"
+	}
+}
+
+c_mulyungarie = {
+	2660.1.1 = {
+		holder = 109
+		government = "feudal"
+	}
+}
+
+c_callabonna = {
+	2660.1.1 = {
+		holder = 109
+		government = "feudal"
+	}
+}
+
+d_filnders_ranges = {
+	2660.1.1 = {
+		holder = 105
+		government = "feudal"
+	}
+}
+
+c_jamestown = {
+	2660.1.1 = {
+		holder = 105
+		government = "feudal"
+	}
+}
+
+c_peterborough = {
+	2660.1.1 = {
+		holder = 105
+		government = "feudal"
+	}
+}
+
+c_boolero = {
+	2660.1.1 = {
+		holder = 105
+		government = "feudal"
+	}
+}
+
+c_quorn = {
+	2660.1.1 = {
+		holder = 105
+		government = "feudal"
+	}
+}
+
+c_baratta = {
+	2660.1.1 = {
+		holder = 105
+		government = "feudal"
+	}
+}
+
+d_torrens = {
+	2660.1.1 = {
+		holder = 106
+		government = "feudal"
+	}
+}
+
+c_leigh_creek = {
+	2660.1.1 = {
+		holder = 106
+		government = "feudal"
+	}
+}
+
+c_marree = {
+	2660.1.1 = {
+		holder = 106
+		government = "feudal"
+	}
+}
+
+c_vulkathunha = {
+	2660.1.1 = {
+		holder = 106
+		government = "feudal"
+	}
+}
+
+d_flinders_ranges = {
+	2660.1.1 = {
+		holder = 89
+		government = "feudal"
+	}
+}
+
+c_port_augusta = {
+	2660.1.1 = {
+		holder = 89
+		government = "feudal"
+	}
+}
+
+d_frome = {
+	2660.1.1 = {
+		holder = 109
+		government = "feudal"
+	}
+}
+
+c_ikara = {
+	2660.1.1 = {
+		holder = 109
+		government = "feudal"
+	}
+}
+
+c_yunta = {
+	2660.1.1 = {
+		holder = 109
+		government = "feudal"
+	}
+}
+
+c_cockburn = {
+	2660.1.1 = {
+		holder = 110
+		government = "feudal"
+	}
+}
+
+c_parnaroo = {
+	2660.1.1 = {
+		holder = 104
+		government = "feudal"
+	}
+}
+
+c_danggali = {
+	2660.1.1 = {
+		holder = 104
+		government = "feudal"
+	}
+}
+
+d_strzelecki = {
+	2660.1.1 = {
+		holder = 0
+		government = "feudal"
+	}
+}
+
+c_bollards_lagoon = {
+	2660.1.1 = {
+		holder = 107
+		government = "feudal"
+	}
+}
+
+c_strzelecki = {
+	2660.1.1 = {
+		holder = 107
+		government = "feudal"
+	}
+}
+
+c_tirari_desert = {
+	2660.1.1 = {
+		holder = 106
+		government = "feudal"
+	}
+}
+

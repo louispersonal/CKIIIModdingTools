@@ -1,0 +1,469 @@
+e_reef = {
+	2660.1.1 = {
+		holder = 0
+		government = "feudal"
+	}
+}
+
+k_york = {
+	2660.1.1 = {
+		holder = 0
+		government = "feudal"
+	}
+}
+
+d_yorktip = {
+	2660.1.1 = {
+		holder = 77
+		government = "feudal"
+	}
+}
+
+c_torres_strait = {
+	2660.1.1 = {
+		holder = 77
+		government = "feudal"
+	}
+}
+
+c_shelburne = {
+	2660.1.1 = {
+		holder = 77
+		government = "feudal"
+	}
+}
+
+c_mapoon = {
+	2660.1.1 = {
+		holder = 77
+		government = "feudal"
+	}
+}
+
+d_wik = {
+	2660.1.1 = {
+		holder = 0
+		government = "feudal"
+	}
+}
+
+c_drumduff = {
+	2660.1.1 = {
+		holder = 87
+		government = "feudal"
+	}
+}
+
+c_kowanyama = {
+	2660.1.1 = {
+		holder = 87
+		government = "feudal"
+	}
+}
+
+c_pormpuraaw = {
+	2660.1.1 = {
+		holder = 76
+		government = "feudal"
+	}
+}
+
+d_mungkan_kandju = {
+	2660.1.1 = {
+		holder = 75
+		government = "feudal"
+	}
+}
+
+c_archer_river = {
+	2660.1.1 = {
+		holder = 75
+		government = "feudal"
+	}
+}
+
+c_aurukun = {
+	2660.1.1 = {
+		holder = 76
+		government = "feudal"
+	}
+}
+
+c_lockhart_river = {
+	2660.1.1 = {
+		holder = 75
+		government = "feudal"
+	}
+}
+
+c_weipa = {
+	2660.1.1 = {
+		holder = 76
+		government = "feudal"
+	}
+}
+
+k_tropicania = {
+	2660.1.1 = {
+		holder = 0
+		government = "feudal"
+	}
+}
+
+d_clermont = {
+	2660.1.1 = {
+		holder = 74
+		government = "feudal"
+	}
+}
+
+c_alpha = {
+	2660.1.1 = {
+		holder = 74
+		government = "feudal"
+	}
+}
+
+c_surbiton = {
+	2660.1.1 = {
+		holder = 74
+		government = "feudal"
+	}
+}
+
+c_clermont = {
+	2660.1.1 = {
+		holder = 74
+		government = "feudal"
+	}
+}
+
+d_mackay = {
+	2660.1.1 = {
+		holder = 74
+		government = "feudal"
+	}
+}
+
+c_carmila = {
+	2660.1.1 = {
+		holder = 74
+		government = "feudal"
+	}
+}
+
+c_dysart = {
+	2660.1.1 = {
+		holder = 74
+		government = "feudal"
+	}
+}
+
+c_moranbah = {
+	2660.1.1 = {
+		holder = 74
+		government = "feudal"
+	}
+}
+
+c_mackay = {
+	2660.1.1 = {
+		holder = 74
+		government = "feudal"
+	}
+}
+
+c_glenden = {
+	2660.1.1 = {
+		holder = 84
+		government = "feudal"
+	}
+}
+
+d_belyando = {
+	2660.1.1 = {
+		holder = 74
+		government = "feudal"
+	}
+}
+
+c_mount_coolon = {
+	2660.1.1 = {
+		holder = 74
+		government = "feudal"
+	}
+}
+
+c_willandspey = {
+	2660.1.1 = {
+		holder = 74
+		government = "feudal"
+	}
+}
+
+c_natal_downs = {
+	2660.1.1 = {
+		holder = 83
+		government = "feudal"
+	}
+}
+
+d_charters = {
+	2660.1.1 = {
+		holder = 85
+		government = "feudal"
+	}
+}
+
+c_corea_plains = {
+	2660.1.1 = {
+		holder = 85
+		government = "feudal"
+	}
+}
+
+c_charters_towers = {
+	2660.1.1 = {
+		holder = 85
+		government = "feudal"
+	}
+}
+
+c_pentland = {
+	2660.1.1 = {
+		holder = 85
+		government = "feudal"
+	}
+}
+
+c_basalt = {
+	2660.1.1 = {
+		holder = 87
+		government = "feudal"
+	}
+}
+
+d_brigalow = {
+	2660.1.1 = {
+		holder = 84
+		government = "feudal"
+	}
+}
+
+c_dalrymple = {
+	2660.1.1 = {
+		holder = 84
+		government = "feudal"
+	}
+}
+
+c_newlands = {
+	2660.1.1 = {
+		holder = 84
+		government = "feudal"
+	}
+}
+
+c_bowen = {
+	2660.1.1 = {
+		holder = 84
+		government = "feudal"
+	}
+}
+
+c_collinsville = {
+	2660.1.1 = {
+		holder = 84
+		government = "feudal"
+	}
+}
+
+c_ayr = {
+	2660.1.1 = {
+		holder = 84
+		government = "feudal"
+	}
+}
+
+d_paluma = {
+	2660.1.1 = {
+		holder = 87
+		government = "feudal"
+	}
+}
+
+c_townsville = {
+	2660.1.1 = {
+		holder = 87
+		government = "feudal"
+	}
+}
+
+c_greenvale = {
+	2660.1.1 = {
+		holder = 87
+		government = "feudal"
+	}
+}
+
+c_ingham = {
+	2660.1.1 = {
+		holder = 87
+		government = "feudal"
+	}
+}
+
+c_cardwell = {
+	2660.1.1 = {
+		holder = 87
+		government = "feudal"
+	}
+}
+
+k_kaenz = {
+	2660.1.1 = {
+		holder = 87
+		government = "feudal"
+	}
+}
+
+d_einaslynd = {
+	2660.1.1 = {
+		holder = 87
+		government = "feudal"
+	}
+}
+
+c_undara = {
+	2660.1.1 = {
+		holder = 87
+		government = "feudal"
+	}
+}
+
+c_georgetown = {
+	2660.1.1 = {
+		holder = 85
+		government = "feudal"
+	}
+}
+
+c_bolwarra = {
+	2660.1.1 = {
+		holder = 87
+		government = "feudal"
+	}
+}
+
+d_cairnlands = {
+	2660.1.1 = {
+		holder = 87
+		government = "feudal"
+	}
+}
+
+c_innisfail = {
+	2660.1.1 = {
+		holder = 87
+		government = "feudal"
+	}
+}
+
+c_cairns = {
+	2660.1.1 = {
+		holder = 87
+		government = "feudal"
+	}
+}
+
+c_atherton = {
+	2660.1.1 = {
+		holder = 87
+		government = "feudal"
+	}
+}
+
+c_mareeba = {
+	2660.1.1 = {
+		holder = 87
+		government = "feudal"
+	}
+}
+
+d_palmeronia = {
+	2660.1.1 = {
+		holder = 87
+		government = "feudal"
+	}
+}
+
+c_hurricane = {
+	2660.1.1 = {
+		holder = 87
+		government = "feudal"
+	}
+}
+
+c_port_douglas = {
+	2660.1.1 = {
+		holder = 87
+		government = "feudal"
+	}
+}
+
+c_palmer = {
+	2660.1.1 = {
+		holder = 87
+		government = "feudal"
+	}
+}
+
+c_killarney = {
+	2660.1.1 = {
+		holder = 87
+		government = "feudal"
+	}
+}
+
+d_reeflands = {
+	2660.1.1 = {
+		holder = 87
+		government = "feudal"
+	}
+}
+
+c_dixie = {
+	2660.1.1 = {
+		holder = 87
+		government = "feudal"
+	}
+}
+
+c_lakefield = {
+	2660.1.1 = {
+		holder = 87
+		government = "feudal"
+	}
+}
+
+c_cape_melville = {
+	2660.1.1 = {
+		holder = 87
+		government = "feudal"
+	}
+}
+
+c_cooktown = {
+	2660.1.1 = {
+		holder = 87
+		government = "feudal"
+	}
+}
+
+c_coen = {
+	2660.1.1 = {
+		holder = 75
+		government = "feudal"
+	}
+}
+

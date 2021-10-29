@@ -1,20 +1,152 @@
-character number,name,dynasty,religion,character culture,dynasty culture,textured emblem,background,bg color 1,bg color 2,bg color 3,icon,icon color 1,icon color 2,icon color 3,female,birth
-1,Dylan,Franklin,tazism,tasmanian,tasmanian,x,x,x,x,x,x,x,x,x,no,2640
-2,John,Franklin,tersian,wimmeran,wimmeran,x,x,x,x,x,x,x,x,x,no,2640
-3,Thomas,Franklin,tersian,phillipian,phillipian,x,x,x,x,x,x,x,x,x,no,2640
-4,Timothy,de_Port,tersian,phillipian,phillipian,x,x,x,x,x,x,x,x,x,no,2640
-5,Bertrand,Davis,tersian,wimmeran,wimmeran,x,x,x,x,x,x,x,x,x,no,2640
-6,Tyler,Swanson,tersian,phillipian,phillipian,x,x,x,x,x,x,x,x,x,no,2640
-7,James,Porter,tersian,phillipian,phillipian,x,x,x,x,x,x,x,x,x,no,2640
-8,Parker,Wrench,tersian,phillipian,phillipian,x,x,x,x,x,x,x,x,x,no,2640
-9,Christopher,Tipps,tersian,alpine,alpine,x,x,x,x,x,x,x,x,x,no,2640
-10,Surly,McGuire,tersian,illawarran,illawarran,x,x,x,x,x,x,x,x,x,no,2640
-11,Jim,Perkins,tersian,new_english,new_english,x,x,x,x,x,x,x,x,x,no,2640
-12,Criggle,Traeger,tersian,murrawarrian,murrawarrian,x,x,x,x,x,x,x,x,x,no,2640
-13,Eugene,Knope,tersian,wamboolian,wamboolian,x,x,x,x,x,x,x,x,x,no,2640
-14,Hunkle,Wyatt,tersian,wamboolian,wamboolian,x,x,x,x,x,x,x,x,x,no,2640
-15,Dilbert,Haverford,tersian,baakan,baakan,x,x,x,x,x,x,x,x,x,no,2640
-16,Nell,Dwyer,tersian,aussie,aussie,x,x,x,x,x,x,x,x,x,no,2640
-17,Gary,Doofus,tersian,aussie,aussie,x,x,x,x,x,x,x,x,x,no,2640
-18,Jeremy,Ample,tersian,aussie,aussie,x,x,x,x,x,x,x,x,x,no,2640
-19,Alexander,Pearseed,tersian,aussie,aussie,x,x,x,x,x,x,x,x,x,no,2640
+character number,name,dynasty,religion,character culture,dynasty culture,textured emblem,background,bg color 1,bg color 2,bg color 3,icon,icon color 1,icon color 2,icon color 3,female,birth,notes
+1,Rowland,Carter,ephemerist,maralingan,maralingan,x,x,x,x,x,x,x,x,x,no,2646,duke of ephemeral rivers
+2,Arethape,Apapatye,jukurrpa,arrernte,arrernte,x,x,x,x,x,x,x,x,x,no,2646,duke of andegerebenha
+3,Itethe,Antulye,jukurrpa,ngarna,ngarna,x,x,x,x,x,x,x,x,x,no,2641,duke of barkly tableland
+4,Amulte,Yalke,jukurrpa,ngarna,ngarna,x,x,x,x,x,x,x,x,x,no,2637,count of alpurrurulam
+5,Wurnkurli,Ihukan,jukurrpa,yanyuwa,yanyuwa,x,x,x,x,x,x,x,x,x,no,2633,duke of warumungu
+6,Ingwethnele,Yartyart,jukurrpa,ngumpin_yapa,ngumpin_yapa,x,x,x,x,x,x,x,x,x,no,2645,duke of tanami pass
+7,Uthnaye,Kwatye,jukurrpa,ngarna,ngarna,x,x,x,x,x,x,x,x,x,no,2642,duke of wakaya
+8,Yanjarra,Kuranthulkuranthul,jukurrpa,yanyuwa,yanyuwa,x,x,x,x,x,x,x,x,x,no,2631,king of yanyuwa
+9,Gadji,Mankalka,yijan,garrwa,garrwa,x,x,x,x,x,x,x,x,x,no,2628,duke of doomadgee
+10,Dhurrmuk,Gayka,jukurrpa,wardaman,wardaman,x,x,x,x,x,x,x,x,x,no,2627,duke of warlmanpa
+11,Yukajimaji,Bunbunda,jukurrpa,yanyuwa,yanyuwa,x,x,x,x,x,x,x,x,x,no,2638,duke of tanumbirina
+12,Naatika,Irlpmane,tjina,arrernte,arrernte,x,x,x,x,x,x,x,x,x,yes,2635,duke of pitjantjatjara
+13,Wungunya,Arra,yijan,yanyuwa,yanyuwa,x,x,x,x,x,x,x,x,x,no,2631,duke of binbinga garawa
+14,Nyin,Djirrdjirr,yijan,yolngu,yolngu,x,x,x,x,x,x,x,x,x,no,2647,duke of alawa
+15,Shelton,Mills,yijan,darwinian,darwinian,x,x,x,x,x,x,x,x,x,no,2626,duke of sturt
+16,Mandimirr,Munwurkburk,yijan,yolngu,yolngu,x,x,x,x,x,x,x,x,x,no,2641,duke of dangbon
+17,Bryce,Daley,canaanitic,darwinian,darwinian,x,x,x,x,x,x,x,x,x,no,2629,duke of darwin
+18,Wirriwirri,Wanybanga,yijan,yolngu,yolngu,x,x,x,x,x,x,x,x,x,no,2628,duke of arnhem
+19,Garayurru,Lanydji,yijan,yolngu,yolngu,x,x,x,x,x,x,x,x,x,no,2645,duke of yolngu
+20,Rurruminy,Marikanga,yijan,yolngu,yolngu,x,x,x,x,x,x,x,x,x,no,2645,count of angurugu
+21,3ama,Yunipinu,yijan,tiwi,tiwi,x,x,x,x,x,x,x,x,x,no,2644,count of tiwi
+22,Ngkwerne,Utyiwerte,jukurrpa,arrernte,arrernte,x,x,x,x,x,x,x,x,x,no,2634,duke of luritja
+23,Elden,Morrow,canaanitic,central,central,x,x,x,x,x,x,x,x,x,no,2645,count of tjoritja
+24,Ulhelke,Manemane,jukurrpa,arrernte,arrernte,x,x,x,x,x,x,x,x,x,no,2646,count of pmere nyente
+25,Phil,Werner,canaanitic,central,central,x,x,x,x,x,x,x,x,x,no,2630,duke of alicia
+26,Naatiji,Langkwe,tjina,arrernte,arrernte,x,x,x,x,x,x,x,x,x,no,2636,count of walunguru
+27,Thipe,Ntarne,jukurrpa,arrernte,arrernte,x,x,x,x,x,x,x,x,x,no,2634,king of arandia
+28,Arlte,Mangarte,jukurrpa,ngumpin_yapa,ngumpin_yapa,x,x,x,x,x,x,x,x,x,no,2642,count of yuelamu
+29,Sylvia,Redfoot,paroxyst,lavertonian,lavertonian,x,x,x,x,x,x,x,x,x,yes,2629,king of goldoria
+30,Djirreka,Bodo,tjina,barladj,barladj,x,x,x,x,x,x,x,x,x,yes,2633,count of relyotoorraarlo
+31,Liyo,Baarnaap,tjina,barladj,barladj,x,x,x,x,x,x,x,x,x,no,2635,duke of rer
+32,Djika,Niwi,tjina,bowanga,bowanga,x,x,x,x,x,x,x,x,x,yes,2645,king of ngirrol
+33,Miyaa,Dalebi,tjina,barladj,barladj,x,x,x,x,x,x,x,x,x,yes,2643,count of yonyi
+34,Oliwia,Maawoongo,tjina,barladj,barladj,x,x,x,x,x,x,x,x,x,yes,2630,count of  roorlatetooro
+35,Koyaalyootji,Djat,tjina,bowanga,bowanga,x,x,x,x,x,x,x,x,x,no,2629,duke of ngirliw
+36,Waraatji,Djorlo,tjina,bowanga,bowanga,x,x,x,x,x,x,x,x,x,no,2641,count of ngarngaa
+37,Tjaga,Matjoow,tjina,nyarranga,nyarranga,x,x,x,x,x,x,x,x,x,no,2631,king of kenetjaa
+38,Djenbanyotji,Yadjitji,tjina,bowanga,bowanga,x,x,x,x,x,x,x,x,x,yes,2629,count of nap
+39,Looka,Ngongama,tjina,bowanga,bowanga,x,x,x,x,x,x,x,x,x,no,2642,count of niyitaanyookaa
+40,Kitji,Kitaake,tjina,kaayangi,kaayangi,x,x,x,x,x,x,x,x,x,no,2633,count of mayotje
+41,Mala,Ninyengoo,tjina,nyarranga,nyarranga,x,x,x,x,x,x,x,x,x,yes,2639,duke of nyedook
+42,Nyaardo,Bordoki,tjina,nyarranga,nyarranga,x,x,x,x,x,x,x,x,x,no,2635,count of yodjam
+43,Niti,Yaardoony,tjina,nyarranga,nyarranga,x,x,x,x,x,x,x,x,x,no,2636,king of kany
+44,Noodjoki,Bernoodjo,tjina,nyarranga,nyarranga,x,x,x,x,x,x,x,x,x,yes,2632,duke of wootjernong
+45,Dongo,Yoordobo,tjina,nyarranga,nyarranga,x,x,x,x,x,x,x,x,x,no,2630,duke of yertaangimo
+46,Nowa,Yapanga,tjina,kaayangi,kaayangi,x,x,x,x,x,x,x,x,x,no,2629,count ngoorgogjoodalya
+47,Wirtotji,Naali,tjina,barladj,barladj,x,x,x,x,x,x,x,x,x,yes,2644,king of danoort
+48,Kimarnatji,Yooma,tjina,kaayangi,kaayangi,x,x,x,x,x,x,x,x,x,no,2638,count of detatjopaarle
+49,Gagama,Nyootjep,tjina,kaayangi,kaayangi,x,x,x,x,x,x,x,x,x,yes,2642,count of daawordibe
+50,Djiyengaa,Mirrik,tjina,bowanga,bowanga,x,x,x,x,x,x,x,x,x,yes,2626,duke of rela
+51,Loklin,Bawope,tjina,bowanga,bowanga,x,x,x,x,x,x,x,x,x,no,2636,duke of bewelyalyadje
+52,Rooyaarootji,Dalyok,tjina,barladj,barladj,x,x,x,x,x,x,x,x,x,no,2629,count of boopoo
+53,Kabalbamoya,Birrijinja,lalai,wunambal,wunambal,x,x,x,x,x,x,x,x,x,no,2633,king of kimberley
+54,Karnmernmoya,Ngardugarda,lalai,wunambal,wunambal,x,x,x,x,x,x,x,x,x,no,2638,duke of prince regent
+55,Jirrkalimamoya,Jadablaai,lalai,worrorran,worrorran,x,x,x,x,x,x,x,x,x,no,2627,duke of leopold ranges
+56,Joornimoya,Bareya,lalai,worrorran,worrorran,x,x,x,x,x,x,x,x,x,no,2643,count of synnot
+57,Dhonyin,Maymuru,lalai,jarrakan,jarrakan,x,x,x,x,x,x,x,x,x,no,2629,duke of margaret
+58,Kulumoya,Anjoldirdaka,lalai,wunambal,wunambal,x,x,x,x,x,x,x,x,x,no,2632,count of narrie range
+59,Maa2ga,Gurruwiwi,lalai,jarrakan,jarrakan,x,x,x,x,x,x,x,x,x,no,2628,duke of worla
+60,Stewart,Bush,westlican,murchisonian,murchisonian,x,x,x,x,x,x,x,x,x,no,2629,duke of yamatji
+61,Mary,Dingo,tjina,pilbaran,pilbaran,x,x,x,x,x,x,x,x,x,yes,2646,count of dingo
+62,Jason,Schwartz,salvationist,pilbaran,pilbaran,x,x,x,x,x,x,x,x,x,no,2630,duke of talandji mardie
+63,Isabella,Shudders,vocationist,pilbaran,pilbaran,x,x,x,x,x,x,x,x,x,yes,2630,duke of ngarluma
+64,Helen,Mulga,tjina,pilbaran,pilbaran,x,x,x,x,x,x,x,x,x,yes,2635,duke of ophthalmia
+65,Quinton,Hardtack,tjina,pilbaran,pilbaran,x,x,x,x,x,x,x,x,x,no,2631,duke of sandy gates
+66,Thomas,Spinegrass,westlican,murchisonian,murchisonian,x,x,x,x,x,x,x,x,x,no,2646,duke of weld
+67,Charles,Sandel,westlican,murchisonian,murchisonian,x,x,x,x,x,x,x,x,x,no,2648,count of walgi gunya
+68,Dane,Bride,westlican,murchisonian,murchisonian,x,x,x,x,x,x,x,x,x,no,2636,duke of emu
+69,,Neveah,salvationist,gascoynian,gascoynian,x,x,x,x,x,x,x,x,x,no,2648,count of wooramel
+70,Sophie,Jackal,vocationist,pilbaran,pilbaran,x,x,x,x,x,x,x,x,x,yes,2647,duke of lyonia
+71,Cleo,Goanna,vocationist,gascoynian,gascoynian,x,x,x,x,x,x,x,x,x,yes,2629,count of mount augustus
+72,Marjorie,Festive,vocationist,gascoynian,gascoynian,x,x,x,x,x,x,x,x,x,yes,2627,duke of collier range
+73,,Zachary,salvationist,gascoynian,gascoynian,x,x,x,x,x,x,x,x,x,no,2639,duke of the bulge
+74,Samson,Macon,tersian,gold_coastian,gold_coastian,x,x,x,x,x,x,x,x,x,no,2636,emperor of maconia
+75,Dex,Snaptooth,dougist,yorker,yorker,x,x,x,x,x,x,x,x,x,no,2629,duke of mungkan kandju
+76,Ger,Dizzy,dougist,yorker,yorker,x,x,x,x,x,x,x,x,x,no,2638,count of weipa
+77,Mack,Turtle,dougist,yorker,yorker,x,x,x,x,x,x,x,x,x,no,2639,duke of yorktip
+78,Mark,Dandolo,arenist,savannan,savannan,x,x,x,x,x,x,x,x,x,no,2632,duke of kunjen
+79,Ruri,Rimi,yijan,garrwa,garrwa,x,x,x,x,x,x,x,x,x,no,2643,count of karumba
+80,Buster,Harris,devotionist,mulgan,mulgan,x,x,x,x,x,x,x,x,x,no,2641,duke of blackall tambo
+81,Kwepalpale,Utyingale,jukurrpa,arrernte,arrernte,x,x,x,x,x,x,x,x,x,no,2647,duke of munga thirri
+82,Inngerre,Irrtyarte,jukurrpa,ngarna,ngarna,x,x,x,x,x,x,x,x,x,no,2626,duke of boulia
+83,Chaz,Tyson,devotionist,downian,downian,x,x,x,x,x,x,x,x,x,no,2630,duke of dryland
+84,George,Price,tersian,sobelter,sobelter,x,x,x,x,x,x,x,x,x,no,2634,duke of brigalow
+85,Turner,West,tersian,nobelter,nobelter,x,x,x,x,x,x,x,x,x,no,2645,king of downlands
+86,Stephen,Grasseater,arenist,isan,isan,x,x,x,x,x,x,x,x,x,no,2645,king of isa
+87,Strai,Poisonback,tersian,corallite,corallite,x,x,x,x,x,x,x,x,x,no,2640,king of kaenz
+88,Lucius,Germaine,tersian,peninsular,peninsular,x,x,x,x,x,x,x,x,x,no,2644,duke of eyre peninsula
+89,Art,Larsen,tersian,welshbacker,welshbacker,x,x,x,x,x,x,x,x,x,no,2639,duke of flinders ranges
+90,Peter,Gay,ecumenist,nullarborite,nullarborite,x,x,x,x,x,x,x,x,x,no,2647,duke of gawler
+91,John,Thyme,ephemerist,gawleran,gawleran,x,x,x,x,x,x,x,x,x,no,2644,duke of saltpan
+92,Baz,Jones,ecumenist,maralingan,maralingan,x,x,x,x,x,x,x,x,x,no,2647,duke of ceduna
+93,Larry,Lewis,ecumenist,maralingan,maralingan,x,x,x,x,x,x,x,x,x,no,2638,count of west yellabinna
+94,Declan,Hill,ephemerist,maralingan,maralingan,x,x,x,x,x,x,x,x,x,no,2646,duke of maralinga
+95,Shale,Flynn,ecumenist,nullarborite,nullarborite,x,x,x,x,x,x,x,x,x,no,2631,king of nullarbor
+96,Patrick,Mullins,paroxyst,nullarborite,nullarborite,x,x,x,x,x,x,x,x,x,yes,2626,duke of nullarbor plain
+97,Scott,Black,tersian,wimmeran,wimmeran,x,x,x,x,x,x,x,x,x,no,2631,duke of apollo
+98,David,Orozco,tersian,alpine,alpine,x,x,x,x,x,x,x,x,x,no,2641,count of goulburn
+99,Daniel,Beck,tersian,alpine,alpine,x,x,x,x,x,x,x,x,x,no,2641,count of king
+100,Jim,Hinton,tersian,murrayan,murrayan,x,x,x,x,x,x,x,x,x,no,2634,king of murrayvale
+101,Robert,Trenton,tersian,peninsular,peninsular,x,x,x,x,x,x,x,x,x,no,2641,count of wentworth and tersian pope
+102,Quintus,Ioanicus,tersian,peninsular,peninsular,x,x,x,x,x,x,x,x,x,no,2641,duke of adelaide
+103,Simon,Durst,tersian,peninsular,peninsular,x,x,x,x,x,x,x,x,x,no,2632,duke of kangaroo island
+104,Neville,Kirk,tersian,wimmeran,wimmeran,x,x,x,x,x,x,x,x,x,no,2645,duke of riverland
+105,Antonius,Suttle,tersian,peninsular,peninsular,x,x,x,x,x,x,x,x,x,no,2647,duke of filnders ranges
+106,Cherry,Atkins,ephemerist,welshbacker,welshbacker,x,x,x,x,x,x,x,x,x,no,2642,duke of torrens
+107,Joshua,Buchanan,arenist,welshbacker,welshbacker,x,x,x,x,x,x,x,x,x,no,2644,duke of stony desert
+108,Mark,Little,tersian,gippslander,gippslander,x,x,x,x,x,x,x,x,x,no,2631,duke of yarra valley
+109,Bernard,Sanders,devotionist,welshbacker,welshbacker,x,x,x,x,x,x,x,x,x,no,2630,duke of frome
+110,Marcel,Massey,tersian,darlingian,darlingian,x,x,x,x,x,x,x,x,x,no,2632,duke of tandora
+111,Henry,Leach,arenist,welshbacker,welshbacker,x,x,x,x,x,x,x,x,x,no,2645,count of mootwingee
+112,Maurice,Anderson,tersian,darlingian,darlingian,x,x,x,x,x,x,x,x,x,no,2641,duke of killara
+113,Sheldon,Roberts,tersian,darlingian,darlingian,x,x,x,x,x,x,x,x,x,no,2644,duke of mouramba
+114,Harry,Bowman,arenist,welshbacker,welshbacker,x,x,x,x,x,x,x,x,x,no,2631,king of desertina
+115,Tony,Blackwell,tersian,murrayan,murrayan,x,x,x,x,x,x,x,x,x,no,2642,duke of hilltops
+116,Michael,MacNeill,tersian,alpine,alpine,x,x,x,x,x,x,x,x,x,no,2633,count of roxburgh
+117,Tony,Zavala,tersian,sydneyan,sydneyan,x,x,x,x,x,x,x,x,x,no,2642,count of wollongong
+118,Duong,Tran,tersian,sydneyan,sydneyan,x,x,x,x,x,x,x,x,x,no,2636,count of sydney
+119,Connor,Burnett,tersian,gippslander,gippslander,x,x,x,x,x,x,x,x,x,no,2645,duke of monash
+120,Thomas,Lloyd,capital_church,alpine,alpine,x,x,x,x,x,x,x,x,x,no,2628,duke of blue mountains
+121,Michael,Barajas,tersian,sydneyan,sydneyan,x,x,x,x,x,x,x,x,x,no,2630,count of newcastle
+122,Ty,Mercat,tersian,sydneyan,sydneyan,x,x,x,x,x,x,x,x,x,no,2633,duke of hunter
+123,Snirling,Townsend,tersian,darlingian,darlingian,x,x,x,x,x,x,x,x,x,no,2630,king of dubbo
+124,Matthew,Kelly,tersian,new_english,new_english,x,x,x,x,x,x,x,x,x,no,2641,duke of tamworth
+125,Oliver,Millerton,tersian,sydneyan,sydneyan,x,x,x,x,x,x,x,x,x,no,2635,count of port macquarie
+126,Noah,Keith,tersian,sydneyan,sydneyan,x,x,x,x,x,x,x,x,x,no,2628,count of nambucca heads
+127,Ronald,Potter,tersian,new_english,new_english,x,x,x,x,x,x,x,x,x,no,2633,duke of new england tablelands
+128,Emu,Reynolds,tersian,new_english,new_english,x,x,x,x,x,x,x,x,x,no,2647,duke of north west slopes
+129,Fred,Reese,tersian,wimmeran,wimmeran,x,x,x,x,x,x,x,x,x,no,2642,duke of goldplain
+130,Vernon,White,tersian,wimmeran,wimmeran,x,x,x,x,x,x,x,x,x,no,2626,king of wimmera
+131,Timothy,Ingram,capital_church,alpine,alpine,x,x,x,x,x,x,x,x,x,no,2642,duke of capital territory
+132,Paisley,Barnes,tersian,wimmeran,wimmeran,x,x,x,x,x,x,x,x,x,no,2634,duke of gippsland
+133,Mark,Wiggins,tersian,murrayan,murrayan,x,x,x,x,x,x,x,x,x,no,2639,count of wagga wagga
+134,Joseph,Lynch,tersian,gippslander,gippslander,x,x,x,x,x,x,x,x,x,no,2631,count of nowra
+135,Gibson,Gunning,westlican,metropolitan,metropolitan,x,x,x,x,x,x,x,x,x,no,2637,duke of geographe
+136,Adam,Gurstead,tjina,timberian,timberian,x,x,x,x,x,x,x,x,x,no,2629,duke of timberland
+137,Mango,Quilpie,paroxyst,timberian,timberian,x,x,x,x,x,x,x,x,x,yes,2632,count of queen victoria spring
+138,Teresa,Herendon,paroxyst,timberian,timberian,x,x,x,x,x,x,x,x,x,yes,2642,duke of kalgoorlie
+139,Eugene,Henson,westlican,wheatbelter,wheatbelter,x,x,x,x,x,x,x,x,x,no,2642,duke of langustine
+140,Tike,Burgess,westlican,lavertonian,lavertonian,x,x,x,x,x,x,x,x,x,no,2644,duke of karroun
+141,Ian,Motley,westlican,lavertonian,lavertonian,x,x,x,x,x,x,x,x,x,no,2640,count of yalgoo
+142,Colin,Exeter,westlican,murchisonian,murchisonian,x,x,x,x,x,x,x,x,x,no,2630,duke of zuytdorp
+143,Charlie,Marlboro,westlican,esperentian,esperentian,x,x,x,x,x,x,x,x,x,no,2640,duke of hopetoun
+144,Liam,Bosworth,westlican,esperentian,esperentian,x,x,x,x,x,x,x,x,x,no,2644,count of ravensthorpe
+145,Hudson,Mohawk,westlican,esperentian,esperentian,x,x,x,x,x,x,x,x,x,no,2634,duke of recherche
+146,Archie,Turner,westlican,esperentian,esperentian,x,x,x,x,x,x,x,x,x,no,2630,duke of cape arid
+147,Oliver,Sleswig,westlican,esperentian,esperentian,x,x,x,x,x,x,x,x,x,no,2640,count of grass patch
+148,Jehoram,Chorizema,westlican,metropolitan,metropolitan,x,x,x,x,x,x,x,x,x,no,2631,emperor of perthia
+149,Noah,Garston,westlican,esperentian,esperentian,x,x,x,x,x,x,x,x,x,no,2642,duke of grass patch
+150,Hansley,Griffith,tersian,tasmanian,tasmanian,x,x,x,x,x,x,x,x,x,no,2644,king of tasmania
+151,Numpty,Numpterson,tersian,tasmanian,tasmanian,x,x,x,x,x,x,x,x,x,no,2644,empty

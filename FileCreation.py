@@ -698,7 +698,7 @@ def write_title_history(landed_titles):
     f = open("titles/k_all.txt", "w")
 
     for empire in landed_titles.empires:
-        if not empire.holder == "none":
+        if not empire.holder == 0:
             f.write(empire.name + " = {\n\t" + str(empire.year) + ".1.1 = {\n\t\tholder = "
                     + str(empire.holder) + "\n")
             if not empire.liege == "none":
@@ -708,7 +708,7 @@ def write_title_history(landed_titles):
             f.write("\t}\n}\n\n")
 
         for kingdom in empire.kingdoms:
-            if not kingdom.holder == "none":
+            if not kingdom.holder == 0:
                 f.write(kingdom.name + " = {\n\t" + str(kingdom.year) + ".1.1 = {\n\t\tholder = "
                         + str(kingdom.holder) + "\n")
                 if not kingdom.liege == "none":
@@ -718,7 +718,7 @@ def write_title_history(landed_titles):
                 f.write("\t}\n}\n\n")
 
             for duchy in kingdom.duchies:
-                if not duchy.holder == "none":
+                if not duchy.holder == 0:
                     f.write(duchy.name + " = {\n\t" + str(duchy.year) + ".1.1 = {\n\t\tholder = "
                             + str(duchy.holder) + "\n")
                     if not duchy.liege == "none":
@@ -728,7 +728,52 @@ def write_title_history(landed_titles):
                     f.write("\t}\n}\n\n")
 
                 for county in duchy.counties:
-                    if not county.holder == "none":
+                    if not county.holder == 0:
+                        f.write(county.name + " = {\n\t" + str(county.year) + ".1.1 = {\n\t\tholder = "
+                                + str(county.holder) + "\n")
+                        if not county.liege == "none":
+                            f.write("\t\tliege = \"" + county.liege + "\"\n")
+                        if not county.government == "x":
+                            f.write("\t\tgovernment = \"" + county.government + "\"\n")
+                        f.write("\t}\n}\n\n")
+    f.close()
+
+
+def write_title_history_modified(landed_titles):
+
+    for empire in landed_titles.empires:
+        f = open("titles/"+empire.name+".txt", "w")
+        if not empire.holder == 0:
+            f.write(empire.name + " = {\n\t" + str(empire.year) + ".1.1 = {\n\t\tholder = "
+                    + str(empire.holder) + "\n")
+            if not empire.liege == "none":
+                f.write("\t\tliege = \"" + empire.liege + "\"\n")
+            if not empire.government == "x":
+                f.write("\t\tgovernment = \"" + empire.government + "\"\n")
+            f.write("\t}\n}\n\n")
+
+        for kingdom in empire.kingdoms:
+            if not kingdom.holder == 0:
+                f.write(kingdom.name + " = {\n\t" + str(kingdom.year) + ".1.1 = {\n\t\tholder = "
+                        + str(kingdom.holder) + "\n")
+                if not kingdom.liege == "none":
+                    f.write("\t\tliege = \"" + kingdom.liege + "\"\n")
+                if not kingdom.government == "x":
+                    f.write("\t\tgovernment = \"" + kingdom.government + "\"\n")
+                f.write("\t}\n}\n\n")
+
+            for duchy in kingdom.duchies:
+                if not duchy.holder == 0:
+                    f.write(duchy.name + " = {\n\t" + str(duchy.year) + ".1.1 = {\n\t\tholder = "
+                            + str(duchy.holder) + "\n")
+                    if not duchy.liege == "none":
+                        f.write("\t\tliege = \"" + duchy.liege + "\"\n")
+                    if not duchy.government == "x":
+                        f.write("\t\tgovernment = \"" + duchy.government + "\"\n")
+                    f.write("\t}\n}\n\n")
+
+                for county in duchy.counties:
+                    if not county.holder == 0:
                         f.write(county.name + " = {\n\t" + str(county.year) + ".1.1 = {\n\t\tholder = "
                                 + str(county.holder) + "\n")
                         if not county.liege == "none":
@@ -854,7 +899,6 @@ def write_title_coats(landed_titles):
                 f.write(duchy.coat.write_coat_of_arms(duchy.name))
 
                 for county in duchy.counties:
-                    print(county.name + county.coat.textured)
                     f.write(county.coat.write_coat_of_arms(county.name))
 
     f.close()
@@ -882,19 +926,19 @@ if __name__ == '__main__':
     title_character_coat_assignment(titles)
 
     # read character master file and create characters and dynasties
-    # master_characters, master_dynasties = character_creation()
+    master_characters, master_dynasties = character_creation()
 
     # make the dynasty coat of arms file
-    # write_dynasty_coats(master_dynasties)
+    write_dynasty_coats(master_dynasties)
 
     # make the title coat of arms file
-    # write_title_coats(titles)
+    write_title_coats(titles)
 
     # write dynasty file
-    # write_dynasties(master_dynasties)
+    write_dynasties(master_dynasties)
 
     # write character file
-    # write_character_history(master_characters)
+    write_character_history(master_characters)
 
     # write landed titles file
     write_landed_titles_file(titles)
@@ -906,9 +950,10 @@ if __name__ == '__main__':
     write_province_terrains(titles)
 
     # write title history
-    write_title_history(titles)
+    write_title_history_modified(titles)
 
     # localization
     write_titles_localization(titles)
 
     # initialize_title_character_list(titles)
+
