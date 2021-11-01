@@ -77,14 +77,14 @@ c_ngotjiwet = {
 
 c_yodjam = {
 	2660.1.1 = {
-		holder = 42
+		holder = 43
 		government = "feudal"
 	}
 }
 
 d_wootjernong = {
 	2660.1.1 = {
-		holder = 44
+		holder = 43
 		government = "feudal"
 	}
 }
@@ -98,14 +98,14 @@ c_djotjoonyenyoo = {
 
 c_yamortaany = {
 	2660.1.1 = {
-		holder = 44
+		holder = 43
 		government = "feudal"
 	}
 }
 
 c_bernamodjiny = {
 	2660.1.1 = {
-		holder = 44
+		holder = 43
 		government = "feudal"
 	}
 }
@@ -154,42 +154,42 @@ c_djetongaarlomaa = {
 
 d_noorternam = {
 	2660.1.1 = {
-		holder = 0
+		holder = 43
 		government = "feudal"
 	}
 }
 
 c_kil = {
 	2660.1.1 = {
-		holder = 38
+		holder = 43
 		government = "feudal"
 	}
 }
 
 c_ngooli = {
 	2660.1.1 = {
-		holder = 39
+		holder = 43
 		government = "feudal"
 	}
 }
 
 c_nap = {
 	2660.1.1 = {
-		holder = 38
+		holder = 43
 		government = "feudal"
 	}
 }
 
 c_niyitaanyookaa = {
 	2660.1.1 = {
-		holder = 39
+		holder = 43
 		government = "feudal"
 	}
 }
 
 d_diberinyipi = {
 	2660.1.1 = {
-		holder = 0
+		holder = 43
 		government = "feudal"
 	}
 }
@@ -203,63 +203,63 @@ c_matj = {
 
 c_bor = {
 	2660.1.1 = {
-		holder = 44
+		holder = 43
 		government = "feudal"
 	}
 }
 
 c_ngarnolyaam = {
 	2660.1.1 = {
-		holder = 44
+		holder = 43
 		government = "feudal"
 	}
 }
 
 c_kaarloor = {
 	2660.1.1 = {
-		holder = 41
+		holder = 43
 		government = "feudal"
 	}
 }
 
 c_nyiponilyan = {
 	2660.1.1 = {
-		holder = 41
+		holder = 43
 		government = "feudal"
 	}
 }
 
 d_nyedook = {
 	2660.1.1 = {
-		holder = 41
+		holder = 43
 		government = "feudal"
 	}
 }
 
 c_djang = {
 	2660.1.1 = {
-		holder = 39
+		holder = 43
 		government = "feudal"
 	}
 }
 
 c_yolirnaardetoo = {
 	2660.1.1 = {
-		holder = 41
+		holder = 43
 		government = "feudal"
 	}
 }
 
 c_djerling = {
 	2660.1.1 = {
-		holder = 41
+		holder = 43
 		government = "feudal"
 	}
 }
 
 c_dardoodjaa = {
 	2660.1.1 = {
-		holder = 41
+		holder = 43
 		government = "feudal"
 	}
 }
@@ -273,42 +273,42 @@ k_kenetjaa = {
 
 d_yertaangimo = {
 	2660.1.1 = {
-		holder = 45
+		holder = 37
 		government = "feudal"
 	}
 }
 
 c_roordool = {
 	2660.1.1 = {
-		holder = 45
+		holder = 37
 		government = "feudal"
 	}
 }
 
 c_ningirdideny = {
 	2660.1.1 = {
-		holder = 45
+		holder = 37
 		government = "feudal"
 	}
 }
 
 c_yayong = {
 	2660.1.1 = {
-		holder = 44
+		holder = 37
 		government = "feudal"
 	}
 }
 
 c_mootjirdedjeng = {
 	2660.1.1 = {
-		holder = 45
+		holder = 37
 		government = "feudal"
 	}
 }
 
 c_baardemirriri = {
 	2660.1.1 = {
-		holder = 45
+		holder = 37
 		government = "feudal"
 	}
 }
@@ -406,7 +406,7 @@ c_yatjiyepon = {
 
 c_namok = {
 	2660.1.1 = {
-		holder = 36
+		holder = 37
 		government = "feudal"
 	}
 }
@@ -427,7 +427,7 @@ c_roorlerloodjip = {
 
 c_ngarngaa = {
 	2660.1.1 = {
-		holder = 36
+		holder = 37
 		government = "feudal"
 	}
 }
@@ -483,91 +483,91 @@ k_danoort = {
 
 d_dinyangerroo = {
 	2660.1.1 = {
-		holder = 0
+		holder = 47
 		government = "feudal"
 	}
 }
 
 c_maardony = {
 	2660.1.1 = {
-		holder = 36
+		holder = 47
 		government = "feudal"
 	}
 }
 
 c_roorlatetooro = {
 	2660.1.1 = {
-		holder = 34
+		holder = 47
 		government = "feudal"
 	}
 }
 
 c_yonyi = {
 	2660.1.1 = {
-		holder = 33
+		holder = 47
 		government = "feudal"
 	}
 }
 
 d_rer = {
 	2660.1.1 = {
-		holder = 31
+		holder = 47
 		government = "feudal"
 	}
 }
 
 c_ngirtenye = {
 	2660.1.1 = {
-		holder = 34
+		holder = 47
 		government = "feudal"
 	}
 }
 
 c_rirnapipaang = {
 	2660.1.1 = {
-		holder = 31
+		holder = 47
 		government = "feudal"
 	}
 }
 
 c_djinoot = {
 	2660.1.1 = {
-		holder = 31
+		holder = 47
 		government = "feudal"
 	}
 }
 
 c_relyotoorraarlo = {
 	2660.1.1 = {
-		holder = 30
+		holder = 47
 		government = "feudal"
 	}
 }
 
 c_baanooralyang = {
 	2660.1.1 = {
-		holder = 30
+		holder = 47
 		government = "feudal"
 	}
 }
 
 d_noodjodaa = {
 	2660.1.1 = {
-		holder = 0
+		holder = 47
 		government = "feudal"
 	}
 }
 
 c_boopoo = {
 	2660.1.1 = {
-		holder = 52
+		holder = 47
 		government = "feudal"
 	}
 }
 
 c_kit = {
 	2660.1.1 = {
-		holder = 31
+		holder = 47
 		government = "feudal"
 	}
 }
@@ -588,7 +588,7 @@ c_dibetj = {
 
 c_daawordibe = {
 	2660.1.1 = {
-		holder = 49
+		holder = 47
 		government = "feudal"
 	}
 }
@@ -658,49 +658,49 @@ c_din = {
 
 k_waarrawa = {
 	2660.1.1 = {
-		holder = 0
+		holder = 29
 		government = "feudal"
 	}
 }
 
 d_nyodjaanyoorimi = {
 	2660.1.1 = {
-		holder = 47
+		holder = 29
 		government = "feudal"
 	}
 }
 
 c_naakaarroyi = {
 	2660.1.1 = {
-		holder = 47
+		holder = 29
 		government = "feudal"
 	}
 }
 
 c_baaron = {
 	2660.1.1 = {
-		holder = 47
+		holder = 29
 		government = "feudal"
 	}
 }
 
 c_dirne = {
 	2660.1.1 = {
-		holder = 46
+		holder = 29
 		government = "feudal"
 	}
 }
 
 c_nyert = {
 	2660.1.1 = {
-		holder = 47
+		holder = 29
 		government = "feudal"
 	}
 }
 
 c_ngoorgogjoodalya = {
 	2660.1.1 = {
-		holder = 46
+		holder = 29
 		government = "feudal"
 	}
 }
@@ -742,77 +742,77 @@ c_waapele = {
 
 c_mayotje = {
 	2660.1.1 = {
-		holder = 40
+		holder = 29
 		government = "feudal"
 	}
 }
 
 d_wonganengirne = {
 	2660.1.1 = {
-		holder = 0
+		holder = 29
 		government = "feudal"
 	}
 }
 
 c_nelyoorraadjiny = {
 	2660.1.1 = {
-		holder = 46
+		holder = 29
 		government = "feudal"
 	}
 }
 
 c_detatjopaarle = {
 	2660.1.1 = {
-		holder = 48
+		holder = 29
 		government = "feudal"
 	}
 }
 
 c_dangertano = {
 	2660.1.1 = {
-		holder = 50
+		holder = 29
 		government = "feudal"
 	}
 }
 
 c_baadjaa = {
 	2660.1.1 = {
-		holder = 48
+		holder = 29
 		government = "feudal"
 	}
 }
 
 c_kirtonga = {
 	2660.1.1 = {
-		holder = 51
+		holder = 29
 		government = "feudal"
 	}
 }
 
 d_bewelyalyadje = {
 	2660.1.1 = {
-		holder = 51
+		holder = 29
 		government = "feudal"
 	}
 }
 
 c_nyertoorlonyaa = {
 	2660.1.1 = {
-		holder = 50
+		holder = 29
 		government = "feudal"
 	}
 }
 
 c_boonerrertaang = {
 	2660.1.1 = {
-		holder = 51
+		holder = 29
 		government = "feudal"
 	}
 }
 
 c_nyidarlilap = {
 	2660.1.1 = {
-		holder = 51
+		holder = 29
 		government = "feudal"
 	}
 }
@@ -861,42 +861,42 @@ c_ring = {
 
 d_rela = {
 	2660.1.1 = {
-		holder = 50
+		holder = 32
 		government = "feudal"
 	}
 }
 
 c_noodamaatote = {
 	2660.1.1 = {
-		holder = 50
+		holder = 32
 		government = "feudal"
 	}
 }
 
 c_kornaatjaarnoyi = {
 	2660.1.1 = {
-		holder = 50
+		holder = 32
 		government = "feudal"
 	}
 }
 
 c_kartelyetjo = {
 	2660.1.1 = {
-		holder = 50
+		holder = 32
 		government = "feudal"
 	}
 }
 
 c_raanong = {
 	2660.1.1 = {
-		holder = 50
+		holder = 32
 		government = "feudal"
 	}
 }
 
 c_didjapootjeny = {
 	2660.1.1 = {
-		holder = 50
+		holder = 32
 		government = "feudal"
 	}
 }
@@ -938,28 +938,28 @@ c_rapina = {
 
 d_ngirliw = {
 	2660.1.1 = {
-		holder = 35
+		holder = 32
 		government = "feudal"
 	}
 }
 
 c_nert = {
 	2660.1.1 = {
-		holder = 35
+		holder = 32
 		government = "feudal"
 	}
 }
 
 c_kortelyitotj = {
 	2660.1.1 = {
-		holder = 35
+		holder = 32
 		government = "feudal"
 	}
 }
 
 c_den = {
 	2660.1.1 = {
-		holder = 41
+		holder = 32
 		government = "feudal"
 	}
 }

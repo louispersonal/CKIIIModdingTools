@@ -781,7 +781,7 @@ def write_title_history_modified(landed_titles):
                         if not county.government == "x":
                             f.write("\t\tgovernment = \"" + county.government + "\"\n")
                         f.write("\t}\n}\n\n")
-    f.close()
+        f.close()
 
 
 def apply_title_colors(landed_titles):
