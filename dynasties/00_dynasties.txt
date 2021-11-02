@@ -602,3 +602,7 @@
 	name = "dynn_Numpterson"
 	culture = "tasmanian"
 }
+152 = {
+	name = "dynn_Wilson"
+	culture = "gold_coastian"
+}

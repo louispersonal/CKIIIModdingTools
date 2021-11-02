@@ -1,0 +1,16 @@
+e_gippsmania = {
+	pattern = "pattern_solid.dds"
+	color1 = "white"
+	textured_emblem = {
+		texture = gippsmania.dds
+	}
+}
+
+e_promitia = {
+	pattern = "pattern_solid.dds"
+	color1 = "white"
+	textured_emblem = {
+		texture = promitia.dds
+	}
+}
+

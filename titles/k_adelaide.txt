@@ -21,7 +21,7 @@ c_weeah = {
 
 c_millewa = {
 	2660.1.1 = {
-		holder = 101
+		holder = 152
 		government = "feudal"
 	}
 }
