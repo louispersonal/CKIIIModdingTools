@@ -1,0 +1,133 @@
+k_salina = {
+	2660.1.1 = {
+		holder = 0
+		government = "feudal"
+	}
+}
+
+d_saltpan = {
+	2660.1.1 = {
+		holder = 91
+		government = "feudal"
+	}
+}
+
+c_woomera = {
+	2660.1.1 = {
+		holder = 91
+		government = "feudal"
+	}
+}
+
+c_glendambo = {
+	2660.1.1 = {
+		holder = 91
+		government = "feudal"
+	}
+}
+
+c_gina = {
+	2660.1.1 = {
+		holder = 91
+		government = "feudal"
+	}
+}
+
+c_mount_eba = {
+	2660.1.1 = {
+		holder = 91
+		government = "feudal"
+	}
+}
+
+c_old_peake = {
+	2660.1.1 = {
+		holder = 91
+		government = "feudal"
+	}
+}
+
+d_maralinga = {
+	2660.1.1 = {
+		holder = 94
+		government = "feudal"
+	}
+}
+
+c_maralinga = {
+	2660.1.1 = {
+		holder = 93
+		government = "feudal"
+	}
+}
+
+c_maurice = {
+	2660.1.1 = {
+		holder = 94
+		government = "feudal"
+	}
+}
+
+c_mamungari = {
+	2660.1.1 = {
+		holder = 94
+		government = "feudal"
+	}
+}
+
+c_emu_junction = {
+	2660.1.1 = {
+		holder = 94
+		government = "feudal"
+	}
+}
+
+c_tallaringa = {
+	2660.1.1 = {
+		holder = 91
+		government = "feudal"
+	}
+}
+
+d_ephemeral_rivers = {
+	2660.1.1 = {
+		holder = 1
+		government = "feudal"
+	}
+}
+
+c_cadney = {
+	2660.1.1 = {
+		holder = 91
+		government = "feudal"
+	}
+}
+
+c_coober_pedy = {
+	2660.1.1 = {
+		holder = 91
+		government = "feudal"
+	}
+}
+
+c_oodnadatta = {
+	2660.1.1 = {
+		holder = 1
+		government = "feudal"
+	}
+}
+
+c_pedirka = {
+	2660.1.1 = {
+		holder = 1
+		government = "feudal"
+	}
+}
+
+c_witjira = {
+	2660.1.1 = {
+		holder = 1
+		government = "feudal"
+	}
+}
+

@@ -1,0 +1,175 @@
+k_downlands = {
+	2660.1.1 = {
+		holder = 85
+		government = "feudal"
+	}
+}
+
+d_winton = {
+	2660.1.1 = {
+		holder = 86
+		government = "feudal"
+	}
+}
+
+c_winton = {
+	2660.1.1 = {
+		holder = 86
+		government = "feudal"
+	}
+}
+
+c_tangorin = {
+	2660.1.1 = {
+		holder = 86
+		government = "feudal"
+	}
+}
+
+c_corfield = {
+	2660.1.1 = {
+		holder = 86
+		government = "feudal"
+	}
+}
+
+c_werna = {
+	2660.1.1 = {
+		holder = 86
+		government = "feudal"
+	}
+}
+
+d_dutton = {
+	2660.1.1 = {
+		holder = 85
+		government = "feudal"
+	}
+}
+
+c_richmond = {
+	2660.1.1 = {
+		holder = 85
+		government = "feudal"
+	}
+}
+
+c_dutton_river = {
+	2660.1.1 = {
+		holder = 85
+		government = "feudal"
+	}
+}
+
+c_mount_norman = {
+	2660.1.1 = {
+		holder = 85
+		government = "feudal"
+	}
+}
+
+d_dinosauria = {
+	2660.1.1 = {
+		holder = 85
+		government = "feudal"
+	}
+}
+
+c_exmoor = {
+	2660.1.1 = {
+		holder = 85
+		government = "feudal"
+	}
+}
+
+c_katandra = {
+	2660.1.1 = {
+		holder = 85
+		government = "feudal"
+	}
+}
+
+c_bannockburn = {
+	2660.1.1 = {
+		holder = 85
+		government = "feudal"
+	}
+}
+
+c_moorrinya = {
+	2660.1.1 = {
+		holder = 85
+		government = "feudal"
+	}
+}
+
+c_hughenden = {
+	2660.1.1 = {
+		holder = 85
+		government = "feudal"
+	}
+}
+
+d_blackbraes = {
+	2660.1.1 = {
+		holder = 85
+		government = "feudal"
+	}
+}
+
+c_mount_sturgeon = {
+	2660.1.1 = {
+		holder = 85
+		government = "feudal"
+	}
+}
+
+c_blackbraes = {
+	2660.1.1 = {
+		holder = 85
+		government = "feudal"
+	}
+}
+
+c_gregory_springs = {
+	2660.1.1 = {
+		holder = 85
+		government = "feudal"
+	}
+}
+
+d_gemfields = {
+	2660.1.1 = {
+		holder = 85
+		government = "feudal"
+	}
+}
+
+c_strathpark = {
+	2660.1.1 = {
+		holder = 85
+		government = "feudal"
+	}
+}
+
+c_woodstock = {
+	2660.1.1 = {
+		holder = 85
+		government = "feudal"
+	}
+}
+
+c_frog_creek = {
+	2660.1.1 = {
+		holder = 85
+		government = "feudal"
+	}
+}
+
+c_iona = {
+	2660.1.1 = {
+		holder = 85
+		government = "feudal"
+	}
+}
+

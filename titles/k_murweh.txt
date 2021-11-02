@@ -1,0 +1,154 @@
+k_murweh = {
+	2660.1.1 = {
+		holder = 0
+		government = "feudal"
+	}
+}
+
+d_opal = {
+	2660.1.1 = {
+		holder = 74
+		government = "feudal"
+	}
+}
+
+c_wyandra = {
+	2660.1.1 = {
+		holder = 74
+		government = "feudal"
+	}
+}
+
+c_eulo = {
+	2660.1.1 = {
+		holder = 74
+		government = "feudal"
+	}
+}
+
+c_yowah = {
+	2660.1.1 = {
+		holder = 114
+		government = "feudal"
+	}
+}
+
+c_big_creek = {
+	2660.1.1 = {
+		holder = 74
+		government = "feudal"
+	}
+}
+
+c_cheepie = {
+	2660.1.1 = {
+		holder = 114
+		government = "feudal"
+	}
+}
+
+d_thargomindah = {
+	2660.1.1 = {
+		holder = 114
+		government = "feudal"
+	}
+}
+
+c_thargomindah = {
+	2660.1.1 = {
+		holder = 114
+		government = "feudal"
+	}
+}
+
+c_mount_margaret = {
+	2660.1.1 = {
+		holder = 114
+		government = "feudal"
+	}
+}
+
+c_ardoch = {
+	2660.1.1 = {
+		holder = 114
+		government = "feudal"
+	}
+}
+
+c_toompine = {
+	2660.1.1 = {
+		holder = 114
+		government = "feudal"
+	}
+}
+
+d_murweh = {
+	2660.1.1 = {
+		holder = 0
+		government = "feudal"
+	}
+}
+
+c_boatman = {
+	2660.1.1 = {
+		holder = 74
+		government = "feudal"
+	}
+}
+
+c_morven = {
+	2660.1.1 = {
+		holder = 74
+		government = "feudal"
+	}
+}
+
+c_charleville = {
+	2660.1.1 = {
+		holder = 80
+		government = "feudal"
+	}
+}
+
+c_augathella = {
+	2660.1.1 = {
+		holder = 80
+		government = "feudal"
+	}
+}
+
+d_hell = {
+	2660.1.1 = {
+		holder = 0
+		government = "feudal"
+	}
+}
+
+c_hell_hole_gorge = {
+	2660.1.1 = {
+		holder = 114
+		government = "feudal"
+	}
+}
+
+c_adavale = {
+	2660.1.1 = {
+		holder = 114
+		government = "feudal"
+	}
+}
+
+c_scrubby_creek = {
+	2660.1.1 = {
+		holder = 80
+		government = "feudal"
+	}
+}
+
+c_idalia = {
+	2660.1.1 = {
+		holder = 80
+		government = "feudal"
+	}
+}
+

@@ -1,0 +1,70 @@
+k_northcoast = {
+	2660.1.1 = {
+		holder = 0
+		government = "feudal"
+	}
+}
+
+d_portharbour = {
+	2660.1.1 = {
+		holder = 0
+		government = "feudal"
+	}
+}
+
+c_port_macquarie = {
+	2660.1.1 = {
+		holder = 125
+		government = "feudal"
+	}
+}
+
+c_dudley = {
+	2660.1.1 = {
+		holder = 125
+		government = "feudal"
+	}
+}
+
+c_nambucca_heads = {
+	2660.1.1 = {
+		holder = 126
+		government = "feudal"
+	}
+}
+
+c_coffs_harbour = {
+	2660.1.1 = {
+		holder = 126
+		government = "feudal"
+	}
+}
+
+d_lowlands = {
+	2660.1.1 = {
+		holder = 74
+		government = "feudal"
+	}
+}
+
+c_clarence = {
+	2660.1.1 = {
+		holder = 74
+		government = "feudal"
+	}
+}
+
+c_casino = {
+	2660.1.1 = {
+		holder = 74
+		government = "feudal"
+	}
+}
+
+c_lismore = {
+	2660.1.1 = {
+		holder = 74
+		government = "feudal"
+	}
+}
+

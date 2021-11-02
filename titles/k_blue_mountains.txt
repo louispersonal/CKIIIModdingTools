@@ -1,0 +1,98 @@
+k_blue_mountains = {
+	2660.1.1 = {
+		holder = 0
+		government = "feudal"
+	}
+}
+
+d_capital_territory = {
+	2660.1.1 = {
+		holder = 131
+		government = "feudal"
+	}
+}
+
+c_cowley = {
+	2660.1.1 = {
+		holder = 131
+		government = "feudal"
+	}
+}
+
+c_canberra = {
+	2660.1.1 = {
+		holder = 131
+		government = "feudal"
+	}
+}
+
+d_tablelands = {
+	2660.1.1 = {
+		holder = 0
+		government = "feudal"
+	}
+}
+
+c_murray = {
+	2660.1.1 = {
+		holder = 131
+		government = "feudal"
+	}
+}
+
+c_goulburn = {
+	2660.1.1 = {
+		holder = 98
+		government = "feudal"
+	}
+}
+
+c_king = {
+	2660.1.1 = {
+		holder = 99
+		government = "feudal"
+	}
+}
+
+c_georgiana = {
+	2660.1.1 = {
+		holder = 99
+		government = "feudal"
+	}
+}
+
+c_bathurst = {
+	2660.1.1 = {
+		holder = 116
+		government = "feudal"
+	}
+}
+
+d_blue_mountains = {
+	2660.1.1 = {
+		holder = 120
+		government = "feudal"
+	}
+}
+
+c_oberon = {
+	2660.1.1 = {
+		holder = 117
+		government = "feudal"
+	}
+}
+
+c_cook = {
+	2660.1.1 = {
+		holder = 120
+		government = "feudal"
+	}
+}
+
+c_wollemi = {
+	2660.1.1 = {
+		holder = 120
+		government = "feudal"
+	}
+}
+

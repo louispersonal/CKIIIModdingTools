@@ -1,0 +1,210 @@
+k_gascoyne = {
+	2660.1.1 = {
+		holder = 0
+		government = "feudal"
+	}
+}
+
+d_talandji_mardie = {
+	2660.1.1 = {
+		holder = 62
+		government = "feudal"
+	}
+}
+
+c_fortescue = {
+	2660.1.1 = {
+		holder = 62
+		government = "feudal"
+	}
+}
+
+c_onslow = {
+	2660.1.1 = {
+		holder = 62
+		government = "feudal"
+	}
+}
+
+c_giralia = {
+	2660.1.1 = {
+		holder = 62
+		government = "feudal"
+	}
+}
+
+c_emu_creek = {
+	2660.1.1 = {
+		holder = 62
+		government = "feudal"
+	}
+}
+
+d_the_bulge = {
+	2660.1.1 = {
+		holder = 73
+		government = "feudal"
+	}
+}
+
+c_exmouth = {
+	2660.1.1 = {
+		holder = 62
+		government = "feudal"
+	}
+}
+
+c_winning = {
+	2660.1.1 = {
+		holder = 62
+		government = "feudal"
+	}
+}
+
+c_mrilya_bridge = {
+	2660.1.1 = {
+		holder = 73
+		government = "feudal"
+	}
+}
+
+c_macleod = {
+	2660.1.1 = {
+		holder = 73
+		government = "feudal"
+	}
+}
+
+c_carnarvon_town = {
+	2660.1.1 = {
+		holder = 73
+		government = "feudal"
+	}
+}
+
+c_inggarda = {
+	2660.1.1 = {
+		holder = 73
+		government = "feudal"
+	}
+}
+
+d_lyonia = {
+	2660.1.1 = {
+		holder = 70
+		government = "feudal"
+	}
+}
+
+c_barlee = {
+	2660.1.1 = {
+		holder = 62
+		government = "feudal"
+	}
+}
+
+c_ullawara = {
+	2660.1.1 = {
+		holder = 63
+		government = "feudal"
+	}
+}
+
+c_kennedy_range = {
+	2660.1.1 = {
+		holder = 62
+		government = "feudal"
+	}
+}
+
+c_gifford = {
+	2660.1.1 = {
+		holder = 70
+		government = "feudal"
+	}
+}
+
+c_lyons_river = {
+	2660.1.1 = {
+		holder = 70
+		government = "feudal"
+	}
+}
+
+d_wooramel_riverlands = {
+	2660.1.1 = {
+		holder = 0
+		government = "feudal"
+	}
+}
+
+c_wooramel = {
+	2660.1.1 = {
+		holder = 69
+		government = "feudal"
+	}
+}
+
+c_gilroyd = {
+	2660.1.1 = {
+		holder = 69
+		government = "feudal"
+	}
+}
+
+c_dairy_creek = {
+	2660.1.1 = {
+		holder = 70
+		government = "feudal"
+	}
+}
+
+c_milly_milly = {
+	2660.1.1 = {
+		holder = 70
+		government = "feudal"
+	}
+}
+
+d_yamatji = {
+	2660.1.1 = {
+		holder = 60
+		government = "feudal"
+	}
+}
+
+c_peron = {
+	2660.1.1 = {
+		holder = 69
+		government = "feudal"
+	}
+}
+
+c_toolonga = {
+	2660.1.1 = {
+		holder = 60
+		government = "feudal"
+	}
+}
+
+c_nookawarra = {
+	2660.1.1 = {
+		holder = 60
+		government = "feudal"
+	}
+}
+
+c_billabalong = {
+	2660.1.1 = {
+		holder = 60
+		government = "feudal"
+	}
+}
+
+c_pinegrove = {
+	2660.1.1 = {
+		holder = 60
+		government = "feudal"
+	}
+}
+

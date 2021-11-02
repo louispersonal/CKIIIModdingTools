@@ -1,0 +1,112 @@
+k_isa = {
+	2660.1.1 = {
+		holder = 86
+		government = "feudal"
+	}
+}
+
+d_clonlay = {
+	2660.1.1 = {
+		holder = 86
+		government = "feudal"
+	}
+}
+
+c_answer = {
+	2660.1.1 = {
+		holder = 86
+		government = "feudal"
+	}
+}
+
+c_mckinlay = {
+	2660.1.1 = {
+		holder = 86
+		government = "feudal"
+	}
+}
+
+c_cloncurry = {
+	2660.1.1 = {
+		holder = 86
+		government = "feudal"
+	}
+}
+
+d_julia_creek = {
+	2660.1.1 = {
+		holder = 87
+		government = "feudal"
+	}
+}
+
+c_tarbrax = {
+	2660.1.1 = {
+		holder = 75
+		government = "feudal"
+	}
+}
+
+c_sedan_dip = {
+	2660.1.1 = {
+		holder = 86
+		government = "feudal"
+	}
+}
+
+c_bunda_bunda = {
+	2660.1.1 = {
+		holder = 85
+		government = "feudal"
+	}
+}
+
+c_julia_creek = {
+	2660.1.1 = {
+		holder = 86
+		government = "feudal"
+	}
+}
+
+c_maxwellon = {
+	2660.1.1 = {
+		holder = 85
+		government = "feudal"
+	}
+}
+
+d_overlanders = {
+	2660.1.1 = {
+		holder = 0
+		government = "feudal"
+	}
+}
+
+c_wooroona = {
+	2660.1.1 = {
+		holder = 7
+		government = "feudal"
+	}
+}
+
+c_mount_isa = {
+	2660.1.1 = {
+		holder = 82
+		government = "feudal"
+	}
+}
+
+c_three_rivers = {
+	2660.1.1 = {
+		holder = 86
+		government = "feudal"
+	}
+}
+
+c_camooweal = {
+	2660.1.1 = {
+		holder = 7
+		government = "feudal"
+	}
+}
+

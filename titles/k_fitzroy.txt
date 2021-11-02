@@ -1,0 +1,217 @@
+k_fitzroy = {
+	2660.1.1 = {
+		holder = 74
+		government = "feudal"
+	}
+}
+
+d_maranoa = {
+	2660.1.1 = {
+		holder = 74
+		government = "feudal"
+	}
+}
+
+c_mitchell = {
+	2660.1.1 = {
+		holder = 74
+		government = "feudal"
+	}
+}
+
+c_roma = {
+	2660.1.1 = {
+		holder = 74
+		government = "feudal"
+	}
+}
+
+c_surat = {
+	2660.1.1 = {
+		holder = 74
+		government = "feudal"
+	}
+}
+
+c_forest_vale = {
+	2660.1.1 = {
+		holder = 74
+		government = "feudal"
+	}
+}
+
+d_banana = {
+	2660.1.1 = {
+		holder = 74
+		government = "feudal"
+	}
+}
+
+c_taroom = {
+	2660.1.1 = {
+		holder = 74
+		government = "feudal"
+	}
+}
+
+c_injune = {
+	2660.1.1 = {
+		holder = 74
+		government = "feudal"
+	}
+}
+
+c_theodore = {
+	2660.1.1 = {
+		holder = 74
+		government = "feudal"
+	}
+}
+
+d_carnarvon = {
+	2660.1.1 = {
+		holder = 74
+		government = "feudal"
+	}
+}
+
+c_hillside_forest = {
+	2660.1.1 = {
+		holder = 74
+		government = "feudal"
+	}
+}
+
+c_oak_vale = {
+	2660.1.1 = {
+		holder = 74
+		government = "feudal"
+	}
+}
+
+c_expedition = {
+	2660.1.1 = {
+		holder = 74
+		government = "feudal"
+	}
+}
+
+c_carnarvon = {
+	2660.1.1 = {
+		holder = 74
+		government = "feudal"
+	}
+}
+
+d_north_burnett = {
+	2660.1.1 = {
+		holder = 74
+		government = "feudal"
+	}
+}
+
+c_dawson_park = {
+	2660.1.1 = {
+		holder = 74
+		government = "feudal"
+	}
+}
+
+c_monto = {
+	2660.1.1 = {
+		holder = 74
+		government = "feudal"
+	}
+}
+
+c_bundaberg = {
+	2660.1.1 = {
+		holder = 74
+		government = "feudal"
+	}
+}
+
+c_gladstone = {
+	2660.1.1 = {
+		holder = 74
+		government = "feudal"
+	}
+}
+
+c_biloela = {
+	2660.1.1 = {
+		holder = 74
+		government = "feudal"
+	}
+}
+
+d_central_highlands = {
+	2660.1.1 = {
+		holder = 74
+		government = "feudal"
+	}
+}
+
+c_moura = {
+	2660.1.1 = {
+		holder = 74
+		government = "feudal"
+	}
+}
+
+c_rolleston = {
+	2660.1.1 = {
+		holder = 74
+		government = "feudal"
+	}
+}
+
+c_mantuan_downs = {
+	2660.1.1 = {
+		holder = 74
+		government = "feudal"
+	}
+}
+
+c_blackwater = {
+	2660.1.1 = {
+		holder = 74
+		government = "feudal"
+	}
+}
+
+c_emerald = {
+	2660.1.1 = {
+		holder = 74
+		government = "feudal"
+	}
+}
+
+d_torilla = {
+	2660.1.1 = {
+		holder = 74
+		government = "feudal"
+	}
+}
+
+c_rockhampton = {
+	2660.1.1 = {
+		holder = 74
+		government = "feudal"
+	}
+}
+
+c_yeppoon = {
+	2660.1.1 = {
+		holder = 74
+		government = "feudal"
+	}
+}
+
+c_middlemount = {
+	2660.1.1 = {
+		holder = 74
+		government = "feudal"
+	}
+}
+

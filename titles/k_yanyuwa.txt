@@ -1,0 +1,196 @@
+k_yanyuwa = {
+	2660.1.1 = {
+		holder = 8
+		government = "feudal"
+	}
+}
+
+d_binbinga_garawa = {
+	2660.1.1 = {
+		holder = 13
+		government = "feudal"
+	}
+}
+
+c_yanyuwa = {
+	2660.1.1 = {
+		holder = 13
+		government = "feudal"
+	}
+}
+
+c_coxco_valley = {
+	2660.1.1 = {
+		holder = 13
+		government = "feudal"
+	}
+}
+
+c_mungoobada = {
+	2660.1.1 = {
+		holder = 13
+		government = "feudal"
+	}
+}
+
+d_gunindiri_waanyi = {
+	2660.1.1 = {
+		holder = 8
+		government = "feudal"
+	}
+}
+
+c_cresswell_downs = {
+	2660.1.1 = {
+		holder = 8
+		government = "feudal"
+	}
+}
+
+c_ganalaga_mindibirrina = {
+	2660.1.1 = {
+		holder = 9
+		government = "feudal"
+	}
+}
+
+c_connells_lagoon = {
+	2660.1.1 = {
+		holder = 8
+		government = "feudal"
+	}
+}
+
+d_wambaya = {
+	2660.1.1 = {
+		holder = 8
+		government = "feudal"
+	}
+}
+
+c_calvert = {
+	2660.1.1 = {
+		holder = 8
+		government = "feudal"
+	}
+}
+
+c_wambaya = {
+	2660.1.1 = {
+		holder = 8
+		government = "feudal"
+	}
+}
+
+c_mittiebah = {
+	2660.1.1 = {
+		holder = 8
+		government = "feudal"
+	}
+}
+
+c_gulunguru = {
+	2660.1.1 = {
+		holder = 8
+		government = "feudal"
+	}
+}
+
+d_warumungu = {
+	2660.1.1 = {
+		holder = 5
+		government = "feudal"
+	}
+}
+
+c_wogyala = {
+	2660.1.1 = {
+		holder = 8
+		government = "feudal"
+	}
+}
+
+c_tennant_creek = {
+	2660.1.1 = {
+		holder = 5
+		government = "feudal"
+	}
+}
+
+c_yungkiwi = {
+	2660.1.1 = {
+		holder = 8
+		government = "feudal"
+	}
+}
+
+c_warumungu = {
+	2660.1.1 = {
+		holder = 5
+		government = "feudal"
+	}
+}
+
+c_karlantijpa_south = {
+	2660.1.1 = {
+		holder = 5
+		government = "feudal"
+	}
+}
+
+d_kaytej = {
+	2660.1.1 = {
+		holder = 0
+		government = "feudal"
+	}
+}
+
+c_warrabri = {
+	2660.1.1 = {
+		holder = 5
+		government = "feudal"
+	}
+}
+
+c_iytwelepenty = {
+	2660.1.1 = {
+		holder = 4
+		government = "feudal"
+	}
+}
+
+d_wakaya = {
+	2660.1.1 = {
+		holder = 7
+		government = "feudal"
+	}
+}
+
+c_wakaya = {
+	2660.1.1 = {
+		holder = 4
+		government = "feudal"
+	}
+}
+
+c_wunara = {
+	2660.1.1 = {
+		holder = 7
+		government = "feudal"
+	}
+}
+
+c_bluebush_swamp = {
+	2660.1.1 = {
+		holder = 7
+		government = "feudal"
+	}
+}
+
+c_boolanboo_corner = {
+	2660.1.1 = {
+		holder = 7
+		government = "feudal"
+	}
+}
+

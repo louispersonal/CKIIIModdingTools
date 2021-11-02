@@ -1,0 +1,154 @@
+k_ngirrol = {
+	2660.1.1 = {
+		holder = 32
+		government = "feudal"
+	}
+}
+
+d_mingoke = {
+	2660.1.1 = {
+		holder = 32
+		government = "feudal"
+	}
+}
+
+c_kanitanyo = {
+	2660.1.1 = {
+		holder = 32
+		government = "feudal"
+	}
+}
+
+c_romirawoo = {
+	2660.1.1 = {
+		holder = 32
+		government = "feudal"
+	}
+}
+
+c_jaskiushdad = {
+	2660.1.1 = {
+		holder = 32
+		government = "feudal"
+	}
+}
+
+c_ring = {
+	2660.1.1 = {
+		holder = 32
+		government = "feudal"
+	}
+}
+
+d_rela = {
+	2660.1.1 = {
+		holder = 50
+		government = "feudal"
+	}
+}
+
+c_noodamaatote = {
+	2660.1.1 = {
+		holder = 50
+		government = "feudal"
+	}
+}
+
+c_kornaatjaarnoyi = {
+	2660.1.1 = {
+		holder = 50
+		government = "feudal"
+	}
+}
+
+c_kartelyetjo = {
+	2660.1.1 = {
+		holder = 50
+		government = "feudal"
+	}
+}
+
+c_raanong = {
+	2660.1.1 = {
+		holder = 50
+		government = "feudal"
+	}
+}
+
+c_didjapootjeny = {
+	2660.1.1 = {
+		holder = 50
+		government = "feudal"
+	}
+}
+
+d_dolyoolyeko = {
+	2660.1.1 = {
+		holder = 32
+		government = "feudal"
+	}
+}
+
+c_kobedjorromaa = {
+	2660.1.1 = {
+		holder = 32
+		government = "feudal"
+	}
+}
+
+c_nem = {
+	2660.1.1 = {
+		holder = 32
+		government = "feudal"
+	}
+}
+
+c_bewawebet = {
+	2660.1.1 = {
+		holder = 32
+		government = "feudal"
+	}
+}
+
+c_rapina = {
+	2660.1.1 = {
+		holder = 32
+		government = "feudal"
+	}
+}
+
+d_ngirliw = {
+	2660.1.1 = {
+		holder = 35
+		government = "feudal"
+	}
+}
+
+c_nert = {
+	2660.1.1 = {
+		holder = 35
+		government = "feudal"
+	}
+}
+
+c_kortelyitotj = {
+	2660.1.1 = {
+		holder = 35
+		government = "feudal"
+	}
+}
+
+c_den = {
+	2660.1.1 = {
+		holder = 41
+		government = "feudal"
+	}
+}
+
+c_barlanyetjotjaa = {
+	2660.1.1 = {
+		holder = 32
+		government = "feudal"
+	}
+}
+

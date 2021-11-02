@@ -1,0 +1,273 @@
+k_desertina = {
+	2660.1.1 = {
+		holder = 114
+		government = "feudal"
+	}
+}
+
+d_ularara = {
+	2660.1.1 = {
+		holder = 114
+		government = "feudal"
+	}
+}
+
+c_ularara = {
+	2660.1.1 = {
+		holder = 112
+		government = "feudal"
+	}
+}
+
+c_delalah = {
+	2660.1.1 = {
+		holder = 114
+		government = "feudal"
+	}
+}
+
+c_tongowoko = {
+	2660.1.1 = {
+		holder = 114
+		government = "feudal"
+	}
+}
+
+c_yantara = {
+	2660.1.1 = {
+		holder = 112
+		government = "feudal"
+	}
+}
+
+c_bulloo_downs = {
+	2660.1.1 = {
+		holder = 114
+		government = "feudal"
+	}
+}
+
+d_bulloo_dunefields = {
+	2660.1.1 = {
+		holder = 114
+		government = "feudal"
+	}
+}
+
+c_great_southern_cross = {
+	2660.1.1 = {
+		holder = 114
+		government = "feudal"
+	}
+}
+
+c_warri_gate = {
+	2660.1.1 = {
+		holder = 114
+		government = "feudal"
+	}
+}
+
+c_nockatunga = {
+	2660.1.1 = {
+		holder = 114
+		government = "feudal"
+	}
+}
+
+c_orientos = {
+	2660.1.1 = {
+		holder = 114
+		government = "feudal"
+	}
+}
+
+c_cooper_creek = {
+	2660.1.1 = {
+		holder = 114
+		government = "feudal"
+	}
+}
+
+c_innamincka = {
+	2660.1.1 = {
+		holder = 107
+		government = "feudal"
+	}
+}
+
+d_yamma_yamma = {
+	2660.1.1 = {
+		holder = 114
+		government = "feudal"
+	}
+}
+
+c_durham = {
+	2660.1.1 = {
+		holder = 114
+		government = "feudal"
+	}
+}
+
+c_mount_howitt = {
+	2660.1.1 = {
+		holder = 114
+		government = "feudal"
+	}
+}
+
+c_quilpie = {
+	2660.1.1 = {
+		holder = 114
+		government = "feudal"
+	}
+}
+
+c_eromanga = {
+	2660.1.1 = {
+		holder = 114
+		government = "feudal"
+	}
+}
+
+c_lynwood = {
+	2660.1.1 = {
+		holder = 114
+		government = "feudal"
+	}
+}
+
+d_munga_thirri = {
+	2660.1.1 = {
+		holder = 81
+		government = "feudal"
+	}
+}
+
+c_east_simpson_desert = {
+	2660.1.1 = {
+		holder = 81
+		government = "feudal"
+	}
+}
+
+c_birdsville = {
+	2660.1.1 = {
+		holder = 81
+		government = "feudal"
+	}
+}
+
+c_bedourie = {
+	2660.1.1 = {
+		holder = 81
+		government = "feudal"
+	}
+}
+
+c_ethabuka = {
+	2660.1.1 = {
+		holder = 81
+		government = "feudal"
+	}
+}
+
+d_claypan = {
+	2660.1.1 = {
+		holder = 114
+		government = "feudal"
+	}
+}
+
+c_durri = {
+	2660.1.1 = {
+		holder = 114
+		government = "feudal"
+	}
+}
+
+c_mooraberree = {
+	2660.1.1 = {
+		holder = 114
+		government = "feudal"
+	}
+}
+
+c_breadalbane = {
+	2660.1.1 = {
+		holder = 81
+		government = "feudal"
+	}
+}
+
+d_barcoo = {
+	2660.1.1 = {
+		holder = 114
+		government = "feudal"
+	}
+}
+
+c_south_galway = {
+	2660.1.1 = {
+		holder = 114
+		government = "feudal"
+	}
+}
+
+c_windorah = {
+	2660.1.1 = {
+		holder = 114
+		government = "feudal"
+	}
+}
+
+c_jundah = {
+	2660.1.1 = {
+		holder = 114
+		government = "feudal"
+	}
+}
+
+c_palpararah = {
+	2660.1.1 = {
+		holder = 114
+		government = "feudal"
+	}
+}
+
+c_diamantina = {
+	2660.1.1 = {
+		holder = 82
+		government = "feudal"
+	}
+}
+
+d_stony_desert = {
+	2660.1.1 = {
+		holder = 107
+		government = "feudal"
+	}
+}
+
+c_sturt_stony_desert = {
+	2660.1.1 = {
+		holder = 114
+		government = "feudal"
+	}
+}
+
+c_warburton_crossing = {
+	2660.1.1 = {
+		holder = 107
+		government = "feudal"
+	}
+}
+
+c_kalamurina = {
+	2660.1.1 = {
+		holder = 107
+		government = "feudal"
+	}
+}
+

@@ -1,0 +1,98 @@
+k_sydney = {
+	2660.1.1 = {
+		holder = 0
+		government = "feudal"
+	}
+}
+
+d_south_coast = {
+	2660.1.1 = {
+		holder = 0
+		government = "feudal"
+	}
+}
+
+c_merimbula = {
+	2660.1.1 = {
+		holder = 132
+		government = "feudal"
+	}
+}
+
+c_bombala = {
+	2660.1.1 = {
+		holder = 132
+		government = "feudal"
+	}
+}
+
+c_narooma = {
+	2660.1.1 = {
+		holder = 132
+		government = "feudal"
+	}
+}
+
+d_sydney = {
+	2660.1.1 = {
+		holder = 0
+		government = "feudal"
+	}
+}
+
+c_nowra = {
+	2660.1.1 = {
+		holder = 134
+		government = "feudal"
+	}
+}
+
+c_wollongong = {
+	2660.1.1 = {
+		holder = 117
+		government = "feudal"
+	}
+}
+
+c_sydney = {
+	2660.1.1 = {
+		holder = 118
+		government = "feudal"
+	}
+}
+
+c_newcastle = {
+	2660.1.1 = {
+		holder = 121
+		government = "feudal"
+	}
+}
+
+d_hunter = {
+	2660.1.1 = {
+		holder = 122
+		government = "feudal"
+	}
+}
+
+c_scone = {
+	2660.1.1 = {
+		holder = 124
+		government = "feudal"
+	}
+}
+
+c_muswellbrook = {
+	2660.1.1 = {
+		holder = 122
+		government = "feudal"
+	}
+}
+
+c_forster = {
+	2660.1.1 = {
+		holder = 122
+		government = "feudal"
+	}
+}
+

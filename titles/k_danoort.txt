@@ -1,0 +1,182 @@
+k_danoort = {
+	2660.1.1 = {
+		holder = 47
+		government = "feudal"
+	}
+}
+
+d_dinyangerroo = {
+	2660.1.1 = {
+		holder = 0
+		government = "feudal"
+	}
+}
+
+c_maardony = {
+	2660.1.1 = {
+		holder = 36
+		government = "feudal"
+	}
+}
+
+c_roorlatetooro = {
+	2660.1.1 = {
+		holder = 34
+		government = "feudal"
+	}
+}
+
+c_yonyi = {
+	2660.1.1 = {
+		holder = 33
+		government = "feudal"
+	}
+}
+
+d_rer = {
+	2660.1.1 = {
+		holder = 31
+		government = "feudal"
+	}
+}
+
+c_ngirtenye = {
+	2660.1.1 = {
+		holder = 34
+		government = "feudal"
+	}
+}
+
+c_rirnapipaang = {
+	2660.1.1 = {
+		holder = 31
+		government = "feudal"
+	}
+}
+
+c_djinoot = {
+	2660.1.1 = {
+		holder = 31
+		government = "feudal"
+	}
+}
+
+c_relyotoorraarlo = {
+	2660.1.1 = {
+		holder = 30
+		government = "feudal"
+	}
+}
+
+c_baanooralyang = {
+	2660.1.1 = {
+		holder = 30
+		government = "feudal"
+	}
+}
+
+d_noodjodaa = {
+	2660.1.1 = {
+		holder = 0
+		government = "feudal"
+	}
+}
+
+c_boopoo = {
+	2660.1.1 = {
+		holder = 52
+		government = "feudal"
+	}
+}
+
+c_kit = {
+	2660.1.1 = {
+		holder = 31
+		government = "feudal"
+	}
+}
+
+c_nyit = {
+	2660.1.1 = {
+		holder = 47
+		government = "feudal"
+	}
+}
+
+c_dibetj = {
+	2660.1.1 = {
+		holder = 47
+		government = "feudal"
+	}
+}
+
+c_daawordibe = {
+	2660.1.1 = {
+		holder = 49
+		government = "feudal"
+	}
+}
+
+c_dolyornero = {
+	2660.1.1 = {
+		holder = 47
+		government = "feudal"
+	}
+}
+
+d_yepomaarroom = {
+	2660.1.1 = {
+		holder = 47
+		government = "feudal"
+	}
+}
+
+c_rangernemerta = {
+	2660.1.1 = {
+		holder = 47
+		government = "feudal"
+	}
+}
+
+c_wanaanyaa = {
+	2660.1.1 = {
+		holder = 47
+		government = "feudal"
+	}
+}
+
+c_kaarlong = {
+	2660.1.1 = {
+		holder = 47
+		government = "feudal"
+	}
+}
+
+d_bebow = {
+	2660.1.1 = {
+		holder = 47
+		government = "feudal"
+	}
+}
+
+c_djinyoongaatjinaa = {
+	2660.1.1 = {
+		holder = 47
+		government = "feudal"
+	}
+}
+
+c_maat = {
+	2660.1.1 = {
+		holder = 47
+		government = "feudal"
+	}
+}
+
+c_din = {
+	2660.1.1 = {
+		holder = 47
+		government = "feudal"
+	}
+}
+

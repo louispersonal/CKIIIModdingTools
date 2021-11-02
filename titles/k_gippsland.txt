@@ -1,0 +1,98 @@
+k_gippsland = {
+	2660.1.1 = {
+		holder = 0
+		government = "feudal"
+	}
+}
+
+d_melbourne = {
+	2660.1.1 = {
+		holder = 0
+		government = "feudal"
+	}
+}
+
+c_grant = {
+	2660.1.1 = {
+		holder = 97
+		government = "feudal"
+	}
+}
+
+c_melbourne = {
+	2660.1.1 = {
+		holder = 108
+		government = "feudal"
+	}
+}
+
+d_yarra_valley = {
+	2660.1.1 = {
+		holder = 108
+		government = "feudal"
+	}
+}
+
+c_mornington = {
+	2660.1.1 = {
+		holder = 108
+		government = "feudal"
+	}
+}
+
+c_evelyn = {
+	2660.1.1 = {
+		holder = 108
+		government = "feudal"
+	}
+}
+
+d_gippsland = {
+	2660.1.1 = {
+		holder = 132
+		government = "feudal"
+	}
+}
+
+c_lakes_entrance = {
+	2660.1.1 = {
+		holder = 132
+		government = "feudal"
+	}
+}
+
+c_croajingolong = {
+	2660.1.1 = {
+		holder = 132
+		government = "feudal"
+	}
+}
+
+d_monash = {
+	2660.1.1 = {
+		holder = 119
+		government = "feudal"
+	}
+}
+
+c_dargo = {
+	2660.1.1 = {
+		holder = 119
+		government = "feudal"
+	}
+}
+
+c_tanjil = {
+	2660.1.1 = {
+		holder = 119
+		government = "feudal"
+	}
+}
+
+c_buln_buln = {
+	2660.1.1 = {
+		holder = 119
+		government = "feudal"
+	}
+}
+

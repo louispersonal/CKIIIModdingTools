@@ -1,0 +1,203 @@
+k_midwest = {
+	2660.1.1 = {
+		holder = 0
+		government = "feudal"
+	}
+}
+
+d_kenneth = {
+	2660.1.1 = {
+		holder = 0
+		government = "feudal"
+	}
+}
+
+c_wanna = {
+	2660.1.1 = {
+		holder = 63
+		government = "feudal"
+	}
+}
+
+c_mount_vernon = {
+	2660.1.1 = {
+		holder = 63
+		government = "feudal"
+	}
+}
+
+c_mount_augustus = {
+	2660.1.1 = {
+		holder = 71
+		government = "feudal"
+	}
+}
+
+d_collier_range = {
+	2660.1.1 = {
+		holder = 72
+		government = "feudal"
+	}
+}
+
+c_mulgui = {
+	2660.1.1 = {
+		holder = 72
+		government = "feudal"
+	}
+}
+
+c_collier = {
+	2660.1.1 = {
+		holder = 72
+		government = "feudal"
+	}
+}
+
+c_neds_creek = {
+	2660.1.1 = {
+		holder = 68
+		government = "feudal"
+	}
+}
+
+c_bryah = {
+	2660.1.1 = {
+		holder = 72
+		government = "feudal"
+	}
+}
+
+c_doolgunna = {
+	2660.1.1 = {
+		holder = 72
+		government = "feudal"
+	}
+}
+
+d_gascoyne = {
+	2660.1.1 = {
+		holder = 0
+		government = "feudal"
+	}
+}
+
+c_clare = {
+	2660.1.1 = {
+		holder = 71
+		government = "feudal"
+	}
+}
+
+c_landor = {
+	2660.1.1 = {
+		holder = 70
+		government = "feudal"
+	}
+}
+
+c_mount_gould = {
+	2660.1.1 = {
+		holder = 66
+		government = "feudal"
+	}
+}
+
+c_beringarra = {
+	2660.1.1 = {
+		holder = 66
+		government = "feudal"
+	}
+}
+
+c_buttah = {
+	2660.1.1 = {
+		holder = 66
+		government = "feudal"
+	}
+}
+
+d_weld = {
+	2660.1.1 = {
+		holder = 66
+		government = "feudal"
+	}
+}
+
+c_mt_wittenoom = {
+	2660.1.1 = {
+		holder = 66
+		government = "feudal"
+	}
+}
+
+c_meekatharra = {
+	2660.1.1 = {
+		holder = 66
+		government = "feudal"
+	}
+}
+
+c_dalgaranga = {
+	2660.1.1 = {
+		holder = 66
+		government = "feudal"
+	}
+}
+
+c_cogla = {
+	2660.1.1 = {
+		holder = 67
+		government = "feudal"
+	}
+}
+
+c_wondinong = {
+	2660.1.1 = {
+		holder = 66
+		government = "feudal"
+	}
+}
+
+d_emu = {
+	2660.1.1 = {
+		holder = 68
+		government = "feudal"
+	}
+}
+
+c_walgi_gunya = {
+	2660.1.1 = {
+		holder = 67
+		government = "feudal"
+	}
+}
+
+c_north_pool = {
+	2660.1.1 = {
+		holder = 68
+		government = "feudal"
+	}
+}
+
+c_keith = {
+	2660.1.1 = {
+		holder = 68
+		government = "feudal"
+	}
+}
+
+c_depot_springs = {
+	2660.1.1 = {
+		holder = 68
+		government = "feudal"
+	}
+}
+
+c_mount_goode = {
+	2660.1.1 = {
+		holder = 29
+		government = "feudal"
+	}
+}
+

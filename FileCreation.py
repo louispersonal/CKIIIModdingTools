@@ -742,17 +742,18 @@ def write_title_history(landed_titles):
 def write_title_history_modified(landed_titles):
 
     for empire in landed_titles.empires:
-        f = open("titles/"+empire.name+".txt", "w")
+        f_e = open("titles/"+empire.name+".txt", "w")
         if not empire.holder == 0:
-            f.write(empire.name + " = {\n\t" + str(empire.year) + ".1.1 = {\n\t\tholder = "
-                    + str(empire.holder) + "\n")
+            f_e.write(empire.name + " = {\n\t" + str(empire.year) + ".1.1 = {\n\t\tholder = "
+                      + str(empire.holder) + "\n")
             if not empire.liege == "none":
-                f.write("\t\tliege = \"" + empire.liege + "\"\n")
+                f_e.write("\t\tliege = \"" + empire.liege + "\"\n")
             if not empire.government == "x":
-                f.write("\t\tgovernment = \"" + empire.government + "\"\n")
-            f.write("\t}\n}\n\n")
+                f_e.write("\t\tgovernment = \"" + empire.government + "\"\n")
+            f_e.write("\t}\n}\n\n")
 
         for kingdom in empire.kingdoms:
+            f = open("titles/" + kingdom.name + ".txt", "w")
             if not kingdom.holder == 0:
                 f.write(kingdom.name + " = {\n\t" + str(kingdom.year) + ".1.1 = {\n\t\tholder = "
                         + str(kingdom.holder) + "\n")
@@ -781,7 +782,7 @@ def write_title_history_modified(landed_titles):
                         if not county.government == "x":
                             f.write("\t\tgovernment = \"" + county.government + "\"\n")
                         f.write("\t}\n}\n\n")
-        f.close()
+        f_e.close()
 
 
 def apply_title_colors(landed_titles):

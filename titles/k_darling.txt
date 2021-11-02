@@ -1,0 +1,287 @@
+k_darling = {
+	2660.1.1 = {
+		holder = 0
+		government = "feudal"
+	}
+}
+
+d_killara = {
+	2660.1.1 = {
+		holder = 112
+		government = "feudal"
+	}
+}
+
+c_yungnulgra = {
+	2660.1.1 = {
+		holder = 112
+		government = "feudal"
+	}
+}
+
+c_fitzgerald = {
+	2660.1.1 = {
+		holder = 112
+		government = "feudal"
+	}
+}
+
+c_killara = {
+	2660.1.1 = {
+		holder = 112
+		government = "feudal"
+	}
+}
+
+d_clyde = {
+	2660.1.1 = {
+		holder = 0
+		government = "feudal"
+	}
+}
+
+c_landsborough = {
+	2660.1.1 = {
+		holder = 74
+		government = "feudal"
+	}
+}
+
+c_yanda = {
+	2660.1.1 = {
+		holder = 113
+		government = "feudal"
+	}
+}
+
+c_cowper = {
+	2660.1.1 = {
+		holder = 113
+		government = "feudal"
+	}
+}
+
+c_clyde = {
+	2660.1.1 = {
+		holder = 123
+		government = "feudal"
+	}
+}
+
+c_gregory = {
+	2660.1.1 = {
+		holder = 123
+		government = "feudal"
+	}
+}
+
+c_canbelego = {
+	2660.1.1 = {
+		holder = 113
+		government = "feudal"
+	}
+}
+
+d_mouramba = {
+	2660.1.1 = {
+		holder = 113
+		government = "feudal"
+	}
+}
+
+c_flinders = {
+	2660.1.1 = {
+		holder = 113
+		government = "feudal"
+	}
+}
+
+c_robinson = {
+	2660.1.1 = {
+		holder = 113
+		government = "feudal"
+	}
+}
+
+c_booroondarra = {
+	2660.1.1 = {
+		holder = 113
+		government = "feudal"
+	}
+}
+
+c_rankin = {
+	2660.1.1 = {
+		holder = 113
+		government = "feudal"
+	}
+}
+
+c_woore = {
+	2660.1.1 = {
+		holder = 113
+		government = "feudal"
+	}
+}
+
+c_mossgiel = {
+	2660.1.1 = {
+		holder = 100
+		government = "feudal"
+	}
+}
+
+c_blaxland = {
+	2660.1.1 = {
+		holder = 100
+		government = "feudal"
+	}
+}
+
+c_mouramba = {
+	2660.1.1 = {
+		holder = 113
+		government = "feudal"
+	}
+}
+
+d_tandora = {
+	2660.1.1 = {
+		holder = 110
+		government = "feudal"
+	}
+}
+
+c_werunda = {
+	2660.1.1 = {
+		holder = 113
+		government = "feudal"
+	}
+}
+
+c_young = {
+	2660.1.1 = {
+		holder = 112
+		government = "feudal"
+	}
+}
+
+c_tandora = {
+	2660.1.1 = {
+		holder = 110
+		government = "feudal"
+	}
+}
+
+c_yancowinna = {
+	2660.1.1 = {
+		holder = 110
+		government = "feudal"
+	}
+}
+
+c_menindee = {
+	2660.1.1 = {
+		holder = 110
+		government = "feudal"
+	}
+}
+
+c_livingstone = {
+	2660.1.1 = {
+		holder = 113
+		government = "feudal"
+	}
+}
+
+d_carrathool = {
+	2660.1.1 = {
+		holder = 100
+		government = "feudal"
+	}
+}
+
+c_franklin = {
+	2660.1.1 = {
+		holder = 100
+		government = "feudal"
+	}
+}
+
+c_waljeers = {
+	2660.1.1 = {
+		holder = 100
+		government = "feudal"
+	}
+}
+
+c_kilfera = {
+	2660.1.1 = {
+		holder = 100
+		government = "feudal"
+	}
+}
+
+c_caira = {
+	2660.1.1 = {
+		holder = 100
+		government = "feudal"
+	}
+}
+
+c_waradgery = {
+	2660.1.1 = {
+		holder = 100
+		government = "feudal"
+	}
+}
+
+d_wentworth = {
+	2660.1.1 = {
+		holder = 0
+		government = "feudal"
+	}
+}
+
+c_manara = {
+	2660.1.1 = {
+		holder = 100
+		government = "feudal"
+	}
+}
+
+c_perry = {
+	2660.1.1 = {
+		holder = 110
+		government = "feudal"
+	}
+}
+
+c_windeyer = {
+	2660.1.1 = {
+		holder = 110
+		government = "feudal"
+	}
+}
+
+c_tarawi = {
+	2660.1.1 = {
+		holder = 101
+		government = "feudal"
+	}
+}
+
+c_wentworth = {
+	2660.1.1 = {
+		holder = 101
+		government = "feudal"
+	}
+}
+
+c_taila = {
+	2660.1.1 = {
+		holder = 100
+		government = "feudal"
+	}
+}
+

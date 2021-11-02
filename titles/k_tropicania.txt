@@ -1,0 +1,217 @@
+k_tropicania = {
+	2660.1.1 = {
+		holder = 0
+		government = "feudal"
+	}
+}
+
+d_clermont = {
+	2660.1.1 = {
+		holder = 74
+		government = "feudal"
+	}
+}
+
+c_alpha = {
+	2660.1.1 = {
+		holder = 74
+		government = "feudal"
+	}
+}
+
+c_surbiton = {
+	2660.1.1 = {
+		holder = 74
+		government = "feudal"
+	}
+}
+
+c_clermont = {
+	2660.1.1 = {
+		holder = 74
+		government = "feudal"
+	}
+}
+
+d_mackay = {
+	2660.1.1 = {
+		holder = 74
+		government = "feudal"
+	}
+}
+
+c_carmila = {
+	2660.1.1 = {
+		holder = 74
+		government = "feudal"
+	}
+}
+
+c_dysart = {
+	2660.1.1 = {
+		holder = 74
+		government = "feudal"
+	}
+}
+
+c_moranbah = {
+	2660.1.1 = {
+		holder = 74
+		government = "feudal"
+	}
+}
+
+c_mackay = {
+	2660.1.1 = {
+		holder = 74
+		government = "feudal"
+	}
+}
+
+c_glenden = {
+	2660.1.1 = {
+		holder = 84
+		government = "feudal"
+	}
+}
+
+d_belyando = {
+	2660.1.1 = {
+		holder = 74
+		government = "feudal"
+	}
+}
+
+c_mount_coolon = {
+	2660.1.1 = {
+		holder = 74
+		government = "feudal"
+	}
+}
+
+c_willandspey = {
+	2660.1.1 = {
+		holder = 74
+		government = "feudal"
+	}
+}
+
+c_natal_downs = {
+	2660.1.1 = {
+		holder = 83
+		government = "feudal"
+	}
+}
+
+d_charters = {
+	2660.1.1 = {
+		holder = 85
+		government = "feudal"
+	}
+}
+
+c_corea_plains = {
+	2660.1.1 = {
+		holder = 85
+		government = "feudal"
+	}
+}
+
+c_charters_towers = {
+	2660.1.1 = {
+		holder = 85
+		government = "feudal"
+	}
+}
+
+c_pentland = {
+	2660.1.1 = {
+		holder = 85
+		government = "feudal"
+	}
+}
+
+c_basalt = {
+	2660.1.1 = {
+		holder = 87
+		government = "feudal"
+	}
+}
+
+d_brigalow = {
+	2660.1.1 = {
+		holder = 84
+		government = "feudal"
+	}
+}
+
+c_dalrymple = {
+	2660.1.1 = {
+		holder = 84
+		government = "feudal"
+	}
+}
+
+c_newlands = {
+	2660.1.1 = {
+		holder = 84
+		government = "feudal"
+	}
+}
+
+c_bowen = {
+	2660.1.1 = {
+		holder = 84
+		government = "feudal"
+	}
+}
+
+c_collinsville = {
+	2660.1.1 = {
+		holder = 84
+		government = "feudal"
+	}
+}
+
+c_ayr = {
+	2660.1.1 = {
+		holder = 84
+		government = "feudal"
+	}
+}
+
+d_paluma = {
+	2660.1.1 = {
+		holder = 87
+		government = "feudal"
+	}
+}
+
+c_townsville = {
+	2660.1.1 = {
+		holder = 87
+		government = "feudal"
+	}
+}
+
+c_greenvale = {
+	2660.1.1 = {
+		holder = 87
+		government = "feudal"
+	}
+}
+
+c_ingham = {
+	2660.1.1 = {
+		holder = 87
+		government = "feudal"
+	}
+}
+
+c_cardwell = {
+	2660.1.1 = {
+		holder = 87
+		government = "feudal"
+	}
+}
+

@@ -1,0 +1,189 @@
+k_orana = {
+	2660.1.1 = {
+		holder = 74
+		government = "feudal"
+	}
+}
+
+d_moonie = {
+	2660.1.1 = {
+		holder = 74
+		government = "feudal"
+	}
+}
+
+c_benarba = {
+	2660.1.1 = {
+		holder = 74
+		government = "feudal"
+	}
+}
+
+c_st_george = {
+	2660.1.1 = {
+		holder = 74
+		government = "feudal"
+	}
+}
+
+c_weengallon = {
+	2660.1.1 = {
+		holder = 74
+		government = "feudal"
+	}
+}
+
+c_southwood = {
+	2660.1.1 = {
+		holder = 74
+		government = "feudal"
+	}
+}
+
+d_orana = {
+	2660.1.1 = {
+		holder = 74
+		government = "feudal"
+	}
+}
+
+c_denham = {
+	2660.1.1 = {
+		holder = 123
+		government = "feudal"
+	}
+}
+
+c_finch = {
+	2660.1.1 = {
+		holder = 74
+		government = "feudal"
+	}
+}
+
+c_narran = {
+	2660.1.1 = {
+		holder = 74
+		government = "feudal"
+	}
+}
+
+d_paroo = {
+	2660.1.1 = {
+		holder = 74
+		government = "feudal"
+	}
+}
+
+c_south_culgoa = {
+	2660.1.1 = {
+		holder = 74
+		government = "feudal"
+	}
+}
+
+c_wooroorooka = {
+	2660.1.1 = {
+		holder = 74
+		government = "feudal"
+	}
+}
+
+c_cunnamulla = {
+	2660.1.1 = {
+		holder = 74
+		government = "feudal"
+	}
+}
+
+c_culgoa = {
+	2660.1.1 = {
+		holder = 74
+		government = "feudal"
+	}
+}
+
+d_irrara = {
+	2660.1.1 = {
+		holder = 74
+		government = "feudal"
+	}
+}
+
+c_gunderbooka = {
+	2660.1.1 = {
+		holder = 74
+		government = "feudal"
+	}
+}
+
+c_irrara = {
+	2660.1.1 = {
+		holder = 74
+		government = "feudal"
+	}
+}
+
+c_barrona = {
+	2660.1.1 = {
+		holder = 74
+		government = "feudal"
+	}
+}
+
+c_thoulcanna = {
+	2660.1.1 = {
+		holder = 114
+		government = "feudal"
+	}
+}
+
+c_kilcowera = {
+	2660.1.1 = {
+		holder = 114
+		government = "feudal"
+	}
+}
+
+c_currawinya = {
+	2660.1.1 = {
+		holder = 114
+		government = "feudal"
+	}
+}
+
+d_dirranbandi = {
+	2660.1.1 = {
+		holder = 74
+		government = "feudal"
+	}
+}
+
+c_dirranbandi = {
+	2660.1.1 = {
+		holder = 74
+		government = "feudal"
+	}
+}
+
+c_bollon = {
+	2660.1.1 = {
+		holder = 74
+		government = "feudal"
+	}
+}
+
+c_linden = {
+	2660.1.1 = {
+		holder = 74
+		government = "feudal"
+	}
+}
+
+c_begonia = {
+	2660.1.1 = {
+		holder = 74
+		government = "feudal"
+	}
+}
+

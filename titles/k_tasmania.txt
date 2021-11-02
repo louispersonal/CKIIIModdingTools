@@ -1,0 +1,224 @@
+k_tasmania = {
+	2660.1.1 = {
+		holder = 150
+		government = "feudal"
+	}
+}
+
+d_dorset = {
+	2660.1.1 = {
+		holder = 150
+		government = "feudal"
+	}
+}
+
+c_dorset = {
+	2660.1.1 = {
+		holder = 150
+		government = "feudal"
+	}
+}
+
+c_cornwall = {
+	2660.1.1 = {
+		holder = 150
+		government = "feudal"
+	}
+}
+
+d_tamar = {
+	2660.1.1 = {
+		holder = 150
+		government = "feudal"
+	}
+}
+
+c_launceston = {
+	2660.1.1 = {
+		holder = 150
+		government = "feudal"
+	}
+}
+
+c_glamorgan = {
+	2660.1.1 = {
+		holder = 150
+		government = "feudal"
+	}
+}
+
+c_somerset = {
+	2660.1.1 = {
+		holder = 150
+		government = "feudal"
+	}
+}
+
+c_tamar_valley = {
+	2660.1.1 = {
+		holder = 150
+		government = "feudal"
+	}
+}
+
+c_devon = {
+	2660.1.1 = {
+		holder = 150
+		government = "feudal"
+	}
+}
+
+d_savage = {
+	2660.1.1 = {
+		holder = 150
+		government = "feudal"
+	}
+}
+
+c_smithton = {
+	2660.1.1 = {
+		holder = 150
+		government = "feudal"
+	}
+}
+
+c_russell = {
+	2660.1.1 = {
+		holder = 150
+		government = "feudal"
+	}
+}
+
+c_montagu = {
+	2660.1.1 = {
+		holder = 150
+		government = "feudal"
+	}
+}
+
+d_plateau = {
+	2660.1.1 = {
+		holder = 150
+		government = "feudal"
+	}
+}
+
+c_central__plateau = {
+	2660.1.1 = {
+		holder = 150
+		government = "feudal"
+	}
+}
+
+c_westmoreland = {
+	2660.1.1 = {
+		holder = 150
+		government = "feudal"
+	}
+}
+
+d_tasman_highlands = {
+	2660.1.1 = {
+		holder = 150
+		government = "feudal"
+	}
+}
+
+c_franklin_river = {
+	2660.1.1 = {
+		holder = 150
+		government = "feudal"
+	}
+}
+
+c_montgomery = {
+	2660.1.1 = {
+		holder = 150
+		government = "feudal"
+	}
+}
+
+c_arthur = {
+	2660.1.1 = {
+		holder = 150
+		government = "feudal"
+	}
+}
+
+c_kent = {
+	2660.1.1 = {
+		holder = 150
+		government = "feudal"
+	}
+}
+
+d_derwentia = {
+	2660.1.1 = {
+		holder = 150
+		government = "feudal"
+	}
+}
+
+c_buckingham = {
+	2660.1.1 = {
+		holder = 150
+		government = "feudal"
+	}
+}
+
+c_monmouth = {
+	2660.1.1 = {
+		holder = 150
+		government = "feudal"
+	}
+}
+
+c_pembroke = {
+	2660.1.1 = {
+		holder = 150
+		government = "feudal"
+	}
+}
+
+c_york_plains = {
+	2660.1.1 = {
+		holder = 150
+		government = "feudal"
+	}
+}
+
+c_lagoons = {
+	2660.1.1 = {
+		holder = 150
+		government = "feudal"
+	}
+}
+
+d_king_island = {
+	2660.1.1 = {
+		holder = 150
+		government = "feudal"
+	}
+}
+
+c_king_island = {
+	2660.1.1 = {
+		holder = 150
+		government = "feudal"
+	}
+}
+
+d_furneaux = {
+	2660.1.1 = {
+		holder = 150
+		government = "feudal"
+	}
+}
+
+c_furneaux = {
+	2660.1.1 = {
+		holder = 150
+		government = "feudal"
+	}
+}
+

@@ -1,0 +1,210 @@
+k_kenetjaa = {
+	2660.1.1 = {
+		holder = 37
+		government = "feudal"
+	}
+}
+
+d_yertaangimo = {
+	2660.1.1 = {
+		holder = 45
+		government = "feudal"
+	}
+}
+
+c_roordool = {
+	2660.1.1 = {
+		holder = 45
+		government = "feudal"
+	}
+}
+
+c_ningirdideny = {
+	2660.1.1 = {
+		holder = 45
+		government = "feudal"
+	}
+}
+
+c_yayong = {
+	2660.1.1 = {
+		holder = 44
+		government = "feudal"
+	}
+}
+
+c_mootjirdedjeng = {
+	2660.1.1 = {
+		holder = 45
+		government = "feudal"
+	}
+}
+
+c_baardemirriri = {
+	2660.1.1 = {
+		holder = 45
+		government = "feudal"
+	}
+}
+
+d_morlaabalyoo = {
+	2660.1.1 = {
+		holder = 37
+		government = "feudal"
+	}
+}
+
+c_yaayemiboo = {
+	2660.1.1 = {
+		holder = 37
+		government = "feudal"
+	}
+}
+
+c_yibakiw = {
+	2660.1.1 = {
+		holder = 37
+		government = "feudal"
+	}
+}
+
+c_wingotj = {
+	2660.1.1 = {
+		holder = 37
+		government = "feudal"
+	}
+}
+
+c_ngon = {
+	2660.1.1 = {
+		holder = 37
+		government = "feudal"
+	}
+}
+
+c_wara = {
+	2660.1.1 = {
+		holder = 37
+		government = "feudal"
+	}
+}
+
+d_yootjoorloorra = {
+	2660.1.1 = {
+		holder = 37
+		government = "feudal"
+	}
+}
+
+c_ngorlany = {
+	2660.1.1 = {
+		holder = 37
+		government = "feudal"
+	}
+}
+
+c_dookinaayoo = {
+	2660.1.1 = {
+		holder = 37
+		government = "feudal"
+	}
+}
+
+c_nony = {
+	2660.1.1 = {
+		holder = 37
+		government = "feudal"
+	}
+}
+
+c_woordootj = {
+	2660.1.1 = {
+		holder = 37
+		government = "feudal"
+	}
+}
+
+d_bangadaanyo = {
+	2660.1.1 = {
+		holder = 37
+		government = "feudal"
+	}
+}
+
+c_yatjiyepon = {
+	2660.1.1 = {
+		holder = 37
+		government = "feudal"
+	}
+}
+
+c_namok = {
+	2660.1.1 = {
+		holder = 36
+		government = "feudal"
+	}
+}
+
+c_ratj = {
+	2660.1.1 = {
+		holder = 37
+		government = "feudal"
+	}
+}
+
+c_roorlerloodjip = {
+	2660.1.1 = {
+		holder = 37
+		government = "feudal"
+	}
+}
+
+c_ngarngaa = {
+	2660.1.1 = {
+		holder = 36
+		government = "feudal"
+	}
+}
+
+d_nyaaronorlong = {
+	2660.1.1 = {
+		holder = 37
+		government = "feudal"
+	}
+}
+
+c_metarnadjadaa = {
+	2660.1.1 = {
+		holder = 37
+		government = "feudal"
+	}
+}
+
+c_ronyipoom = {
+	2660.1.1 = {
+		holder = 37
+		government = "feudal"
+	}
+}
+
+c_korlaanyiw = {
+	2660.1.1 = {
+		holder = 37
+		government = "feudal"
+	}
+}
+
+c_kedirlo = {
+	2660.1.1 = {
+		holder = 37
+		government = "feudal"
+	}
+}
+
+c_noorrordaaw = {
+	2660.1.1 = {
+		holder = 37
+		government = "feudal"
+	}
+}
+

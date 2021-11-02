@@ -1,0 +1,133 @@
+k_tablelands = {
+	2660.1.1 = {
+		holder = 0
+		government = "feudal"
+	}
+}
+
+d_binghi = {
+	2660.1.1 = {
+		holder = 124
+		government = "feudal"
+	}
+}
+
+c_hawes = {
+	2660.1.1 = {
+		holder = 124
+		government = "feudal"
+	}
+}
+
+c_walcha = {
+	2660.1.1 = {
+		holder = 124
+		government = "feudal"
+	}
+}
+
+c_armidale = {
+	2660.1.1 = {
+		holder = 124
+		government = "feudal"
+	}
+}
+
+d_new_england_tablelands = {
+	2660.1.1 = {
+		holder = 127
+		government = "feudal"
+	}
+}
+
+c_clarke = {
+	2660.1.1 = {
+		holder = 124
+		government = "feudal"
+	}
+}
+
+c_gresham = {
+	2660.1.1 = {
+		holder = 126
+		government = "feudal"
+	}
+}
+
+c_tenterfield = {
+	2660.1.1 = {
+		holder = 127
+		government = "feudal"
+	}
+}
+
+c_glen_innes = {
+	2660.1.1 = {
+		holder = 127
+		government = "feudal"
+	}
+}
+
+d_new_highlands = {
+	2660.1.1 = {
+		holder = 74
+		government = "feudal"
+	}
+}
+
+c_drake = {
+	2660.1.1 = {
+		holder = 74
+		government = "feudal"
+	}
+}
+
+c_buller = {
+	2660.1.1 = {
+		holder = 74
+		government = "feudal"
+	}
+}
+
+d_nandewar = {
+	2660.1.1 = {
+		holder = 0
+		government = "feudal"
+	}
+}
+
+c_hardinge = {
+	2660.1.1 = {
+		holder = 124
+		government = "feudal"
+	}
+}
+
+c_darling = {
+	2660.1.1 = {
+		holder = 124
+		government = "feudal"
+	}
+}
+
+c_nandewar = {
+	2660.1.1 = {
+		holder = 123
+		government = "feudal"
+	}
+}
+
+c_murchison = {
+	2660.1.1 = {
+		holder = 124
+		government = "feudal"
+	}
+}
+
+c_jamison = {
+	2660.1.1 = {
+		holder = 123
+		government = "feudal"
+	}
+}
+

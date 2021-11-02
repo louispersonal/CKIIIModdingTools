@@ -1,0 +1,196 @@
+k_paradise = {
+	2660.1.1 = {
+		holder = 0
+		government = "feudal"
+	}
+}
+
+d_north_west_slopes = {
+	2660.1.1 = {
+		holder = 128
+		government = "feudal"
+	}
+}
+
+c_arrawatta = {
+	2660.1.1 = {
+		holder = 127
+		government = "feudal"
+	}
+}
+
+c_burnett = {
+	2660.1.1 = {
+		holder = 128
+		government = "feudal"
+	}
+}
+
+c_stapylton = {
+	2660.1.1 = {
+		holder = 128
+		government = "feudal"
+	}
+}
+
+c_courallie = {
+	2660.1.1 = {
+		holder = 128
+		government = "feudal"
+	}
+}
+
+d_goondiwindi = {
+	2660.1.1 = {
+		holder = 0
+		government = "feudal"
+	}
+}
+
+c_goondiwindi = {
+	2660.1.1 = {
+		holder = 128
+		government = "feudal"
+	}
+}
+
+c_inglewood = {
+	2660.1.1 = {
+		holder = 127
+		government = "feudal"
+	}
+}
+
+c_texas = {
+	2660.1.1 = {
+		holder = 127
+		government = "feudal"
+	}
+}
+
+c_warwick = {
+	2660.1.1 = {
+		holder = 74
+		government = "feudal"
+	}
+}
+
+c_millmerran = {
+	2660.1.1 = {
+		holder = 74
+		government = "feudal"
+	}
+}
+
+d_brisbane = {
+	2660.1.1 = {
+		holder = 74
+		government = "feudal"
+	}
+}
+
+c_boonah = {
+	2660.1.1 = {
+		holder = 74
+		government = "feudal"
+	}
+}
+
+c_surfers_paradise = {
+	2660.1.1 = {
+		holder = 74
+		government = "feudal"
+	}
+}
+
+c_brisbane = {
+	2660.1.1 = {
+		holder = 74
+		government = "feudal"
+	}
+}
+
+c_toowoomba = {
+	2660.1.1 = {
+		holder = 74
+		government = "feudal"
+	}
+}
+
+c_maroochydore = {
+	2660.1.1 = {
+		holder = 74
+		government = "feudal"
+	}
+}
+
+d_western_downs = {
+	2660.1.1 = {
+		holder = 74
+		government = "feudal"
+	}
+}
+
+c_miles = {
+	2660.1.1 = {
+		holder = 74
+		government = "feudal"
+	}
+}
+
+c_tara = {
+	2660.1.1 = {
+		holder = 74
+		government = "feudal"
+	}
+}
+
+c_dalby = {
+	2660.1.1 = {
+		holder = 74
+		government = "feudal"
+	}
+}
+
+c_chinchilla = {
+	2660.1.1 = {
+		holder = 74
+		government = "feudal"
+	}
+}
+
+d_sunshine = {
+	2660.1.1 = {
+		holder = 74
+		government = "feudal"
+	}
+}
+
+c_kingaroy = {
+	2660.1.1 = {
+		holder = 74
+		government = "feudal"
+	}
+}
+
+c_sunshine_coast = {
+	2660.1.1 = {
+		holder = 74
+		government = "feudal"
+	}
+}
+
+c_maryborough = {
+	2660.1.1 = {
+		holder = 74
+		government = "feudal"
+	}
+}
+
+c_mundubbera = {
+	2660.1.1 = {
+		holder = 74
+		government = "feudal"
+	}
+}
+

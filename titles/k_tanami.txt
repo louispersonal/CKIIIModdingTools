@@ -1,0 +1,168 @@
+k_tanami = {
+	2660.1.1 = {
+		holder = 0
+		government = "feudal"
+	}
+}
+
+d_warlmanpa = {
+	2660.1.1 = {
+		holder = 10
+		government = "feudal"
+	}
+}
+
+c_kijakija = {
+	2660.1.1 = {
+		holder = 10
+		government = "feudal"
+	}
+}
+
+c_karlantijpa_north = {
+	2660.1.1 = {
+		holder = 10
+		government = "feudal"
+	}
+}
+
+c_mirirriyungu = {
+	2660.1.1 = {
+		holder = 10
+		government = "feudal"
+	}
+}
+
+d_gurindji = {
+	2660.1.1 = {
+		holder = 0
+		government = "feudal"
+	}
+}
+
+c_malngin = {
+	2660.1.1 = {
+		holder = 59
+		government = "feudal"
+	}
+}
+
+c_hooker_creek = {
+	2660.1.1 = {
+		holder = 59
+		government = "feudal"
+	}
+}
+
+c_lajamanu = {
+	2660.1.1 = {
+		holder = 10
+		government = "feudal"
+	}
+}
+
+c_pinja = {
+	2660.1.1 = {
+		holder = 10
+		government = "feudal"
+	}
+}
+
+d_kija = {
+	2660.1.1 = {
+		holder = 0
+		government = "feudal"
+	}
+}
+
+c_yingualyalya = {
+	2660.1.1 = {
+		holder = 59
+		government = "feudal"
+	}
+}
+
+c_marella_gorge = {
+	2660.1.1 = {
+		holder = 59
+		government = "feudal"
+	}
+}
+
+c_sturt_creek = {
+	2660.1.1 = {
+		holder = 59
+		government = "feudal"
+	}
+}
+
+c_kundat_djaru = {
+	2660.1.1 = {
+		holder = 59
+		government = "feudal"
+	}
+}
+
+d_tanami_pass = {
+	2660.1.1 = {
+		holder = 6
+		government = "feudal"
+	}
+}
+
+c_purta = {
+	2660.1.1 = {
+		holder = 6
+		government = "feudal"
+	}
+}
+
+c_bluebush_hills = {
+	2660.1.1 = {
+		holder = 6
+		government = "feudal"
+	}
+}
+
+c_jarntu = {
+	2660.1.1 = {
+		holder = 6
+		government = "feudal"
+	}
+}
+
+c_yuluputaji = {
+	2660.1.1 = {
+		holder = 6
+		government = "feudal"
+	}
+}
+
+d_south_tanami = {
+	2660.1.1 = {
+		holder = 0
+		government = "feudal"
+	}
+}
+
+c_tanami = {
+	2660.1.1 = {
+		holder = 6
+		government = "feudal"
+	}
+}
+
+c_walangawanu = {
+	2660.1.1 = {
+		holder = 28
+		government = "feudal"
+	}
+}
+
+c_wirliyajarrayl = {
+	2660.1.1 = {
+		holder = 28
+		government = "feudal"
+	}
+}
+

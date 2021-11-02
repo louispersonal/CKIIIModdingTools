@@ -1,0 +1,210 @@
+k_darnhem = {
+	2660.1.1 = {
+		holder = 0
+		government = "feudal"
+	}
+}
+
+d_darwin = {
+	2660.1.1 = {
+		holder = 17
+		government = "feudal"
+	}
+}
+
+c_tiwi = {
+	2660.1.1 = {
+		holder = 21
+		government = "feudal"
+	}
+}
+
+c_darwin = {
+	2660.1.1 = {
+		holder = 17
+		government = "feudal"
+	}
+}
+
+c_litchfield = {
+	2660.1.1 = {
+		holder = 53
+		government = "feudal"
+	}
+}
+
+c_pine_creek = {
+	2660.1.1 = {
+		holder = 17
+		government = "feudal"
+	}
+}
+
+c_nauiyu = {
+	2660.1.1 = {
+		holder = 53
+		government = "feudal"
+	}
+}
+
+d_kakadu = {
+	2660.1.1 = {
+		holder = 0
+		government = "feudal"
+	}
+}
+
+c_swim_creek = {
+	2660.1.1 = {
+		holder = 17
+		government = "feudal"
+	}
+}
+
+c_north_kakadu = {
+	2660.1.1 = {
+		holder = 17
+		government = "feudal"
+	}
+}
+
+c_south_kakadu = {
+	2660.1.1 = {
+		holder = 17
+		government = "feudal"
+	}
+}
+
+c_nitmiluk = {
+	2660.1.1 = {
+		holder = 15
+		government = "feudal"
+	}
+}
+
+d_arnhem = {
+	2660.1.1 = {
+		holder = 18
+		government = "feudal"
+	}
+}
+
+c_garig_gunak_barlu = {
+	2660.1.1 = {
+		holder = 18
+		government = "feudal"
+	}
+}
+
+c_waldaboonar = {
+	2660.1.1 = {
+		holder = 18
+		government = "feudal"
+	}
+}
+
+c_maningrida = {
+	2660.1.1 = {
+		holder = 18
+		government = "feudal"
+	}
+}
+
+c_warddeken = {
+	2660.1.1 = {
+		holder = 18
+		government = "feudal"
+	}
+}
+
+d_yolngu = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal"
+	}
+}
+
+c_ramingining = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal"
+	}
+}
+
+c_marthakal = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal"
+	}
+}
+
+c_nhulunbuy = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal"
+	}
+}
+
+c_nurnbulwar = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal"
+	}
+}
+
+c_ngalkbun = {
+	2660.1.1 = {
+		holder = 19
+		government = "feudal"
+	}
+}
+
+d_dangbon = {
+	2660.1.1 = {
+		holder = 16
+		government = "feudal"
+	}
+}
+
+c_bulman = {
+	2660.1.1 = {
+		holder = 16
+		government = "feudal"
+	}
+}
+
+c_arnhem_plateau = {
+	2660.1.1 = {
+		holder = 16
+		government = "feudal"
+	}
+}
+
+c_urapunga = {
+	2660.1.1 = {
+		holder = 16
+		government = "feudal"
+	}
+}
+
+d_carpentaria = {
+	2660.1.1 = {
+		holder = 0
+		government = "feudal"
+	}
+}
+
+c_st_vidgeon = {
+	2660.1.1 = {
+		holder = 14
+		government = "feudal"
+	}
+}
+
+c_angurugu = {
+	2660.1.1 = {
+		holder = 20
+		government = "feudal"
+	}
+}
+

@@ -1,0 +1,196 @@
+k_nullarbor = {
+	2660.1.1 = {
+		holder = 95
+		government = "feudal"
+	}
+}
+
+d_bights_end = {
+	2660.1.1 = {
+		holder = 95
+		government = "feudal"
+	}
+}
+
+c_matheus = {
+	2660.1.1 = {
+		holder = 95
+		government = "feudal"
+	}
+}
+
+c_pondama = {
+	2660.1.1 = {
+		holder = 95
+		government = "feudal"
+	}
+}
+
+c_woorlba = {
+	2660.1.1 = {
+		holder = 95
+		government = "feudal"
+	}
+}
+
+c_nuytsland = {
+	2660.1.1 = {
+		holder = 95
+		government = "feudal"
+	}
+}
+
+d_lime = {
+	2660.1.1 = {
+		holder = 0
+		government = "feudal"
+	}
+}
+
+c_carston = {
+	2660.1.1 = {
+		holder = 137
+		government = "feudal"
+	}
+}
+
+c_rawlinna = {
+	2660.1.1 = {
+		holder = 96
+		government = "feudal"
+	}
+}
+
+c_dortmund = {
+	2660.1.1 = {
+		holder = 96
+		government = "feudal"
+	}
+}
+
+c_plumridge = {
+	2660.1.1 = {
+		holder = 96
+		government = "feudal"
+	}
+}
+
+c_premier = {
+	2660.1.1 = {
+		holder = 96
+		government = "feudal"
+	}
+}
+
+d_nullarbor_plain = {
+	2660.1.1 = {
+		holder = 96
+		government = "feudal"
+	}
+}
+
+c_tysonia = {
+	2660.1.1 = {
+		holder = 96
+		government = "feudal"
+	}
+}
+
+c_sleeper_camp = {
+	2660.1.1 = {
+		holder = 96
+		government = "feudal"
+	}
+}
+
+c_south_victoria_desert = {
+	2660.1.1 = {
+		holder = 96
+		government = "feudal"
+	}
+}
+
+c_huron = {
+	2660.1.1 = {
+		holder = 95
+		government = "feudal"
+	}
+}
+
+d_praeceps = {
+	2660.1.1 = {
+		holder = 0
+		government = "feudal"
+	}
+}
+
+c_marvin = {
+	2660.1.1 = {
+		holder = 93
+		government = "feudal"
+	}
+}
+
+c_eucla = {
+	2660.1.1 = {
+		holder = 95
+		government = "feudal"
+	}
+}
+
+c_cook_station = {
+	2660.1.1 = {
+		holder = 93
+		government = "feudal"
+	}
+}
+
+c_west_yellabinna = {
+	2660.1.1 = {
+		holder = 93
+		government = "feudal"
+	}
+}
+
+c_nullarbor_cliffs = {
+	2660.1.1 = {
+		holder = 95
+		government = "feudal"
+	}
+}
+
+d_south_roe = {
+	2660.1.1 = {
+		holder = 95
+		government = "feudal"
+	}
+}
+
+c_cocklebiddy = {
+	2660.1.1 = {
+		holder = 95
+		government = "feudal"
+	}
+}
+
+c_kybo = {
+	2660.1.1 = {
+		holder = 95
+		government = "feudal"
+	}
+}
+
+c_madura = {
+	2660.1.1 = {
+		holder = 95
+		government = "feudal"
+	}
+}
+
+c_mundrabilla = {
+	2660.1.1 = {
+		holder = 95
+		government = "feudal"
+	}
+}
+

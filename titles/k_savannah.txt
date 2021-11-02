@@ -1,0 +1,224 @@
+k_savannah = {
+	2660.1.1 = {
+		holder = 0
+		government = "feudal"
+	}
+}
+
+d_norman_plains = {
+	2660.1.1 = {
+		holder = 85
+		government = "feudal"
+	}
+}
+
+c_savannah = {
+	2660.1.1 = {
+		holder = 85
+		government = "feudal"
+	}
+}
+
+c_vena_park = {
+	2660.1.1 = {
+		holder = 85
+		government = "feudal"
+	}
+}
+
+c_normanton = {
+	2660.1.1 = {
+		holder = 78
+		government = "feudal"
+	}
+}
+
+c_croydon = {
+	2660.1.1 = {
+		holder = 85
+		government = "feudal"
+	}
+}
+
+d_armraynald = {
+	2660.1.1 = {
+		holder = 0
+		government = "feudal"
+	}
+}
+
+c_burke_and_wills = {
+	2660.1.1 = {
+		holder = 86
+		government = "feudal"
+	}
+}
+
+c_granada = {
+	2660.1.1 = {
+		holder = 86
+		government = "feudal"
+	}
+}
+
+c_gregory_downs = {
+	2660.1.1 = {
+		holder = 79
+		government = "feudal"
+	}
+}
+
+c_bang_bang = {
+	2660.1.1 = {
+		holder = 79
+		government = "feudal"
+	}
+}
+
+d_lawn_hill = {
+	2660.1.1 = {
+		holder = 0
+		government = "feudal"
+	}
+}
+
+c_gunpowder = {
+	2660.1.1 = {
+		holder = 86
+		government = "feudal"
+	}
+}
+
+c_old_herbert_vale = {
+	2660.1.1 = {
+		holder = 8
+		government = "feudal"
+	}
+}
+
+c_boodjamulla = {
+	2660.1.1 = {
+		holder = 9
+		government = "feudal"
+	}
+}
+
+c_carrara = {
+	2660.1.1 = {
+		holder = 8
+		government = "feudal"
+	}
+}
+
+d_doomadgee = {
+	2660.1.1 = {
+		holder = 9
+		government = "feudal"
+	}
+}
+
+c_corinda_ruins = {
+	2660.1.1 = {
+		holder = 9
+		government = "feudal"
+	}
+}
+
+c_punjaub = {
+	2660.1.1 = {
+		holder = 9
+		government = "feudal"
+	}
+}
+
+c_gangalidda = {
+	2660.1.1 = {
+		holder = 9
+		government = "feudal"
+	}
+}
+
+c_garawa = {
+	2660.1.1 = {
+		holder = 9
+		government = "feudal"
+	}
+}
+
+c_echo_gorge = {
+	2660.1.1 = {
+		holder = 9
+		government = "feudal"
+	}
+}
+
+d_gulf_savannah = {
+	2660.1.1 = {
+		holder = 0
+		government = "feudal"
+	}
+}
+
+c_burketown = {
+	2660.1.1 = {
+		holder = 9
+		government = "feudal"
+	}
+}
+
+c_karumba = {
+	2660.1.1 = {
+		holder = 79
+		government = "feudal"
+	}
+}
+
+c_yangoo = {
+	2660.1.1 = {
+		holder = 78
+		government = "feudal"
+	}
+}
+
+d_kunjen = {
+	2660.1.1 = {
+		holder = 78
+		government = "feudal"
+	}
+}
+
+c_red_river = {
+	2660.1.1 = {
+		holder = 78
+		government = "feudal"
+	}
+}
+
+c_vanrook = {
+	2660.1.1 = {
+		holder = 78
+		government = "feudal"
+	}
+}
+
+c_dunbar = {
+	2660.1.1 = {
+		holder = 78
+		government = "feudal"
+	}
+}
+
+c_staaten_river = {
+	2660.1.1 = {
+		holder = 87
+		government = "feudal"
+	}
+}
+
+c_blackdown = {
+	2660.1.1 = {
+		holder = 87
+		government = "feudal"
+	}
+}
+

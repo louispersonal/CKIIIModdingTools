@@ -1,0 +1,196 @@
+k_barkly = {
+	2660.1.1 = {
+		holder = 0
+		government = "feudal"
+	}
+}
+
+d_boulia = {
+	2660.1.1 = {
+		holder = 82
+		government = "feudal"
+	}
+}
+
+c_cravens_peak = {
+	2660.1.1 = {
+		holder = 81
+		government = "feudal"
+	}
+}
+
+c_canary = {
+	2660.1.1 = {
+		holder = 82
+		government = "feudal"
+	}
+}
+
+c_lucknow = {
+	2660.1.1 = {
+		holder = 82
+		government = "feudal"
+	}
+}
+
+c_boulia = {
+	2660.1.1 = {
+		holder = 82
+		government = "feudal"
+	}
+}
+
+d_middletonia = {
+	2660.1.1 = {
+		holder = 86
+		government = "feudal"
+	}
+}
+
+c_goneaway = {
+	2660.1.1 = {
+		holder = 86
+		government = "feudal"
+	}
+}
+
+c_cork = {
+	2660.1.1 = {
+		holder = 86
+		government = "feudal"
+	}
+}
+
+c_verdun_valley = {
+	2660.1.1 = {
+		holder = 86
+		government = "feudal"
+	}
+}
+
+c_middleton = {
+	2660.1.1 = {
+		holder = 86
+		government = "feudal"
+	}
+}
+
+c_kalkadooh = {
+	2660.1.1 = {
+		holder = 86
+		government = "feudal"
+	}
+}
+
+d_barkly_tableland = {
+	2660.1.1 = {
+		holder = 3
+		government = "feudal"
+	}
+}
+
+c_tobermorey = {
+	2660.1.1 = {
+		holder = 82
+		government = "feudal"
+	}
+}
+
+c_linda_downs = {
+	2660.1.1 = {
+		holder = 82
+		government = "feudal"
+	}
+}
+
+c_urandangi = {
+	2660.1.1 = {
+		holder = 3
+		government = "feudal"
+	}
+}
+
+c_barkly = {
+	2660.1.1 = {
+		holder = 3
+		government = "feudal"
+	}
+}
+
+c_duchess = {
+	2660.1.1 = {
+		holder = 82
+		government = "feudal"
+	}
+}
+
+c_alpurrurulam = {
+	2660.1.1 = {
+		holder = 3
+		government = "feudal"
+	}
+}
+
+d_minelands = {
+	2660.1.1 = {
+		holder = 0
+		government = "feudal"
+	}
+}
+
+c_aiderley = {
+	2660.1.1 = {
+		holder = 82
+		government = "feudal"
+	}
+}
+
+c_monument = {
+	2660.1.1 = {
+		holder = 82
+		government = "feudal"
+	}
+}
+
+c_brackenburgh = {
+	2660.1.1 = {
+		holder = 82
+		government = "feudal"
+	}
+}
+
+d_andegerebenha = {
+	2660.1.1 = {
+		holder = 2
+		government = "feudal"
+	}
+}
+
+c_bularnu = {
+	2660.1.1 = {
+		holder = 3
+		government = "feudal"
+	}
+}
+
+c_alewatyerre = {
+	2660.1.1 = {
+		holder = 2
+		government = "feudal"
+	}
+}
+
+c_aywerte = {
+	2660.1.1 = {
+		holder = 2
+		government = "feudal"
+	}
+}
+
+c_yerrampe = {
+	2660.1.1 = {
+		holder = 2
+		government = "feudal"
+	}
+}
+

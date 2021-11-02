@@ -1,0 +1,343 @@
+k_arandia = {
+	2660.1.1 = {
+		holder = 27
+		government = "feudal"
+	}
+}
+
+d_yuendumu = {
+	2660.1.1 = {
+		holder = 27
+		government = "feudal"
+	}
+}
+
+c_mala = {
+	2660.1.1 = {
+		holder = 27
+		government = "feudal"
+	}
+}
+
+c_nungumanu = {
+	2660.1.1 = {
+		holder = 28
+		government = "feudal"
+	}
+}
+
+c_yuendumu = {
+	2660.1.1 = {
+		holder = 27
+		government = "feudal"
+	}
+}
+
+c_ngalurrtju = {
+	2660.1.1 = {
+		holder = 27
+		government = "feudal"
+	}
+}
+
+d_pintupi = {
+	2660.1.1 = {
+		holder = 27
+		government = "feudal"
+	}
+}
+
+c_lake_mackay = {
+	2660.1.1 = {
+		holder = 27
+		government = "feudal"
+	}
+}
+
+c_nyirripi = {
+	2660.1.1 = {
+		holder = 27
+		government = "feudal"
+	}
+}
+
+c_walunguru = {
+	2660.1.1 = {
+		holder = 26
+		government = "feudal"
+	}
+}
+
+d_anmatyerre = {
+	2660.1.1 = {
+		holder = 0
+		government = "feudal"
+	}
+}
+
+c_pawu = {
+	2660.1.1 = {
+		holder = 28
+		government = "feudal"
+	}
+}
+
+c_wilora = {
+	2660.1.1 = {
+		holder = 5
+		government = "feudal"
+	}
+}
+
+c_yuelamu = {
+	2660.1.1 = {
+		holder = 28
+		government = "feudal"
+	}
+}
+
+c_pmara_jutunta = {
+	2660.1.1 = {
+		holder = 28
+		government = "feudal"
+	}
+}
+
+c_alkwert = {
+	2660.1.1 = {
+		holder = 2
+		government = "feudal"
+	}
+}
+
+d_alyawerre = {
+	2660.1.1 = {
+		holder = 0
+		government = "feudal"
+	}
+}
+
+c_indaringinya = {
+	2660.1.1 = {
+		holder = 4
+		government = "feudal"
+	}
+}
+
+c_ampilatwatja = {
+	2660.1.1 = {
+		holder = 4
+		government = "feudal"
+	}
+}
+
+c_doratippra = {
+	2660.1.1 = {
+		holder = 3
+		government = "feudal"
+	}
+}
+
+c_dulcie = {
+	2660.1.1 = {
+		holder = 2
+		government = "feudal"
+	}
+}
+
+c_angarapa = {
+	2660.1.1 = {
+		holder = 2
+		government = "feudal"
+	}
+}
+
+d_arrernte = {
+	2660.1.1 = {
+		holder = 0
+		government = "feudal"
+	}
+}
+
+c_ruby_gap = {
+	2660.1.1 = {
+		holder = 25
+		government = "feudal"
+	}
+}
+
+c_pmere_nyente = {
+	2660.1.1 = {
+		holder = 24
+		government = "feudal"
+	}
+}
+
+c_old_andado = {
+	2660.1.1 = {
+		holder = 1
+		government = "feudal"
+	}
+}
+
+c_aputula = {
+	2660.1.1 = {
+		holder = 1
+		government = "feudal"
+	}
+}
+
+c_titjikala = {
+	2660.1.1 = {
+		holder = 1
+		government = "feudal"
+	}
+}
+
+c_ltyentye_apurte = {
+	2660.1.1 = {
+		holder = 24
+		government = "feudal"
+	}
+}
+
+d_alicia = {
+	2660.1.1 = {
+		holder = 25
+		government = "feudal"
+	}
+}
+
+c_injulkama = {
+	2660.1.1 = {
+		holder = 25
+		government = "feudal"
+	}
+}
+
+c_hart = {
+	2660.1.1 = {
+		holder = 25
+		government = "feudal"
+	}
+}
+
+c_alice_springs = {
+	2660.1.1 = {
+		holder = 25
+		government = "feudal"
+	}
+}
+
+c_tjoritja = {
+	2660.1.1 = {
+		holder = 23
+		government = "feudal"
+	}
+}
+
+c_orange_creek = {
+	2660.1.1 = {
+		holder = 23
+		government = "feudal"
+	}
+}
+
+d_luritja = {
+	2660.1.1 = {
+		holder = 22
+		government = "feudal"
+	}
+}
+
+c_ikuntji = {
+	2660.1.1 = {
+		holder = 23
+		government = "feudal"
+	}
+}
+
+c_mount_liebig = {
+	2660.1.1 = {
+		holder = 26
+		government = "feudal"
+	}
+}
+
+c_katiti = {
+	2660.1.1 = {
+		holder = 22
+		government = "feudal"
+	}
+}
+
+c_watarrka = {
+	2660.1.1 = {
+		holder = 22
+		government = "feudal"
+	}
+}
+
+d_pitjantjatjara = {
+	2660.1.1 = {
+		holder = 12
+		government = "feudal"
+	}
+}
+
+c_kaltukatjara = {
+	2660.1.1 = {
+		holder = 12
+		government = "feudal"
+	}
+}
+
+c_uluru = {
+	2660.1.1 = {
+		holder = 22
+		government = "feudal"
+	}
+}
+
+c_kurkutjara = {
+	2660.1.1 = {
+		holder = 12
+		government = "feudal"
+	}
+}
+
+d_kulgera = {
+	2660.1.1 = {
+		holder = 0
+		government = "feudal"
+	}
+}
+
+c_liddle_hills = {
+	2660.1.1 = {
+		holder = 22
+		government = "feudal"
+	}
+}
+
+c_tipunynga = {
+	2660.1.1 = {
+		holder = 12
+		government = "feudal"
+	}
+}
+
+c_erldunda = {
+	2660.1.1 = {
+		holder = 1
+		government = "feudal"
+	}
+}
+
+c_kulgera = {
+	2660.1.1 = {
+		holder = 0
+		government = "feudal"
+	}
+}
+

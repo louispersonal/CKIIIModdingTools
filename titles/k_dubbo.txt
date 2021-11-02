@@ -1,0 +1,189 @@
+k_dubbo = {
+	2660.1.1 = {
+		holder = 123
+		government = "feudal"
+	}
+}
+
+d_mudgee = {
+	2660.1.1 = {
+		holder = 0
+		government = "feudal"
+	}
+}
+
+c_wellington = {
+	2660.1.1 = {
+		holder = 123
+		government = "feudal"
+	}
+}
+
+c_roxburgh = {
+	2660.1.1 = {
+		holder = 116
+		government = "feudal"
+	}
+}
+
+c_gulgong = {
+	2660.1.1 = {
+		holder = 120
+		government = "feudal"
+	}
+}
+
+c_bligh = {
+	2660.1.1 = {
+		holder = 123
+		government = "feudal"
+	}
+}
+
+d_tamworth = {
+	2660.1.1 = {
+		holder = 124
+		government = "feudal"
+	}
+}
+
+c_inglis = {
+	2660.1.1 = {
+		holder = 124
+		government = "feudal"
+	}
+}
+
+c_tamworth = {
+	2660.1.1 = {
+		holder = 124
+		government = "feudal"
+	}
+}
+
+c_carroll = {
+	2660.1.1 = {
+		holder = 124
+		government = "feudal"
+	}
+}
+
+c_pottinger = {
+	2660.1.1 = {
+		holder = 123
+		government = "feudal"
+	}
+}
+
+d_leichardt = {
+	2660.1.1 = {
+		holder = 123
+		government = "feudal"
+	}
+}
+
+c_white = {
+	2660.1.1 = {
+		holder = 123
+		government = "feudal"
+	}
+}
+
+c_napier = {
+	2660.1.1 = {
+		holder = 123
+		government = "feudal"
+	}
+}
+
+c_gowen = {
+	2660.1.1 = {
+		holder = 123
+		government = "feudal"
+	}
+}
+
+c_baradine = {
+	2660.1.1 = {
+		holder = 123
+		government = "feudal"
+	}
+}
+
+c_leichardt = {
+	2660.1.1 = {
+		holder = 123
+		government = "feudal"
+	}
+}
+
+d_lincoln = {
+	2660.1.1 = {
+		holder = 123
+		government = "feudal"
+	}
+}
+
+c_dubbo = {
+	2660.1.1 = {
+		holder = 123
+		government = "feudal"
+	}
+}
+
+c_gordon = {
+	2660.1.1 = {
+		holder = 123
+		government = "feudal"
+	}
+}
+
+c_ashburnham = {
+	2660.1.1 = {
+		holder = 115
+		government = "feudal"
+	}
+}
+
+d_ewenmar = {
+	2660.1.1 = {
+		holder = 0
+		government = "feudal"
+	}
+}
+
+c_cunningham = {
+	2660.1.1 = {
+		holder = 100
+		government = "feudal"
+	}
+}
+
+c_kennedy = {
+	2660.1.1 = {
+		holder = 115
+		government = "feudal"
+	}
+}
+
+c_narromine = {
+	2660.1.1 = {
+		holder = 115
+		government = "feudal"
+	}
+}
+
+c_ewenmar = {
+	2660.1.1 = {
+		holder = 123
+		government = "feudal"
+	}
+}
+
+c_oxley = {
+	2660.1.1 = {
+		holder = 123
+		government = "feudal"
+	}
+}
+

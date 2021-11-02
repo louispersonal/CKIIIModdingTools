@@ -1,0 +1,266 @@
+k_gunwinjguan = {
+	2660.1.1 = {
+		holder = 0
+		government = "feudal"
+	}
+}
+
+d_daly = {
+	2660.1.1 = {
+		holder = 15
+		government = "feudal"
+	}
+}
+
+c_peppimenarti = {
+	2660.1.1 = {
+		holder = 53
+		government = "feudal"
+	}
+}
+
+c_wagiman = {
+	2660.1.1 = {
+		holder = 15
+		government = "feudal"
+	}
+}
+
+c_giwining = {
+	2660.1.1 = {
+		holder = 15
+		government = "feudal"
+	}
+}
+
+c_yambarran_range = {
+	2660.1.1 = {
+		holder = 53
+		government = "feudal"
+	}
+}
+
+c_gorrie = {
+	2660.1.1 = {
+		holder = 15
+		government = "feudal"
+	}
+}
+
+d_sturt = {
+	2660.1.1 = {
+		holder = 15
+		government = "feudal"
+	}
+}
+
+c_katherine = {
+	2660.1.1 = {
+		holder = 15
+		government = "feudal"
+	}
+}
+
+c_daly_waters = {
+	2660.1.1 = {
+		holder = 15
+		government = "feudal"
+	}
+}
+
+d_alawa = {
+	2660.1.1 = {
+		holder = 14
+		government = "feudal"
+	}
+}
+
+c_minyerri = {
+	2660.1.1 = {
+		holder = 14
+		government = "feudal"
+	}
+}
+
+c_alawa = {
+	2660.1.1 = {
+		holder = 14
+		government = "feudal"
+	}
+}
+
+c_limmen = {
+	2660.1.1 = {
+		holder = 14
+		government = "feudal"
+	}
+}
+
+c_tanumbirina = {
+	2660.1.1 = {
+		holder = 11
+		government = "feudal"
+	}
+}
+
+c_billengarah = {
+	2660.1.1 = {
+		holder = 13
+		government = "feudal"
+	}
+}
+
+d_cambridge_gulf = {
+	2660.1.1 = {
+		holder = 53
+		government = "feudal"
+	}
+}
+
+c_keep_river = {
+	2660.1.1 = {
+		holder = 53
+		government = "feudal"
+	}
+}
+
+c_kununurra = {
+	2660.1.1 = {
+		holder = 53
+		government = "feudal"
+	}
+}
+
+c_lake_argyle = {
+	2660.1.1 = {
+		holder = 53
+		government = "feudal"
+	}
+}
+
+c_horne_valley = {
+	2660.1.1 = {
+		holder = 53
+		government = "feudal"
+	}
+}
+
+c_oombulgurri = {
+	2660.1.1 = {
+		holder = 53
+		government = "feudal"
+	}
+}
+
+d_keep_river = {
+	2660.1.1 = {
+		holder = 53
+		government = "feudal"
+	}
+}
+
+c_nagurunguru = {
+	2660.1.1 = {
+		holder = 53
+		government = "feudal"
+	}
+}
+
+c_judbarra = {
+	2660.1.1 = {
+		holder = 53
+		government = "feudal"
+	}
+}
+
+c_timber_creek = {
+	2660.1.1 = {
+		holder = 53
+		government = "feudal"
+	}
+}
+
+c_yarralin = {
+	2660.1.1 = {
+		holder = 53
+		government = "feudal"
+	}
+}
+
+c_darfu_darfu = {
+	2660.1.1 = {
+		holder = 53
+		government = "feudal"
+	}
+}
+
+d_mudburra = {
+	2660.1.1 = {
+		holder = 0
+		government = "feudal"
+	}
+}
+
+c_hidden_valley = {
+	2660.1.1 = {
+		holder = 15
+		government = "feudal"
+	}
+}
+
+c_dirrjirrina = {
+	2660.1.1 = {
+		holder = 15
+		government = "feudal"
+	}
+}
+
+c_wampana = {
+	2660.1.1 = {
+		holder = 10
+		government = "feudal"
+	}
+}
+
+c_daguragu = {
+	2660.1.1 = {
+		holder = 10
+		government = "feudal"
+	}
+}
+
+d_jingili_ngandji = {
+	2660.1.1 = {
+		holder = 0
+		government = "feudal"
+	}
+}
+
+c_marlinja = {
+	2660.1.1 = {
+		holder = 11
+		government = "feudal"
+	}
+}
+
+c_mungabroom = {
+	2660.1.1 = {
+		holder = 8
+		government = "feudal"
+	}
+}
+
+c_mambaliya = {
+	2660.1.1 = {
+		holder = 8
+		government = "feudal"
+	}
+}
+
+c_renner_springs = {
+	2660.1.1 = {
+		holder = 5
+		government = "feudal"
+	}
+}
+

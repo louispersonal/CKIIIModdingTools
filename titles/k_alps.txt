@@ -1,0 +1,126 @@
+k_alps = {
+	2660.1.1 = {
+		holder = 0
+		government = "feudal"
+	}
+}
+
+d_high_country = {
+	2660.1.1 = {
+		holder = 0
+		government = "feudal"
+	}
+}
+
+c_anglesey = {
+	2660.1.1 = {
+		holder = 119
+		government = "feudal"
+	}
+}
+
+c_delatite = {
+	2660.1.1 = {
+		holder = 119
+		government = "feudal"
+	}
+}
+
+c_wonnangatta = {
+	2660.1.1 = {
+		holder = 119
+		government = "feudal"
+	}
+}
+
+d_alps = {
+	2660.1.1 = {
+		holder = 0
+		government = "feudal"
+	}
+}
+
+c_bogong = {
+	2660.1.1 = {
+		holder = 119
+		government = "feudal"
+	}
+}
+
+c_benambra = {
+	2660.1.1 = {
+		holder = 131
+		government = "feudal"
+	}
+}
+
+c_jindera = {
+	2660.1.1 = {
+		holder = 100
+		government = "feudal"
+	}
+}
+
+d_snowy_mountains = {
+	2660.1.1 = {
+		holder = 
+		government = "feudal"
+	}
+}
+
+c_wallace = {
+	2660.1.1 = {
+		holder = 132
+		government = "feudal"
+	}
+}
+
+c_beresford = {
+	2660.1.1 = {
+		holder = 132
+		government = "feudal"
+	}
+}
+
+c_buccleuch = {
+	2660.1.1 = {
+		holder = 131
+		government = "feudal"
+	}
+}
+
+c_selwyn = {
+	2660.1.1 = {
+		holder = 131
+		government = "feudal"
+	}
+}
+
+c_wagga_wagga = {
+	2660.1.1 = {
+		holder = 133
+		government = "feudal"
+	}
+}
+
+d_harendon = {
+	2660.1.1 = {
+		holder = 100
+		government = "feudal"
+	}
+}
+
+c_harden = {
+	2660.1.1 = {
+		holder = 100
+		government = "feudal"
+	}
+}
+
+c_clarendon = {
+	2660.1.1 = {
+		holder = 100
+		government = "feudal"
+	}
+}
+

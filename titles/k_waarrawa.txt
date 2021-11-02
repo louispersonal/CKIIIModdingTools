@@ -1,0 +1,161 @@
+k_waarrawa = {
+	2660.1.1 = {
+		holder = 0
+		government = "feudal"
+	}
+}
+
+d_nyodjaanyoorimi = {
+	2660.1.1 = {
+		holder = 47
+		government = "feudal"
+	}
+}
+
+c_naakaarroyi = {
+	2660.1.1 = {
+		holder = 47
+		government = "feudal"
+	}
+}
+
+c_baaron = {
+	2660.1.1 = {
+		holder = 47
+		government = "feudal"
+	}
+}
+
+c_dirne = {
+	2660.1.1 = {
+		holder = 46
+		government = "feudal"
+	}
+}
+
+c_nyert = {
+	2660.1.1 = {
+		holder = 47
+		government = "feudal"
+	}
+}
+
+c_ngoorgogjoodalya = {
+	2660.1.1 = {
+		holder = 46
+		government = "feudal"
+	}
+}
+
+d_yokil = {
+	2660.1.1 = {
+		holder = 29
+		government = "feudal"
+	}
+}
+
+c_wengiw = {
+	2660.1.1 = {
+		holder = 29
+		government = "feudal"
+	}
+}
+
+c_nyootaarro = {
+	2660.1.1 = {
+		holder = 29
+		government = "feudal"
+	}
+}
+
+c_nyowilying = {
+	2660.1.1 = {
+		holder = 29
+		government = "feudal"
+	}
+}
+
+c_waapele = {
+	2660.1.1 = {
+		holder = 29
+		government = "feudal"
+	}
+}
+
+c_mayotje = {
+	2660.1.1 = {
+		holder = 40
+		government = "feudal"
+	}
+}
+
+d_wonganengirne = {
+	2660.1.1 = {
+		holder = 0
+		government = "feudal"
+	}
+}
+
+c_nelyoorraadjiny = {
+	2660.1.1 = {
+		holder = 46
+		government = "feudal"
+	}
+}
+
+c_detatjopaarle = {
+	2660.1.1 = {
+		holder = 48
+		government = "feudal"
+	}
+}
+
+c_dangertano = {
+	2660.1.1 = {
+		holder = 50
+		government = "feudal"
+	}
+}
+
+c_baadjaa = {
+	2660.1.1 = {
+		holder = 48
+		government = "feudal"
+	}
+}
+
+c_kirtonga = {
+	2660.1.1 = {
+		holder = 51
+		government = "feudal"
+	}
+}
+
+d_bewelyalyadje = {
+	2660.1.1 = {
+		holder = 51
+		government = "feudal"
+	}
+}
+
+c_nyertoorlonyaa = {
+	2660.1.1 = {
+		holder = 50
+		government = "feudal"
+	}
+}
+
+c_boonerrertaang = {
+	2660.1.1 = {
+		holder = 51
+		government = "feudal"
+	}
+}
+
+c_nyidarlilap = {
+	2660.1.1 = {
+		holder = 51
+		government = "feudal"
+	}
+}
+

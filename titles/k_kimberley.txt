@@ -1,0 +1,245 @@
+k_kimberley = {
+	2660.1.1 = {
+		holder = 53
+		government = "feudal"
+	}
+}
+
+d_timoria = {
+	2660.1.1 = {
+		holder = 53
+		government = "feudal"
+	}
+}
+
+c_carson_river = {
+	2660.1.1 = {
+		holder = 53
+		government = "feudal"
+	}
+}
+
+c_kalumburu = {
+	2660.1.1 = {
+		holder = 53
+		government = "feudal"
+	}
+}
+
+c_drysdale = {
+	2660.1.1 = {
+		holder = 53
+		government = "feudal"
+	}
+}
+
+c_couchman = {
+	2660.1.1 = {
+		holder = 53
+		government = "feudal"
+	}
+}
+
+c_admiralty = {
+	2660.1.1 = {
+		holder = 54
+		government = "feudal"
+	}
+}
+
+d_prince_regent = {
+	2660.1.1 = {
+		holder = 54
+		government = "feudal"
+	}
+}
+
+c_prince_regent = {
+	2660.1.1 = {
+		holder = 54
+		government = "feudal"
+	}
+}
+
+c_marunbabdi = {
+	2660.1.1 = {
+		holder = 54
+		government = "feudal"
+	}
+}
+
+c_kunmunya = {
+	2660.1.1 = {
+		holder = 54
+		government = "feudal"
+	}
+}
+
+c_pantijan = {
+	2660.1.1 = {
+		holder = 55
+		government = "feudal"
+	}
+}
+
+c_synnot = {
+	2660.1.1 = {
+		holder = 56
+		government = "feudal"
+	}
+}
+
+d_gibb_valley = {
+	2660.1.1 = {
+		holder = 0
+		government = "feudal"
+	}
+}
+
+c_maitland = {
+	2660.1.1 = {
+		holder = 53
+		government = "feudal"
+	}
+}
+
+c_ngallagunda = {
+	2660.1.1 = {
+		holder = 56
+		government = "feudal"
+	}
+}
+
+c_mt_barnett = {
+	2660.1.1 = {
+		holder = 58
+		government = "feudal"
+	}
+}
+
+c_kupungari = {
+	2660.1.1 = {
+		holder = 56
+		government = "feudal"
+	}
+}
+
+c_narrie_range = {
+	2660.1.1 = {
+		holder = 58
+		government = "feudal"
+	}
+}
+
+d_worla = {
+	2660.1.1 = {
+		holder = 59
+		government = "feudal"
+	}
+}
+
+c_doon_doon = {
+	2660.1.1 = {
+		holder = 53
+		government = "feudal"
+	}
+}
+
+c_violet_valley = {
+	2660.1.1 = {
+		holder = 59
+		government = "feudal"
+	}
+}
+
+c_bedford_downs = {
+	2660.1.1 = {
+		holder = 59
+		government = "feudal"
+	}
+}
+
+c_halls_creek = {
+	2660.1.1 = {
+		holder = 59
+		government = "feudal"
+	}
+}
+
+c_purnululu = {
+	2660.1.1 = {
+		holder = 59
+		government = "feudal"
+	}
+}
+
+d_margaret = {
+	2660.1.1 = {
+		holder = 57
+		government = "feudal"
+	}
+}
+
+c_mueller_ranges = {
+	2660.1.1 = {
+		holder = 59
+		government = "feudal"
+	}
+}
+
+c_mimbi_caves = {
+	2660.1.1 = {
+		holder = 59
+		government = "feudal"
+	}
+}
+
+c_fitzroy_crossing = {
+	2660.1.1 = {
+		holder = 57
+		government = "feudal"
+	}
+}
+
+d_leopold_ranges = {
+	2660.1.1 = {
+		holder = 55
+		government = "feudal"
+	}
+}
+
+c_leopold_downs = {
+	2660.1.1 = {
+		holder = 57
+		government = "feudal"
+	}
+}
+
+c_noonkanbah = {
+	2660.1.1 = {
+		holder = 57
+		government = "feudal"
+	}
+}
+
+c_devonian_reef = {
+	2660.1.1 = {
+		holder = 55
+		government = "feudal"
+	}
+}
+
+c_point_torment = {
+	2660.1.1 = {
+		holder = 55
+		government = "feudal"
+	}
+}
+
+c_kimbolton = {
+	2660.1.1 = {
+		holder = 55
+		government = "feudal"
+	}
+}
+

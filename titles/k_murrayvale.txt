@@ -1,0 +1,217 @@
+k_murrayvale = {
+	2660.1.1 = {
+		holder = 100
+		government = "feudal"
+	}
+}
+
+d_loddon = {
+	2660.1.1 = {
+		holder = 0
+		government = "feudal"
+	}
+}
+
+c_karkarooc = {
+	2660.1.1 = {
+		holder = 101
+		government = "feudal"
+	}
+}
+
+c_tatchera = {
+	2660.1.1 = {
+		holder = 100
+		government = "feudal"
+	}
+}
+
+c_gunbower = {
+	2660.1.1 = {
+		holder = 100
+		government = "feudal"
+	}
+}
+
+d_goulburn = {
+	2660.1.1 = {
+		holder = 0
+		government = "feudal"
+	}
+}
+
+c_rodney = {
+	2660.1.1 = {
+		holder = 129
+		government = "feudal"
+	}
+}
+
+c_dalhousie = {
+	2660.1.1 = {
+		holder = 129
+		government = "feudal"
+	}
+}
+
+c_moira = {
+	2660.1.1 = {
+		holder = 100
+		government = "feudal"
+	}
+}
+
+d_hilltops = {
+	2660.1.1 = {
+		holder = 115
+		government = "feudal"
+	}
+}
+
+c_forbes = {
+	2660.1.1 = {
+		holder = 115
+		government = "feudal"
+	}
+}
+
+c_monteagle = {
+	2660.1.1 = {
+		holder = 115
+		government = "feudal"
+	}
+}
+
+c_bland = {
+	2660.1.1 = {
+		holder = 100
+		government = "feudal"
+	}
+}
+
+c_gipps = {
+	2660.1.1 = {
+		holder = 100
+		government = "feudal"
+	}
+}
+
+d_coolamon = {
+	2660.1.1 = {
+		holder = 100
+		government = "feudal"
+	}
+}
+
+c_dowling = {
+	2660.1.1 = {
+		holder = 100
+		government = "feudal"
+	}
+}
+
+c_nicholson = {
+	2660.1.1 = {
+		holder = 100
+		government = "feudal"
+	}
+}
+
+c_sturt = {
+	2660.1.1 = {
+		holder = 100
+		government = "feudal"
+	}
+}
+
+c_boyd = {
+	2660.1.1 = {
+		holder = 100
+		government = "feudal"
+	}
+}
+
+c_cooper = {
+	2660.1.1 = {
+		holder = 100
+		government = "feudal"
+	}
+}
+
+d_the_rock = {
+	2660.1.1 = {
+		holder = 100
+		government = "feudal"
+	}
+}
+
+c_the_rock = {
+	2660.1.1 = {
+		holder = 100
+		government = "feudal"
+	}
+}
+
+c_burke = {
+	2660.1.1 = {
+		holder = 100
+		government = "feudal"
+	}
+}
+
+d_greater_hume = {
+	2660.1.1 = {
+		holder = 100
+		government = "feudal"
+	}
+}
+
+c_hume = {
+	2660.1.1 = {
+		holder = 100
+		government = "feudal"
+	}
+}
+
+c_urana = {
+	2660.1.1 = {
+		holder = 100
+		government = "feudal"
+	}
+}
+
+c_denison = {
+	2660.1.1 = {
+		holder = 100
+		government = "feudal"
+	}
+}
+
+d_wakool = {
+	2660.1.1 = {
+		holder = 100
+		government = "feudal"
+	}
+}
+
+c_townsend = {
+	2660.1.1 = {
+		holder = 100
+		government = "feudal"
+	}
+}
+
+c_cadell = {
+	2660.1.1 = {
+		holder = 100
+		government = "feudal"
+	}
+}
+
+c_wakool = {
+	2660.1.1 = {
+		holder = 100
+		government = "feudal"
+	}
+}
+

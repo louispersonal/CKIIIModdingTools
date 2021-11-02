@@ -1,0 +1,126 @@
+k_eyre = {
+	2660.1.1 = {
+		holder = 0
+		government = "feudal"
+	}
+}
+
+d_eyre_peninsula = {
+	2660.1.1 = {
+		holder = 88
+		government = "feudal"
+	}
+}
+
+c_whyalla = {
+	2660.1.1 = {
+		holder = 88
+		government = "feudal"
+	}
+}
+
+c_cleve = {
+	2660.1.1 = {
+		holder = 88
+		government = "feudal"
+	}
+}
+
+c_tumby_bay = {
+	2660.1.1 = {
+		holder = 88
+		government = "feudal"
+	}
+}
+
+c_port_lincoln = {
+	2660.1.1 = {
+		holder = 88
+		government = "feudal"
+	}
+}
+
+d_gawler = {
+	2660.1.1 = {
+		holder = 90
+		government = "feudal"
+	}
+}
+
+c_elliston = {
+	2660.1.1 = {
+		holder = 90
+		government = "feudal"
+	}
+}
+
+c_streaky_bay = {
+	2660.1.1 = {
+		holder = 90
+		government = "feudal"
+	}
+}
+
+c_wirrulla = {
+	2660.1.1 = {
+		holder = 90
+		government = "feudal"
+	}
+}
+
+c_buckleboo = {
+	2660.1.1 = {
+		holder = 90
+		government = "feudal"
+	}
+}
+
+c_gairdner = {
+	2660.1.1 = {
+		holder = 90
+		government = "feudal"
+	}
+}
+
+d_ceduna = {
+	2660.1.1 = {
+		holder = 92
+		government = "feudal"
+	}
+}
+
+c_ceduna = {
+	2660.1.1 = {
+		holder = 92
+		government = "feudal"
+	}
+}
+
+c_port_le_hunt = {
+	2660.1.1 = {
+		holder = 92
+		government = "feudal"
+	}
+}
+
+c_fowlers_bay = {
+	2660.1.1 = {
+		holder = 92
+		government = "feudal"
+	}
+}
+
+c_tarcoola = {
+	2660.1.1 = {
+		holder = 91
+		government = "feudal"
+	}
+}
+
+c_east_yellabinna = {
+	2660.1.1 = {
+		holder = 91
+		government = "feudal"
+	}
+}
+

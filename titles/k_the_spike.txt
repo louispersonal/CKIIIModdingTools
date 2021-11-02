@@ -1,0 +1,98 @@
+k_the_spike = {
+	2660.1.1 = {
+		holder = 0
+		government = "feudal"
+	}
+}
+
+d_zuytdorp = {
+	2660.1.1 = {
+		holder = 142
+		government = "feudal"
+	}
+}
+
+c_carrarang = {
+	2660.1.1 = {
+		holder = 142
+		government = "feudal"
+	}
+}
+
+c_kalbarri = {
+	2660.1.1 = {
+		holder = 142
+		government = "feudal"
+	}
+}
+
+c_geraldton = {
+	2660.1.1 = {
+		holder = 139
+		government = "feudal"
+	}
+}
+
+d_langustine = {
+	2660.1.1 = {
+		holder = 139
+		government = "feudal"
+	}
+}
+
+c_dongara = {
+	2660.1.1 = {
+		holder = 139
+		government = "feudal"
+	}
+}
+
+c_morawa = {
+	2660.1.1 = {
+		holder = 139
+		government = "feudal"
+	}
+}
+
+c_coorow = {
+	2660.1.1 = {
+		holder = 139
+		government = "feudal"
+	}
+}
+
+c_cadoux = {
+	2660.1.1 = {
+		holder = 139
+		government = "feudal"
+	}
+}
+
+d_swan = {
+	2660.1.1 = {
+		holder = 0
+		government = "feudal"
+	}
+}
+
+c_capamauro = {
+	2660.1.1 = {
+		holder = 139
+		government = "feudal"
+	}
+}
+
+c_cataby = {
+	2660.1.1 = {
+		holder = 139
+		government = "feudal"
+	}
+}
+
+c_moora = {
+	2660.1.1 = {
+		holder = 139
+		government = "feudal"
+	}
+}
+

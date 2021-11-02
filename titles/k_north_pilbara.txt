@@ -1,0 +1,224 @@
+k_north_pilbara = {
+	2660.1.1 = {
+		holder = 0
+		government = "feudal"
+	}
+}
+
+d_nyamal = {
+	2660.1.1 = {
+		holder = 0
+		government = "feudal"
+	}
+}
+
+c_south_beach = {
+	2660.1.1 = {
+		holder = 63
+		government = "feudal"
+	}
+}
+
+c_yarrie_mine = {
+	2660.1.1 = {
+		holder = 65
+		government = "feudal"
+	}
+}
+
+c_port_hedland = {
+	2660.1.1 = {
+		holder = 63
+		government = "feudal"
+	}
+}
+
+c_marble_bar = {
+	2660.1.1 = {
+		holder = 65
+		government = "feudal"
+	}
+}
+
+c_nullagine = {
+	2660.1.1 = {
+		holder = 65
+		government = "feudal"
+	}
+}
+
+d_sandy_gates = {
+	2660.1.1 = {
+		holder = 65
+		government = "feudal"
+	}
+}
+
+c_skull_springs = {
+	2660.1.1 = {
+		holder = 65
+		government = "feudal"
+	}
+}
+
+c_mount_divide = {
+	2660.1.1 = {
+		holder = 65
+		government = "feudal"
+	}
+}
+
+c_roy_hill = {
+	2660.1.1 = {
+		holder = 64
+		government = "feudal"
+	}
+}
+
+c_jigalong = {
+	2660.1.1 = {
+		holder = 64
+		government = "feudal"
+	}
+}
+
+c_bonney_downs = {
+	2660.1.1 = {
+		holder = 64
+		government = "feudal"
+	}
+}
+
+d_ophthalmia = {
+	2660.1.1 = {
+		holder = 64
+		government = "feudal"
+	}
+}
+
+c_yandcoogina = {
+	2660.1.1 = {
+		holder = 64
+		government = "feudal"
+	}
+}
+
+c_newman = {
+	2660.1.1 = {
+		holder = 64
+		government = "feudal"
+	}
+}
+
+c_dingo = {
+	2660.1.1 = {
+		holder = 61
+		government = "feudal"
+	}
+}
+
+c_prairie_downs = {
+	2660.1.1 = {
+		holder = 64
+		government = "feudal"
+	}
+}
+
+c_capricorn = {
+	2660.1.1 = {
+		holder = 63
+		government = "feudal"
+	}
+}
+
+d_hamersley = {
+	2660.1.1 = {
+		holder = 0
+		government = "feudal"
+	}
+}
+
+c_karijini = {
+	2660.1.1 = {
+		holder = 63
+		government = "feudal"
+	}
+}
+
+c_tom_price = {
+	2660.1.1 = {
+		holder = 63
+		government = "feudal"
+	}
+}
+
+c_paraburdoo = {
+	2660.1.1 = {
+		holder = 63
+		government = "feudal"
+	}
+}
+
+c_pannawonica = {
+	2660.1.1 = {
+		holder = 62
+		government = "feudal"
+	}
+}
+
+c_woorocoonda = {
+	2660.1.1 = {
+		holder = 62
+		government = "feudal"
+	}
+}
+
+d_ngarluma = {
+	2660.1.1 = {
+		holder = 63
+		government = "feudal"
+	}
+}
+
+c_sherlock = {
+	2660.1.1 = {
+		holder = 63
+		government = "feudal"
+	}
+}
+
+c_croydon_town = {
+	2660.1.1 = {
+		holder = 63
+		government = "feudal"
+	}
+}
+
+c_mungaroona = {
+	2660.1.1 = {
+		holder = 63
+		government = "feudal"
+	}
+}
+
+c_hooley = {
+	2660.1.1 = {
+		holder = 63
+		government = "feudal"
+	}
+}
+
+c_millstream = {
+	2660.1.1 = {
+		holder = 62
+		government = "feudal"
+	}
+}
+
+c_karratha = {
+	2660.1.1 = {
+		holder = 62
+		government = "feudal"
+	}
+}
+

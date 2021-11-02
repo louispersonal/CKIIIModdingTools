@@ -1,0 +1,98 @@
+k_york = {
+	2660.1.1 = {
+		holder = 0
+		government = "feudal"
+	}
+}
+
+d_yorktip = {
+	2660.1.1 = {
+		holder = 77
+		government = "feudal"
+	}
+}
+
+c_torres_strait = {
+	2660.1.1 = {
+		holder = 77
+		government = "feudal"
+	}
+}
+
+c_shelburne = {
+	2660.1.1 = {
+		holder = 77
+		government = "feudal"
+	}
+}
+
+c_mapoon = {
+	2660.1.1 = {
+		holder = 77
+		government = "feudal"
+	}
+}
+
+d_wik = {
+	2660.1.1 = {
+		holder = 0
+		government = "feudal"
+	}
+}
+
+c_drumduff = {
+	2660.1.1 = {
+		holder = 87
+		government = "feudal"
+	}
+}
+
+c_kowanyama = {
+	2660.1.1 = {
+		holder = 87
+		government = "feudal"
+	}
+}
+
+c_pormpuraaw = {
+	2660.1.1 = {
+		holder = 76
+		government = "feudal"
+	}
+}
+
+d_mungkan_kandju = {
+	2660.1.1 = {
+		holder = 75
+		government = "feudal"
+	}
+}
+
+c_archer_river = {
+	2660.1.1 = {
+		holder = 75
+		government = "feudal"
+	}
+}
+
+c_aurukun = {
+	2660.1.1 = {
+		holder = 76
+		government = "feudal"
+	}
+}
+
+c_lockhart_river = {
+	2660.1.1 = {
+		holder = 75
+		government = "feudal"
+	}
+}
+
+c_weipa = {
+	2660.1.1 = {
+		holder = 76
+		government = "feudal"
+	}
+}
+
